@@ -11,7 +11,7 @@ A variant of a [[pounce]], produced by pressing jump at any point during a [[rol
 This move can be rolled out of only if slugcat falls from high enough. It is possible to reach this height on flat ground by waiting until the last few frames of most rolls.
 
 # Performed from:
-[[roll]]
+[[roll]], [[fastroll]]
 
 # Allows for:
 

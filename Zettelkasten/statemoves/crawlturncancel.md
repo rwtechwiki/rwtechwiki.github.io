@@ -1,14 +1,16 @@
-Status: #statemove
+Status: #move
 
 Tags: 
 
 # crawlturncancel - Crawl-Turn-Cancel
 
 # Description:
-There is a window to begin a crawl-turn-cancel by pressing up during frames 4-5 of a [[crawlturn]]. Slugcat pops a tile into the air and ends up in the standing state.
+There is a window to begin a crawl-turn-cancel by pressing up during frames 1-4 of a [[crawlturn]]. Slugcat pops into the air and ends up in the standing state. Slugcat reaches significantly higher above the ground if the cancel is on frame 1 or 4 of the crawl-turn.
 
 # Notes:
-This move allows slugcat to reach a tile off the ground within a few frames without any jump input. Due to this, a variant of an [[airhop]] can be performed called a [[crawlturnjump]].
+Performed on frames 1 or 4, this move allows slugcat to reach a tile off the ground within a few frames without any jump input. Due to this, a variant of an [[airhop]] can be performed called a [[crawlturnjump]].
+If this move is performed on a ledge such that the crawl-turn flops over the edge, and up and the crawl-turn direction is held, slugcat will accelerate down exponentially until reaching a floor.
+For the frame-1 cancel, if down, jump and the direction slugcat is turning away from are pressed around 4 frames after the quick crawl turn cancel begins, slugcat will shoot up 6-7 tiles into the air due to an animation glitch. This move is called a [[quickcrawlturnjump]].
 
 # Performed from:
 [[crawlturn]]
@@ -17,10 +19,7 @@ This move allows slugcat to reach a tile off the ground within a few frames with
 
 
 # Chains to:
-[[crawlturnjump]]
-
-# Variants:
-[[quickcrawlturncancel]]
+[[crawlturnjump]], [[quickcrawlturnjump]]
 
 ___
 # Gifs
