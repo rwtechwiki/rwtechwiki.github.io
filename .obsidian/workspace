@@ -95,6 +95,7 @@
   },
   "active": "ad1ffd55ce7161b2",
   "lastOpenFiles": [
+    "Templates/storage.md",
     "Zettelkasten/moves/crawlturn.md",
     "Zettelkasten/moves/ledgepullup.md",
     "Zettelkasten/moves/crawlturncancel.md",
@@ -103,7 +104,6 @@
     "Zettelkasten/statemoves/quickcrawlturncancel.md",
     "Zettelkasten/moves/ledgedrop.md",
     "Zettelkasten/variants/rollpounce.md",
-    "Zettelkasten/moves/downthrow.md",
-    "Zettelkasten/moves/eslide.md"
+    "Zettelkasten/moves/downthrow.md"
   ]
 }
