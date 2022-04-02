@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ad1ffd55ce7161b2",
+        "id": "a344f6b852657ffb",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/moves/eslide.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/moves/eslide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,8 +93,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ad1ffd55ce7161b2",
+  "active": "a344f6b852657ffb",
   "lastOpenFiles": [
+    "Zettelkasten/mraytest.md",
     "Zettelkasten/moves/eslide.md",
     "Zettelkasten/states/airhop.md",
     "Zettelkasten/moves/crawlturncancel.md",
@@ -108,7 +104,6 @@
     "Zettelkasten/moves/crawlturn.md",
     "Zettelkasten/moves/ledgepullup.md",
     "Zettelkasten/statemoves/slide.md",
-    "Zettelkasten/statemoves/roll.md",
-    "Zettelkasten/statemoves/quickcrawlturncancel.md"
+    "Zettelkasten/statemoves/roll.md"
   ]
 }
