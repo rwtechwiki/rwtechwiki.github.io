@@ -5,7 +5,7 @@ Tags:
 # eflip - Extended Slide-Flip
 
 # Description:
-A variant of a [[flip]], produced by pressing backwards and jump during frames 27 through 31 (after the throw input) of an [[eslide]]. It is always possible to [[roll]] from this move.
+A variant of a [[flipping]], produced by pressing backwards and jump during frames 27 through 31 (after the throw input) of an [[eslide]]. It is always possible to [[roll]] from this move.
 
 # Notes:
 
@@ -17,7 +17,7 @@ A variant of a [[flip]], produced by pressing backwards and jump during frames 2
 [[downthrow]]
 
 # Chains to:
-[[walk]], [[roll]]
+[[walking]], [[roll]]
 
 ___
 # Gifs

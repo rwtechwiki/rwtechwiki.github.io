@@ -1,8 +1,8 @@
-Status: #statemove
+Status: #state
 
 Tags: 
 
-# {{title}} - name
+# hopping - Hopping
 
 # Description:
 
@@ -10,17 +10,11 @@ Tags:
 # Notes:
 
 
-# Performed from:
-
-
 # Allows for:
 
 
-# Chains to:
-
-
 # Variants:
-
+[[jump]], [[ehop]], [[eihop]], [[eichop]]
 
 ___
 # Gifs

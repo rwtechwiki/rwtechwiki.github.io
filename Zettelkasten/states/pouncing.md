@@ -2,7 +2,7 @@ Status: #state
 
 Tags: 
 
-# pounce - Pounce
+# pouncing - Pouncing
 
 # Description:
 The pounce state (RocketJump in code) sets slugcat at an angle based on its current velocity. It continues on a variable arc, usually set towards the left or right, until contact with the ground.

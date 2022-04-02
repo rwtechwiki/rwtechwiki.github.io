@@ -5,7 +5,7 @@ Tags:
 # iflip - Instant Slide-Flip
 
 # Description:
-This [[flip]] variant is produced by pressing backwards and jump on frame 2 of a [[slide]].
+This [[flipping]] variant is produced by pressing backwards and jump on frame 2 of a [[slide]].
 
 # Notes:
 Due to the slide not fully starting, [[jumpstore]] does not interfere with this move and so can be executed to increase the distance by holding jump for some frames as the move begins.
@@ -17,7 +17,7 @@ Due to the slide not fully starting, [[jumpstore]] does not interfere with this 
 [[downthrow]]
 
 # Chains to:
-[[walk]], [[roll]]
+[[walking]], [[roll]]
 
 ___
 # Gifs

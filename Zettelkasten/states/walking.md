@@ -2,7 +2,7 @@ Status: #state
 
 Tags: 
 
-# fastfall - name
+# walking - Walking
 
 # Description:
 
@@ -11,10 +11,10 @@ Tags:
 
 
 # Allows for:
-
+[[coyotejump]]
 
 # Variants:
-[[crawlturnfastfall]], [[dropfastfall]], [[grapplebugfastfall]]
+
 
 ___
 # Gifs

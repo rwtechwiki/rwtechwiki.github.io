@@ -11,7 +11,7 @@ It is possible to increase fall speed off a ledge by holding down as slugcat rea
 
 
 # Performed from:
-[[walk]]
+[[walking]]
 
 # Allows for:
 [[dropfastfall]]

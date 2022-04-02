@@ -1,11 +1,11 @@
-Status: #statemove
+Status: #move
 
 Tags: 
 
 # slide - Slide
 
 # Description:
-It is possible to slide while [[walk|walking]] by pressing down then jump at roughly the same time. The move can last for roughly 17 frames by holding forward throughout and has several windows throughout its duration to chain to other moves.
+It is possible to slide while [[walking|walking]] by pressing down then jump at roughly the same time. The move can last for roughly 17 frames by holding forward throughout and has several windows throughout its duration to chain to other moves.
 
 # Notes:
 The move can be started the frame walking begins, effectively sliding from standing.
@@ -29,13 +29,13 @@ If a slide crosses over a vertical tunnel entrance, it is possible to convert mo
 Similarly if the slide enters a ground level horizontal tunnel entrance, a well-timed jump will give slugcat 8 [[jumpstore|jumpstorage]].
 
 # Performed from:
-[[walk]], [[roll]], [[ledgedrop]]
+[[walking]], [[roll]], [[ledgedrop]]
 
 # Allows for:
 [[slidethrow]]
 
 # Chains to:
-[[crouch]], [[eslide]], [[iflip]], [[flip]], [[ipounce]], [[pounce]], [[slideparkour]]
+[[crouch]], [[eslide]], [[iflip]], [[flipping]], [[ipounce]], [[pouncing]], [[slideparkour]]
 
 # Variants:
 [[eslide]]

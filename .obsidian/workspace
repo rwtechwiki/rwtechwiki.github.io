@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "67246109c110888c",
+        "id": "6781c0549d56e433",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Templates/state.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/state.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,17 +93,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "67246109c110888c",
+  "active": "6781c0549d56e433",
   "lastOpenFiles": [
-    "Templates/state.md",
-    "Templates/storage.md",
-    "Zettelkasten/moves/eslide.md",
-    "Zettelkasten/states/airhop.md",
-    "Zettelkasten/slideairhop.md",
-    "Zettelkasten/states/walk.md",
-    "Zettelkasten/states/fastfall.md",
-    "Zettelkasten/moves/crawlturncancel.md",
-    "Zettelkasten/moves/ledgedrop.md",
-    "Zettelkasten/states/hop.md"
+    "Zettelkasten/states/airhopping.md",
+    "Zettelkasten/states/fastfalliing.md",
+    "Zettelkasten/states/flipping.md",
+    "Zettelkasten/states/hopping.md",
+    "Zettelkasten/states/pouncing.md",
+    "Zettelkasten/states/rolling.md",
+    "Zettelkasten/states/walking.md",
+    "Zettelkasten/states/sliding.md",
+    "Templates/statemove.md",
+    "Zettelkasten/moves/crawlturn.md"
   ]
 }
