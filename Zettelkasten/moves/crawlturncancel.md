@@ -18,7 +18,7 @@ For the frame-1 cancel, if down, jump and the direction slugcat is turning away 
 [[crawlturn]], [[ledgepullup]]
 
 # Allows for:
-
+[[fastfall]]
 
 # Chains to:
 [[crawlturnjump]], [[quickcrawlturnjump]]
