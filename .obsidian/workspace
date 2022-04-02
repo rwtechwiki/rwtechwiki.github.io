@@ -7,8 +7,12 @@
         "id": "6781c0549d56e433",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/let me in.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zettelkasten/let me in.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,6 +100,7 @@
   },
   "active": "6781c0549d56e433",
   "lastOpenFiles": [
+    "Zettelkasten/let me in.md",
     "Zettelkasten/moves/roll.md",
     "Zettelkasten/states/pouncing.md",
     "Zettelkasten/moves/slide.md",
@@ -103,7 +109,6 @@
     "Zettelkasten/moves/ledgepullup.md",
     "Zettelkasten/states/sliding.md",
     "Zettelkasten/states/walking.md",
-    "Zettelkasten/states/rolling.md",
-    "Zettelkasten/states/hopping.md"
+    "Zettelkasten/states/rolling.md"
   ]
 }
