@@ -35,7 +35,7 @@ Similarly if the slide enters a ground level horizontal tunnel entrance, a well-
 [[slidethrow]]
 
 # Chains to:
-[[crouch]], [[eslide]], [[iflip]], [[flipping]], [[ipounce]], [[pouncing]], [[slideparkour]]
+[[crouch]], [[eslide]], [[iflip]], [[ipounce]], [[pouncing]], [[slideparkour]]
 
 # Variants:
 [[eslide]]

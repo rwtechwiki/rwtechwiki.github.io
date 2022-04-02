@@ -4,23 +4,15 @@
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
         "id": "6781c0549d56e433",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
-=======
-        "id": "c42c7490d51d3643",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/variants/ipounce.md",
+            "file": "Zettelkasten/moves/roll.md",
             "mode": "source",
             "source": false
           }
->>>>>>> e447a0fcc5a0c7352bda25278a6e6b047ddc2f24
         }
       }
     ],
@@ -77,10 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-=======
-                "file": "Zettelkasten/variants/ipounce.md",
->>>>>>> e447a0fcc5a0c7352bda25278a6e6b047ddc2f24
+                "file": "Zettelkasten/moves/roll.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,32 +98,17 @@
     "width": 300,
     "collapsed": true
   },
-<<<<<<< HEAD
   "active": "6781c0549d56e433",
   "lastOpenFiles": [
+    "Zettelkasten/moves/roll.md",
+    "Zettelkasten/states/pouncing.md",
+    "Zettelkasten/moves/slide.md",
+    "Zettelkasten/states/flipping.md",
+    "Zettelkasten/moves/crawlturncancel.md",
     "Zettelkasten/moves/ledgepullup.md",
     "Zettelkasten/states/sliding.md",
     "Zettelkasten/states/walking.md",
     "Zettelkasten/states/rolling.md",
-    "Zettelkasten/states/pouncing.md",
-    "Zettelkasten/states/hopping.md",
-    "Zettelkasten/states/flipping.md",
-    "Zettelkasten/states/fastfalliing.md",
-    "Zettelkasten/states/airhopping.md",
-    "Zettelkasten/moves/slidethrow.md"
-=======
-  "active": "c42c7490d51d3643",
-  "lastOpenFiles": [
-    "Zettelkasten/variants/ipounce.md",
-    "Zettelkasten/variants/iflip.md",
-    "Templates/statemove.md",
-    "Zettelkasten/moves/crawlturn.md",
-    "Zettelkasten/mraytest.md",
-    "Zettelkasten/mraytest.md",
-    "Zettelkasten/moves/eslide.md",
-    "Zettelkasten/states/airhop.md",
-    "Zettelkasten/moves/crawlturncancel.md",
-    "Zettelkasten/moves/ledgedrop.md"
->>>>>>> e447a0fcc5a0c7352bda25278a6e6b047ddc2f24
+    "Zettelkasten/states/hopping.md"
   ]
 }
