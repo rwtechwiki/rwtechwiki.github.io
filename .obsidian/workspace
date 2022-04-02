@@ -7,12 +7,8 @@
         "id": "ad1ffd55ce7161b2",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/moves/crawlturncancel.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/moves/crawlturncancel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +95,15 @@
   },
   "active": "ad1ffd55ce7161b2",
   "lastOpenFiles": [
-    "Zettelkasten/moves/crawlturncancel.md",
     "Zettelkasten/moves/crawlturn.md",
+    "Zettelkasten/moves/ledgepullup.md",
+    "Zettelkasten/moves/crawlturncancel.md",
     "Zettelkasten/statemoves/slide.md",
     "Zettelkasten/statemoves/roll.md",
     "Zettelkasten/statemoves/quickcrawlturncancel.md",
     "Zettelkasten/moves/ledgedrop.md",
     "Zettelkasten/variants/rollpounce.md",
     "Zettelkasten/moves/downthrow.md",
-    "Zettelkasten/moves/eslide.md",
-    "Zettelkasten/moves/slidethrow.md"
+    "Zettelkasten/moves/eslide.md"
   ]
 }

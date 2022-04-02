@@ -17,7 +17,7 @@ By holding towards a ledge as slugcat is up against it, it is possible to
 
 
 # Chains to:
-[[crawlturncancel]], [[quickcrawlturncancel]]
+[[crawlturncancel]]
 
 ___
 # Gifs
