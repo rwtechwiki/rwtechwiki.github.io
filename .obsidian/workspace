@@ -95,15 +95,15 @@
   },
   "active": "6781c0549d56e433",
   "lastOpenFiles": [
-    "Zettelkasten/states/airhopping.md",
-    "Zettelkasten/states/fastfalliing.md",
-    "Zettelkasten/states/flipping.md",
-    "Zettelkasten/states/hopping.md",
-    "Zettelkasten/states/pouncing.md",
-    "Zettelkasten/states/rolling.md",
-    "Zettelkasten/states/walking.md",
+    "Zettelkasten/moves/ledgepullup.md",
     "Zettelkasten/states/sliding.md",
-    "Templates/statemove.md",
-    "Zettelkasten/moves/crawlturn.md"
+    "Zettelkasten/states/walking.md",
+    "Zettelkasten/states/rolling.md",
+    "Zettelkasten/states/pouncing.md",
+    "Zettelkasten/states/hopping.md",
+    "Zettelkasten/states/flipping.md",
+    "Zettelkasten/states/fastfalliing.md",
+    "Zettelkasten/states/airhopping.md",
+    "Zettelkasten/moves/slidethrow.md"
   ]
 }
