@@ -7,8 +7,12 @@
         "id": "c42c7490d51d3643",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/variants/ipounce.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zettelkasten/variants/ipounce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,15 +100,15 @@
   },
   "active": "c42c7490d51d3643",
   "lastOpenFiles": [
+    "Zettelkasten/variants/ipounce.md",
+    "Zettelkasten/variants/iflip.md",
+    "Templates/statemove.md",
+    "Zettelkasten/moves/crawlturn.md",
     "Zettelkasten/mraytest.md",
     "Zettelkasten/mraytest.md",
     "Zettelkasten/moves/eslide.md",
     "Zettelkasten/states/airhop.md",
     "Zettelkasten/moves/crawlturncancel.md",
-    "Zettelkasten/moves/ledgedrop.md",
-    "Templates/storage.md",
-    "Zettelkasten/moves/crawlturn.md",
-    "Zettelkasten/moves/ledgepullup.md",
-    "Zettelkasten/statemoves/slide.md"
+    "Zettelkasten/moves/ledgedrop.md"
   ]
 }
