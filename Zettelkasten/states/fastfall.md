@@ -2,7 +2,7 @@ Status: #state
 
 Tags: 
 
-# hop - Hop
+# fastfall - name
 
 # Description:
 
@@ -14,7 +14,7 @@ Tags:
 
 
 # Variants:
-[[jump]], [[ehop]], [[eihop]], [[eichop]]
+[[crawlturnfastfall]], [[dropfastfall]], [[grapplebugfastfall]]
 
 ___
 # Gifs

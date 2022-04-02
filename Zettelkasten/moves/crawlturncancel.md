@@ -8,7 +8,7 @@ Tags:
 There is a window to begin a crawl-turn-cancel by pressing up during frames 1-4 of a [[crawlturn]]. Slugcat pops into the air and ends up in the standing state. Slugcat reaches significantly higher above the ground if the cancel is on frame 1 or 4 of the crawl-turn.
 
 # Notes:
-Performed on frames 1 or 4, this move allows slugcat to reach a tile off the ground within a few frames without any jump input. Due to this, a variant of an [[airhop]] can be performed called a [[crawlturnjump]].
+Performed on frames 1 or 4, this move allows slugcat to reach a tile off the ground within a few frames without any jump input, allowing for a [[crawlturnjump]].
 
 If this move is performed on a ledge such that the crawl-turn flops over the edge, and up and the crawl-turn direction is held, slugcat will accelerate down exponentially until reaching a floor.
 
@@ -18,7 +18,7 @@ For the frame-1 cancel, if down, jump and the direction slugcat is turning away 
 [[crawlturn]], [[ledgepullup]]
 
 # Allows for:
-[[fastfall]]
+[[crawlturnfastfall]]
 
 # Chains to:
 [[crawlturnjump]], [[quickcrawlturnjump]]

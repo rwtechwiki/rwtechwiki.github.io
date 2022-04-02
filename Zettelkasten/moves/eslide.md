@@ -8,7 +8,7 @@ Tags:
 There is a window to extend a [[slide]] by throwing a weapon item backwards during frames 10 through 15. The extended slide lasts considerably longer, and has a slightly larger window to perform the corresponding [[epounce]] and [[eflip]].
 
 # Notes:
-At the end of an extended slide, slugcat is popped upright out of crouching state. It is possible to use this to perform an [[airhop]].
+At the end of an extended slide, slugcat is popped upright out of crouching state. It is possible to use this to perform an [[eairhop]].
 As the extended slide starts, slugcat has a very high speed, however after a few frames on the ground the speed becomes the same as a regular slide.
 
 There is a window to [[eipounce]] by pressing jump on the same frame as throw (frame 0), and returning directional input to forwards the frame after.
