@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c44e00f201ead520",
+        "id": "c42c7490d51d3643",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/mraytest.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/mraytest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +93,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c44e00f201ead520",
+  "active": "c42c7490d51d3643",
   "lastOpenFiles": [
     "Zettelkasten/mraytest.md",
     "Zettelkasten/mraytest.md",
