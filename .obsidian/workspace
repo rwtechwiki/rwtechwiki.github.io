@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "e73d202549a45474",
+        "id": "c44e00f201ead520",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -93,7 +93,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e73d202549a45474",
+  "active": "c44e00f201ead520",
   "lastOpenFiles": [
     "Zettelkasten/mraytest.md",
     "Zettelkasten/moves/eslide.md",
