@@ -7,12 +7,8 @@
         "id": "6781c0549d56e433",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/moves/roll.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/moves/roll.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,8 +95,8 @@
   },
   "active": "6781c0549d56e433",
   "lastOpenFiles": [
-    "Zettelkasten/moves/roll.md",
     "Zettelkasten/states/pouncing.md",
+    "Zettelkasten/moves/roll.md",
     "Zettelkasten/moves/slide.md",
     "Zettelkasten/states/flipping.md",
     "Zettelkasten/moves/crawlturncancel.md",
