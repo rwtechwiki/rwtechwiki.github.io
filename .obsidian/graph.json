@@ -8,13 +8,18 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
+<<<<<<< HEAD
       "query": "tag:#move",
+=======
+      "query": "tag:#storage",
+>>>>>>> origin/main
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
+<<<<<<< HEAD
       "query": "tag:#state",
       "color": {
         "a": 1,
@@ -26,12 +31,33 @@
       "color": {
         "a": 1,
         "rgb": 11657298
+=======
+      "query": "tag:#variant",
+      "color": {
+        "a": 1,
+        "rgb": 14727762
+      }
+    },
+    {
+      "query": "tag:#move",
+      "color": {
+        "a": 1,
+        "rgb": 6021202
+      }
+    },
+    {
+      "query": "tag:#state",
+      "color": {
+        "a": 1,
+        "rgb": 5399264
+>>>>>>> origin/main
       }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -3,
+<<<<<<< HEAD
   "nodeSizeMultiplier": 1.00842696629213,
   "lineSizeMultiplier": 1.00842696629213,
   "collapse-forces": false,
@@ -41,4 +67,15 @@
   "linkDistance": 250,
   "scale": 0.258838669563252,
   "close": false
+=======
+  "nodeSizeMultiplier": 0.945833333333333,
+  "lineSizeMultiplier": 1.5,
+  "collapse-forces": false,
+  "centerStrength": 0.455056179775281,
+  "repelStrength": 10,
+  "linkStrength": 0.752808988764045,
+  "linkDistance": 252,
+  "scale": 0.6372987299011733,
+  "close": true
+>>>>>>> origin/main
 }
