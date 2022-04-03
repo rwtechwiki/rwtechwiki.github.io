@@ -132,7 +132,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#move",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -161,7 +161,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/eipounce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,8 +189,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f58666d9046c1ff2",
+  "active": "c2043cd844ff2409",
   "lastOpenFiles": [
+    "Zettelkasten/eslide.md",
     "Zettelkasten/eipounce.md",
     "Zettelkasten/ledgepullup.md",
     "Zettelkasten/crawlturncancel.md",
@@ -200,7 +200,6 @@
     "Zettelkasten/pouncing.md",
     "Zettelkasten/slide.md",
     "Zettelkasten/walk.md",
-    "Templates/state.md",
-    "Zettelkasten/rolling.md"
+    "Templates/state.md"
   ]
 }
