@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten/moves/slidethrow.md",
+            "file": "Zettelkasten/let me in 2.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/moves/slidethrow.md",
+                "file": "Zettelkasten/let me in 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +100,8 @@
   },
   "active": "6781c0549d56e433",
   "lastOpenFiles": [
+    "Zettelkasten/let me in 2.md",
+    "Zettelkasten/let me in.md",
     "Zettelkasten/moves/slidethrow.md",
     "Zettelkasten/moves/slideparkour.md",
     "Zettelkasten/moves/slide.md",
@@ -107,8 +109,6 @@
     "Zettelkasten/moves/ledgepullup.md",
     "Zettelkasten/moves/ledgedrop.md",
     "Zettelkasten/moves/eslide.md",
-    "Zettelkasten/moves/downthrow.md",
-    "Zettelkasten/moves/crawlturncancel.md",
-    "Zettelkasten/moves/crawlturn.md"
+    "Zettelkasten/moves/downthrow.md"
   ]
 }
