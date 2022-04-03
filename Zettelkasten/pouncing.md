@@ -10,9 +10,6 @@ The pounce state (RocketJump in code) sets slugcat at an angle based on its curr
 # Notes:
 It is not possible to press up or down to set slugcats orientation midair in the pounce state. Due to this, slugcat will always land into the crouching state.
 
-# Allows for:
-
-
 # Variants:
 [[rollpounce]], [[slidepounce]], [[ipounce]], [[epounce]], [[eipounce]]
 

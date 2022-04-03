@@ -10,9 +10,6 @@ When slugcat becomes airborn without use of the jump button, there is a 5-frame 
 # Notes:
 
 
-# Allows for:
-
-
 # Variants:
 [[crawlturnjump]], [[polemomentumjump]], [[coyotejump]], [[eairhop]]
 

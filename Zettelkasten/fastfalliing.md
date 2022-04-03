@@ -10,9 +10,6 @@ Tags:
 # Notes:
 
 
-# Allows for:
-
-
 # Variants:
 [[crawlturnfastfall]], [[dropfastfall]]
 

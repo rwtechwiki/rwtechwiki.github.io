@@ -17,7 +17,7 @@ Tags:
 
 
 # Chains to:
-
+[[jump]], [[slide]], [[coyotejump]]
 
 ___
 # Gifs
