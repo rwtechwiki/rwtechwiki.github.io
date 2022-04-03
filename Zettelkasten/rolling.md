@@ -3,7 +3,6 @@ Status: #state
 Tags: 
 
 # rolling - Rolling
-
 # Description:
 It is possible to roll under certain conditions by holding down and forward. For a variable number of frames (40-60), slugcat will travel along the ground while spinning.
 

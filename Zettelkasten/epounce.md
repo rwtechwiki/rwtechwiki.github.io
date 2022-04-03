@@ -3,7 +3,7 @@ Status: #variant
 Tags: 
 
 # epounce - Extended Slide-Pounce
-
+![[epounce_header.gif]]
 # Description:
 A variant of a [[pouncing]], produced by pressing jump during frames 27 through 31 (after the throw input) of an [[eslide]]. It is always possible to [[roll]] from this move.
 

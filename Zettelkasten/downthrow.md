@@ -3,7 +3,7 @@ Status: #move
 Tags: 
 
 # downthrow - Down-Throw
-
+![[downthrow_header.gif]]
 # Description:
 It is possible to throw an item downwards out of the flip state, by holding only the down input direction and pressing throw.
 

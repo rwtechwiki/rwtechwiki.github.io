@@ -3,7 +3,7 @@ Status: #move
 Tags: 
 
 # walk - Walk
-
+![[walk_header.gif]]
 # Description:
 
 

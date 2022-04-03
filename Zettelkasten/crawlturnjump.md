@@ -1,9 +1,9 @@
-Status: #variant
+Status: #move
 
 Tags: 
 
-# {{title}} - name
-![[{{title}}_header.gif]]
+# crawlturnjump - Crawl-Turn-Jump
+![[crawlturnjump_header.gif]]
 # Description:
 
 

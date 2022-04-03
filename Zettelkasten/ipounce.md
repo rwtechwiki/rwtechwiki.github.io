@@ -3,7 +3,7 @@ Status: #variant
 Tags: 
 
 # ipounce - Instant Slide-Pounce
-
+![[ipounce_header.gif]]
 # Description:
 This [[pouncing]] variant is produced by pressing jump on frame 2 of a [[slide]]. It has a higher arc than a regular [[slidepounce]] as the slide does not have time to deccelerate slugcat horizontally beforehand.
 

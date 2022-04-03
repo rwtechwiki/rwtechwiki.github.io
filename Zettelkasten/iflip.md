@@ -3,7 +3,7 @@ Status: #variant
 Tags: 
 
 # iflip - Instant Slide-Flip
-
+![[iflip_header.gif]]
 # Description:
 This [[flipping]] variant is produced by pressing backwards and jump on frame 2 of a [[slide]].
 
