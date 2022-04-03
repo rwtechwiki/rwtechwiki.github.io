@@ -89,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c2043cd844ff2409",
+  "active": "cf962ca2080029b9",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Zettelkasten/walk.md",
