@@ -95,15 +95,15 @@
   },
   "active": "6781c0549d56e433",
   "lastOpenFiles": [
+    "Zettelkasten/moves/slide.md",
+    "Zettelkasten/moves/crawlturncancel.md",
+    "Zettelkasten/moves/crawlturn.md",
     "Zettelkasten/states/pouncing.md",
     "Zettelkasten/moves/roll.md",
-    "Zettelkasten/moves/slide.md",
     "Zettelkasten/states/flipping.md",
-    "Zettelkasten/moves/crawlturncancel.md",
     "Zettelkasten/moves/ledgepullup.md",
     "Zettelkasten/states/sliding.md",
     "Zettelkasten/states/walking.md",
-    "Zettelkasten/states/rolling.md",
-    "Zettelkasten/states/hopping.md"
+    "Zettelkasten/states/rolling.md"
   ]
 }
