@@ -11,7 +11,7 @@ This [[pouncing]] variant is produced by pressing jump on frame 2 of an [[eslide
 
 
 # Performed from:
-[[slide]]
+[[eslide]]
 
 # Allows for:
 
