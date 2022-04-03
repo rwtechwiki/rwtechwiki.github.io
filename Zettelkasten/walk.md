@@ -2,7 +2,7 @@ Status: #move
 
 Tags: 
 
-# walking - name
+# walk - Walk
 
 # Description:
 

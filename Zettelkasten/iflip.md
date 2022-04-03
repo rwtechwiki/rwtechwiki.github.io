@@ -17,7 +17,7 @@ Due to the slide not fully starting, [[jumpstore]] does not interfere with this 
 [[downthrow]]
 
 # Chains to:
-[[walking]], [[roll]]
+[[walk]], [[roll]]
 
 ___
 # Gifs

@@ -5,7 +5,7 @@ Tags:
 # sliding - Sliding
 
 # Description:
-It is possible to slide while [[walking|walking]] by pressing down then jump at roughly the same time. The move can last for roughly 17 frames by holding forward throughout and has several windows throughout its duration to chain to other moves.
+It is possible to slide while [[walk|walking]] by pressing down then jump at roughly the same time. The move can last for roughly 17 frames by holding forward throughout and has several windows throughout its duration to chain to other moves.
 
 # Notes:
 It is possible to perform a [[slideparkour]] by pressing jump as the slide comes into contact with a wall.

@@ -17,7 +17,7 @@ A variant of a [[flipping]], produced by pressing backwards and jump during fram
 [[downthrow]]
 
 # Chains to:
-[[walking]], [[roll]]
+[[walk]], [[roll]]
 
 ___
 # Gifs
