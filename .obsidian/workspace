@@ -4,11 +4,87 @@
     "type": "split",
     "children": [
       {
-        "id": "6781c0549d56e433",
+        "id": "c2043cd844ff2409",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/eflip.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "711e2cf99a4f6015",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/slide.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "c6e67e8dda1edd4c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/sliding.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "507b1b4e5e334f6e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/ledgedrop.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "c734de059800c70f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/iflip.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "3767e139caff1e84",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/eflip.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "d3f951ccd54a29c7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/variants/slideflip.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zettelkasten/eflip.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,17 +170,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6781c0549d56e433",
+  "active": "c2043cd844ff2409",
   "lastOpenFiles": [
-    "Zettelkasten/states/rolling.md",
-    "Zettelkasten/states/sliding.md",
-    "Zettelkasten/states/fastfalliing.md",
-    "Zettelkasten/moves/slide.md",
-    "Zettelkasten/moves/crawlturncancel.md",
-    "Zettelkasten/moves/crawlturn.md",
-    "Zettelkasten/states/pouncing.md",
-    "Zettelkasten/moves/roll.md",
-    "Zettelkasten/states/flipping.md",
-    "Zettelkasten/moves/ledgepullup.md"
+    "Zettelkasten/eflip.md",
+    "Zettelkasten/walking.md",
+    "Zettelkasten/eslide.md",
+    "Zettelkasten/slide.md",
+    "Zettelkasten/sliding.md",
+    "Zettelkasten/ledgedrop.md",
+    "Zettelkasten/iflip.md",
+    "Zettelkasten/variants/slideflip.md",
+    "Zettelkasten/states/walking.md",
+    "Zettelkasten/flipping.md"
   ]
 }

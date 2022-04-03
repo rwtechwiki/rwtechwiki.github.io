@@ -1,8 +1,8 @@
-Status: #state
+Status: #move
 
 Tags: 
 
-# walking - Walking
+# walking - name
 
 # Description:
 
@@ -10,10 +10,13 @@ Tags:
 # Notes:
 
 
-# Allows for:
-[[coyotejump]]
+# Performed from:
 
-# Variants:
+
+# Allows for:
+
+
+# Chains to:
 
 
 ___
