@@ -3,7 +3,6 @@ Status: #state
 Tags: 
 
 # hopping - Hopping
-
 # Description:
 
 
@@ -11,7 +10,7 @@ Tags:
 
 
 # Variants:
-[[jump]], [[ehop]], [[eihop]], [[eichop]]
+[[jump]], [[ehop]], [[eichop]]
 
 ___
 # Gifs

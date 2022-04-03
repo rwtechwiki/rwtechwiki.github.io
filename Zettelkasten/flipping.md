@@ -3,7 +3,6 @@ Status: #state
 Tags: 
 
 # flipping - Flipping
-
 # Description:
 The flip state (Flip in code) sets slugcat spinning in the air. It continues on a variable arc, usually set towards the left or right, until contact with the ground.
 

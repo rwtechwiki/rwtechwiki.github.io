@@ -3,7 +3,6 @@ Status: #state
 Tags: 
 
 # {{title}} - name
-
 # Description:
 
 

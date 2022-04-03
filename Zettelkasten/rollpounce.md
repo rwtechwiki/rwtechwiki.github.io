@@ -3,7 +3,7 @@ Status: #variant
 Tags: 
 
 # rollpounce - Roll-Pounce
-
+![[rollpounce_header.gif]]
 # Description:
 A variant of a [[pouncing]], produced by pressing jump at any point during a [[roll]]. The height of the roll-pounce depends on how many frames slugcat has rolled for before the jump input.
 
@@ -17,7 +17,7 @@ This move can be rolled out of only if slugcat falls from high enough. It is pos
 
 
 # Chains to:
-[[crouch]], [[roll]]
+[[crouch]]
 
 ___
 # Gifs
