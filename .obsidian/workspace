@@ -17,7 +17,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "conflict-files-obsidian-git.md",
+            "file": "Zettelkasten/let me in.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Zettelkasten/let me in.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +120,7 @@
   },
   "active": "cf962ca2080029b9",
   "lastOpenFiles": [
+    "Zettelkasten/let me in.md",
     "conflict-files-obsidian-git.md",
     "Zettelkasten/walk.md",
     "Templates/variant.md",
@@ -128,7 +129,6 @@
     "Templates/move.md",
     "Zettelkasten/sliding.md",
     "Zettelkasten/rolling.md",
-    "Zettelkasten/pouncing.md",
-    "Zettelkasten/hopping.md"
+    "Zettelkasten/pouncing.md"
   ]
 }
