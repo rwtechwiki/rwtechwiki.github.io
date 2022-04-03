@@ -14,7 +14,7 @@ Tags:
 
 
 # Variants:
-[[crawlturnfastfall]], [[dropfastfall]], [[grapplebugfastfall]]
+[[crawlturnfastfall]], [[dropfastfall]]
 
 ___
 # Gifs

@@ -7,8 +7,12 @@
         "id": "6781c0549d56e433",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/states/fastfalliing.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zettelkasten/states/fastfalliing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,6 +100,7 @@
   },
   "active": "6781c0549d56e433",
   "lastOpenFiles": [
+    "Zettelkasten/states/fastfalliing.md",
     "Zettelkasten/moves/slide.md",
     "Zettelkasten/moves/crawlturncancel.md",
     "Zettelkasten/moves/crawlturn.md",
@@ -103,7 +109,6 @@
     "Zettelkasten/states/flipping.md",
     "Zettelkasten/moves/ledgepullup.md",
     "Zettelkasten/states/sliding.md",
-    "Zettelkasten/states/walking.md",
-    "Zettelkasten/states/rolling.md"
+    "Zettelkasten/states/walking.md"
   ]
 }
