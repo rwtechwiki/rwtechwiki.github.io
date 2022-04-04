@@ -11,7 +11,7 @@ Tags: #variant
 
 
 # Performed from:
-
+[[stand]], [[walk]]
 
 # Allows for:
 

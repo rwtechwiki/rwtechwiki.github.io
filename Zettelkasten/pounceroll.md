@@ -1,6 +1,6 @@
 Status: #stub 
 
-Tags: #move
+Tags: #initiator
 
 # pounceroll - name
 ![[pounceroll_header.gif]]
