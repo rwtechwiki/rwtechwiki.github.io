@@ -1,4 +1,4 @@
-Status: stub
+Status: #stub
 
 Tags: #move
 

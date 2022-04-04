@@ -29,7 +29,7 @@ If a slide crosses over a vertical tunnel entrance, it is possible to convert mo
 Similarly if the slide enters a ground level horizontal tunnel entrance, a well-timed jump will give slugcat 8 jumpstorage.
 
 # Performed from:
-[[walk]], [[roll]], [[ledgedrop]]
+[[walk]], [[rollslide]], [[ledgedrop]]
 
 # Allows for:
 [[slidethrow]]

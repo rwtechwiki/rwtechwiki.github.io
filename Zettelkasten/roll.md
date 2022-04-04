@@ -17,7 +17,7 @@ The number of frames the roll lasts for depends on which method was used to begi
 [[rollpickup]]
 
 # Chains to:
-[[slide]], [[rollpounce]]
+[[rollslide]], [[rollpounce]]
 
 # Variants:
 [[fastroll]]

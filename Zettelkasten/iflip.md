@@ -17,7 +17,7 @@ Due to the slide not fully starting, jumpstorage does not interfere with this mo
 [[downthrow]]
 
 # Chains to:
-[[walk]], [[fliproll]]
+[[stand]], [[fliproll]]
 
 ___
 # Gifs
