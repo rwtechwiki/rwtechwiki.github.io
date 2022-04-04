@@ -1,6 +1,6 @@
-Status: #state
+Status: #stub
 
-Tags: 
+Tags: #state
 
 # airhopping - Air-Hopping
 # Description:

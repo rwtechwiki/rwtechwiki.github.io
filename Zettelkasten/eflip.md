@@ -1,11 +1,11 @@
-Status: #variant
+Status: #partdone 
 
-Tags: 
+Tags: #variant
 
 # eflip - Extended Slide-Flip
 ![[eflip_header.gif]]
 # Description:
-A variant of a [[flipping]], produced by pressing backwards and jump during frames 27 through 31 (after the throw input) of an [[eslide]]. It is always possible to [[roll]] from this move.
+A variant of a [[flipping]], produced by pressing backwards and jump during frames 27 through 31 (after the throw input) of an [[eslide]]. It is always possible to [[fliproll]] from this move.
 
 # Notes:
 
@@ -17,7 +17,7 @@ A variant of a [[flipping]], produced by pressing backwards and jump during fram
 [[downthrow]]
 
 # Chains to:
-[[walk]], [[roll]]
+[[walk]], [[fliproll]]
 
 ___
 # Gifs

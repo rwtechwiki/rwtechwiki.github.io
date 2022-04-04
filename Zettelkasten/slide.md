@@ -1,6 +1,6 @@
-Status: #move
+Status: #partdone 
 
-Tags: 
+Tags: #variant
 
 # slide - Slide
 ![[slide_header.gif]]
@@ -22,11 +22,11 @@ There is a window to [[slidethrow]] by throwing an item forwards mid-slide.
 
 It is possible to perform a [[slideparkour]] by pressing jump as the slide comes into contact with a wall.
 
-After the first 2-3 frames of the slide, slugcat will be temporarily airborne, such that any [[jumpstore|jumpstorage]] will be lost if the jump key is released or the move will fail due to burning the jump storage if the key is held.
+After the first 2-3 frames of the slide, slugcat will be temporarily airborne, such that any jumpstorage will be lost if the jump key is released or the move will fail due to burning the jump storage if the key is held.
 
-If a slide crosses over a vertical tunnel entrance, it is possible to convert momentum downwards into the tunnel by tapping down. With correct timing, a jump upon entering the tunnel will give slugcat either 6.5 or 8 [[jumpstore|jumpstorage]].
+If a slide crosses over a vertical tunnel entrance, it is possible to convert momentum downwards into the tunnel by tapping down. With correct timing, a jump upon entering the tunnel will give slugcat either 6.5 or 8 jumpstorage.
 
-Similarly if the slide enters a ground level horizontal tunnel entrance, a well-timed jump will give slugcat 8 [[jumpstore|jumpstorage]].
+Similarly if the slide enters a ground level horizontal tunnel entrance, a well-timed jump will give slugcat 8 jumpstorage.
 
 # Performed from:
 [[walk]], [[roll]], [[ledgedrop]]

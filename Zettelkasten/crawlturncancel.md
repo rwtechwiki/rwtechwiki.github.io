@@ -1,6 +1,6 @@
-Status: #move
+Status: #partdone
 
-Tags: 
+Tags: #move
 
 # crawlturncancel - Crawl-Turn-Cancel
 ![[crawlturncancel_header.gif]]

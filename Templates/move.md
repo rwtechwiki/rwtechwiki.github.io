@@ -1,6 +1,6 @@
-Status: #move
+Status: #stub
 
-Tags: 
+Tags: #move
 
 # {{title}} - name
 ![[{{title}}_header.gif]]

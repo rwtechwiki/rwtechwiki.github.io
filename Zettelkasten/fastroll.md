@@ -1,6 +1,6 @@
-Status: #variant
+Status: #partdone 
 
-Tags: 
+Tags: #variant
 
 # fastroll - Fast-Roll
 ![[fastroll_header.gif]]

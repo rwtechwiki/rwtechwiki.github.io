@@ -1,6 +1,6 @@
-Status: #variant
+Status: #stub
 
-Tags: 
+Tags: #variant
 
 # {{title}} - name
 ![[{{title}}_header.gif]]

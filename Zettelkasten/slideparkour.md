@@ -1,6 +1,6 @@
-Status: #move
+Status: #partdone 
 
-Tags: 
+Tags: #move
 
 # slideparkour - Slide-Parkour
 ![[slideparkour_header.gif]]

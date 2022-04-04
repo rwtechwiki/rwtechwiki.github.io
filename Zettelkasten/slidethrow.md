@@ -1,6 +1,6 @@
-Status: #move
+Status: #partdone 
 
-Tags: 
+Tags: #move
 
 # slidethrow - Slide-Throw
 ![[slidethrow_header.gif]]

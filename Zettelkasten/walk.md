@@ -1,6 +1,6 @@
-Status: #move
+Status: #stub 
 
-Tags: 
+Tags: #move
 
 # walk - Walk
 ![[walk_header.gif]]

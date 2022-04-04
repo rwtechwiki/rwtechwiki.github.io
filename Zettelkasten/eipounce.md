@@ -1,6 +1,6 @@
-Status: #variant
+Status: #partdone 
 
-Tags: 
+Tags: #variant
 
 # eipounce - Extended Instant Slide-Pounce
 ![[eipounce_header.gif]]
@@ -17,7 +17,7 @@ This move can only be performed if the extended slide begins on frame 14 or 15 o
 
 
 # Chains to:
-[[crouch]], [[roll]]
+[[crouch]], [[pounceroll]]
 
 ___
 # Gifs
