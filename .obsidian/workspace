@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c2043cd844ff2409",
+        "id": "f4f70fccd126c5cd",
         "type": "leaf",
         "state": {
           "type": "graph",
           "state": {}
-        }
-      },
-      {
-        "id": "cf962ca2080029b9",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/let me in.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "0d33c152bcab39b1",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettelkasten/walk.md",
-            "mode": "source",
-            "source": false
-          }
         }
       }
     ],
@@ -89,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/let me in.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,17 +93,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cf962ca2080029b9",
+  "active": "f4f70fccd126c5cd",
   "lastOpenFiles": [
-    "Zettelkasten/let me in.md",
-    "conflict-files-obsidian-git.md",
-    "Zettelkasten/walk.md",
-    "Templates/variant.md",
-    "Templates/storage.md",
-    "Templates/state.md",
-    "Templates/move.md",
-    "Zettelkasten/sliding.md",
-    "Zettelkasten/rolling.md",
-    "Zettelkasten/pouncing.md"
+    "Zettelkasten/rollslide.md",
+    "Zettelkasten/pounceroll.md",
+    "Zettelkasten/roll.md",
+    "Zettelkasten/crawlturn.md",
+    "Zettelkasten/droproll.md",
+    "Zettelkasten/jumptumble.md",
+    "Zettelkasten/crouchtumble.md",
+    "Zettelkasten/crawlturnroll.md",
+    "Zettelkasten/fliproll.md",
+    "Templates/initiator.md"
   ]
 }

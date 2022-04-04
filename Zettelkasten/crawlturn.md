@@ -20,7 +20,7 @@ Slugcat becomes temporarily airborne during a crawl-turn, which drains any exist
 
 
 # Chains to:
-[[crawlturncancel]], [[roll]]
+[[crawlturncancel]], [[crawlturnroll]]
 
 ___
 # Gifs

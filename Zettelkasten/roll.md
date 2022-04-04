@@ -11,7 +11,7 @@ It is possible to roll under certain conditions by holding down and forward. For
 The number of frames the roll lasts for depends on which method was used to begin the roll.
 
 # Performed from:
-[[droproll]], [[crawlturn]], [[crouchtumble]], [[jumptumble]], [[pounceroll]], [[fliproll]]
+[[droproll]], [[crawlturnroll]], [[crouchtumble]], [[jumptumble]], [[pounceroll]], [[fliproll]]
 
 # Allows for:
 [[rollpickup]]

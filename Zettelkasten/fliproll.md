@@ -1,6 +1,6 @@
 Status: #stub 
 
-Tags: #move
+Tags: #initiator
 
 # fliproll - name
 ![[fliproll_header.gif]]

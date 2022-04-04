@@ -2,8 +2,8 @@ Status: #stub
 
 Tags: #initiator
 
-# crouchtumble - name
-![[crouchtumble_header.gif]]
+# {{title}} - name
+![[{{title}}_header.gif]]
 # Description:
 
 

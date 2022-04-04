@@ -3,79 +3,49 @@
   "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-<<<<<<< HEAD
       "query": "tag:#move",
-=======
-      "query": "tag:#storage",
->>>>>>> origin/main
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-<<<<<<< HEAD
-      "query": "tag:#state",
+      "query": "tag:#variant",
       "color": {
         "a": 1,
         "rgb": 14725458
       }
     },
     {
-      "query": "tag:#variant",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-=======
-      "query": "tag:#variant",
-      "color": {
-        "a": 1,
-        "rgb": 14727762
-      }
-    },
-    {
-      "query": "tag:#move",
-      "color": {
-        "a": 1,
-        "rgb": 6021202
-      }
-    },
-    {
       "query": "tag:#state",
       "color": {
         "a": 1,
-        "rgb": 5399264
->>>>>>> origin/main
+        "rgb": 5408992
+      }
+    },
+    {
+      "query": "tag:#initiator",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
       }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -3,
-<<<<<<< HEAD
-  "nodeSizeMultiplier": 1.00842696629213,
-  "lineSizeMultiplier": 1.00842696629213,
+  "nodeSizeMultiplier": 1.27264957264957,
+  "lineSizeMultiplier": 4.16239316239316,
   "collapse-forces": false,
-  "centerStrength": 0,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.258838669563252,
-  "close": false
-=======
-  "nodeSizeMultiplier": 0.945833333333333,
-  "lineSizeMultiplier": 1.5,
-  "collapse-forces": false,
-  "centerStrength": 0.455056179775281,
-  "repelStrength": 10,
-  "linkStrength": 0.752808988764045,
-  "linkDistance": 252,
-  "scale": 0.6372987299011733,
+  "centerStrength": 0.325842696629214,
+  "repelStrength": 9.91452991452991,
+  "linkStrength": 0.601123595505618,
+  "linkDistance": 30,
+  "scale": 0.4505080479944968,
   "close": true
->>>>>>> origin/main
 }

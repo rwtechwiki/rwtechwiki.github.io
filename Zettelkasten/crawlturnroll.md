@@ -1,6 +1,6 @@
 Status: #stub
 
-Tags: #move
+Tags: #initiator
 
 # crawlturnroll - Crawl-Turn-Roll
 ![[crawlturnroll_header.gif]]
@@ -11,13 +11,13 @@ buffer from flipping twice vs buffer from going into crouch
 
 
 # Performed from:
-
+[[crawlturn]]
 
 # Allows for:
 
 
 # Chains to:
-
+[[roll]]
 
 ___
 # Gifs
