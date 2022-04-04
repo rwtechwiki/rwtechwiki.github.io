@@ -17,7 +17,7 @@ A variant of a [[flipping]] with a fixed arc, produced by pressing backwards and
 [[downthrow]]
 
 # Chains to:
-[[walk]], [[fliproll]]
+[[stand]], [[fliproll]]
 
 ___
 # Gifs

@@ -1,9 +1,9 @@
-Status: #stub 
+Status: #stub
 
 Tags: #move
 
-# walk - Walk
-![[walk_header.gif]]
+# rollslide - name
+![[rollslide_header.gif]]
 # Description:
 
 
@@ -11,13 +11,13 @@ Tags: #move
 
 
 # Performed from:
-[[stand]]
+[[roll]]
 
 # Allows for:
 
 
 # Chains to:
-[[jump]], [[slide]], [[coyotejump]]
+[[slide]]
 
 ___
 # Gifs
