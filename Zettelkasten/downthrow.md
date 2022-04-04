@@ -1,6 +1,6 @@
-Status: #move
+Status: #partdone
 
-Tags: 
+Tags: #move
 
 # downthrow - Down-Throw
 ![[downthrow_header.gif]]

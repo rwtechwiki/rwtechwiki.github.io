@@ -1,11 +1,11 @@
-Status: #move
+Status: #partdone 
 
-Tags: 
+Tags: #move
 
 # ledgedrop - Ledge-Drop
 ![[ledgedrop_header.gif]]
 # Description:
-It is possible to increase fall speed off a ledge by holding down as slugcat reaches the edge. With good timing, this can allow for a [[roll]] from a 1-tile drop. It is possible to extend the drop-fast-fall window by stalling for a couple of frames with a backward input.
+It is possible to increase fall speed off a ledge by holding down as slugcat reaches the edge. With good timing, this can allow for a [[droproll]] from a 1-tile drop. It is possible to extend the drop-fast-fall window by stalling for a couple of frames with a backward input.
 
 # Notes:
 
@@ -17,7 +17,7 @@ It is possible to increase fall speed off a ledge by holding down as slugcat rea
 [[dropfastfall]]
 
 # Chains to:
-[[roll]]
+[[droproll]]
 
 ___
 # Gifs

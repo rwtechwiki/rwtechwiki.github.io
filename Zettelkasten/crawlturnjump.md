@@ -1,6 +1,6 @@
-Status: #move
+Status: #stub
 
-Tags: 
+Tags: #variant
 
 # crawlturnjump - Crawl-Turn-Jump
 ![[crawlturnjump_header.gif]]

@@ -1,11 +1,11 @@
-Status: #variant
+Status: #partdone 
 
-Tags: 
+Tags: #variant
 
 # slideflip - Slide-Flip
 ![[slideflip_header.gif]]
 # Description:
-A variant of a [[flipping]] with a fixed arc, produced by pressing backwards and jump during frames 14 through 16 of a [[slide]]. It is always possible to [[roll]] from this move.
+A variant of a [[flipping]] with a fixed arc, produced by pressing backwards and jump during frames 14 through 16 of a [[slide]]. It is always possible to [[fliproll]] from this move.
 
 # Notes:
 
@@ -17,7 +17,7 @@ A variant of a [[flipping]] with a fixed arc, produced by pressing backwards and
 [[downthrow]]
 
 # Chains to:
-[[walk]], [[roll]]
+[[walk]], [[fliproll]]
 
 ___
 # Gifs

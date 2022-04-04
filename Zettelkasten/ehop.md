@@ -1,6 +1,6 @@
-Status: #move
+Status: #partdone 
 
-Tags: 
+Tags: #variant 
 
 # ehop - Extended Slide-Hop
 ![[ehop_header.gif]]

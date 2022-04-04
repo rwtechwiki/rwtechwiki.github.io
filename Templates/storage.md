@@ -1,6 +1,6 @@
-Status: #storage
+Status: #stub
 
-Tags: 
+Tags: #storage
 
 # {{title}} - name
 # Description:

@@ -1,6 +1,6 @@
-Status: #state
+Status: #stub
 
-Tags: 
+Tags: #state
 
 # {{title}} - name
 # Description:

@@ -1,6 +1,6 @@
-Status: #state
+Status: #partdone 
 
-Tags: 
+Tags: #state
 
 # flipping - Flipping
 # Description:
