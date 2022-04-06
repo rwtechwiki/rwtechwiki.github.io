@@ -1,6 +1,6 @@
 Status: #partdone 
 
-Tags: #variant
+Tags: #variant, [[pouncing]]
 
 # ipounce - Instant Slide-Pounce
 ![[ipounce_header.gif]]

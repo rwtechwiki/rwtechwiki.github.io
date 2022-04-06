@@ -17,7 +17,7 @@ This move conserves turn-storage, unlike other methods to gain momentum up a wal
 
 
 # Chains to:
-[[ledgepullup]]
+[[wallslide]]
 
 ___
 # Gifs

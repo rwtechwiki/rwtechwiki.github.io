@@ -1,6 +1,6 @@
 Status: #partdone 
 
-Tags: #variant
+Tags: #variant, [[pouncing]]
 
 # rollpounce - Roll-Pounce
 ![[rollpounce_header.gif]]

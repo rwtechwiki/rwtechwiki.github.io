@@ -1,6 +1,6 @@
 Status: #stub
 
-Tags: #variant
+Tags: #variant, [[airhopping]], [[hopping]]
 
 # coyotejump - name
 ![[coyotejump_header.gif]]

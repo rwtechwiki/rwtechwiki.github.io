@@ -1,6 +1,6 @@
 Status: #partdone 
 
-Tags: #variant
+Tags: #move
 
 # slide - Slide
 ![[slide_header.gif]]
@@ -36,9 +36,6 @@ Similarly if the slide enters a ground level horizontal tunnel entrance, a well-
 
 # Chains to:
 [[crouch]], [[eslide]], [[iflip]], [[ipounce]], [[slidepounce]], [[slideflip]], [[slideparkour]]
-
-# Variants:
-[[eslide]]
 
 ___
 # Gifs

@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "f4f70fccd126c5cd",
+        "id": "6ab30413ad516e44",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -93,17 +93,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f4f70fccd126c5cd",
+  "active": "6ab30413ad516e44",
   "lastOpenFiles": [
-    "Zettelkasten/rollslide.md",
-    "Zettelkasten/pounceroll.md",
-    "Zettelkasten/roll.md",
-    "Zettelkasten/crawlturn.md",
-    "Zettelkasten/droproll.md",
-    "Zettelkasten/jumptumble.md",
-    "Zettelkasten/crouchtumble.md",
-    "Zettelkasten/crawlturnroll.md",
-    "Zettelkasten/fliproll.md",
-    "Templates/initiator.md"
+    "Zettelkasten/crawlturnjump.md",
+    "Zettelkasten/polemomentumjump.md",
+    "Zettelkasten/coyotejump.md",
+    "Zettelkasten/eairhop.md",
+    "Zettelkasten/gwallhop.md",
+    "Zettelkasten/airhopping.md",
+    "Zettelkasten/wallhopping.md",
+    "Zettelkasten/eawallhop.md",
+    "Zettelkasten/awallhop.md",
+    "Zettelkasten/jumptumble.md"
   ]
 }

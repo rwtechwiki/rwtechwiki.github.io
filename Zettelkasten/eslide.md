@@ -1,6 +1,6 @@
 Status: #partdone 
 
-Tags: #variant
+Tags: #move
 
 # eslide - Extended Slide
 ![[eslide_header.gif]]

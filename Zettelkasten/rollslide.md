@@ -1,6 +1,6 @@
 Status: #stub
 
-Tags: #initiator
+Tags: #initiator, [[roll]]
 
 # rollslide - name
 ![[rollslide_header.gif]]

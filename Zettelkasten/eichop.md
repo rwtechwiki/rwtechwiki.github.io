@@ -1,6 +1,6 @@
 Status: #partdone 
 
-Tags: #variant 
+Tags: #variant, [[hopping]]
 
 # eichop - Extended Instant Crouch Slide-Hop
 ![[eichop_header.gif]]

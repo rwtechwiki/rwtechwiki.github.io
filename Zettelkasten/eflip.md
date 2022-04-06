@@ -1,6 +1,6 @@
 Status: #partdone 
 
-Tags: #variant
+Tags: #variant, [[flipping]]
 
 # eflip - Extended Slide-Flip
 ![[eflip_header.gif]]

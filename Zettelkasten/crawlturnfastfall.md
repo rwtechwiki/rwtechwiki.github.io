@@ -1,6 +1,6 @@
 Status: #stub
 
-Tags: #variant
+Tags: #variant, [[fastfalling]]
 
 # crawlturnfastfall - name
 ![[crawlturnfastfall_header.gif]]
