@@ -1,6 +1,6 @@
 Status: #partdone 
 
-Tags: #variant, [[airhopping]], [[hopping]]
+Tags: #move, #variant, [[airhop]], [[hop]]
 
 # eairhop - Extended Slide-Air-Hop
 ![[eairhop_header.gif]]

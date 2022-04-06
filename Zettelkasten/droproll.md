@@ -1,6 +1,6 @@
 Status: #stub
 
-Tags: #initiator, [[roll]]
+Tags: #move, #initiator, [[roll]]
 
 # droproll - name
 ![[droproll_header.gif]]

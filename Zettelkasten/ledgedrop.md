@@ -1,6 +1,6 @@
 Status: #partdone 
 
-Tags: #initiator, [[fastfalling]]
+Tags: #move
 
 # ledgedrop - Ledge-Drop
 ![[ledgedrop_header.gif]]

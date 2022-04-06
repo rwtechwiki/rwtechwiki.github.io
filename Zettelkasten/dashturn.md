@@ -1,9 +1,9 @@
 Status: #stub
 
-Tags: #initiator
+Tags: #move
 
-# {{title}} - name
-![[{{title}}_header.gif]]
+# dashturn - name
+![[dashturn_header.gif]]
 # Description:
 
 
@@ -11,13 +11,13 @@ Tags: #initiator
 
 
 # Performed from:
-
+[[walk]]
 
 # Allows for:
 
 
 # Chains to:
-
+[[turnhop]], [[turnflip]]
 
 ___
 # Gifs

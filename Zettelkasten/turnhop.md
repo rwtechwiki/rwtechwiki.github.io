@@ -1,9 +1,9 @@
 Status: #stub
 
-Tags: #move
+Tags: #move, #variant, [[hop]]
 
-# rollslide - name
-![[rollslide_header.gif]]
+# turnhop - name
+![[turnhop_header.gif]]
 # Description:
 
 
@@ -11,13 +11,13 @@ Tags: #move
 
 
 # Performed from:
-[[roll]]
+[[dashturn]]
 
 # Allows for:
 
 
 # Chains to:
-[[slide]]
+
 
 ___
 # Gifs

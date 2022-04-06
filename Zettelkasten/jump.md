@@ -1,6 +1,6 @@
 Status: #stub 
 
-Tags: #variant, [[hopping]]
+Tags: #move, #variant, [[hop]]
 
 # jump - name
 ![[jump_header.gif]]

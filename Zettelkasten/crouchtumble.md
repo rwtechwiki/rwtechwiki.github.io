@@ -1,6 +1,6 @@
 Status: #stub
 
-Tags: #initiator, [[roll]]
+Tags: #move, #initiator, [[roll]]
 
 # crouchtumble - name
 ![[crouchtumble_header.gif]]
@@ -11,7 +11,7 @@ Tags: #initiator, [[roll]]
 
 
 # Performed from:
-
+[[walk]]
 
 # Allows for:
 

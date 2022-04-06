@@ -1,6 +1,6 @@
 Status: #stub 
 
-Tags: #variant, [[flipping]]
+Tags: #move, #variant, [[flip]]
 
 # turnflip - name
 ![[turnflip_header.gif]]
@@ -11,13 +11,13 @@ Tags: #variant, [[flipping]]
 
 
 # Performed from:
-
+[[dashturn]]
 
 # Allows for:
-
+[[downthrow]]
 
 # Chains to:
-
+[[fliproll]]
 
 ___
 # Gifs

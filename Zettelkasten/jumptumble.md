@@ -1,6 +1,6 @@
 Status: #stub 
 
-Tags: #initiator, [[roll]]
+Tags: #move, #initiator, [[roll]]
 
 # jumptumble - name
 ![[jumptumble_header.gif]]
