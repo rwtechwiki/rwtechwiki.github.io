@@ -1,6 +1,6 @@
 Status: #stub 
 
-Tags: #initiator
+Tags: #initiator, [[roll]]
 
 # jumptumble - name
 ![[jumptumble_header.gif]]
@@ -11,13 +11,13 @@ Tags: #initiator
 
 
 # Performed from:
-
+[[jump]]
 
 # Allows for:
 
 
 # Chains to:
-
+[[roll]]
 
 ___
 # Gifs

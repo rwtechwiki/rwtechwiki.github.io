@@ -1,6 +1,6 @@
 Status: #partdone 
 
-Tags: #variant 
+Tags: #variant, [[hopping]]
 
 # ehop - Extended Slide-Hop
 ![[ehop_header.gif]]

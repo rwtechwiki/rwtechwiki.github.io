@@ -1,6 +1,6 @@
 Status: #stub 
 
-Tags: #variant
+Tags: #variant, [[airhopping]], [[hopping]]
 
 # polemomentumjump - name
 ![[polemomentumjump_header.gif]]

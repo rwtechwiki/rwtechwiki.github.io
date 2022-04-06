@@ -1,6 +1,6 @@
 Status: #stub 
 
-Tags: #variant
+Tags: #variant, [[flipping]]
 
 # turnflip - name
 ![[turnflip_header.gif]]

@@ -1,6 +1,6 @@
 Status: #stub
 
-Tags: #variant 
+Tags: #variant, [[fastfalling]]
 
 # dropfastfall - name
 ![[dropfastfall_header.gif]]

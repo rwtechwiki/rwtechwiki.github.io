@@ -1,6 +1,6 @@
 Status: #stub 
 
-Tags: #variant
+Tags: #variant, [[wallhopping]], [[airhopping]], [[hopping]]
 
 # gwallhop - name
 ![[gwallhop_header.gif]]

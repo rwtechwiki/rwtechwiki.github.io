@@ -1,6 +1,6 @@
 Status: #partdone 
 
-Tags: #variant
+Tags: #variant, [[flipping]]
 
 # iflip - Instant Slide-Flip
 ![[iflip_header.gif]]
