@@ -1,6 +1,6 @@
 Status: #stub
 
-Tags: #initiator, [[roll]]
+Tags: #move, #initiator, [[roll]]
 
 # crawlturnroll - Crawl-Turn-Roll
 ![[crawlturnroll_header.gif]]

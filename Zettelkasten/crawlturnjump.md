@@ -1,6 +1,6 @@
 Status: #stub
 
-Tags: #variant, [[airhopping]], [[hopping]]
+Tags: #move, #variant, [[airhop]], [[hop]]
 
 # crawlturnjump - Crawl-Turn-Jump
 ![[crawlturnjump_header.gif]]

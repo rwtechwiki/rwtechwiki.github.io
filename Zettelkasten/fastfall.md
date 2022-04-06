@@ -2,7 +2,7 @@ Status: #stub
 
 Tags: #state
 
-# fastfalling - Fast-Falling
+# fastfall - Fast-Fall
 # Description:
 
 

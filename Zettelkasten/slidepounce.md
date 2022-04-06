@@ -1,11 +1,11 @@
 Status: #partdone 
 
-Tags: #variant, [[pouncing]]
+Tags: #move, #variant, [[pounce]]
 
 # slidepounce - Slide-Pounce
 ![[slidepounce_header.gif]]
 # Description:
-A variant of a [[pouncing]], produced by pressing jump during frames 14 through 16 of a [[slide]]. This move is one of the lowest pounces, but gives slugcat a high horizontal speed. It is always possible to [[pounceroll]] from this move.
+A variant of a [[pounce]], produced by pressing jump during frames 14 through 16 of a [[slide]]. This move is one of the lowest pounces, but gives slugcat a high horizontal speed. It is always possible to [[pounceroll]] from this move.
 
 # Notes:
 

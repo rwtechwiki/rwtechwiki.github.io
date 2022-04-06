@@ -2,12 +2,14 @@ Status: #partdone
 
 Tags: #state
 
-# pouncing - Pouncing
+# pounce- Pounce
 # Description:
 The pounce state (RocketJump in code) sets slugcat at an angle based on its current velocity. It continues on a variable arc, usually set towards the left or right, until contact with the ground.
 
 # Notes:
-It is not possible to press up or down to set slugcats orientation midair in the pounce state. Due to this, slugcat will always land into the crouching state.
+It is not possible to press up or down to set slugcats orientation midair in the pounce state. Due to this, slugcat will always land into the [[crouch]] state.
+
+It is always possible to [[roll]] out of the pounce state, with the exception of the [[rollpounce]].
 
 # Variants:
 [[rollpounce]], [[slidepounce]], [[ipounce]], [[epounce]], [[eipounce]]

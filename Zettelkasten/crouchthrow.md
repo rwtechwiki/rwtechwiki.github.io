@@ -1,9 +1,9 @@
 Status: #stub
 
-Tags: #variant
+Tags: #move
 
-# {{title}} - name
-![[{{title}}_header.gif]]
+# crouchthrow - name
+![[crouchthrow_header.gif]]
 # Description:
 
 
@@ -11,10 +11,10 @@ Tags: #variant
 
 
 # Performed from:
-
+[[stand]]
 
 # Allows for:
-
+[[mouthspear]]
 
 # Chains to:
 
