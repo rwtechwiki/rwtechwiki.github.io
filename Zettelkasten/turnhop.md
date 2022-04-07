@@ -1,11 +1,11 @@
-Status: #stub
+Status: #partdone 
 
-Tags: #move, #variant, [[hop]]
+Tags: #move, #variant, [[hop]], #fundimentals
 
-# turnhop - name
+# turnhop - Turn-Hop
 ![[turnhop_header.gif]]
 # Description:
-
+By pressing jump within the frames 10 through 20 of a [[dashturn]], slugcat will hop, preserving the momentum from the dash-turn.
 
 # Notes:
 

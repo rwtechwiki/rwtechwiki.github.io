@@ -1,6 +1,6 @@
 Status: #partdone 
 
-Tags: #move
+Tags: #move, #fundimentals
 
 # ledgepullup - Ledge Pull-Up
 ![[ledgepullup_header.gif]]

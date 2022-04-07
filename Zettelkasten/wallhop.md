@@ -2,7 +2,7 @@ Status: #stub
 
 Tags: #state
 
-# wallhopping - Wall-Hopping
+# wallhop - Wall-Hop
 # Description:
 
 
