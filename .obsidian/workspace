@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "bf4401b3abd432e4",
+        "id": "d08fc4fd05ee6723",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -45,7 +45,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -90,20 +91,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 181
   },
-  "active": "bf4401b3abd432e4",
+  "active": "d08fc4fd05ee6723",
   "lastOpenFiles": [
-    "Zettelkasten/hop.md",
-    "Zettelkasten/rollslide.md",
-    "Zettelkasten/roll.md",
-    "Zettelkasten/pounceroll.md",
-    "Zettelkasten/jumptumble.md",
-    "Templates/initiator.md",
-    "Zettelkasten/fliproll.md",
-    "Zettelkasten/droproll.md",
-    "Zettelkasten/crouchtumble.md",
-    "Zettelkasten/crawlturnroll.md"
+    "Zettelkasten/wallspam.md",
+    "Zettelkasten/wallslide.md",
+    "Zettelkasten/walljump.md",
+    "Zettelkasten/wallhop.md",
+    "Zettelkasten/walk.md",
+    "Zettelkasten/turnhop.md",
+    "Zettelkasten/turnflip.md",
+    "Zettelkasten/tunnelboost.md",
+    "Zettelkasten/tiledroproll.md",
+    "Zettelkasten/stand.md"
   ]
 }

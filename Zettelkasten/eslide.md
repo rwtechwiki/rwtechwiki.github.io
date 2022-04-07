@@ -1,6 +1,6 @@
 Status: #partdone 
 
-Tags: #move
+Tags: #move, #fundimentals
 
 # eslide - Extended Slide
 ![[eslide_header.gif]]

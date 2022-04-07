@@ -1,6 +1,6 @@
 Status: #partdone 
 
-Tags: #state
+Tags: #state, #fundimentals
 
 # pounce- Pounce
 # Description:

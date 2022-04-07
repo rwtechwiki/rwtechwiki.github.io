@@ -1,6 +1,6 @@
 Status: #partdone 
 
-Tags: #move, #variant, [[flip]]
+Tags: #move, #variant, [[flip]], #fundimentals
 
 # slideflip - Slide-Flip
 ![[slideflip_header.gif]]

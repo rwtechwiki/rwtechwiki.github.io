@@ -1,6 +1,6 @@
 Status: #partdone 
 
-Tags: #move
+Tags: #move, #fundimentals
 
 # roll - Roll
 ![[roll_header.gif]]

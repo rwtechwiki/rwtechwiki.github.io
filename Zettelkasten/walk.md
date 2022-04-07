@@ -1,6 +1,6 @@
 Status: #stub 
 
-Tags: #move
+Tags: #move, #fundimentals
 
 # walk - Walk
 ![[walk_header.gif]]

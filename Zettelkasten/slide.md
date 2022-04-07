@@ -1,6 +1,6 @@
 Status: #partdone 
 
-Tags: #move
+Tags: #move, #fundimentals
 
 # slide - Slide
 ![[slide_header.gif]]

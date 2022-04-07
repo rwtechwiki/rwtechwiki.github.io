@@ -1,6 +1,6 @@
 Status: #partdone
 
-Tags: #move
+Tags: #move, #fundimentals
 
 # downthrow - Down-Throw
 ![[downthrow_header.gif]]

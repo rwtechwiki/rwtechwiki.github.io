@@ -1,17 +1,17 @@
-Status: #stub
+Status: #partdone 
 
-Tags: #move, #variant, [[airhop]], [[hop]]
+Tags: #move, #variant, [[airhop]], [[hop]], #fundimentals
 
 # coyotejump - name
 ![[coyotejump_header.gif]]
 # Description:
-
+If you [[walk]] off a ledge, there is a 5-frame window where slugcat is able to jump mid-air.
 
 # Notes:
 
 
 # Performed from:
-
+[[walk]]
 
 # Allows for:
 

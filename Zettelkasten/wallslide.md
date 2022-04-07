@@ -1,11 +1,11 @@
-Status: #stub 
+Status: #partdone 
 
-Tags: #move
+Tags: #move, #fundimentals
 
 # wallslide - name
 ![[wallslide_header.gif]]
 # Description:
-
+By holding towards a wall while midair, slugcat will slide slowly downwards against the wall.
 
 # Notes:
 
@@ -14,7 +14,7 @@ Tags: #move
 
 
 # Allows for:
-
+[[wallspam]]
 
 # Chains to:
 [[wallhop]], [[awallhop]], [[eawallhop]]
