@@ -10,6 +10,8 @@ By holding up while slugcat is [[walk|walking]], and releasing up around the tim
 # Notes:
 This move is made significantly easier if the jump lands 1 tile lower than it began.
 
+With an item throw, the window to perform this move gets bigger.
+
 # Performed from:
 [[walk]]
 

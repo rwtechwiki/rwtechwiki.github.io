@@ -45,8 +45,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -91,19 +90,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 181
+    "width": 181,
+    "collapsed": true
   },
   "active": "d08fc4fd05ee6723",
   "lastOpenFiles": [
+    "Zettelkasten/polecoyotejump.md",
+    "Zettelkasten/coyotejump.md",
+    "Zettelkasten/gwallhop.md",
+    "Zettelkasten/jumptumble.md",
+    "Zettelkasten/slideparkour.md",
     "Zettelkasten/wallspam.md",
     "Zettelkasten/wallslide.md",
     "Zettelkasten/walljump.md",
     "Zettelkasten/wallhop.md",
-    "Zettelkasten/walk.md",
-    "Zettelkasten/turnhop.md",
-    "Zettelkasten/turnflip.md",
-    "Zettelkasten/tunnelboost.md",
-    "Zettelkasten/tiledroproll.md",
-    "Zettelkasten/stand.md"
+    "Zettelkasten/walk.md"
   ]
 }
