@@ -1,4 +1,4 @@
-Status: #partdone, #needsgif
+Status: #done, #needsgif
 
 Tags: #move, #fundimentals
 
