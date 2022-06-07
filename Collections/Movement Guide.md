@@ -36,12 +36,12 @@ Tags: #collection
 ## Basic Slide:
 [[slide]]
 [[slidetunnelentry]]
-[[slidetunnelboost]]
+[[tunnelslidepounce]]
 [[slideparkour]]
 
 ## Slide-Pouncing:
 [[slidepounce]]
-[[pouncebounce]]
+[[crouchhop]]
 [[ipounce]]
 
 ## Slide-Flipping:
@@ -54,7 +54,7 @@ Tags: #collection
 [[ehop]]
 [[epounce]]
 [[eflip]]
-[[eihop]]
+[[eichop]]
 [[eipounce]]
 [[eichop]]
 [[denboost]]
