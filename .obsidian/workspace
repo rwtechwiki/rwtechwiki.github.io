@@ -101,14 +101,14 @@
   "active": "3f4ed476fd53a116",
   "lastOpenFiles": [
     "Collections/Movement Guide.md",
+    "Movement/ceilingslopeslide.md",
+    "Movement/airhop.md",
     "Movement/eichop.md",
     "Movement/ehop.md",
     "Movement/crawlturnroll.md",
     "Movement/crawlturn.md",
     "Movement/coyotejump.md",
     "Movement/chargehop.md",
-    "Movement/ceilingslide.md",
-    "Movement/awallhop.md",
-    "Movement/airorientation.md"
+    "Movement/awallhop.md"
   ]
 }
