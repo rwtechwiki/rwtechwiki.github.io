@@ -1,4 +1,4 @@
-Status: #partdone, #needsgif
+Status: #partdone
 
 Tags: #move, #fundimentals
 
@@ -17,7 +17,7 @@ Due to the endlag, this is not worth it unless you plan to jump off the pole imm
 
 
 # Chains to:
-[[poleregrablagcancel]], [[poleboostpm]]
+[[poleregrablagcancel]], [[poleboostpmjump]]
 
 ___
 # Gifs

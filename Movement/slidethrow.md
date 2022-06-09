@@ -1,6 +1,6 @@
-Status: #partdone, #needsgif
+Status: #partdone
 
-Tags: #move, #fundimentals
+Tags: #move, #variant, [[throw]], #fundimentals
 
 # slidethrow - Slide-Throw
 ![[slidethrow_header.gif]]

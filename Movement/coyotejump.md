@@ -1,4 +1,4 @@
-Status: #partdone, #needsgif 
+Status: #partdone
 
 Tags: #move, #variant, [[airhop]], [[hop]], #fundimentals
 
@@ -24,6 +24,7 @@ This move works identically when walking off the tip of a horizontal pole.
 ___
 # Gifs
 ![[coyotejump_0.gif]]
+![[coyotejump_pole.gif]]
 ![[coyotejump_1.gif]]
 ![[coyotejump_2.gif]]
 ![[coyotejump_3.gif]]

@@ -10,7 +10,7 @@ It is possible to accelerate slugcat faster than normal midair by beginning a fa
 
 
 # Variants:
-[[crawlturnfastfall]], [[dropfastfall]]
+[[crawlturnfastfall]], [[ledgedropfastfall]]
 
 ___
 # Gifs

@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3f4ed476fd53a116",
+        "id": "e4b495bd8c0f6fbf",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Collections/Movement Guide.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Collections/Movement Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,17 +93,17 @@
     "width": 181,
     "collapsed": true
   },
-  "active": "3f4ed476fd53a116",
+  "active": "e4b495bd8c0f6fbf",
   "lastOpenFiles": [
-    "Collections/Movement Guide.md",
-    "Movement/ceilingslopeslide.md",
     "Movement/airhop.md",
-    "Movement/eichop.md",
-    "Movement/ehop.md",
-    "Movement/crawlturnroll.md",
-    "Movement/crawlturn.md",
-    "Movement/coyotejump.md",
-    "Movement/chargehop.md",
-    "Movement/awallhop.md"
+    "Movement/wallspam.md",
+    "Movement/wallslide.md",
+    "Movement/walljump.md",
+    "Movement/wallhop.md",
+    "Movement/walk.md",
+    "Movement/turnhop.md",
+    "Movement/turnflip.md",
+    "Movement/tunnelturn.md",
+    "Movement/tunnelfreefall.md"
   ]
 }

@@ -1,8 +1,8 @@
-Status: #partdone, #needsgif
+Status: #partdone
 
 Tags: #move, #variant, [[airhop]], [[hop]], #fundimentals
 
-# crawlturnjump - Crawl-Turn-Jump
+# crawlturnjump - Crawl-Turn Jump
 ![[crawlturnjump_header.gif]]
 # Description:
 If you perform a [[crawlturncancel]], there is a 5-frame window after leaving the ground where slugcat is able to jump mid-air.
@@ -22,6 +22,7 @@ This gives slugcat roughly 1 extra tile of jump height, becoming able to [[ledge
 ___
 # Gifs
 ![[crawlturnjump_0.gif]]
+![[crawlturnjump_TS.gif]]
 ![[crawlturnjump_1.gif]]
 ![[crawlturnjump_2.gif]]
 ![[crawlturnjump_3.gif]]

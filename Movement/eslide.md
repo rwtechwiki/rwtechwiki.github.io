@@ -1,6 +1,6 @@
-Status: #partdone, #needsgif
+Status: #partdone
 
-Tags: #move, #fundimentals
+Tags: #move, #variant, [[throw]], #fundimentals
 
 # eslide - Extended Slide
 ![[eslide_header.gif]]

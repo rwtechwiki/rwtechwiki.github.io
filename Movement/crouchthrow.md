@@ -1,8 +1,8 @@
-Status: #partdone, #needsgif
+Status: #partdone
 
-Tags: #move, #fundimentals
+Tags: #move, #variant, [[throw]], #fundimentals
 
-# crouchthrow - name
+# crouchthrow - Crouch-Throw
 ![[crouchthrow_header.gif]]
 # Description:
 By throwing as slugcat is transitioning from [[stand]] to [[crouch]], a thrown item will have a downward trajectory.

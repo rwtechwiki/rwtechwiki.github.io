@@ -1,4 +1,4 @@
-Status: #partdone, #needsgif
+Status: #partdone
 
 Tags: #move, #variant, [[wallhop]], [[airhop]], [[hop]]
 

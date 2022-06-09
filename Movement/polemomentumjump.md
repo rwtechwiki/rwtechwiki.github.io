@@ -11,7 +11,7 @@ By holding to the side as slugcats feet approach the top tile of a pole, it is p
 
 
 # Performed from:
-[[flippm]], [[poleboostpm]], [[jumppm]], [[slidepm]]
+[[flippmjump]], [[poleboostpmjump]], [[jumppmjump]], [[slidepmjump]]
 
 # Allows for:
 

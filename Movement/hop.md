@@ -2,7 +2,7 @@ Status: #partdone
 
 Tags: #state, #fundimentals
 
-# hop- Hop
+# hop - Hop
 # Description:
 Outside certain slide windows and tunnels/poles, jump inputs usually allow for slugcat to propel itself around 2 tiles off the ground.
 

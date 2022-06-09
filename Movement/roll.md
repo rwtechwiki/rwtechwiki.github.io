@@ -1,4 +1,4 @@
-Status: #partdone, #needsgif
+Status: #partdone
 
 Tags: #move, #fundimentals
 
@@ -14,7 +14,7 @@ The number of frames the roll lasts for depends on which method was used to begi
 Rolls can ascend 1-tile differences in floor geometry.
 
 # Performed from:
-[[droproll]], [[crawlturnroll]], [[crouchtumble]], [[jumptumble]], [[pounceroll]], [[fliproll]]
+[[droproll]], [[crawlturnroll]], [[crouchtumbleroll]], [[jumptumbleroll]], [[pounceroll]], [[fliproll]]
 
 # Allows for:
 [[rollpickup]], [[fastroll]]

@@ -121,11 +121,11 @@ Tags: #collection
 ![[ledgehang_header.gif]]
 [[crawlturnfastfall]]
 ![[crawlturnfastfall_header.gif]]
-[[jumptumble]]
+[[jumptumbleroll]]
 ![[jumptumble_header.gif]]
 [[crawlturnroll]]
 ![[crawlturnroll_header.gif]]
-[[crouchtumble]]
+[[crouchtumbleroll]]
 ![[crouchtumble_header.gif]]
 
 # Poles:
@@ -138,9 +138,9 @@ Tags: #collection
 ![[poleregrablagcancel_header.gif]]
 
 ## Pole-Momentum:
-[[flippm]]
+[[flippmjump]]
 ![[flippm_header.gif]]
-[[slidepm]]
+[[slidepmjump]]
 ![[slidepm_header.gif]]
 
 ## Horizontal Pole Movement:
@@ -148,7 +148,7 @@ Tags: #collection
 ![[polepullupjump_header.gif]]
 [[polehop]]
 ![[polehop_header.gif]]
-[[fastpolecrawling]]
+[[fastpolecrawl]]
 ![[fastpolecrawling_header.gif]]
 
 # Turns:

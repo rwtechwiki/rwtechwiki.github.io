@@ -1,9 +1,9 @@
-Status: #partdone, #needsgif
+Status: #partdone
 
 Tags: #move, #initiator, [[roll]]
 
-# jumptumble - name
-![[jumptumble_header.gif]]
+# jumptumbleroll - Jump-Tumble Roll
+![[jumptumbleroll_header.gif]]
 # Description:
 By holding up while slugcat is [[walk|walking]], and releasing up around the time of a [[jump]], slugcat will rotate backwards midair. By holding foward and down for long enough before hitting the ground, it is possible to [[roll]] from this really fucked up jump.
 
@@ -23,13 +23,13 @@ With an item throw, the window to perform this move gets bigger.
 
 ___
 # Gifs
-![[jumptumble_0.gif]]
-![[jumptumble_1.gif]]
-![[jumptumble_2.gif]]
-![[jumptumble_3.gif]]
-![[jumptumble_4.gif]]
-![[jumptumble_5.gif]]
-![[jumptumble_6.gif]]
-![[jumptumble_7.gif]]
-![[jumptumble_8.gif]]
-![[jumptumble_9.gif]]
+![[jumptumbleroll_0.gif]]
+![[jumptumbleroll_1.gif]]
+![[jumptumbleroll_2.gif]]
+![[jumptumbleroll_3.gif]]
+![[jumptumbleroll_4.gif]]
+![[jumptumbleroll_5.gif]]
+![[jumptumbleroll_6.gif]]
+![[jumptumbleroll_7.gif]]
+![[jumptumbleroll_8.gif]]
+![[jumptumbleroll_9.gif]]

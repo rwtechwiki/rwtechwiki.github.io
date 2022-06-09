@@ -1,8 +1,8 @@
-Status: #partdone, #needsgif
+Status: #partdone
 
 Tags: #move, #initiator, [[roll]], #fundimentals
 
-# pounceroll - name
+# pounceroll - Pounce-Roll
 ![[pounceroll_header.gif]]
 # Description:
 It is possible to [[roll]] from the [[pounce]] state by holding down and forward for enough frames before landing. 

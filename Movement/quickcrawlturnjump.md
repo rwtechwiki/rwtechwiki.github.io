@@ -1,8 +1,8 @@
-Status: #stub, #needsgif
+Status: #stub
 
 Tags: #move
 
-# quickcrawlturnjump - name
+# quickcrawlturnjump - Quick Crawl-Turn Jump
 ![[quickcrawlturnjump_header.gif]]
 # Description:
 

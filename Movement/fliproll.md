@@ -1,8 +1,8 @@
-Status: #partdone, #needsgif
+Status: #partdone
 
 Tags: #move, #initiator, [[roll]], #fundimentals
 
-# fliproll - name
+# fliproll - Flip-Roll
 ![[fliproll_header.gif]]
 # Description:
 It is possible to [[roll]] from the [[flip]] state by holding down and forward for enough frames before landing.

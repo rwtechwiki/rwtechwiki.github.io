@@ -2,7 +2,7 @@ Status: #stub, #needsgif
 
 Tags: #move, #fundimentals
 
-# crouch - name
+# crouch - Crouch
 ![[crouch_header.gif]]
 # Description:
 By pressing down, slugcat enters a crouching position, where it can crawl around.
