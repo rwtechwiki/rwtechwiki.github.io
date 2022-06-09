@@ -1,4 +1,4 @@
-Status: #partdone, #needsgif
+Status: #partdone
 
 Tags: #move, #variant, [[airhop]], [[hop]]
 
@@ -21,3 +21,13 @@ The timing for entering the crouching state is similar to that of the [[ledgedro
 
 ___
 # Gifs
+![[ecoyotejump_0.gif]]
+![[ecoyotejump_1.gif]]
+![[ecoyotejump_2.gif]]
+![[ecoyotejump_3.gif]]
+![[ecoyotejump_4.gif]]
+![[ecoyotejump_5.gif]]
+![[ecoyotejump_6.gif]]
+![[ecoyotejump_7.gif]]
+![[ecoyotejump_8.gif]]
+![[ecoyotejump_9.gif]]

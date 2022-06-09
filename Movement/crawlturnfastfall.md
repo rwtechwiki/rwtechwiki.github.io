@@ -1,8 +1,8 @@
-crStatus: #stub, #needsgif
+crStatus: #stub
 
 Tags: #move, #variant, [[fastfall]]
 
-# crawlturnfastfall - name
+# crawlturnfastfall - Crawl-Turn Fast-Fall
 ![[crawlturnfastfall_header.gif]]
 # Description:
 

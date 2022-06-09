@@ -1,4 +1,4 @@
-Status: #stub, #needsgif
+Status: #stub
 
 Tags: #move
 

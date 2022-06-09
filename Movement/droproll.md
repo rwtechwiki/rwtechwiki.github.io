@@ -1,8 +1,8 @@
-Status: #stub, #needsgif
+Status: #stub
 
 Tags: #move, #initiator, [[roll]]
 
-# droproll - name
+# droproll - Drop-Roll
 ![[droproll_header.gif]]
 # Description:
 

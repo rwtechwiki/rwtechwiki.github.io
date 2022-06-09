@@ -1,8 +1,8 @@
-Status: #partdone, #needsgif
+Status: #partdone
 
 Tags: #move, #initiator, [[roll]]
 
-# crawlturnroll - Crawl-Turn-Roll
+# crawlturnroll - Crawl-Turn Roll
 ![[crawlturnroll_header.gif]]
 # Description:
 It is possible to begin a roll by holding down during the middle of a buffered [[crawlturn]]. It is possible to buffer the crawl-turn by holding backwards within the first 5 frames of beginning the [[crouch]] state.
@@ -23,6 +23,7 @@ ___
 # Gifs
 ![[crawlturnroll_0.gif]]
 ![[crawlturnroll_1.gif]]
+![[crawlturnroll_ledge.gif]]
 ![[crawlturnroll_2.gif]]
 ![[crawlturnroll_3.gif]]
 ![[crawlturnroll_4.gif]]

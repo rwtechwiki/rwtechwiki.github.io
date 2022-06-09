@@ -1,8 +1,8 @@
-Status: #stub, #needsgif
+Status: #stub
 
 Tags: #move
 
-# rollslide - name
+# rollslide - Roll-Slide
 ![[rollslide_header.gif]]
 # Description:
 

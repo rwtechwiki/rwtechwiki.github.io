@@ -1,6 +1,6 @@
-Status: #partdone, #needsgif
+Status: #partdone
 
-Tags: #move, #fundimentals
+Tags: #move, #variant, [[throw]], #fundimentals
 
 # downthrow - Down-Throw
 ![[downthrow_header.gif]]

@@ -1,4 +1,4 @@
-Status: #done, #needsgif
+Status: #done
 
 Tags: #move, #fundimentals
 

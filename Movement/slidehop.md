@@ -1,4 +1,4 @@
-Status: #stub, #needsgif
+Status: #stub
 
 Tags: #move
 
@@ -11,7 +11,7 @@ Tags: #move
 
 
 # Performed from:
-
+[[slide]]
 
 # Allows for:
 

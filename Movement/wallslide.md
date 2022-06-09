@@ -1,8 +1,8 @@
-Status: #partdone, #needsgif
+Status: #partdone
 
 Tags: #move, #fundimentals
 
-# wallslide - name
+# wallslide - Wall-Slide
 ![[wallslide_header.gif]]
 # Description:
 By holding towards a wall while off the ground, slugcat will slide slowly downwards against the wall.

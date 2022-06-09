@@ -1,8 +1,8 @@
-Status: #stub, #needsgif
+Status: #stub
 
 Tags: #move
 
-# polehop - name
+# polehop - Pole-Hop
 ![[polehop_header.gif]]
 # Description:
 
