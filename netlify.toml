@@ -45,7 +45,7 @@ GRAPH_OPTIONS = """
         {
         	nodes: {
         		shape: "dot",
-        		color: isDark() ? "#8c8e91" : "#dee2e6",
+        		color: isDark() ? "#003d7a" : "#dee2e6",
         		font: {
         			face: "Inter",
         			color: isDark() ? "#c9cdd1" : "#616469",
@@ -72,6 +72,7 @@ GRAPH_OPTIONS = """
         	width: "100%",
         	physics: {
         		solver: "repulsion",
+                        minVelocity: 0.75,
         	},
         }
         """
