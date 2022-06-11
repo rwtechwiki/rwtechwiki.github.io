@@ -39,9 +39,8 @@ SIDEBAR_COLLAPSED = "y"
 FOOTER = ""
 # (Optional, default main) Root section name.
 ROOT_SECTION_NAME = "main"
-# (Optional) visjs graph options. Can remove if desired.
-LOCAL_GRAPH = "y"
 STRICT_LINE_BREAKS = ""
+# (Optional) visjs graph options. Can remove if desired.
 GRAPH_OPTIONS = """
         {
         	nodes: {
