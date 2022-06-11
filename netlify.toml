@@ -6,7 +6,7 @@ publish = "public"
 # (Optional) Text in landing page button
 LANDING_BUTTON = "Get Started"
 # (Optional) Site description on landing page
-LANDING_DESCRIPTION = "TEST This is a comprehensive collection and explanation of every* move in the game! (There are well over 50, with over half unintended)"
+LANDING_DESCRIPTION = "This is a comprehensive collection and explanation of every* move in the game! (There are well over 50, with over half unintended)"
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
 LANDING_PAGE = "collections/movement-guide-recommendations"
 # (Optional) Site title on landing page
@@ -40,6 +40,41 @@ FOOTER = ""
 # (Optional, default main) Root section name.
 ROOT_SECTION_NAME = "main"
 STRICT_LINE_BREAKS = ""
+# (Optional) visjs graph options. Can remove if desired.
+GRAPH_OPTIONS = """
+        {
+        	nodes: {
+        		shape: "dot",
+        		color: isDark() ? "#8c8e91" : "#dee2e6",
+        		font: {
+        			face: "Inter",
+        			color: isDark() ? "#c9cdd1" : "#616469",
+        			strokeColor: isDark() ? "#c9cdd1" : "#616469",
+        		},
+        		scaling: {
+        			label: {
+        				enabled: true,
+        			},
+        		},
+        	},
+        	edges: {
+        		color: { inherit: "both" },
+        		width: 0.8,
+        		smooth: {
+        			type: "continuous",
+        		},
+        		hoverWidth: 4,
+        	},
+        	interaction: {
+        		hover: true,
+        	},
+        	height: "100%",
+        	width: "100%",
+        	physics: {
+        		solver: "repulsion",
+        	},
+        }
+        """
 
 [[plugins]]
 package = "netlify-plugin-submit-sitemap"
