@@ -43,7 +43,7 @@ ROOT_SECTION_NAME = "main"
 GRAPH_OPTIONS = """
         {
         	nodes: {
-        		shape: "star",
+        		shape: "circle",
         		color: isDark() ? "#8c8e91" : "#dee2e6",
         		font: {
         			face: "Inter",
@@ -57,10 +57,10 @@ GRAPH_OPTIONS = """
         		},
         	},
         	edges: {
-        		color: { inherit: "both" },
+        		color: { #A4A4FF },
         		width: 0.8,
         		smooth: {
-        			type: "continuous",
+        			type: "straight",
         		},
         		hoverWidth: 4,
         	},
