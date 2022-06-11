@@ -19,9 +19,9 @@ SITE_TITLE = "Rain World Movement Wiki"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
 SITE_TITLE_TAB = "RW Movement Wiki"
 # (REQUIRED) Netlify site URL
-SITE_URL = "https://laurahannah44.github.io/Rain-World-Movement/"
+SITE_URL = "https://laurahannah44.github.io/Rain-World-Movement"
 # (Optional) Site Timezone
-TIMEZONE = "United Kingdom/London"
+TIMEZONE = ""
 ZOLA_VERSION = "0.15.2"
 # (Optional, default title) How to sort notes inside each section on the right sidebar ("date" or "title"). Subsections on side bar are sorted by title, the sort order cannot be changed.
 SORT_BY = "title"
@@ -83,7 +83,7 @@ package = "netlify-plugin-submit-sitemap"
 [plugins.inputs]
 
 # The base url of your site (optional, default = main URL set in Netlify)
-baseUrl = "https://laurahannah44.github.io/Rain-World-Movement/"
+baseUrl = "https://laurahannah44.github.io/Rain-World-Movement"
 
 # Path to the sitemap URL (optional, default = /sitemap.xml)
 sitemapPath = "/sitemap.xml"
