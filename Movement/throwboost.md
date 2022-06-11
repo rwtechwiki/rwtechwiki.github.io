@@ -21,3 +21,14 @@ This only works for items which are thrown forward with force, i.e. rocks, spear
 
 ___
 # Gifs
+## Bulk
+![[throwboost_0.gif]]
+![[throwboost_1.gif]]
+![[throwboost_2.gif]]
+![[throwboost_3.gif]]
+![[throwboost_4.gif]]
+![[throwboost_5.gif]]
+![[throwboost_6.gif]]
+![[throwboost_7.gif]]
+![[throwboost_8.gif]]
+![[throwboost_9.gif]]

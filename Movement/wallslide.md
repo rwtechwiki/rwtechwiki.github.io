@@ -21,6 +21,7 @@ By holding towards a wall while off the ground, slugcat will slide slowly downwa
 
 ___
 # Gifs
+## Bulk
 ![[wallslide_0.gif]]
 ![[wallslide_1.gif]]
 ![[wallslide_2.gif]]

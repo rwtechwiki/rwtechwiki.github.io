@@ -21,6 +21,7 @@ It is possible to [[roll]] from the [[flip]] state by holding down and forward f
 
 ___
 # Gifs
+## Bulk
 ![[fliproll_0.gif]]
 ![[fliproll_1.gif]]
 ![[fliproll_2.gif]]

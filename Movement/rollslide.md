@@ -21,6 +21,7 @@ Tags: #move
 
 ___
 # Gifs
+## Bulk
 ![[rollslide_0.gif]]
 ![[rollslide_1.gif]]
 ![[rollslide_2.gif]]

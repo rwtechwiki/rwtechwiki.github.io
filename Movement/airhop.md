@@ -1,6 +1,6 @@
 Status: #partdone 
 
-Tags: #state
+Tags: #type
 
 # airhop - Air-Hop
 # Description:
@@ -14,6 +14,7 @@ When slugcat becomes airborn without use of the jump button, there is a 5-frame 
 
 ___
 # Gifs
+## Bulk
 ![[airhop_0.gif]]
 ![[airhop_1.gif]]
 ![[airhop_2.gif]]

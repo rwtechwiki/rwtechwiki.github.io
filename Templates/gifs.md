@@ -1,3 +1,5 @@
+# Gifs
+## Bulk
 ![[{{title}}_0.gif]]
 ![[{{title}}_1.gif]]
 ![[{{title}}_2.gif]]

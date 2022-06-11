@@ -25,6 +25,7 @@ For the frame-1 cancel, if down, jump and the direction slugcat is turning away 
 
 ___
 # Gifs
+## Bulk
 ![[crawlturncancel_0.gif]]
 ![[crawlturncancel_1.gif]]
 ![[crawlturncancel_2.gif]]

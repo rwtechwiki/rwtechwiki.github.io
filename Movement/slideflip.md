@@ -14,13 +14,14 @@ A variant of a [[flip]] with a fixed arc, produced by pressing backwards and jum
 [[slide]]
 
 # Allows for:
-[[downthrow]]
+[[slidethrow]], [[downthrow]]
 
 # Chains to:
 [[stand]], [[fliproll]]
 
 ___
 # Gifs
+## Bulk
 ![[slideflip_0.gif]]
 ![[slideflip_1.gif]]
 ![[slideflip_2.gif]]

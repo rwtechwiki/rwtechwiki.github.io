@@ -1,4 +1,4 @@
-crStatus: #stub
+Status: #stub
 
 Tags: #move, #variant, [[fastfall]]
 
@@ -21,6 +21,7 @@ Tags: #move, #variant, [[fastfall]]
 
 ___
 # Gifs
+## Bulk
 ![[crawlturnfastfall_0.gif]]
 ![[crawlturnfastfall_1.gif]]
 ![[crawlturnfastfall_2.gif]]

@@ -21,6 +21,7 @@ By holding towards a wall when standing on a floor, it is possible to jump away 
 
 ___
 # Gifs
+## Bulk
 ![[gwallhop_0.gif]]
 ![[gwallhop_1.gif]]
 ![[gwallhop_2.gif]]

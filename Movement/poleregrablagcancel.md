@@ -21,6 +21,7 @@ By pressing jump and the input direction towards the pole, slugcat will very bri
 
 ___
 # Gifs
+## Bulk
 ![[poleregrablagcancel_0.gif]]
 ![[poleregrablagcancel_1.gif]]
 ![[poleregrablagcancel_2.gif]]

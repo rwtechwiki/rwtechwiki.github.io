@@ -21,6 +21,7 @@ By holding to the side as slugcats feet approach the top tile of a pole, it is p
 
 ___
 # Gifs
+## Bulk
 ![[polemomentumjump_0.gif]]
 ![[polemomentumjump_1.gif]]
 ![[polemomentumjump_2.gif]]

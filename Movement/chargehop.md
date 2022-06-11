@@ -21,3 +21,14 @@ This move does not use a fixed arc, so holding forward from the very start of th
 
 ___
 # Gifs
+## Bulk
+![[chargehop_0.gif]]
+![[chargehop_1.gif]]
+![[chargehop_2.gif]]
+![[chargehop_3.gif]]
+![[chargehop_4.gif]]
+![[chargehop_5.gif]]
+![[chargehop_6.gif]]
+![[chargehop_7.gif]]
+![[chargehop_8.gif]]
+![[chargehop_9.gif]]

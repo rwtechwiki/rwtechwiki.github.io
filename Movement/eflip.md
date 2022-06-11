@@ -21,6 +21,7 @@ A variant of a [[flip]], produced by pressing backwards and jump during frames 2
 
 ___
 # Gifs
+## Bulk
 ![[eflip_0.gif]]
 ![[eflip_1.gif]]
 ![[eflip_2.gif]]

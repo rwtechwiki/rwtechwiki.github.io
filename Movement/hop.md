@@ -1,6 +1,6 @@
 Status: #partdone 
 
-Tags: #state, #fundimentals
+Tags: #type, #fundimentals
 
 # hop - Hop
 # Description:
@@ -14,6 +14,7 @@ It is possible to press up or down to set slugcats orientation midair in the hop
 
 ___
 # Gifs
+## Bulk
 ![[hop_0.gif]]
 ![[hop_1.gif]]
 ![[hop_2.gif]]

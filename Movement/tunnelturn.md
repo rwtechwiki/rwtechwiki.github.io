@@ -25,3 +25,14 @@ This is useful as slugcat travels faster when moving forwards through tunnels th
 
 ___
 # Gifs
+## Bulk
+![[tunnelturn_0.gif]]
+![[tunnelturn_1.gif]]
+![[tunnelturn_2.gif]]
+![[tunnelturn_3.gif]]
+![[tunnelturn_4.gif]]
+![[tunnelturn_5.gif]]
+![[tunnelturn_6.gif]]
+![[tunnelturn_7.gif]]
+![[tunnelturn_8.gif]]
+![[tunnelturn_9.gif]]

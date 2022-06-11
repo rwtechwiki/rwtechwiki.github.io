@@ -21,6 +21,7 @@ Tags: #move
 
 ___
 # Gifs
+## Bulk
 ![[poleboostpmjump_0.gif]]
 ![[poleboostpmjump_1.gif]]
 ![[poleboostpmjump_2.gif]]

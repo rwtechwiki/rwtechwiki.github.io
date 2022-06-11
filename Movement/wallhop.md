@@ -1,6 +1,6 @@
 Status: #stub 
 
-Tags: #state
+Tags: #type
 
 # wallhop - Wall-Hop
 # Description:
@@ -14,6 +14,7 @@ Tags: #state
 
 ___
 # Gifs
+## Bulk
 ![[wallhop_0.gif]]
 ![[wallhop_1.gif]]
 ![[wallhop_2.gif]]

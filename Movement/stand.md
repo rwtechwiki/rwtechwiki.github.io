@@ -21,6 +21,7 @@ By pressing up, slugcat enters a standing position, where it can [[walk]] around
 
 ___
 # Gifs
+## Bulk
 ![[stand_0.gif]]
 ![[stand_1.gif]]
 ![[stand_2.gif]]

@@ -23,6 +23,7 @@ From a [[fastroll]], it is always possible to pick up items, as the controller a
 
 ___
 # Gifs
+## Bulk
 ![[rollpickup_0.gif]]
 ![[rollpickup_1.gif]]
 ![[rollpickup_2.gif]]

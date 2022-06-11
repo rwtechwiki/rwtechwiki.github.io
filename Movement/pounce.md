@@ -1,6 +1,6 @@
 Status: #partdone 
 
-Tags: #state, #fundimentals
+Tags: #type, #fundimentals
 
 # pounce- Pounce
 # Description:
@@ -16,6 +16,7 @@ It is always possible to [[roll]] out of the pounce state, with the exception of
 
 ___
 # Gifs
+## Bulk
 ![[pounce_0.gif]]
 ![[pounce_1.gif]]
 ![[pounce_2.gif]]

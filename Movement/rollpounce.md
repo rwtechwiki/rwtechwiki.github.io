@@ -23,9 +23,12 @@ It is possible to buffer the jump input in order to roll-pounce on the first fra
 
 ___
 # Gifs
-![[rollpounce_0.gif]]
+## Instant Variant
 ![[rollpounce_instant0.gif]]
 ![[rollpounce_instant1.gif]]
+
+## Bulk
+![[rollpounce_0.gif]]
 ![[rollpounce_1.gif]]
 ![[rollpounce_2.gif]]
 ![[rollpounce_3.gif]]

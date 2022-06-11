@@ -21,6 +21,7 @@ By turning around after [[walk|walking]] for more than 10 frames in the same dir
 
 ___
 # Gifs
+## Bulk
 ![[dashturn_0.gif]]
 ![[dashturn_1.gif]]
 ![[dashturn_2.gif]]

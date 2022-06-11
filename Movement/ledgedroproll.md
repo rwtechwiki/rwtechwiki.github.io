@@ -1,6 +1,6 @@
 Status: #stub
 
-Tags: #move
+Tags: #move, #initiator, [[roll]]
 
 # ledgedroproll - Ledge-Drop Roll
 ![[ledgedroproll_header.gif]]
@@ -11,7 +11,7 @@ Tags: #move
 
 
 # Performed from:
-[[ledgedrop]]
+[[ledgedropfastfall]]
 
 # Allows for:
 
@@ -21,6 +21,7 @@ Tags: #move
 
 ___
 # Gifs
+## Bulk
 ![[ledgedroproll_0.gif]]
 ![[ledgedroproll_1.gif]]
 ![[ledgedroproll_2.gif]]

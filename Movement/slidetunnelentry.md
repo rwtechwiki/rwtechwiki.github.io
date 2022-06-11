@@ -1,6 +1,6 @@
 Status: #stub, #needsgif 
 
-Tags: #move, #fundimentals 
+Tags: #move, #initiator, [[jumpstore]], #fundimentals 
 
 # slidetunnelentry - Slide Tunnel-Entry
 ![[slidetunnelentry_header.gif]]
@@ -21,3 +21,14 @@ There is a window to perform a [[tunnelslidepounce]] by pressing jump when the [
 
 ___
 # Gifs
+## Bulk
+![[slidetunnelentry_0.gif]]
+![[slidetunnelentry_1.gif]]
+![[slidetunnelentry_2.gif]]
+![[slidetunnelentry_3.gif]]
+![[slidetunnelentry_4.gif]]
+![[slidetunnelentry_5.gif]]
+![[slidetunnelentry_6.gif]]
+![[slidetunnelentry_7.gif]]
+![[slidetunnelentry_8.gif]]
+![[slidetunnelentry_9.gif]]

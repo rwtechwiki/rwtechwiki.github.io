@@ -23,6 +23,7 @@ It is possible to gain height by wall-jumping multiple consecutive times up a pa
 
 ___
 # Gifs
+## Bulk
 ![[walljump_0.gif]]
 ![[walljump_1.gif]]
 ![[walljump_2.gif]]

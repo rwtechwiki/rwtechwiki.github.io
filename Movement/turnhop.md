@@ -21,6 +21,7 @@ By pressing jump within the frames 10 through 20 of a [[dashturn]], slugcat will
 
 ___
 # Gifs
+## Bulk
 ![[turnhop_0.gif]]
 ![[turnhop_1.gif]]
 ![[turnhop_2.gif]]

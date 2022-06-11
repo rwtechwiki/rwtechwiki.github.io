@@ -24,13 +24,14 @@ There is a window to [[slidethrow]] by throwing an item forwards mid-slide.
 [[slide]]
 
 # Allows for:
-[[slidethrow]]
+[[eslidethrow]]
 
 # Chains to:
 [[ehop]], [[eflip]], [[eipounce]], [[epounce]]
 
 ___
 # Gifs
+## Bulk
 ![[eslide_0.gif]]
 ![[eslide_1.gif]]
 ![[eslide_2.gif]]

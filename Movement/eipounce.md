@@ -21,6 +21,7 @@ This move can only be performed if the extended slide begins on frame 14 or 15 o
 
 ___
 # Gifs
+## Bulk
 ![[eipounce_0.gif]]
 ![[eipounce_1.gif]]
 ![[eipounce_2.gif]]

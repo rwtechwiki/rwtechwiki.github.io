@@ -23,6 +23,7 @@ There is a version of this move called an [[eawallhop]] which requires an item t
 
 ___
 # Gifs
+## Bulk
 ![[awallhop_0.gif]]
 ![[awallhop_1.gif]]
 ![[awallhop_2.gif]]

@@ -21,6 +21,7 @@ Tags: #move, #fundimentals
 
 ___
 # Gifs
+## Bulk
 ![[walk_0.gif]]
 ![[walk_1.gif]]
 ![[walk_2.gif]]

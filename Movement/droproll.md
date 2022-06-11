@@ -21,6 +21,7 @@ Tags: #move, #initiator, [[roll]]
 
 ___
 # Gifs
+## Bulk
 ![[droproll_0.gif]]
 ![[droproll_1.gif]]
 ![[droproll_2.gif]]

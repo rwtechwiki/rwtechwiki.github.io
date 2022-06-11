@@ -1,6 +1,6 @@
 Status: #partdone
 
-Tags: #move, #variant, [[airhop]], [[hop]], #fundimentals
+Tags: #move, #variant, [[airhop]], [[hop]], [[turnstoredflip]], #fundimentals
 
 # crawlturnjump - Crawl-Turn Jump
 ![[crawlturnjump_header.gif]]
@@ -21,8 +21,11 @@ This gives slugcat roughly 1 extra tile of jump height, becoming able to [[ledge
 
 ___
 # Gifs
-![[crawlturnjump_0.gif]]
+## TS Variant
 ![[crawlturnjump_TS.gif]]
+
+## Bulk
+![[crawlturnjump_0.gif]]
 ![[crawlturnjump_1.gif]]
 ![[crawlturnjump_2.gif]]
 ![[crawlturnjump_3.gif]]
