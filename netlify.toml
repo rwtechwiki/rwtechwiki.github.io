@@ -43,7 +43,7 @@ ROOT_SECTION_NAME = "main"
 GRAPH_OPTIONS = """
         {
         	nodes: {
-        		shape: "circle",
+        		shape: "dot",
         		color: isDark() ? "#8c8e91" : "#dee2e6",
         		font: {
         			face: "Inter",
@@ -57,10 +57,10 @@ GRAPH_OPTIONS = """
         		},
         	},
         	edges: {
-        		color: { #A4A4FF },
+        		color: { inherit: "both" },
         		width: 0.8,
         		smooth: {
-        			type: "straight",
+        			type: "continuous",
         		},
         		hoverWidth: 4,
         	},
@@ -74,3 +74,24 @@ GRAPH_OPTIONS = """
         	},
         }
         """
+
+[[plugins]]
+package = "netlify-plugin-submit-sitemap"
+
+[plugins.inputs]
+
+# The base url of your site (optional, default = main URL set in Netlify)
+baseUrl = "https://rwmovementwiki.netlify.app/"
+
+# Path to the sitemap URL (optional, default = /sitemap.xml)
+sitemapPath = "/sitemap.xml"
+
+# Time in seconds to not submit the sitemap after successful submission
+ignorePeriod = 0
+
+# Enabled providers to submit sitemap to (optional, default = 'google', 'bing', 'yandex'). Possible providers are currently only 'google', 'bing', 'yandex'.
+providers = [
+  "google",
+  "bing",
+  "yandex",
+]
