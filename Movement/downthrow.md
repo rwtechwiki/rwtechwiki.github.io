@@ -21,6 +21,7 @@ move continuation
 
 ___
 # Gifs
+## Bulk
 ![[downthrow_0.gif]]
 ![[downthrow_1.gif]]
 ![[downthrow_2.gif]]

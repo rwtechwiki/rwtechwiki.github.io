@@ -21,6 +21,7 @@ Tags: #move
 
 ___
 # Gifs
+## Bulk
 ![[flippmjump_0.gif]]
 ![[flippmjump_1.gif]]
 ![[flippmjump_2.gif]]

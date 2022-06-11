@@ -1,6 +1,6 @@
 Status: #done
 
-Tags: #move, #fundimentals
+Tags: #move, #initiator, [[turnstore]], #fundimentals
 
 # slide - Slide
 ![[slide_header.gif]]
@@ -29,7 +29,7 @@ If a slide crosses over a vertical tunnel entrance, it is possible to convert mo
 Similarly if the slide enters a ground level horizontal tunnel entrance, a well-timed jump will give slugcat 8 jumpstorage.
 
 # Performed from:
-[[walk]], [[rollslide]], [[ledgedrop]]
+[[walk]], [[rollslide]], [[ledgedropfastfall]]
 
 # Allows for:
 [[slidethrow]]
@@ -39,6 +39,7 @@ Similarly if the slide enters a ground level horizontal tunnel entrance, a well-
 
 ___
 # Gifs
+## Bulk
 ![[slide_0.gif]]
 ![[slide_1.gif]]
 ![[slide_2.gif]]

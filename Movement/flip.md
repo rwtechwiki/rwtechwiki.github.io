@@ -1,6 +1,6 @@
 Status: #partdone 
 
-Tags: #state, #fundimentals
+Tags: #type, #fundimentals
 
 # flip - Flip
 # Description:
@@ -18,6 +18,7 @@ It is always possible to [[downthrow]] during the flip state.
 
 ___
 # Gifs
+## Bulk
 ![[flip_0.gif]]
 ![[flip_1.gif]]
 ![[flip_2.gif]]

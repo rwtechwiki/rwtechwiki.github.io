@@ -1,6 +1,6 @@
 Status: #stub, #needsgif
 
-Tags: #move, #fundimentals
+Tags: #move, #initiator, [[turnstore]], #fundimentals
 
 # crouch - Crouch
 ![[crouch_header.gif]]
@@ -21,6 +21,7 @@ By pressing down, slugcat enters a crouching position, where it can crawl around
 
 ___
 # Gifs
+## Bulk
 ![[crouch_0.gif]]
 ![[crouch_1.gif]]
 ![[crouch_2.gif]]

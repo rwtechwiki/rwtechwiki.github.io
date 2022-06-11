@@ -115,17 +115,17 @@ Tags: #collection
 ![[rollslide_header.gif]]
 
 ## Misc Roll-Starters:
-[[tiledroproll]]
-![[tiledroproll_header.gif]]
+[[ledgedroproll]]
+![[ledgedroproll_header.gif]]
 [[ledgehang]]
 ![[ledgehang_header.gif]]
 [[crawlturnfastfall]]
 ![[crawlturnfastfall_header.gif]]
-[[jumptumbleroll]]
+[[jumptumble]]
 ![[jumptumble_header.gif]]
 [[crawlturnroll]]
 ![[crawlturnroll_header.gif]]
-[[crouchtumbleroll]]
+[[crouchtumble]]
 ![[crouchtumble_header.gif]]
 
 # Poles:
@@ -139,9 +139,9 @@ Tags: #collection
 
 ## Pole-Momentum:
 [[flippmjump]]
-![[flippm_header.gif]]
+![[flippmjump_header.gif]]
 [[slidepmjump]]
-![[slidepm_header.gif]]
+![[slidepmjump_header.gif]]
 
 ## Horizontal Pole Movement:
 [[polepullupjump]]
@@ -149,7 +149,7 @@ Tags: #collection
 [[polehop]]
 ![[polehop_header.gif]]
 [[fastpolecrawl]]
-![[fastpolecrawling_header.gif]]
+![[fastpolecrawl_header.gif]]
 
 # Turns:
 ## Dash-Turns:
@@ -161,10 +161,10 @@ Tags: #collection
 ![[turnhop_header.gif]]
 
 ## Storing Turns:
-[[turnstorage]]
-![[turnstorage_header.gif]]
-[[turnexecution]]
-![[turnexecution_header.gif]]
+[[turnstore]]
+![[turnstore_header.gif]]
+[[turnstoredflip]]
+![[turnstoredflip_header.gif]]
 
 ## Crawl-Turns:
 [[crawlturn]]
@@ -181,10 +181,10 @@ Tags: #collection
 ![[quickcrawlturnjump_header.gif]]
 
 # Jump-Boost:
-[[jumpstorage]]
-![[jumpstorage_header.gif]]
-[[jumpexecution]]
-![[jumpexecution_header.gif]]
+[[jumpstore]]
+![[jumpstore_header.gif]]
+[[jumpstoredboost]]
+![[jumpstoredboost_header.gif]]
 
 # Water Movement:
 [[waterboost]]
@@ -197,7 +197,7 @@ Tags: #collection
 # Combat:
 ## Throwing Weapons:
 [[throw]]
-![[throw_header.gif]]
+![[throw_0.gif]]
 [[spearpin]]
 ![[spearpin_header.gif]]
 [[mouthspear]]
@@ -208,12 +208,6 @@ Tags: #collection
 ## Slide Throwing:
 [[slidethrow]]
 ![[slidethrow_header.gif]]
-[[slidethrowpounce]]
-![[slidethrowpounce_header.gif]]
-[[slidethrowflip]]
-![[slidethrowflip_header.gif]]
-[[eslidethrow]]
-![[eslidethrow_header.gif]]
 
 ## Vertical Throwing:
 [[downthrow]]

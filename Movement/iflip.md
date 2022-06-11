@@ -1,6 +1,6 @@
 Status: #partdone
 
-Tags: #move, #variant, [[flip]]
+Tags: #move, #variant, [[flip]], [[jumpstoredboost]]
 
 # iflip - Instant Slide-Flip
 ![[iflip_header.gif]]
@@ -21,6 +21,7 @@ Due to the slide not fully starting, jumpstorage does not interfere with this mo
 
 ___
 # Gifs
+## Bulk
 ![[iflip_0.gif]]
 ![[iflip_1.gif]]
 ![[iflip_2.gif]]

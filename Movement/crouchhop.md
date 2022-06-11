@@ -21,6 +21,7 @@ Tags: #move
 
 ___
 # Gifs
+## Bulk
 ![[crouchhop_0.gif]]
 ![[crouchhop_1.gif]]
 ![[crouchhop_2.gif]]

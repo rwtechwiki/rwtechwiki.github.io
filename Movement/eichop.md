@@ -21,6 +21,7 @@ If down is input on frame 2 of an [[ehop]], the move becomes an eichop, giving s
 
 ___
 # Gifs
+## Bulk
 ![[eichop_0.gif]]
 ![[eichop_1.gif]]
 ![[eichop_2.gif]]

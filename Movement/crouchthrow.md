@@ -21,6 +21,7 @@ By throwing as slugcat is transitioning from [[stand]] to [[crouch]], a thrown i
 
 ___
 # Gifs
+## Bulk
 ![[crouchthrow_0.gif]]
 ![[crouchthrow_1.gif]]
 ![[crouchthrow_2.gif]]

@@ -21,6 +21,7 @@ At the end of an [[eslide]], slugcat is popped upright out of crouching state. I
 
 ___
 # Gifs
+## Bulk
 ![[eairhop_0.gif]]
 ![[eairhop_1.gif]]
 ![[eairhop_2.gif]]

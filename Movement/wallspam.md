@@ -21,6 +21,7 @@ Tags: #move
 
 ___
 # Gifs
+## Bulk
 ![[wallspam_0.gif]]
 ![[wallspam_1.gif]]
 ![[wallspam_2.gif]]

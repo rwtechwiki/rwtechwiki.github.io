@@ -1,6 +1,6 @@
 Status: #partdone
 
-Tags: #move, #variant, [[hop]], #fundimentals
+Tags: #move, #variant, [[hop]], [[turnstoredflip]], #fundimentals
 
 # jump - Jump
 ![[jump_header.gif]]
@@ -21,6 +21,7 @@ By inputting jump while on the ground, slugcat can jump 2 tiles into the air. Th
 
 ___
 # Gifs
+## Bulk
 ![[jump_0.gif]]
 ![[jump_1.gif]]
 ![[jump_2.gif]]

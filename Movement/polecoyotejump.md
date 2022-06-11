@@ -21,6 +21,7 @@ It is possible to perform the equivalent of a [[coyotejump]] from the tip of a v
 
 ___
 # Gifs
+## Bulk
 ![[polecoyotejump_0.gif]]
 ![[polecoyotejump_1.gif]]
 ![[polecoyotejump_2.gif]]

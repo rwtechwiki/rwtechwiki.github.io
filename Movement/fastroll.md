@@ -21,6 +21,7 @@ Due to the shortened duration of this move, it is not possible for it to produce
 
 ___
 # Gifs
+## Bulk
 ![[fastroll_0.gif]]
 ![[fastroll_1.gif]]
 ![[fastroll_2.gif]]

@@ -1,6 +1,6 @@
 Status: #stub
 
-Tags: #move
+Tags: #move, #variant, [[jumpstoredboost]]
 
 # quickcrawlturnjump - Quick Crawl-Turn Jump
 ![[quickcrawlturnjump_header.gif]]
@@ -21,6 +21,7 @@ Tags: #move
 
 ___
 # Gifs
+## Bulk
 ![[quickcrawlturnjump_0.gif]]
 ![[quickcrawlturnjump_1.gif]]
 ![[quickcrawlturnjump_2.gif]]

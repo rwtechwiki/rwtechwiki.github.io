@@ -22,6 +22,16 @@ Due to the downward trajectory of the item initially, slugcat can slidethrow a s
 
 ___
 # Gifs
+## Pounce Variant
+![[slidethrow_pounce.gif]]
+
+## Flip Variant
+![[slidethrow_flip.gif]]
+
+## Extended Variant
+![[slidethrow_extended.gif]]
+
+## Bulk
 ![[slidethrow_0.gif]]
 ![[slidethrow_1.gif]]
 ![[slidethrow_2.gif]]

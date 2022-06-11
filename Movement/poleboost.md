@@ -21,6 +21,7 @@ Due to the endlag, this is not worth it unless you plan to jump off the pole imm
 
 ___
 # Gifs
+## Bulk
 ![[poleboost_0.gif]]
 ![[poleboost_1.gif]]
 ![[poleboost_2.gif]]

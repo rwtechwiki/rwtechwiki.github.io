@@ -21,6 +21,7 @@ A variant of a [[pounce]], produced by pressing jump during frames 27 through 31
 
 ___
 # Gifs
+## Bulk
 ![[epounce_0.gif]]
 ![[epounce_1.gif]]
 ![[epounce_2.gif]]

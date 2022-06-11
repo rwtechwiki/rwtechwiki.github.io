@@ -11,7 +11,7 @@ Tags: #move
 
 
 # Performed from:
-
+[[hop]]
 
 # Allows for:
 
@@ -21,6 +21,7 @@ Tags: #move
 
 ___
 # Gifs
+## Bulk
 ![[poletipsnap_0.gif]]
 ![[poletipsnap_1.gif]]
 ![[poletipsnap_2.gif]]

@@ -21,6 +21,7 @@ By inputting throw the frame after a [[walljump]], still holding towards the wal
 
 ___
 # Gifs
+## Bulk
 ![[eawallhop_0.gif]]
 ![[eawallhop_1.gif]]
 ![[eawallhop_2.gif]]

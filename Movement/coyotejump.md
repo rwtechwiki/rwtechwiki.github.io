@@ -23,8 +23,11 @@ This move works identically when walking off the tip of a horizontal pole.
 
 ___
 # Gifs
-![[coyotejump_0.gif]]
+## Pole Variant
 ![[coyotejump_pole.gif]]
+
+## Bulk
+![[coyotejump_0.gif]]
 ![[coyotejump_1.gif]]
 ![[coyotejump_2.gif]]
 ![[coyotejump_3.gif]]

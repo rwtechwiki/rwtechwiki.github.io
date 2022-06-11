@@ -21,9 +21,12 @@ There is a window to [[eichop]] by inputting down on frame 2, if the ehop had a 
 
 ___
 # Gifs
-![[ehop_0.gif]]
+## Instant Variant
 ![[ehop_instant0.gif]]
 ![[ehop_instant1.gif]]
+
+## Bulk
+![[ehop_0.gif]]
 ![[ehop_1.gif]]
 ![[ehop_2.gif]]
 ![[ehop_3.gif]]

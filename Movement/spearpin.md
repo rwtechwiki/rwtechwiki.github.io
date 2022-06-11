@@ -21,8 +21,12 @@ Tags: #move
 
 ___
 # Gifs
+## Down-Throw Variant
+[[downthrow]]
 ![[spearpin_down0.gif]]
 ![[spearpin_down1.gif]]
+
+## Bulk
 ![[spearpin_0.gif]]
 ![[spearpin_1.gif]]
 ![[spearpin_2.gif]]

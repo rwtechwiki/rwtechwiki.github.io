@@ -1,6 +1,6 @@
 Status: #partdone
 
-Tags: #move, #variant, [[pounce]]
+Tags: #move, #variant, [[pounce]], [[jumpstoredboost]]
 
 # ipounce - Instant Slide-Pounce
 ![[ipounce_header.gif]]
@@ -21,6 +21,7 @@ Due to the slide not fully starting, jumpstorage does not interfere with this mo
 
 ___
 # Gifs
+## Bulk
 ![[ipounce_0.gif]]
 ![[ipounce_1.gif]]
 ![[ipounce_2.gif]]

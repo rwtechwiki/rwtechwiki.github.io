@@ -1,6 +1,6 @@
 Status: #partdone 
 
-Tags: #state
+Tags: #type
 
 # fastfall - Fast-Fall
 # Description:
@@ -14,6 +14,7 @@ It is possible to accelerate slugcat faster than normal midair by beginning a fa
 
 ___
 # Gifs
+## Bulk
 ![[fastfall_0.gif]]
 ![[fastfall_1.gif]]
 ![[fastfall_2.gif]]

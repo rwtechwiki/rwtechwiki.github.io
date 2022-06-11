@@ -1,6 +1,6 @@
 Status: #stub
 
-Tags: #state
+Tags: #type
 
 # throw - Throw
 # Description:
@@ -10,10 +10,11 @@ Tags: #state
 
 
 # Variants:
-[[throwboost]], [[throwtumbleroll]], [[slidethrow]], [[slidethrowpounce]], [[slidethrowflip]], [[downthrow]], [[eslide]], [[eslidethrow]], [[crouchthrow]]
+[[throwboost]], [[throwtumble]], [[slidethrow]], [[downthrow]], [[eslide]], [[crouchthrow]]
 
 ___
 # Gifs
+## Bulk
 ![[throw_0.gif]]
 ![[throw_1.gif]]
 ![[throw_2.gif]]

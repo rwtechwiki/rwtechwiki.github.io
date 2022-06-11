@@ -14,13 +14,14 @@ A variant of a [[pounce]], produced by pressing jump during frames 14 through 16
 [[slide]]
 
 # Allows for:
-
+[[slidethrow]]
 
 # Chains to:
 [[crouch]], [[pounceroll]]
 
 ___
 # Gifs
+## Bulk
 ![[slidepounce_0.gif]]
 ![[slidepounce_1.gif]]
 ![[slidepounce_2.gif]]

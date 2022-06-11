@@ -21,6 +21,7 @@ Tags: #move
 
 ___
 # Gifs
+## Bulk
 ![[polehop_0.gif]]
 ![[polehop_1.gif]]
 ![[polehop_2.gif]]
