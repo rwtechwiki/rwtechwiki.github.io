@@ -70,11 +70,10 @@ GRAPH_OPTIONS = """
         	physics: {
         		"barnesHut": {
                                 "theta": 0.1,
-                                "gravitationalConstant": -10050,
-                                "centralGravity": 1.85,
+                                "gravitationalConstant": -10000,
+                                "centralGravity": 0,
                                 "springLength": 0,
-                                "damping": 0.2,
-                                "avoidOverlap": 1
+                                "damping": 0.2
                         }
                 },
                 "minVelocity": 0.75
