@@ -61,20 +61,20 @@ GRAPH_OPTIONS = """
         	edges: {
         		color: { inherit: "both" },
         		width: 0.8,
-                        "smooth": { "forceDirection": "none" },
+                        "smooth": "false",
         		hoverWidth: 4,
         	},
         	interaction: { hover: true },
         	height: "100%",
         	width: "100%",
         	physics: {
-        		"barnesHut": {
-                                "theta": 0.1,
-                                "gravitationalConstant": -10000,
-                                "centralGravity": 0,
-                                "springLength": 0,
-                                "damping": 0.2
-                        }
+        		"repulsion": {
+                        "springLength": 0,
+                        "springConstant": 0.04,
+                        "nodeDistance": 115
+                        },
+                        "minVelocity": 0.75,
+                        "solver": "repulsion"
                 },
                 "minVelocity": 0.75
         }
