@@ -3,7 +3,7 @@ Status: #partdone
 Tags: #collection
 
 # Movement Guide
-![[testimage.png]]
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/testimage.png>
 ## Expected Knowledge
 [[jump]]
 ![[jump_header.gif]]
