@@ -60,21 +60,24 @@ GRAPH_OPTIONS = """
         	},
         	edges: {
         		color: { inherit: "both" },
-        		width: 4,
-        		smooth: {
-        			type: "continuous",
-        		},
-        		hoverWidth: 0.8,
+        		width: 0.8,
+                        "smooth": { "forceDirection": "none" },
+        		hoverWidth: 4,
         	},
-        	interaction: {
-        		hover: true,
-        	},
+        	interaction: { hover: true },
         	height: "100%",
         	width: "100%",
         	physics: {
-        		solver: "repulsion",
-                        minVelocity: 0.75,
-        	},
+        		"barnesHut": {
+                                "theta": 0.1,
+                                "gravitationalConstant": -10050,
+                                "centralGravity": 1.85,
+                                "springLength": 0,
+                                "damping": 0.2,
+                                "avoidOverlap": 1
+                        }
+                },
+                "minVelocity": 0.75
         }
         """
 
