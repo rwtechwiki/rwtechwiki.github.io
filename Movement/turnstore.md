@@ -4,19 +4,19 @@ Tags: #move
 
 # turnstore - Turn-Store
 ![[turnstore_header.gif]]
-# Description:
+## Description
 
 
-# Notes:
+## Notes
 
 
-# Performed from:
+## Performed from
 [[crouch]], [[slide]], [[ledgedrop]], [[polegrab]], other stand interruptions
 
-# Allows for:
+## Allows for
 [[turnstoredflip]]
 
-# Chains to:
+## Chains to
 
 
 ___

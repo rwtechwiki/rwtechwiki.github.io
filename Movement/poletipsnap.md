@@ -4,19 +4,19 @@ Tags: #move
 
 # poletipsnap - Pole-Tip Snap
 ![[poletipsnap_header.gif]]
-# Description:
+## Description
 
 
-# Notes:
+## Notes
 
 
-# Performed from:
+## Performed from
 [[hop]]
 
-# Allows for:
+## Allows for
 
 
-# Chains to:
+## Chains to
 
 
 ___

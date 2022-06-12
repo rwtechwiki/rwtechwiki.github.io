@@ -4,19 +4,19 @@ Tags: #move, #initiator, [[roll]]
 
 # ledgedroproll - Ledge-Drop Roll
 ![[ledgedroproll_header.gif]]
-# Description:
+## Description
 
 
-# Notes:
+## Notes
 
 
-# Performed from:
+## Performed from
 [[ledgedropfastfall]]
 
-# Allows for:
+## Allows for
 
 
-# Chains to:
+## Chains to
 
 
 ___

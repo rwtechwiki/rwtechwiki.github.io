@@ -4,19 +4,19 @@ Tags: #move, #variant, [[hop]], #fundimentals
 
 # turnhop - Turn-Hop
 ![[turnhop_header.gif]]
-# Description:
+## Description
 By pressing jump within the frames 10 through 20 of a [[dashturn]], slugcat will hop, preserving the momentum from the dash-turn.
 
-# Notes:
+## Notes
 
 
-# Performed from:
+## Performed from
 [[dashturn]]
 
-# Allows for:
+## Allows for
 
 
-# Chains to:
+## Chains to
 
 
 ___

@@ -3,13 +3,13 @@ Status: #stub
 Tags: #type
 
 # {{title}} - name
-# Description:
+## Description
 
 
-# Notes:
+## Notes
 
 
-# Variants:
+## Variants
 
 
 ___

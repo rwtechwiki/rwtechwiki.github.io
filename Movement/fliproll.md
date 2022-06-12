@@ -4,19 +4,19 @@ Tags: #move, #initiator, [[roll]], #fundimentals
 
 # fliproll - Flip-Roll
 ![[fliproll_header.gif]]
-# Description:
+## Description
 It is possible to [[roll]] from the [[flip]] state by holding down and forward for enough frames before landing.
 
-# Notes:
+## Notes
 
 
-# Performed from:
+## Performed from
 [[flip]]
 
-# Allows for:
+## Allows for
 
 
-# Chains to:
+## Chains to
 [[roll]]
 
 ___

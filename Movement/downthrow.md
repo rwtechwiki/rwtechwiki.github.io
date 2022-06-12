@@ -4,19 +4,19 @@ Tags: #move, #variant, [[throw]], #fundimentals
 
 # downthrow - Down-Throw
 ![[downthrow_header.gif]]
-# Description:
+## Description
 It is possible to throw an item downwards out of the flip state, by holding only the down input direction and pressing throw.
 
-# Notes:
+## Notes
 Spears thrown downwards have the same potential to embed in the ground as when thrown at walls, and will act as a 2-tile vertical pole if they do.
 
-# Performed from:
+## Performed from
 [[turnflip]], [[slideflip]], [[eflip]], [[iflip]]
 
-# Allows for:
+## Allows for
 move continuation
 
-# Chains to:
+## Chains to
 
 
 ___

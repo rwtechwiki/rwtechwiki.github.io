@@ -4,20 +4,20 @@ Tags: #move, #initiator, [[turnstore]]
 
 # polegrab - Pole-Grab
 ![[polegrab_header.gif]]
-# Description:
+## Description
 
 
-# Notes:
+## Notes
 
 
-# Performed from:
+## Performed from
 
 
-# Allows for:
+## Allows for
 
 
-# Chains to:
-[[flippmjump]], [[poleboostpmjump]], [[jumppmjump]], [[slidepmjump]], [[poleregrablagcancel]], [[fastpolecrawl]]
+## Chains to
+[[flippmjump]], [[poleboostpmjump]], [[jumppmjump]], [[slidepmjump]], [[poleregrablagcancel]], [[poleregrabcrawl]]
 
 ___
 # Gifs

@@ -3,13 +3,13 @@ Status: #stub
 Tags: #type
 
 # wallhop - Wall-Hop
-# Description:
+## Description
 
 
-# Notes:
+## Notes
 
 
-# Variants:
+## Variants
 [[awallhop]], [[eawallhop]], [[gwallhop]]
 
 ___

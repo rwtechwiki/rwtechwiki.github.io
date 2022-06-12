@@ -4,19 +4,19 @@ Tags: #move, #fundimentals
 
 # mouthspear - Mouth-Spear
 ![[mouthspear_header.gif]]
-# Description:
+## Description
 If a thrown spear is travelling downwards towards a lizard's mouth, while it is open, the spear will embed in the head chunk rather than bouncing off. This deals 1.5x damage to the lizard and will stun it for significant time.
 
-# Notes:
+## Notes
 
 
-# Performed from:
+## Performed from
 [[slidethrow]], [[crouchthrow]]
 
-# Allows for:
+## Allows for
 
 
-# Chains to:
+## Chains to
 
 
 ___

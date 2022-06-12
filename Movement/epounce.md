@@ -4,19 +4,19 @@ Tags: #move, #variant, [[pounce]], #fundimentals
 
 # epounce - Extended Slide-Pounce
 ![[epounce_header.gif]]
-# Description:
+## Description
 A variant of a [[pounce]], produced by pressing jump during frames 27 through 31 (after the throw input) of an [[eslide]]. It is always possible to [[pounceroll]] from this move.
 
-# Notes:
+## Notes
 
 
-# Performed from:
+## Performed from
 [[eslide]]
 
-# Allows for:
+## Allows for
 
 
-# Chains to:
+## Chains to
 [[crouch]], [[pounceroll]]
 
 ___

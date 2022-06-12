@@ -4,19 +4,19 @@ Tags: #move
 
 # spearpin - Spear-Pin
 ![[spearpin_header.gif]]
-# Description:
+## Description
 
 
-# Notes:
+## Notes
 
 
-# Performed from:
+## Performed from
 [[throw]]
 
-# Allows for:
+## Allows for
 
 
-# Chains to:
+## Chains to
 
 
 ___

@@ -4,21 +4,21 @@ Tags: #move, #initiator, [[crawlturnroll]]
 
 # jumptumble - Jump-Tumble
 ![[jumptumble_header.gif]]
-# Description:
+## Description
 By holding up while slugcat is [[walk|walking]], and releasing up around the time of a [[jump]], slugcat will rotate backwards midair. By holding foward and down for long enough before hitting the ground, it is possible to [[crawlturnroll]] from this really fucked up jump.
 
-# Notes:
+## Notes
 This move is made significantly easier if the jump lands 1 tile lower than it began.
 
 With an item throw, the window to perform this move gets bigger.
 
-# Performed from:
+## Performed from
 [[walk]]
 
-# Allows for:
+## Allows for
 
 
-# Chains to:
+## Chains to
 [[crawlturnroll]]
 
 ___

@@ -3,13 +3,13 @@ Status: #stub
 Tags: #type
 
 # throw - Throw
-# Description:
+## Description
 
 
-# Notes:
+## Notes
 
 
-# Variants:
+## Variants
 [[throwboost]], [[throwtumble]], [[slidethrow]], [[downthrow]], [[eslide]], [[crouchthrow]]
 
 ___

@@ -4,19 +4,19 @@ Tags: #move, #fundimentals
 
 # stand - Stand
 ![[stand_header.gif]]
-# Description:
+## Description
 By pressing up, slugcat enters a standing position, where it can [[walk]] around.
 
-# Notes:
+## Notes
 
 
-# Performed from:
+## Performed from
 
 
-# Allows for:
+## Allows for
 
 
-# Chains to:
+## Chains to
 [[walk]]
 
 ___

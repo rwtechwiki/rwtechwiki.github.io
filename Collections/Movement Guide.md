@@ -2,12 +2,12 @@ Status: #partdone
 
 Tags: #collection
 
-# Expected Knowledge:
+## Expected Knowledge
 [[jump]]
 ![[jump_header.gif]]
 
-# Basic Moves:
-## Jumping:
+## Basic Moves
+### Jumping
 [[ledgepullup]]
 ![[ledgepullup_header.gif]]
 [[wallslide]]
@@ -25,7 +25,7 @@ Tags: #collection
 [[awallhop]]
 ![[awallhop_header.gif]]
 
-## Charge-Hopping:
+### Charge-Hopping
 [[chargehop]]
 ![[chargehop_header.gif]]
 [[airorientation]]
@@ -35,7 +35,7 @@ Tags: #collection
 [[throwboost]]
 ![[throwboost_header.gif]]
 
-## Turning Around:
+### Turning Around
 [[dashturn]]
 ![[dashturn_header.gif]]
 [[turnflip]]
@@ -43,7 +43,7 @@ Tags: #collection
 [[turnhop]]
 ![[turnhop_header.gif]]
 
-# Tunnels:
+## Tunnels
 [[tunnelturn]]
 ![[tunnelturn_header.gif]]
 [[tunnelfreefall]]
@@ -51,8 +51,8 @@ Tags: #collection
 [[tunnelboost]]
 ![[tunnelboost_header.gif]]
 
-# Slides:
-## Basic Slide:
+## Slides
+### Basic Slide
 [[slide]]
 ![[slide_header.gif]]
 [[slidetunnelentry]]
@@ -62,7 +62,7 @@ Tags: #collection
 [[slideparkour]]
 ![[slideparkour_header.gif]]
 
-## Slide-Pouncing:
+### Slide-Pouncing
 [[slidepounce]]
 ![[slidepounce_header.gif]]
 [[crouchhop]]
@@ -70,13 +70,13 @@ Tags: #collection
 [[ipounce]]
 ![[ipounce_header.gif]]
 
-## Slide-Flipping:
+### Slide-Flipping
 [[slideflip]]
 ![[slideflip_header.gif]]
 [[iflip]]
 ![[iflip_header.gif]]
 
-## Extended Sliding:
+### Extended Sliding
 [[eslide]]
 ![[eslide_header.gif]]
 [[ehop]]
@@ -94,7 +94,7 @@ Tags: #collection
 [[denboost]]
 ![[denboost_header.gif]]
 
-# Rolls:
+## Rolls
 [[roll]]
 ![[roll_header.gif]]
 [[droproll]]
@@ -102,19 +102,19 @@ Tags: #collection
 [[fastroll]]
 ![[fastroll_header.gif]]
 
-## Chaining From Moves:
+### Chaining From Moves
 [[fliproll]]
 ![[fliproll_header.gif]]
 [[pounceroll]]
 ![[pounceroll_header.gif]]
 
-## Roll-Pouncing:
+### Roll-Pouncing
 [[rollpounce]]
 ![[rollpounce_header.gif]]
 [[rollslide]]
 ![[rollslide_header.gif]]
 
-## Misc Roll-Starters:
+### Misc Roll-Starters
 [[ledgedroproll]]
 ![[ledgedroproll_header.gif]]
 [[ledgehang]]
@@ -128,8 +128,8 @@ Tags: #collection
 [[crouchtumble]]
 ![[crouchtumble_header.gif]]
 
-# Poles:
-## Vertical Pole Movement:
+## Poles
+### Vertical Pole Movement
 [[poleboost]]
 ![[poleboost_header.gif]]
 [[poletipsnap]]
@@ -137,22 +137,22 @@ Tags: #collection
 [[poleregrablagcancel]]
 ![[poleregrablagcancel_header.gif]]
 
-## Pole-Momentum:
+### Pole-Momentum
 [[flippmjump]]
 ![[flippmjump_header.gif]]
 [[slidepmjump]]
 ![[slidepmjump_header.gif]]
 
-## Horizontal Pole Movement:
+### Horizontal Pole Movement
 [[polepullupjump]]
 ![[polepullupjump_header.gif]]
 [[polehop]]
 ![[polehop_header.gif]]
-[[fastpolecrawl]]
+[[poleregrabcrawl]]
 ![[fastpolecrawl_header.gif]]
 
-# Turns:
-## Dash-Turns:
+## Turns
+### Dash-Turns
 [[dashturn]]
 ![[dashturn_header.gif]]
 [[turnflip]]
@@ -160,13 +160,13 @@ Tags: #collection
 [[turnhop]]
 ![[turnhop_header.gif]]
 
-## Storing Turns:
+### Storing Turns
 [[turnstore]]
 ![[turnstore_header.gif]]
 [[turnstoredflip]]
 ![[turnstoredflip_header.gif]]
 
-## Crawl-Turns:
+### Crawl-Turns
 [[crawlturn]]
 ![[crawlturn_header.gif]]
 [[crawlturnroll]]
@@ -180,13 +180,13 @@ Tags: #collection
 [[quickcrawlturnjump]]
 ![[quickcrawlturnjump_header.gif]]
 
-# Jump-Boost:
+## Jump-Boost
 [[jumpstore]]
 ![[jumpstore_header.gif]]
 [[jumpstoredboost]]
 ![[jumpstoredboost_header.gif]]
 
-# Water Movement:
+## Water Movement
 [[waterboost]]
 ![[waterboost_header.gif]]
 [[wiggleswimming]]
@@ -194,8 +194,8 @@ Tags: #collection
 [[waterhop]]
 ![[waterhop_header.gif]]
 
-# Combat:
-## Throwing Weapons:
+## Combat
+### Throwing Weapons
 [[throw]]
 ![[throw_0.gif]]
 [[spearpin]]
@@ -205,11 +205,11 @@ Tags: #collection
 [[crouchthrow]]
 ![[crouchthrow_header.gif]]
 
-## Slide Throwing:
+### Slide Throwing
 [[slidethrow]]
 ![[slidethrow_header.gif]]
 
-## Vertical Throwing:
+### Vertical Throwing
 [[downthrow]]
 ![[downthrow_header.gif]]
 [[slopeslidespear]]

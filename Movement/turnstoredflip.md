@@ -3,13 +3,13 @@ Status: #stub
 Tags: #type
 
 # turnstoredflip - Turn-Stored Flip
-# Description:
+## Description
 
 
-# Notes:
+## Notes
 
 
-# Variants:
+## Variants
 [[jump]], [[slideflipbounce]], [[crawlturnjump]]
 
 ___

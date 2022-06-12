@@ -4,19 +4,19 @@ Tags: #move, #initiator, [[turnstore]], #fundimentals
 
 # crouch - Crouch
 ![[crouch_header.gif]]
-# Description:
+## Description
 By pressing down, slugcat enters a crouching position, where it can crawl around.
 
-# Notes:
+## Notes
 
 
-# Performed from:
+## Performed from
 
 
-# Allows for:
+## Allows for
 
 
-# Chains to:
+## Chains to
 
 
 ___

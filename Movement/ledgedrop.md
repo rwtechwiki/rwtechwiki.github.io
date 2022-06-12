@@ -4,19 +4,19 @@ Tags: #move, #initiator, [[turnstore]]
 
 # ledgedrop - Ledge-Drop
 ![[ledgedrop_header.gif]]
-# Description:
+## Description
 
 
-# Notes:
+## Notes
 
 
-# Performed from:
+## Performed from
 [[walk]]
 
-# Allows for:
+## Allows for
 
 
-# Chains to:
+## Chains to
 [[ledgedropfastfall]]
 
 ___

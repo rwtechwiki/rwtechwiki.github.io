@@ -2,7 +2,7 @@ Status: #partdone
 
 Tags: #collection 
 
-# Beginner:
+## Beginner:
 [[ledgepullup]]
 ![[ledgepullup_header.gif]]
 [[walljump]]
@@ -16,7 +16,7 @@ Tags: #collection
 [[tunnelturn]]
 ![[tunnelturn_header.gif]]
 
-# Intermediate:
+## Intermediate:
 [[slide]]
 ![[slide_header.gif]]
 [[slidepounce]]
@@ -28,7 +28,7 @@ Tags: #collection
 [[crouchhop]]
 ![[crouchhop_0.gif]]
 
-# Adept:
+## Adept:
 [[poleregrablagcancel]]
 ![[poleregrablagcancel_header.gif]]
 [[mouthspear]]
@@ -39,7 +39,7 @@ Tags: #collection
 [[slideflip]]
 ![[slideflip_header.gif]]
 
-# Advanced:
+## Advanced:
 [[crawlturnjump]]
 ![[crawlturnjump_header.gif]]
 [[flippmjump]]

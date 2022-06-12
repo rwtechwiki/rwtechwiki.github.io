@@ -4,19 +4,19 @@ Tags: #move, #variant, [[airhop]], [[hop]]
 
 # polecoyotejump - Pole Coyote Jump
 ![[polecoyotejump_header.gif]]
-# Description:
+## Description
 It is possible to perform the equivalent of a [[coyotejump]] from the tip of a vertical pole by holding to lean slugcat towards one side until its legs slip from the pole, then jumping within 5 frames.
 
-# Notes:
+## Notes
 
 
-# Performed from:
+## Performed from
 
 
-# Allows for:
+## Allows for
 
 
-# Chains to:
+## Chains to
 
 
 ___

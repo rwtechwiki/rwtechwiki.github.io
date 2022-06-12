@@ -4,19 +4,19 @@ Tags: #move, #variant, [[hop]], [[turnstoredflip]], #fundimentals
 
 # jump - Jump
 ![[jump_header.gif]]
-# Description:
+## Description
 By inputting jump while on the ground, slugcat can jump 2 tiles into the air. This allows for scaling 4-tile-high walls using a [[ledgepullup]].
 
-# Notes:
+## Notes
 
 
-# Performed from:
+## Performed from
 [[stand]], [[walk]]
 
-# Allows for:
+## Allows for
 
 
-# Chains to:
+## Chains to
 
 
 ___
