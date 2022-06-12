@@ -7,8 +7,12 @@
         "id": "e16b8f10043b2cb4",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Collections/Movement Guide.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -45,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Collections/Movement Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +100,15 @@
   },
   "active": "e16b8f10043b2cb4",
   "lastOpenFiles": [
+    "Collections/Movement Guide.md",
+    "Collections/Movement Guide Recommendations.md",
+    "Movement/airhop.md",
+    "Files/airorientation_header.gif",
     "Movement/slidepmjump.md",
     "Movement/slideflipbounce.md",
-    "Movement/airhop.md",
     "Movement/wallregrab.md",
     "Movement/poleregrabcrawl.md",
     "Movement/walljump.md",
-    "Movement/wallslide.md",
-    "Movement/wallhop.md",
-    "Movement/walk.md",
-    "Movement/turnstoredflip.md"
+    "Movement/wallslide.md"
   ]
 }
