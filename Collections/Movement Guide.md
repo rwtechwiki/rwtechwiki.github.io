@@ -4,8 +4,6 @@ Tags: #collection
 
 # Movement Guide
 ![[testimage.png]]
-![[Movement Guide Recommendations]]
-
 ## Expected Knowledge
 [[jump]]
 ![[jump_header.gif]]
