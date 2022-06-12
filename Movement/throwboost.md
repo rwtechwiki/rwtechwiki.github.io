@@ -4,19 +4,19 @@ Tags: #move, #variant, [[throw]]
 
 # throwboost - Throw-Boost
 ![[throwboost_header.gif]]
-# Description:
+## Description
 When mid-air, it is possible to gain some forward momentum by throwing an item forward. This can be used to cross larger gaps via the same movement.
 
-# Notes:
+## Notes
 This only works for items which are thrown forward with force, i.e. rocks, spears, etc.
 
-# Performed from:
+## Performed from
 [[hop]], [[pounce]], [[flip]]
 
-# Allows for:
+## Allows for
 
 
-# Chains to:
+## Chains to
 
 
 ___

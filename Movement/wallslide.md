@@ -4,19 +4,19 @@ Tags: #move, #fundimentals
 
 # wallslide - Wall-Slide
 ![[wallslide_header.gif]]
-# Description:
+## Description
 By holding towards a wall while off the ground, slugcat will slide slowly downwards against the wall.
 
-# Notes:
+## Notes
 
 
-# Performed from:
+## Performed from
 
 
-# Allows for:
-[[wallspam]]
+## Allows for
+[[wallregrab]]
 
-# Chains to:
+## Chains to
 [[walljump]], [[awallhop]], [[eawallhop]]
 
 ___

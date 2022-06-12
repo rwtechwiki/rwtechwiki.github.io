@@ -4,19 +4,19 @@ Tags: #move, #fundimentals
 
 # dashturn - Dash-Turn
 ![[dashturn_header.gif]]
-# Description:
+## Description
 By turning around after [[walk|walking]] for more than 10 frames in the same direction. slugcat gains a burst of speed. With an early jump input, this move can chain to a [[turnflip]], and with a later input you can perform a [[turnhop]].
 
-# Notes:
+## Notes
 
 
-# Performed from:
+## Performed from
 [[walk]]
 
-# Allows for:
+## Allows for
 
 
-# Chains to:
+## Chains to
 [[turnhop]], [[turnflip]]
 
 ___

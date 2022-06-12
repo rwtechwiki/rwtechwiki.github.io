@@ -4,19 +4,19 @@ Tags: #move
 
 # jumpstore - Jump-Store
 ![[jumpstore_header.gif]]
-# Description:
+## Description
 
 
-# Notes:
+## Notes
 
 
-# Performed from:
+## Performed from
 [[chargehopcancel]], [[jumpcancel]], [[slidetunnelentry]]
 
-# Allows for:
+## Allows for
 [[jumpstoredboost]]
 
-# Chains to:
+## Chains to
 
 
 ___

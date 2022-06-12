@@ -4,19 +4,19 @@ Tags: #move, #variant, [[flip]], #fundimentals
 
 # slideflip - Slide-Flip
 ![[slideflip_header.gif]]
-# Description:
+## Description
 A variant of a [[flip]] with a fixed arc, produced by pressing backwards and jump during frames 14 through 16 of a [[slide]]. It is always possible to [[fliproll]] from this move.
 
-# Notes:
+## Notes
 
 
-# Performed from:
+## Performed from
 [[slide]]
 
-# Allows for:
+## Allows for
 [[slidethrow]], [[downthrow]]
 
-# Chains to:
+## Chains to
 [[stand]], [[fliproll]]
 
 ___

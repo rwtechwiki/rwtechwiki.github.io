@@ -4,19 +4,19 @@ Tags: #move
 
 # slidepmjump - Slide Pole-Momentum Jump
 ![[slidepmjump_header.gif]]
-# Description:
+## Description
 
 
-# Notes:
+## Notes
 
 
-# Performed from:
+## Performed from
 
 
-# Allows for:
+## Allows for
 
 
-# Chains to:
+## Chains to
 
 
 ___

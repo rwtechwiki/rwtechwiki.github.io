@@ -4,10 +4,10 @@ Tags: #move, #initiator, [[turnstore]], #fundimentals
 
 # slide - Slide
 ![[slide_header.gif]]
-# Description:
+## Description
 It is possible to slide while [[walk|walking]] by pressing down then jump at roughly the same time. The move can last for roughly 17 frames by holding forward throughout and has several windows throughout its duration to chain to other moves.
 
-# Notes:
+## Notes
 The move can be started the frame walking begins, effectively sliding from standing.
 
 Slides are not stopped by ledges, slugcat will stay against the floor for the duration.
@@ -28,13 +28,13 @@ If a slide crosses over a vertical tunnel entrance, it is possible to convert mo
 
 Similarly if the slide enters a ground level horizontal tunnel entrance, a well-timed jump will give slugcat 8 jumpstorage.
 
-# Performed from:
+## Performed from
 [[walk]], [[rollslide]], [[ledgedropfastfall]]
 
-# Allows for:
+## Allows for
 [[slidethrow]]
 
-# Chains to:
+## Chains to
 [[crouch]], [[eslide]], [[iflip]], [[ipounce]], [[slidepounce]], [[slideflip]], [[slideparkour]]
 
 ___

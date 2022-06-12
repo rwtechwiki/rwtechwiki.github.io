@@ -4,19 +4,19 @@ Tags: #move
 
 # rollslide - Roll-Slide
 ![[rollslide_header.gif]]
-# Description:
+## Description
 
 
-# Notes:
+## Notes
 
 
-# Performed from:
+## Performed from
 [[roll]]
 
-# Allows for:
+## Allows for
 
 
-# Chains to:
+## Chains to
 [[slide]]
 
 ___

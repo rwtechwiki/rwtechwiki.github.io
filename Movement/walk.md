@@ -4,19 +4,19 @@ Tags: #move, #fundimentals
 
 # walk - Walk
 ![[walk_header.gif]]
-# Description:
+## Description
 
 
-# Notes:
+## Notes
 
 
-# Performed from:
+## Performed from
 [[stand]]
 
-# Allows for:
+## Allows for
 
 
-# Chains to:
+## Chains to
 [[jump]], [[slide]], [[coyotejump]]
 
 ___

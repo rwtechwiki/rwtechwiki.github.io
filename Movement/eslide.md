@@ -4,10 +4,10 @@ Tags: #move, #variant, [[throw]], #fundimentals
 
 # eslide - Extended Slide
 ![[eslide_header.gif]]
-# Description:
+## Description
 There is a window to extend a [[slide]] by throwing a weapon item backwards during frames 10 through 15 of the slide. The extended slide lasts considerably longer, and has a slightly larger window to perform the corresponding [[epounce]] and [[eflip]].
 
-# Notes:
+## Notes
 At the end of an extended slide, slugcat is popped upright out of crouching state. It is possible to use this to perform an [[eairhop]].
 
 As the extended slide starts, slugcat has a very high speed, however after a few frames on the ground the speed becomes the same as a regular slide.
@@ -20,13 +20,13 @@ There is a window to [[epounce]] or [[eflip]] by pressing jump during frames 27 
 
 There is a window to [[slidethrow]] by throwing an item forwards mid-slide.
 
-# Performed from:
+## Performed from
 [[slide]]
 
-# Allows for:
+## Allows for
 [[eslidethrow]]
 
-# Chains to:
+## Chains to
 [[ehop]], [[eflip]], [[eipounce]], [[epounce]]
 
 ___

@@ -4,19 +4,19 @@ Tags: #move
 
 # polepullupjump - Pole-Pullup Jump
 ![[polepullupjump_header.gif]]
-# Description:
+## Description
 
 
-# Notes:
+## Notes
 
 
-# Performed from:
+## Performed from
 [[polegrab]]
 
-# Allows for:
+## Allows for
 
 
-# Chains to:
+## Chains to
 
 
 ___

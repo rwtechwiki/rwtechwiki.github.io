@@ -3,13 +3,13 @@ Status: #partdone
 Tags: #type
 
 # airhop - Air-Hop
-# Description:
+## Description
 When slugcat becomes airborn without use of the jump button, there is a 5-frame window after leaving the ground to hop by pressing jump. There is an equivalent window for a [[wallhop]], with 15 frames before slugcat becomes unable to jump.
 
-# Notes:
+## Notes
 
 
-# Variants:
+## Variants
 [[crawlturnjump]], [[polemomentumjump]], [[coyotejump]], [[eairhop]], [[wallhop]]
 
 ___

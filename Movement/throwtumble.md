@@ -4,19 +4,19 @@ Tags: #move, #initiator, [[crawlturnroll]]
 
 # throwtumble - Throw-Tumble
 ![[throwtumble_header.gif]]
-# Description:
+## Description
 
 
-# Notes:
+## Notes
 
 
-# Performed from:
+## Performed from
 
 
-# Allows for:
+## Allows for
 
 
-# Chains to:
+## Chains to
 
 
 ___

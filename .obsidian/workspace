@@ -7,12 +7,8 @@
         "id": "e16b8f10043b2cb4",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Collections/Movement Guide Recommendations.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -49,7 +45,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Collections/Movement Guide Recommendations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +96,15 @@
   },
   "active": "e16b8f10043b2cb4",
   "lastOpenFiles": [
-    "Collections/Movement Guide Recommendations.md",
-    "Collections/Movement Guide.md",
-    "Movement/roll.md",
-    "Movement/slidethrow.md",
-    "Movement/eslidethrow.md",
-    "Movement/slidethrowpounce.md",
-    "Movement/slidethrowflip.md",
-    "Movement/throw.md",
-    "Movement/slidepounce.md",
-    "Movement/slideflip.md"
+    "Movement/slidepmjump.md",
+    "Movement/slideflipbounce.md",
+    "Movement/airhop.md",
+    "Movement/wallregrab.md",
+    "Movement/poleregrabcrawl.md",
+    "Movement/walljump.md",
+    "Movement/wallslide.md",
+    "Movement/wallhop.md",
+    "Movement/walk.md",
+    "Movement/turnstoredflip.md"
   ]
 }

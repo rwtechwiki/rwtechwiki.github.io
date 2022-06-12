@@ -4,19 +4,19 @@ Tags: #move, #initiator, [[jumpstore]]
 
 # jumpcancel - Jump-Cancel
 ![[jumpcancel_header.gif]]
-# Description:
+## Description
 
 
-# Notes:
+## Notes
 
 
-# Performed from:
+## Performed from
 
 
-# Allows for:
+## Allows for
 
 
-# Chains to:
+## Chains to
 
 
 ___

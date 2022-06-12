@@ -4,21 +4,21 @@ Tags: #move, #variant, [[airhop]], [[hop]], #fundimentals
 
 # coyotejump - Coyote Jump
 ![[coyotejump_header.gif]]
-# Description:
+## Description
 There is a 5-frame window where slugcat is able to jump mid-air after walking off a ledge. This allows for slightly longer running jumps across gaps.
 
-# Notes:
+## Notes
 It is possible to extend this move to an [[ecoyotejump]] by crouching just before you leave the ledge, then returning to standing state as you jump.
 
 This move works identically when walking off the tip of a horizontal pole.
 
-# Performed from:
+## Performed from
 [[walk]]
 
-# Allows for:
+## Allows for
 
 
-# Chains to:
+## Chains to
 
 
 ___

@@ -4,19 +4,19 @@ Tags: #move, #variant, [[throw]], #fundimentals
 
 # crouchthrow - Crouch-Throw
 ![[crouchthrow_header.gif]]
-# Description:
+## Description
 By throwing as slugcat is transitioning from [[stand]] to [[crouch]], a thrown item will have a downward trajectory.
 
-# Notes:
+## Notes
 
 
-# Performed from:
+## Performed from
 [[stand]]
 
-# Allows for:
+## Allows for
 [[mouthspear]]
 
-# Chains to:
+## Chains to
 
 
 ___

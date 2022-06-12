@@ -4,19 +4,19 @@ Tags: #move
 
 # slidehop - Slide-Hop
 ![[slidehop_header.gif]]
-# Description:
+## Description
 
 
-# Notes:
+## Notes
 
 
-# Performed from:
+## Performed from
 [[slide]]
 
-# Allows for:
+## Allows for
 
 
-# Chains to:
+## Chains to
 
 
 ___

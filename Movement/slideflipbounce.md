@@ -4,19 +4,19 @@ Tags: #move, #variant, [[turnstoredflip]]
 
 # slideflipbounce - Slide-Flip Bounce
 ![[slideflipbounce_header.gif]]
-# Description:
+## Description
 
 
-# Notes:
+## Notes
 
 
-# Performed from:
+## Performed from
 [[slideflip]]
 
-# Allows for:
+## Allows for
 [[downthrow]]
 
-# Chains to:
+## Chains to
 
 
 ___

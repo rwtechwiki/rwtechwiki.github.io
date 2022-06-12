@@ -4,19 +4,19 @@ Tags: #move
 
 # fastroll - Fast-Roll
 ![[fastroll_header.gif]]
-# Description:
+## Description
 This is a version of [[roll]], produced by holding a controller joystick at an angle just below horizontal while rolling. The roll will be considerably faster, and last for a shorter duration.
 
-# Notes:
+## Notes
 Due to the shortened duration of this move, it is not possible for it to produce a [[rollpounce]] high enough to chain to another roll.
 
-# Performed from:
+## Performed from
 [[roll]]
 
-# Allows for:
+## Allows for
 [[rollpickup]]
 
-# Chains to:
+## Chains to
 [[rollpounce]]
 
 ___

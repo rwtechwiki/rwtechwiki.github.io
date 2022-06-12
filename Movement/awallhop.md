@@ -4,21 +4,21 @@ Tags: #move, #variant, [[wallhop]], [[airhop]], [[hop]]
 
 # awallhop - Aerial Wall-Hop
 ![[awallhop_header.gif]]
-# Description:
+## Description
 If you pull away from a [[wallslide]], there is a 15-frame window where slugcat is able to jump mid-air.
 
-# Notes:
+## Notes
 This move does not give any extra height than a normal [[walljump]], but can be used to duck under obstacles.
 
 There is a version of this move called an [[eawallhop]] which requires an item throw but allows for leaving the wall by a walljump, thus giving the player significantly more height.
 
-# Performed from:
+## Performed from
 [[wallslide]]
 
-# Allows for:
+## Allows for
 
 
-# Chains to:
+## Chains to
 
 
 ___

@@ -4,19 +4,19 @@ Tags: #move
 
 # airorientation - Air-Orientation
 ![[airorientation_header.gif]]
-# Description:
+## Description
 When mid-air in the [[hop]] state, it is possible to change between the [[crouch|crouching]] and [[stand|standing]] using the up and down inputs. 
 
-# Notes:
+## Notes
 This allows for maintaining momentum from a [[chargehop]] or [[crouchhop]], by [[hop|hopping]] or [[polehop|polehopping]].
 
-# Performed from:
+## Performed from
 [[hop]]
 
-# Allows for:
+## Allows for
 [[hop]], [[polehop]]
 
-# Chains to:
+## Chains to
 
 
 ___

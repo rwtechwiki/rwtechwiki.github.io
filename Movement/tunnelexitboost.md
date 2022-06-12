@@ -4,19 +4,19 @@ Tags: #move, #variant, [[jumpstoredboost]]
 
 # tunnelexitboost - Tunnel-Exit-Boost
 ![[tunnelexitboost_header.gif]]
-# Description:
+## Description
 
 
-# Notes:
+## Notes
 
 
-# Performed from:
+## Performed from
 [[tunnelboost]]
 
-# Allows for:
+## Allows for
 
 
-# Chains to:
+## Chains to
 
 
 ___

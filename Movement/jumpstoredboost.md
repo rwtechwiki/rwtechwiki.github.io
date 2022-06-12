@@ -3,13 +3,13 @@ Status: #stub
 Tags: #type
 
 # jumpstoredboost - Jump-Stored Boost
-# Description:
+## Description
 
 
-# Notes:
+## Notes
 
 
-# Variants:
+## Variants
 [[tunnelexitboost]], [[ipounce]], [[iflip]], [[quickcrawlturnjump]], [[throwvault]]
 
 ___
