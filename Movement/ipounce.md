@@ -4,6 +4,7 @@ Tags: #move, #variant, [[pounce]], [[jumpstoredboost]]
 
 # ipounce - Instant Slide-Pounce
 <img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/ipounce_header.gif>
+
 ## Description
 This [[pounce]] variant is produced by pressing jump on frame 2 of a [[slide]]. It has a higher arc than a regular slide pounce as the slide does not have time to deccelerate slugcat horizontally beforehand.
 
@@ -23,12 +24,21 @@ ___
 # Gifs
 ## Bulk
 <img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/ipounce_0.gif>
+
 <img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/ipounce_1.gif>
+
 <img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/ipounce_2.gif>
+
 <img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/ipounce_3.gif>
+
 <img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/ipounce_4.gif>
+
 <img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/ipounce_5.gif>
+
 <img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/ipounce_6.gif>
+
 <img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/ipounce_7.gif>
+
 <img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/ipounce_8.gif>
+
 <img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/ipounce_9.gif>

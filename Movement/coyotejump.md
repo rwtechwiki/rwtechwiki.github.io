@@ -4,6 +4,7 @@ Tags: #move, #variant, [[airhop]], [[hop]], #fundimentals
 
 # coyotejump - Coyote Jump
 <img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/coyotejump_header.gif>
+
 ## Description
 There is a 5-frame window where slugcat is able to jump mid-air after walking off a ledge. This allows for slightly longer running jumps across gaps.
 
@@ -28,12 +29,21 @@ ___
 
 ## Bulk
 <img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/coyotejump_0.gif>
+
 <img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/coyotejump_1.gif>
+
 <img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/coyotejump_2.gif>
+
 <img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/coyotejump_3.gif>
+
 <img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/coyotejump_4.gif>
+
 <img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/coyotejump_5.gif>
+
 <img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/coyotejump_6.gif>
+
 <img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/coyotejump_7.gif>
+
 <img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/coyotejump_8.gif>
+
 <img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/coyotejump_9.gif>
