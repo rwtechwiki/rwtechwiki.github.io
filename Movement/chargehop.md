@@ -4,6 +4,7 @@ Tags: #move, #variant, [[hop]], #fundimentals
 
 # chargehop - Charge-Hop
 <img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/chargehop_header.gif>
+
 ## Description
 By holding jump for 20 frames when [[crouch|crouching]], slugcat's back arches and horizontal inputs are restricted until the jump button is released. Slugcat will then leap forward with a longer arc than a normal jump, allowing it to cross further gaps.
 
@@ -25,12 +26,21 @@ ___
 # Gifs
 ## Bulk
 <img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/chargehop_0.gif>
+
 <img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/chargehop_1.gif>
+
 <img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/chargehop_2.gif>
+
 <img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/chargehop_3.gif>
+
 <img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/chargehop_4.gif>
+
 <img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/chargehop_5.gif>
+
 <img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/chargehop_6.gif>
+
 <img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/chargehop_7.gif>
+
 <img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/chargehop_8.gif>
+
 <img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/chargehop_9.gif>

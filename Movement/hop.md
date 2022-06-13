@@ -16,12 +16,21 @@ ___
 # Gifs
 ## Bulk
 <img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/hop_0.gif>
+
 <img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/hop_1.gif>
+
 <img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/hop_2.gif>
+
 <img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/hop_3.gif>
+
 <img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/hop_4.gif>
+
 <img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/hop_5.gif>
+
 <img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/hop_6.gif>
+
 <img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/hop_7.gif>
+
 <img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/hop_8.gif>
+
 <img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/hop_9.gif>

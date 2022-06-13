@@ -4,6 +4,7 @@ Tags: #move, #variant, [[wallhop]], [[airhop]], [[hop]]
 
 # awallhop - Aerial Wall-Hop
 <img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/awallhop_header.gif>
+
 ## Description
 If you pull away from a [[wallslide]], there is a 15-frame window where slugcat is able to [[walljump]] mid-air.
 
@@ -25,12 +26,21 @@ ___
 # Gifs
 ## Bulk
 <img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/awallhop_0.gif>
+
 <img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/awallhop_1.gif>
+
 <img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/awallhop_2.gif>
+
 <img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/awallhop_3.gif>
+
 <img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/awallhop_4.gif>
+
 <img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/awallhop_5.gif>
+
 <img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/awallhop_6.gif>
+
 <img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/awallhop_7.gif>
+
 <img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/awallhop_8.gif>
+
 <img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/awallhop_9.gif>
