@@ -152,7 +152,7 @@ Tags: #collection
 [[polehop]]
 ![[polehop_header.gif]]
 [[poleregrabcrawl]]
-![[fastpolecrawl_header.gif]]
+![[poleregrabcrawl_header.gif]]
 
 ## Turns
 ### Dash-Turns
