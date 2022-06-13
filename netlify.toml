@@ -61,7 +61,7 @@ GRAPH_OPTIONS = """
             edges: {
                 color: { inherit: "both" },
                 width: 0.8,
-                "smooth": "false",
+                "smooth": false,
                 hoverWidth: 4
             },
             interaction: { hover: true },
