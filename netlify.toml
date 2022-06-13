@@ -6,9 +6,9 @@ publish = "public"
 # (Optional) Text in landing page button
 LANDING_BUTTON = "Get Started"
 # (Optional) Site description on landing page
-LANDING_DESCRIPTION = "This is a comprehensive collection and explanation of every* move in the game! (There are well over 50, with over half unintended)"
+LANDING_DESCRIPTION = "This is a comprehensive collection and explanation of every known move in the game! (work in progress)"
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
-LANDING_PAGE = "collections/movement-guide-recommendations"
+LANDING_PAGE = "collections/movedocrecs"
 # (Optional) Site title on landing page
 LANDING_TITLE = "Welcome!"
 PYTHON_VERSION = "3.8"
