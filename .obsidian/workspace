@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Collections/Movement Guide.md",
+            "file": "Movement/wallslide.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Collections/Movement Guide.md",
+                "file": "Movement/wallslide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "e16b8f10043b2cb4",
   "lastOpenFiles": [
-    "Collections/Movement Guide.md",
-    "Collections/Movement Guide Recommendations.md",
-    "Templates/type.md",
-    "Templates/move.md",
-    "Templates/gifs.md",
-    "Movement/airhop.md",
-    "Files/airorientation_header.gif",
-    "Movement/slidepmjump.md",
-    "Movement/slideflipbounce.md",
-    "Movement/wallregrab.md"
+    "Movement/wallslide.md",
+    "Movement/wallregrab.md",
+    "Movement/walljump.md",
+    "Movement/wallhop.md",
+    "Movement/walk.md",
+    "Movement/turnstoredflip.md",
+    "Movement/turnstore.md",
+    "Movement/turnhop.md",
+    "Movement/turnflip.md",
+    "Movement/tunnelturn.md"
   ]
 }

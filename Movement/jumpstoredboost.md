@@ -15,13 +15,13 @@ Tags: #type
 ___
 # Gifs
 ## Bulk
-![[jumpstoredboost_0.gif]]
-![[jumpstoredboost_1.gif]]
-![[jumpstoredboost_2.gif]]
-![[jumpstoredboost_3.gif]]
-![[jumpstoredboost_4.gif]]
-![[jumpstoredboost_5.gif]]
-![[jumpstoredboost_6.gif]]
-![[jumpstoredboost_7.gif]]
-![[jumpstoredboost_8.gif]]
-![[jumpstoredboost_9.gif]]
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/jumpstoredboost_0.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/jumpstoredboost_1.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/jumpstoredboost_2.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/jumpstoredboost_3.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/jumpstoredboost_4.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/jumpstoredboost_5.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/jumpstoredboost_6.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/jumpstoredboost_7.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/jumpstoredboost_8.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/jumpstoredboost_9.gif>

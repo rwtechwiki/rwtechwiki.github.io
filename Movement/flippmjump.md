@@ -3,7 +3,7 @@ Status: #stub
 Tags: #move
 
 # flippmjump - Flip Pole-Momentum Jump
-![[flippmjump_header.gif]]
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/flippmjump_header.gif>
 ## Description
 
 
@@ -22,13 +22,13 @@ Tags: #move
 ___
 # Gifs
 ## Bulk
-![[flippmjump_0.gif]]
-![[flippmjump_1.gif]]
-![[flippmjump_2.gif]]
-![[flippmjump_3.gif]]
-![[flippmjump_4.gif]]
-![[flippmjump_5.gif]]
-![[flippmjump_6.gif]]
-![[flippmjump_7.gif]]
-![[flippmjump_8.gif]]
-![[flippmjump_9.gif]]
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/flippmjump_0.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/flippmjump_1.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/flippmjump_2.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/flippmjump_3.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/flippmjump_4.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/flippmjump_5.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/flippmjump_6.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/flippmjump_7.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/flippmjump_8.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/flippmjump_9.gif>

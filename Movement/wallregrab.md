@@ -3,7 +3,7 @@ Status: #stub, #needsgif
 Tags: #move
 
 # wallregrab - Wall-Regrab
-![[wallregrab_header.gif]]
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/wallregrab_header.gif>
 ## Description
 
 
@@ -22,13 +22,13 @@ Tags: #move
 ___
 # Gifs
 ## Bulk
-![[wallregrab_0.gif]]
-![[wallregrab_1.gif]]
-![[wallregrab_2.gif]]
-![[wallregrab_3.gif]]
-![[wallregrab_4.gif]]
-![[wallregrab_5.gif]]
-![[wallregrab_6.gif]]
-![[wallregrab_7.gif]]
-![[wallregrab_8.gif]]
-![[wallregrab_9.gif]]
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/wallregrab_0.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/wallregrab_1.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/wallregrab_2.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/wallregrab_3.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/wallregrab_4.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/wallregrab_5.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/wallregrab_6.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/wallregrab_7.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/wallregrab_8.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/wallregrab_9.gif>

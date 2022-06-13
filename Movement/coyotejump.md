@@ -3,7 +3,7 @@ Status: #partdone
 Tags: #move, #variant, [[airhop]], [[hop]], #fundimentals
 
 # coyotejump - Coyote Jump
-![[coyotejump_header.gif]]
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/coyotejump_header.gif>
 ## Description
 There is a 5-frame window where slugcat is able to jump mid-air after walking off a ledge. This allows for slightly longer running jumps across gaps.
 
@@ -16,7 +16,7 @@ This move works identically when walking off the tip of a horizontal pole.
 [[walk]]
 
 ## Allows for
-
+[[airorientation]]
 
 ## Chains to
 
@@ -24,16 +24,16 @@ This move works identically when walking off the tip of a horizontal pole.
 ___
 # Gifs
 ## Pole Variant
-![[coyotejump_pole.gif]]
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/coyotejump_pole.gif>
 
 ## Bulk
-![[coyotejump_0.gif]]
-![[coyotejump_1.gif]]
-![[coyotejump_2.gif]]
-![[coyotejump_3.gif]]
-![[coyotejump_4.gif]]
-![[coyotejump_5.gif]]
-![[coyotejump_6.gif]]
-![[coyotejump_7.gif]]
-![[coyotejump_8.gif]]
-![[coyotejump_9.gif]]
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/coyotejump_0.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/coyotejump_1.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/coyotejump_2.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/coyotejump_3.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/coyotejump_4.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/coyotejump_5.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/coyotejump_6.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/coyotejump_7.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/coyotejump_8.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/coyotejump_9.gif>

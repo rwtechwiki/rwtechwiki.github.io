@@ -3,7 +3,7 @@ Status: #stub
 Tags: #move
 
 # slidepmjump - Slide Pole-Momentum Jump
-![[slidepmjump_header.gif]]
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/slidepmjump_header.gif>
 ## Description
 
 
@@ -22,13 +22,13 @@ Tags: #move
 ___
 # Gifs
 ## Bulk
-![[slidepmjump_0.gif]]
-![[slidepmjump_1.gif]]
-![[slidepmjump_2.gif]]
-![[slidepmjump_3.gif]]
-![[slidepmjump_4.gif]]
-![[slidepmjump_5.gif]]
-![[slidepmjump_6.gif]]
-![[slidepmjump_7.gif]]
-![[slidepmjump_8.gif]]
-![[slidepmjump_9.gif]]
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/slidepmjump_0.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/slidepmjump_1.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/slidepmjump_2.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/slidepmjump_3.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/slidepmjump_4.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/slidepmjump_5.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/slidepmjump_6.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/slidepmjump_7.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/slidepmjump_8.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/slidepmjump_9.gif>

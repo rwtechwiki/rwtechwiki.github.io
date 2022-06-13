@@ -3,7 +3,7 @@ Status: #stub
 Tags: #move, #initiator, [[crawlturnroll]]
 
 # throwtumble - Throw-Tumble
-![[throwtumble_header.gif]]
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/throwtumble_header.gif>
 ## Description
 
 
@@ -22,13 +22,13 @@ Tags: #move, #initiator, [[crawlturnroll]]
 ___
 # Gifs
 ## Bulk
-![[throwtumble_0.gif]]
-![[throwtumble_1.gif]]
-![[throwtumble_2.gif]]
-![[throwtumble_3.gif]]
-![[throwtumble_4.gif]]
-![[throwtumble_5.gif]]
-![[throwtumble_6.gif]]
-![[throwtumble_7.gif]]
-![[throwtumble_8.gif]]
-![[throwtumble_9.gif]]
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/throwtumble_0.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/throwtumble_1.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/throwtumble_2.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/throwtumble_3.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/throwtumble_4.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/throwtumble_5.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/throwtumble_6.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/throwtumble_7.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/throwtumble_8.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/throwtumble_9.gif>
