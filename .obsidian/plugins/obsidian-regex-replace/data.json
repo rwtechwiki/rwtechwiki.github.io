@@ -1,10 +1,10 @@
 {
-  "findText": "\\!\\[\\[(.*?)\\]\\]",
-  "replaceText": "<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/$1>",
+  "findText": "<img src=https:\\/\\/raw\\.githubusercontent\\.com\\/LauraHannah44\\/Rain-World-Movement\\/main\\/Files\\/(.*?)>",
+  "replaceText": "<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/$1>\n",
   "useRegEx": true,
   "selOnly": false,
   "caseInsensitive": false,
-  "processLineBreak": false,
+  "processLineBreak": true,
   "processTab": false,
   "prefillFind": false
 }

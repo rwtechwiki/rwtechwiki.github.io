@@ -1,6 +1,6 @@
 Status: #stub
 
-Tags: #move
+Tags: #move, #variant, [[hop]]
 
 # crouchhop - Crouch-Hop
 <img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crouchhop_header.gif>

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Movement/wallslide.md",
+            "file": "Movement/awallhop.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Movement/wallslide.md",
+                "file": "Movement/awallhop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "e16b8f10043b2cb4",
   "lastOpenFiles": [
-    "Movement/wallslide.md",
-    "Movement/wallregrab.md",
-    "Movement/walljump.md",
-    "Movement/wallhop.md",
-    "Movement/walk.md",
-    "Movement/turnstoredflip.md",
-    "Movement/turnstore.md",
-    "Movement/turnhop.md",
-    "Movement/turnflip.md",
-    "Movement/tunnelturn.md"
+    "Movement/awallhop.md",
+    "Movement/ceilingslopeslide.md",
+    "Movement/airorientation.md",
+    "Movement/airhop.md",
+    "Movement/crouchthrow.md",
+    "Movement/chargehopcancel.md",
+    "Movement/crawlturn.md",
+    "Movement/crawlturncanceltumble.md",
+    "Movement/crawlturnjump.md",
+    "Movement/crawlturnroll.md"
   ]
 }
