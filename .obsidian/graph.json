@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-tag:#collection -path:Templates",
+  "search": "tag:#fundimentals -tag:#collection -path:Templates",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -46,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.3415791533143881,
+  "scale": 0.8410179241582822,
   "close": false
 }

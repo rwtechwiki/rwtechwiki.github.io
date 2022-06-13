@@ -3,7 +3,7 @@ Status: #partdone
 Tags: #move, #variant, [[airhop]], [[hop]], [[turnstoredflip]], #fundimentals
 
 # crawlturnjump - Crawl-Turn Jump
-![[crawlturnjump_header.gif]]
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crawlturnjump_header.gif>
 ## Description
 If you perform a [[crawlturncancel]], there is a 5-frame window after leaving the ground where slugcat is able to jump mid-air.
 
@@ -22,16 +22,16 @@ This gives slugcat roughly 1 extra tile of jump height, becoming able to [[ledge
 ___
 # Gifs
 ## TS Variant
-![[crawlturnjump_TS.gif]]
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crawlturnjump_TS.gif>
 
 ## Bulk
-![[crawlturnjump_0.gif]]
-![[crawlturnjump_1.gif]]
-![[crawlturnjump_2.gif]]
-![[crawlturnjump_3.gif]]
-![[crawlturnjump_4.gif]]
-![[crawlturnjump_5.gif]]
-![[crawlturnjump_6.gif]]
-![[crawlturnjump_7.gif]]
-![[crawlturnjump_8.gif]]
-![[crawlturnjump_9.gif]]
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crawlturnjump_0.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crawlturnjump_1.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crawlturnjump_2.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crawlturnjump_3.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crawlturnjump_4.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crawlturnjump_5.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crawlturnjump_6.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crawlturnjump_7.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crawlturnjump_8.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crawlturnjump_9.gif>

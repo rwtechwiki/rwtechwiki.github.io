@@ -3,7 +3,7 @@ Status: #stub, #needsgif
 Tags: #move, #variant, [[turnstoredflip]]
 
 # slideflipbounce - Slide-Flip Bounce
-![[slideflipbounce_header.gif]]
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/slideflipbounce_header.gif>
 ## Description
 
 
@@ -22,13 +22,13 @@ Tags: #move, #variant, [[turnstoredflip]]
 ___
 # Gifs
 ## Bulk
-![[slideflipbounce_0.gif]]
-![[slideflipbounce_1.gif]]
-![[slideflipbounce_2.gif]]
-![[slideflipbounce_3.gif]]
-![[slideflipbounce_4.gif]]
-![[slideflipbounce_5.gif]]
-![[slideflipbounce_6.gif]]
-![[slideflipbounce_7.gif]]
-![[slideflipbounce_8.gif]]
-![[slideflipbounce_9.gif]]
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/slideflipbounce_0.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/slideflipbounce_1.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/slideflipbounce_2.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/slideflipbounce_3.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/slideflipbounce_4.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/slideflipbounce_5.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/slideflipbounce_6.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/slideflipbounce_7.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/slideflipbounce_8.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/slideflipbounce_9.gif>

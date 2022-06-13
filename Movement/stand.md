@@ -3,7 +3,7 @@ Status: #stub, #needsgif
 Tags: #move, #fundimentals
 
 # stand - Stand
-![[stand_header.gif]]
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/stand_header.gif>
 ## Description
 By pressing up, slugcat enters a standing position, where it can [[walk]] around.
 
@@ -22,13 +22,13 @@ By pressing up, slugcat enters a standing position, where it can [[walk]] around
 ___
 # Gifs
 ## Bulk
-![[stand_0.gif]]
-![[stand_1.gif]]
-![[stand_2.gif]]
-![[stand_3.gif]]
-![[stand_4.gif]]
-![[stand_5.gif]]
-![[stand_6.gif]]
-![[stand_7.gif]]
-![[stand_8.gif]]
-![[stand_9.gif]]
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/stand_0.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/stand_1.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/stand_2.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/stand_3.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/stand_4.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/stand_5.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/stand_6.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/stand_7.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/stand_8.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/stand_9.gif>

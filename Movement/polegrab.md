@@ -3,7 +3,7 @@ Status: #stub, #needsgif
 Tags: #move, #initiator, [[turnstore]]
 
 # polegrab - Pole-Grab
-![[polegrab_header.gif]]
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/polegrab_header.gif>
 ## Description
 
 
@@ -22,13 +22,13 @@ Tags: #move, #initiator, [[turnstore]]
 ___
 # Gifs
 ## Bulk
-![[polegrab_0.gif]]
-![[polegrab_1.gif]]
-![[polegrab_2.gif]]
-![[polegrab_3.gif]]
-![[polegrab_4.gif]]
-![[polegrab_5.gif]]
-![[polegrab_6.gif]]
-![[polegrab_7.gif]]
-![[polegrab_8.gif]]
-![[polegrab_9.gif]]
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/polegrab_0.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/polegrab_1.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/polegrab_2.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/polegrab_3.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/polegrab_4.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/polegrab_5.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/polegrab_6.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/polegrab_7.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/polegrab_8.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/polegrab_9.gif>

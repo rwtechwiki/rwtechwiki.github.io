@@ -3,7 +3,7 @@ Status: #partdone, #needsgif
 Tags: #move, #variant, [[airhop]], [[hop]]
 
 # polemomentumjump - Pole-Momentum Jump
-![[polemomentumjump_header.gif]]
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/polemomentumjump_header.gif>
 ## Description
 By holding to the side as slugcats feet approach the top tile of a pole, it is possible to leave the tip of the pole with a 5-frame window to jump. If this is performed with enough vertical momentum, it is possible to jump more than 1 tile higher than slugcat would from the tip of the pole.
 
@@ -22,13 +22,13 @@ By holding to the side as slugcats feet approach the top tile of a pole, it is p
 ___
 # Gifs
 ## Bulk
-![[polemomentumjump_0.gif]]
-![[polemomentumjump_1.gif]]
-![[polemomentumjump_2.gif]]
-![[polemomentumjump_3.gif]]
-![[polemomentumjump_4.gif]]
-![[polemomentumjump_5.gif]]
-![[polemomentumjump_6.gif]]
-![[polemomentumjump_7.gif]]
-![[polemomentumjump_8.gif]]
-![[polemomentumjump_9.gif]]
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/polemomentumjump_0.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/polemomentumjump_1.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/polemomentumjump_2.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/polemomentumjump_3.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/polemomentumjump_4.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/polemomentumjump_5.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/polemomentumjump_6.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/polemomentumjump_7.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/polemomentumjump_8.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/polemomentumjump_9.gif>

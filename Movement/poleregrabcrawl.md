@@ -3,7 +3,7 @@ Status: #stub, #needsgif
 Tags: #move
 
 # poleregrabcrawl - Pole-Regrab-Crawl
-![[poleregrabcrawl_header.gif]]
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/poleregrabcrawl_header.gif>
 ## Description
 
 
@@ -22,13 +22,13 @@ Tags: #move
 ___
 # Gifs
 ## Bulk
-![[poleregrabcrawl_0.gif]]
-![[poleregrabcrawl_1.gif]]
-![[poleregrabcrawl_2.gif]]
-![[poleregrabcrawl_3.gif]]
-![[poleregrabcrawl_4.gif]]
-![[poleregrabcrawl_5.gif]]
-![[poleregrabcrawl_6.gif]]
-![[poleregrabcrawl_7.gif]]
-![[poleregrabcrawl_8.gif]]
-![[poleregrabcrawl_9.gif]]
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/poleregrabcrawl_0.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/poleregrabcrawl_1.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/poleregrabcrawl_2.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/poleregrabcrawl_3.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/poleregrabcrawl_4.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/poleregrabcrawl_5.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/poleregrabcrawl_6.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/poleregrabcrawl_7.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/poleregrabcrawl_8.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/poleregrabcrawl_9.gif>

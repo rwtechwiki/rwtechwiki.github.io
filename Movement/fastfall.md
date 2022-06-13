@@ -15,13 +15,13 @@ It is possible to accelerate slugcat faster than normal midair by beginning a fa
 ___
 # Gifs
 ## Bulk
-![[fastfall_0.gif]]
-![[fastfall_1.gif]]
-![[fastfall_2.gif]]
-![[fastfall_3.gif]]
-![[fastfall_4.gif]]
-![[fastfall_5.gif]]
-![[fastfall_6.gif]]
-![[fastfall_7.gif]]
-![[fastfall_8.gif]]
-![[fastfall_9.gif]]
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/fastfall_0.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/fastfall_1.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/fastfall_2.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/fastfall_3.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/fastfall_4.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/fastfall_5.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/fastfall_6.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/fastfall_7.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/fastfall_8.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/fastfall_9.gif>

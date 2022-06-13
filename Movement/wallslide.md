@@ -3,7 +3,7 @@ Status: #partdone
 Tags: #move, #fundimentals
 
 # wallslide - Wall-Slide
-![[wallslide_header.gif]]
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/wallslide_header.gif>
 ## Description
 By holding towards a wall while off the ground, slugcat will slide slowly downwards against the wall.
 
@@ -22,13 +22,13 @@ By holding towards a wall while off the ground, slugcat will slide slowly downwa
 ___
 # Gifs
 ## Bulk
-![[wallslide_0.gif]]
-![[wallslide_1.gif]]
-![[wallslide_2.gif]]
-![[wallslide_3.gif]]
-![[wallslide_4.gif]]
-![[wallslide_5.gif]]
-![[wallslide_6.gif]]
-![[wallslide_7.gif]]
-![[wallslide_8.gif]]
-![[wallslide_9.gif]]
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/wallslide_0.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/wallslide_1.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/wallslide_2.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/wallslide_3.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/wallslide_4.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/wallslide_5.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/wallslide_6.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/wallslide_7.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/wallslide_8.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/wallslide_9.gif>

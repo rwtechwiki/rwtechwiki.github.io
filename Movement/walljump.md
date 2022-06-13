@@ -3,7 +3,7 @@ Status: #done
 Tags: #move
 
 # walljump - Wall-Jump
-![[walljump_header.gif]]
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/walljump_header.gif>
 ## Description
 By pressing jump while holding towards a wall during a [[wallslide]], slugcat will jump from the wall with a fixed height.
 
@@ -24,13 +24,13 @@ It is possible to gain height by wall-jumping multiple consecutive times up a pa
 ___
 # Gifs
 ## Bulk
-![[walljump_0.gif]]
-![[walljump_1.gif]]
-![[walljump_2.gif]]
-![[walljump_3.gif]]
-![[walljump_4.gif]]
-![[walljump_5.gif]]
-![[walljump_6.gif]]
-![[walljump_7.gif]]
-![[walljump_8.gif]]
-![[walljump_9.gif]]
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/walljump_0.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/walljump_1.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/walljump_2.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/walljump_3.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/walljump_4.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/walljump_5.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/walljump_6.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/walljump_7.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/walljump_8.gif>
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/walljump_9.gif>
