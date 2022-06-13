@@ -64,6 +64,14 @@ GRAPH_OPTIONS = """
                 "smooth": false,
                 hoverWidth: 4
             },
+            "physics": {
+                "repulsion": {
+                    "springLength": 30,
+                    "nodeDistance": 250
+                },
+                "minVelocity": 0.75,
+                "solver": "repulsion"
+            },
             interaction: { hover: true },
             height: "100%",
             width: "100%"
