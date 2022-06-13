@@ -66,8 +66,8 @@ GRAPH_OPTIONS = """
             },
             "physics": {
                 "repulsion": {
-                    "springLength": 30,
-                    "nodeDistance": 250
+                    "springLength": 0,
+                    "nodeDistance": 500
                 },
                 "minVelocity": 0.75,
                 "solver": "repulsion"
