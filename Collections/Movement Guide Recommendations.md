@@ -10,6 +10,7 @@ Tags: #collection
 ![[walljump_header.gif]]
 [[throwboost]]
 ![[throwboost_header.gif]]
+
 [[tunnelboost]]
 ![[tunnelboost_header.gif]]
 [[tunnelexitboost]]
