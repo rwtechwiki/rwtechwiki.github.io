@@ -6,7 +6,7 @@ publish = "public"
 # (Optional) Text in landing page button
 LANDING_BUTTON = "Get Started"
 # (Optional) Site description on landing page
-LANDING_DESCRIPTION = "This is a comprehensive collection and explanation of Rain World tech, including movement and eventually exploits and other tech! (work in progress)"
+LANDING_DESCRIPTION = "This is a comprehensive collection and explanation of Rain World tech, including movement and eventually exploits and other tech! (huge work in progress)"
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
 LANDING_PAGE = "collections/movedocrecs"
 # (Optional) Site title on landing page
