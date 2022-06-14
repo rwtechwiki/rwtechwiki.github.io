@@ -34,12 +34,14 @@ HOME_GRAPH = "y"
 # (Optional, default true) Shows knowledge graph on every page. Put "" to disable.
 PAGE_GRAPH = "y"
 # (Optional, default false) Whether sidebar sections should be collapsed by default.
-SIDEBAR_COLLAPSED = ""
+SIDEBAR_COLLAPSED = "y"
 # (Optional, default blank) Additional footer content.
 FOOTER = ""
 # (Optional, default main) Root section name.
 ROOT_SECTION_NAME = "main"
+# (Optional, default "y") Require whitespace for recognised linebreaks.
 STRICT_LINE_BREAKS = ""
+# (Optional, default "") Only display local connections to page in footer graph.
 LOCAL_GRAPH = "y"
 # (Optional) visjs graph options. Can remove if desired.
 GRAPH_OPTIONS = """
