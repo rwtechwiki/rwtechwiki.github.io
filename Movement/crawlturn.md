@@ -3,8 +3,7 @@ Status: #partdone
 Tags: #move, #fundimentals
 
 # crawlturn - Crawl-Turn
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crawlturn_header.gif>
-
+![[crawlturn_header.gif]]
 ## Description
 It is possible to crawl-turn from the crouch state by pressing the opposite direction to slugcat's facing. This causes slugcat to flip over to crouch facing the opposite direction.
 
@@ -27,22 +26,13 @@ Slugcat becomes temporarily airborne during a crawl-turn, which drains any exist
 ___
 # Gifs
 ## Bulk
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crawlturn_0.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crawlturn_1.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crawlturn_2.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crawlturn_3.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crawlturn_4.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crawlturn_5.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crawlturn_6.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crawlturn_7.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crawlturn_8.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crawlturn_9.gif>
+![[crawlturn_0.gif]]
+![[crawlturn_1.gif]]
+![[crawlturn_2.gif]]
+![[crawlturn_3.gif]]
+![[crawlturn_4.gif]]
+![[crawlturn_5.gif]]
+![[crawlturn_6.gif]]
+![[crawlturn_7.gif]]
+![[crawlturn_8.gif]]
+![[crawlturn_9.gif]]

@@ -3,8 +3,7 @@ Status: #partdone
 Tags: #move, #initiator, [[roll]], #fundimentals
 
 # pounceroll - Pounce-Roll
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/pounceroll_header.gif>
-
+![[pounceroll_header.gif]]
 ## Description
 It is possible to [[roll]] from the [[pounce]] state by holding down and forward for enough frames before landing. 
 
@@ -23,22 +22,13 @@ This does not work for [[rollpounce]], and so requires falling from high enough 
 ___
 # Gifs
 ## Bulk
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/pounceroll_0.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/pounceroll_1.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/pounceroll_2.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/pounceroll_3.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/pounceroll_4.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/pounceroll_5.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/pounceroll_6.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/pounceroll_7.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/pounceroll_8.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/pounceroll_9.gif>
+![[pounceroll_0.gif]]
+![[pounceroll_1.gif]]
+![[pounceroll_2.gif]]
+![[pounceroll_3.gif]]
+![[pounceroll_4.gif]]
+![[pounceroll_5.gif]]
+![[pounceroll_6.gif]]
+![[pounceroll_7.gif]]
+![[pounceroll_8.gif]]
+![[pounceroll_9.gif]]

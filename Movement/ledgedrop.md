@@ -3,8 +3,7 @@ Status: #stub, #needsgif
 Tags: #move, #initiator, [[turnstore]]
 
 # ledgedrop - Ledge-Drop
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/ledgedrop_header.gif>
-
+![[ledgedrop_header.gif]]
 ## Description
 
 
@@ -23,22 +22,13 @@ Tags: #move, #initiator, [[turnstore]]
 ___
 # Gifs
 ## Bulk
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/ledgedrop_0.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/ledgedrop_1.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/ledgedrop_2.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/ledgedrop_3.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/ledgedrop_4.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/ledgedrop_5.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/ledgedrop_6.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/ledgedrop_7.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/ledgedrop_8.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/ledgedrop_9.gif>
+![[ledgedrop_0.gif]]
+![[ledgedrop_1.gif]]
+![[ledgedrop_2.gif]]
+![[ledgedrop_3.gif]]
+![[ledgedrop_4.gif]]
+![[ledgedrop_5.gif]]
+![[ledgedrop_6.gif]]
+![[ledgedrop_7.gif]]
+![[ledgedrop_8.gif]]
+![[ledgedrop_9.gif]]
