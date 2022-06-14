@@ -3,7 +3,8 @@ Status: #partdone
 Tags: #move, #initiator, [[crawlturnroll]]
 
 # jumptumble - Jump-Tumble
-![[jumptumble_header.gif]]
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/jumptumble_header.gif>
+
 ## Description
 By holding up while slugcat is [[walk|walking]], and releasing up around the time of a [[jump]], slugcat will rotate backwards midair. By holding foward and down for long enough before hitting the ground, it is possible to [[crawlturnroll]] from this really fucked up jump.
 
@@ -24,13 +25,22 @@ With an item throw, the window to perform this move gets bigger.
 ___
 # Gifs
 ## Bulk
-![[jumptumble_0.gif]]
-![[jumptumble_1.gif]]
-![[jumptumble_2.gif]]
-![[jumptumble_3.gif]]
-![[jumptumble_4.gif]]
-![[jumptumble_5.gif]]
-![[jumptumble_6.gif]]
-![[jumptumble_7.gif]]
-![[jumptumble_8.gif]]
-![[jumptumble_9.gif]]
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/jumptumble_0.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/jumptumble_1.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/jumptumble_2.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/jumptumble_3.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/jumptumble_4.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/jumptumble_5.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/jumptumble_6.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/jumptumble_7.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/jumptumble_8.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/jumptumble_9.gif>

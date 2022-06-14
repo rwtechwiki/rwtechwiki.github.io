@@ -3,6 +3,8 @@ Status: #partdone
 Tags: #collection
 
 # movedoc - Movement Guide Doc
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/testimage.png>
+
 ## Expected Knowledge
 [[jump]]
 <img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/jump_header.gif>

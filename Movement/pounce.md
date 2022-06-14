@@ -17,13 +17,22 @@ It is always possible to [[roll]] out of the pounce state, with the exception of
 ___
 # Gifs
 ## Bulk
-![[pounce_0.gif]]
-![[pounce_1.gif]]
-![[pounce_2.gif]]
-![[pounce_3.gif]]
-![[pounce_4.gif]]
-![[pounce_5.gif]]
-![[pounce_6.gif]]
-![[pounce_7.gif]]
-![[pounce_8.gif]]
-![[pounce_9.gif]]
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/pounce_0.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/pounce_1.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/pounce_2.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/pounce_3.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/pounce_4.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/pounce_5.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/pounce_6.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/pounce_7.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/pounce_8.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/pounce_9.gif>

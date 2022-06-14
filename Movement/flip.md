@@ -19,13 +19,22 @@ It is always possible to [[downthrow]] during the flip state.
 ___
 # Gifs
 ## Bulk
-![[flip_0.gif]]
-![[flip_1.gif]]
-![[flip_2.gif]]
-![[flip_3.gif]]
-![[flip_4.gif]]
-![[flip_5.gif]]
-![[flip_6.gif]]
-![[flip_7.gif]]
-![[flip_8.gif]]
-![[flip_9.gif]]
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/flip_0.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/flip_1.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/flip_2.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/flip_3.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/flip_4.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/flip_5.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/flip_6.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/flip_7.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/flip_8.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/flip_9.gif>

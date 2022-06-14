@@ -15,13 +15,22 @@ It is possible to press up or down to set slugcats orientation midair in the hop
 ___
 # Gifs
 ## Bulk
-![[hop_0.gif]]
-![[hop_1.gif]]
-![[hop_2.gif]]
-![[hop_3.gif]]
-![[hop_4.gif]]
-![[hop_5.gif]]
-![[hop_6.gif]]
-![[hop_7.gif]]
-![[hop_8.gif]]
-![[hop_9.gif]]
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/hop_0.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/hop_1.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/hop_2.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/hop_3.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/hop_4.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/hop_5.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/hop_6.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/hop_7.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/hop_8.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/hop_9.gif>
