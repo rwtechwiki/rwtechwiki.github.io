@@ -3,7 +3,8 @@ Status: #stub
 Tags: #move
 
 # spearpin - Spear-Pin
-![[spearpin_header.gif]]
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/spearpin_header.gif>
+
 ## Description
 
 
@@ -23,16 +24,27 @@ ___
 # Gifs
 ## Down-Throw Variant
 [[downthrow]]
-![[spearpin_down0.gif]]
-![[spearpin_down1.gif]]
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/spearpin_down0.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/spearpin_down1.gif>
+
 ## Bulk
-![[spearpin_0.gif]]
-![[spearpin_1.gif]]
-![[spearpin_2.gif]]
-![[spearpin_3.gif]]
-![[spearpin_4.gif]]
-![[spearpin_5.gif]]
-![[spearpin_6.gif]]
-![[spearpin_7.gif]]
-![[spearpin_8.gif]]
-![[spearpin_9.gif]]
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/spearpin_0.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/spearpin_1.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/spearpin_2.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/spearpin_3.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/spearpin_4.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/spearpin_5.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/spearpin_6.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/spearpin_7.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/spearpin_8.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/spearpin_9.gif>

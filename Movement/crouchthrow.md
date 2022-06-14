@@ -3,7 +3,8 @@ Status: #partdone
 Tags: #move, #variant, [[throw]], #fundimentals
 
 # crouchthrow - Crouch-Throw
-![[crouchthrow_header.gif]]
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crouchthrow_header.gif>
+
 ## Description
 By throwing as slugcat is transitioning from [[stand]] to [[crouch]], a thrown item will have a downward trajectory.
 
@@ -22,13 +23,22 @@ By throwing as slugcat is transitioning from [[stand]] to [[crouch]], a thrown i
 ___
 # Gifs
 ## Bulk
-![[crouchthrow_0.gif]]
-![[crouchthrow_1.gif]]
-![[crouchthrow_2.gif]]
-![[crouchthrow_3.gif]]
-![[crouchthrow_4.gif]]
-![[crouchthrow_5.gif]]
-![[crouchthrow_6.gif]]
-![[crouchthrow_7.gif]]
-![[crouchthrow_8.gif]]
-![[crouchthrow_9.gif]]
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crouchthrow_0.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crouchthrow_1.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crouchthrow_2.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crouchthrow_3.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crouchthrow_4.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crouchthrow_5.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crouchthrow_6.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crouchthrow_7.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crouchthrow_8.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crouchthrow_9.gif>

@@ -3,7 +3,8 @@ Status: #stub
 Tags: #move
 
 # polepullupjump - Pole-Pullup Jump
-![[polepullupjump_header.gif]]
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/polepullupjump_header.gif>
+
 ## Description
 
 
@@ -22,13 +23,22 @@ Tags: #move
 ___
 # Gifs
 ## Bulk
-![[polepullupjump_0.gif]]
-![[polepullupjump_1.gif]]
-![[polepullupjump_2.gif]]
-![[polepullupjump_3.gif]]
-![[polepullupjump_4.gif]]
-![[polepullupjump_5.gif]]
-![[polepullupjump_6.gif]]
-![[polepullupjump_7.gif]]
-![[polepullupjump_8.gif]]
-![[polepullupjump_9.gif]]
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/polepullupjump_0.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/polepullupjump_1.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/polepullupjump_2.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/polepullupjump_3.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/polepullupjump_4.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/polepullupjump_5.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/polepullupjump_6.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/polepullupjump_7.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/polepullupjump_8.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/polepullupjump_9.gif>

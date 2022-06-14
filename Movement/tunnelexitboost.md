@@ -3,7 +3,8 @@ Status: #stub, #needsgif
 Tags: #move, #variant, [[jumpstoredboost]]
 
 # tunnelexitboost - Tunnel-Exit-Boost
-![[tunnelexitboost_header.gif]]
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/tunnelexitboost_header.gif>
+
 ## Description
 
 
@@ -22,13 +23,22 @@ Tags: #move, #variant, [[jumpstoredboost]]
 ___
 # Gifs
 ## Bulk
-![[tunnelexitboost_0.gif]]
-![[tunnelexitboost_1.gif]]
-![[tunnelexitboost_2.gif]]
-![[tunnelexitboost_3.gif]]
-![[tunnelexitboost_4.gif]]
-![[tunnelexitboost_5.gif]]
-![[tunnelexitboost_6.gif]]
-![[tunnelexitboost_7.gif]]
-![[tunnelexitboost_8.gif]]
-![[tunnelexitboost_9.gif]]
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/tunnelexitboost_0.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/tunnelexitboost_1.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/tunnelexitboost_2.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/tunnelexitboost_3.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/tunnelexitboost_4.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/tunnelexitboost_5.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/tunnelexitboost_6.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/tunnelexitboost_7.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/tunnelexitboost_8.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/tunnelexitboost_9.gif>
