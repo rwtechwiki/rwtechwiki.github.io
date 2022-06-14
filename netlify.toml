@@ -6,20 +6,20 @@ publish = "public"
 # (Optional) Text in landing page button
 LANDING_BUTTON = "Get Started"
 # (Optional) Site description on landing page
-LANDING_DESCRIPTION = "This is a comprehensive collection and explanation of every known move in the game! (work in progress)"
+LANDING_DESCRIPTION = "This is a comprehensive collection and explanation of Rain World tech, including movement and eventually exploits and other tech! (work in progress)"
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
 LANDING_PAGE = "collections/movedocrecs"
 # (Optional) Site title on landing page
 LANDING_TITLE = "Welcome!"
 PYTHON_VERSION = "3.8"
 # (REQUIRED) Site repo URL
-REPO_URL = "https://github.com/LauraHannah44/Rain-World-Movement/tree/main"
+REPO_URL = "https://github.com/rwtechwiki/rwtechwiki.github.io"
 # (Optional) Site title in navbar
-SITE_TITLE = "Rain World Movement Wiki"
+SITE_TITLE = "RW Tech Wiki"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
-SITE_TITLE_TAB = "RW Movement Wiki"
+SITE_TITLE_TAB = "The Rain World Tech Wiki"
 # (REQUIRED) Netlify site URL
-SITE_URL = "https://rwmovementwiki.netlify.app"
+SITE_URL = "https://rwtechwiki.github.io"
 # (Optional) Site Timezone
 TIMEZONE = ""
 ZOLA_VERSION = "0.15.2"
@@ -85,7 +85,7 @@ package = "netlify-plugin-submit-sitemap"
 [plugins.inputs]
 
 # The base url of your site (optional, default = main URL set in Netlify)
-baseUrl = "https://rwmovementwiki.netlify.app"
+baseUrl = "https://rwtechwiki.github.io"
 
 # Path to the sitemap URL (optional, default = /sitemap.xml)
 sitemapPath = "/sitemap.xml"
