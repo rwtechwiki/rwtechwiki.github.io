@@ -1,6 +1,6 @@
 Status: #partdone 
 
-Tags: #type
+Tags: #movetype
 
 # airhop - Air-Hop
 ## Description

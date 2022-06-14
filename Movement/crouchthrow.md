@@ -5,13 +5,13 @@ Tags: #move, #variant, [[throw]], #fundimentals
 # crouchthrow - Crouch-Throw
 ![[crouchthrow_header.gif]]
 ## Description
-By throwing as slugcat is transitioning from [[stand]] to [[crouch]], a thrown item will have a downward trajectory.
+By throwing as slugcat is mid-[[crouch]], a thrown item will have a downward trajectory.
 
 ## Notes
-
+The downwards trajectory allows for a thrown spear to bypass the shielded head of a lizard and [[mouthspear]], as long as its mouth is open.
 
 ## Performed from
-[[stand]]
+[[crouch]]
 
 ## Allows for
 [[mouthspear]]

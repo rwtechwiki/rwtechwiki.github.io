@@ -1,20 +1,22 @@
-Status: #stub, #needsgif
+Status: #partdone, #needsgif
 
 Tags: #move, #initiator, [[turnstore]], #fundimentals
 
 # crouch - Crouch
 ![[crouch_header.gif]]
 ## Description
-By pressing down, slugcat enters a crouching position, where it can crawl around.
+By pressing down from the standing state, slugcat enters a crouching position, where it can crawl around and fit under 1-tile ceilings.
 
 ## Notes
+There is a window mid-crouch to [[chargehopcancel]] by pressing and releasing jump.
 
+It is possible to buffer a [[crawlturn]] by inputting to start one during a crouch. This is one way to begin a [[crawlturnroll]].
 
 ## Performed from
 
 
 ## Allows for
-
+[[chargehopcancel]]
 
 ## Chains to
 

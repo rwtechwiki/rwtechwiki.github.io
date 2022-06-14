@@ -1,4 +1,4 @@
-Status: #stub, #needsgif 
+Status: #partdone, #needsgif 
 
 Tags: #move, #initiator, [[jumpstore]]
 

@@ -1,17 +1,17 @@
-Status: #stub
+Status: #partdone
 
 Tags: #move, #variant, [[fastfall]]
 
 # crawlturnfastfall - Crawl-Turn Fast-Fall
 ![[crawlturnfastfall_header.gif]]
 ## Description
-
+It is possible to drastically increase falling acceleration by becoming airborn after performing a [[crawlturncancel]], and continuing to hold in the crawl-turn direction.
 
 ## Notes
-
+This move is possible regardless of whether the [[crawlturncancel]] is performed from a [[crawlturn]] or a [[ledgepullup]].
 
 ## Performed from
-
+[[crawlturncancel]]
 
 ## Allows for
 

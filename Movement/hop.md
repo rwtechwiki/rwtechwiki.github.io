@@ -1,6 +1,6 @@
 Status: #partdone 
 
-Tags: #type, #fundimentals
+Tags: #movetype, #fundimentals
 
 # hop - Hop
 ## Description
