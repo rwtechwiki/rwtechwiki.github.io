@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Movement/eairhop.md",
+            "file": "Movement/airorientation.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Movement/eairhop.md",
+                "file": "Movement/airorientation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +100,8 @@
   },
   "active": "dc57a7fd2cc0d2f6",
   "lastOpenFiles": [
+    "Movement/airorientation.md",
+    "Movement/airhop.md",
     "Movement/eairhop.md",
     "Movement/droproll.md",
     "Movement/downthrow.md",
@@ -107,8 +109,6 @@
     "Movement/crouchtumble.md",
     "Movement/crouchthrow.md",
     "Movement/crouchhop.md",
-    "Movement/crouch.md",
-    "Movement/crawlturnroll.md",
-    "Movement/crawlturncanceltumble.md"
+    "Movement/crawlturnroll.md"
   ]
 }

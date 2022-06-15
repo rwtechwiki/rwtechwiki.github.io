@@ -13,6 +13,8 @@ There is a window mid-crouch to [[chargehopcancel]] by pressing and releasing ju
 
 It is possible to buffer a [[crawlturn]] by inputting to start one during a crouch. This is one way to begin a [[crawlturnroll]].
 
+There is a window to [[crouchthrow]] by pressing through towards the end of the crouch.
+
 ## Performed from
 
 
@@ -20,7 +22,7 @@ It is possible to buffer a [[crawlturn]] by inputting to start one during a crou
 [[chargehopcancel]]
 
 ## Chains to
-
+[[crouchthrow]]
 
 ___
 # Gifs
