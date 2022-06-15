@@ -1,6 +1,6 @@
 Status: #stub
 
-Tags: #type
+Tags: #movetype
 
 # jumpstoredboost - Jump-Stored Boost
 ## Description

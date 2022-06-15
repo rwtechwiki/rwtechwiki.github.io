@@ -8,6 +8,8 @@ Tags: #move, #fundimentals
 ## Description
 There is a window to begin a crawl-turn-cancel by pressing up during frames 1-4 of a [[crawlturn]]. Slugcat pops into the air and ends up in the standing state. Slugcat reaches significantly higher above the ground if the cancel is on frame 1 or 4 of the crawl-turn.
 
+This move is automatically performed by inputting a crawl-turn a specific timing after a [[ledgepullup]]. This leads to a series of "ledge variants" of crawl-turn moves, which act the same but have slightly simplified inputs.
+
 ## Notes
 Performed on frames 1 or 4, this move allows slugcat to reach a tile off the ground within a few frames without any jump input, allowing for a [[crawlturnjump]].
 

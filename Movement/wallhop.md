@@ -1,6 +1,6 @@
 Status: #stub 
 
-Tags: #type
+Tags: #movetype
 
 # wallhop - Wall-Hop
 ## Description

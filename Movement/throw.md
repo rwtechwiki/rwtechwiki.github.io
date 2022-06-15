@@ -1,6 +1,6 @@
 Status: #stub
 
-Tags: #type
+Tags: #movetype
 
 # throw - Throw
 ## Description

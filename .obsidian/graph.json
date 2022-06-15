@@ -1,11 +1,11 @@
 {
   "collapse-filter": false,
-  "search": "tag:#fundimentals -tag:#collection -path:Templates",
+  "search": "-tag:#collection -path:Templates",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#variant",
@@ -22,7 +22,7 @@
       }
     },
     {
-      "query": "tag:#type",
+      "query": "tag:#movetype",
       "color": {
         "a": 1,
         "rgb": 10790143
@@ -36,7 +36,7 @@
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 1.50393258426966,
@@ -46,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.8410179241582822,
+  "scale": 0.34157915331438815,
   "close": false
 }

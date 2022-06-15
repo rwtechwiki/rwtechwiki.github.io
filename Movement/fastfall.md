@@ -1,6 +1,6 @@
 Status: #partdone 
 
-Tags: #type
+Tags: #movetype
 
 # fastfall - Fast-Fall
 ## Description

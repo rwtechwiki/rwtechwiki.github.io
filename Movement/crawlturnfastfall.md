@@ -1,4 +1,4 @@
-Status: #stub
+Status: #partdone
 
 Tags: #move, #variant, [[fastfall]]
 
@@ -6,13 +6,13 @@ Tags: #move, #variant, [[fastfall]]
 <img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crawlturnfastfall_header.gif>
 
 ## Description
-
+It is possible to drastically increase falling acceleration by becoming airborn after performing a [[crawlturncancel]], and continuing to hold in the crawl-turn direction.
 
 ## Notes
-
+This move is possible regardless of whether the [[crawlturncancel]] is performed from a [[crawlturn]] or a [[ledgepullup]].
 
 ## Performed from
-
+[[crawlturncancel]]
 
 ## Allows for
 
