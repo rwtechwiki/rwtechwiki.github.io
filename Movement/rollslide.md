@@ -3,8 +3,7 @@ Status: #stub
 Tags: #move
 
 # rollslide - Roll-Slide
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/rollslide_header.gif>
-
+![[rollslide_header.gif]]
 ## Description
 
 
@@ -23,22 +22,13 @@ Tags: #move
 ___
 # Gifs
 ## Bulk
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/rollslide_0.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/rollslide_1.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/rollslide_2.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/rollslide_3.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/rollslide_4.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/rollslide_5.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/rollslide_6.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/rollslide_7.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/rollslide_8.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/rollslide_9.gif>
+![[rollslide_0.gif]]
+![[rollslide_1.gif]]
+![[rollslide_2.gif]]
+![[rollslide_3.gif]]
+![[rollslide_4.gif]]
+![[rollslide_5.gif]]
+![[rollslide_6.gif]]
+![[rollslide_7.gif]]
+![[rollslide_8.gif]]
+![[rollslide_9.gif]]

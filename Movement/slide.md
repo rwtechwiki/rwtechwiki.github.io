@@ -3,8 +3,7 @@ Status: #done
 Tags: #move, #initiator, [[turnstore]], #fundimentals
 
 # slide - Slide
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/slide_header.gif>
-
+![[slide_header.gif]]
 ## Description
 It is possible to slide while [[walk|walking]] by pressing down then jump at roughly the same time. The move can last for roughly 17 frames by holding forward throughout and has several windows throughout its duration to chain to other moves.
 
@@ -41,22 +40,13 @@ Similarly if the slide enters a ground level horizontal tunnel entrance, a well-
 ___
 # Gifs
 ## Bulk
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/slide_0.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/slide_1.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/slide_2.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/slide_3.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/slide_4.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/slide_5.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/slide_6.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/slide_7.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/slide_8.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/slide_9.gif>
+![[slide_0.gif]]
+![[slide_1.gif]]
+![[slide_2.gif]]
+![[slide_3.gif]]
+![[slide_4.gif]]
+![[slide_5.gif]]
+![[slide_6.gif]]
+![[slide_7.gif]]
+![[slide_8.gif]]
+![[slide_9.gif]]

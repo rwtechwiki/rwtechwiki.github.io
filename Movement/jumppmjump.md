@@ -3,8 +3,7 @@ Status: #stub
 Tags: #move
 
 # jumppmjump - Jump Pole-Momentum Jump
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/jumppmjump_header.gif>
-
+![[jumppmjump_header.gif]]
 ## Description
 
 
@@ -23,22 +22,13 @@ Tags: #move
 ___
 # Gifs
 ## Bulk
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/jumppmjump_0.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/jumppmjump_1.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/jumppmjump_2.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/jumppmjump_3.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/jumppmjump_4.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/jumppmjump_5.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/jumppmjump_6.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/jumppmjump_7.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/jumppmjump_8.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/jumppmjump_9.gif>
+![[jumppmjump_0.gif]]
+![[jumppmjump_1.gif]]
+![[jumppmjump_2.gif]]
+![[jumppmjump_3.gif]]
+![[jumppmjump_4.gif]]
+![[jumppmjump_5.gif]]
+![[jumppmjump_6.gif]]
+![[jumppmjump_7.gif]]
+![[jumppmjump_8.gif]]
+![[jumppmjump_9.gif]]

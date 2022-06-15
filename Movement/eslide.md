@@ -3,8 +3,7 @@ Status: #partdone
 Tags: #move, #variant, [[throw]], #fundimentals
 
 # eslide - Extended Slide
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/eslide_header.gif>
-
+![[eslide_header.gif]]
 ## Description
 There is a window to extend a [[slide]] by throwing a weapon item backwards during frames 10 through 15 of the slide. The extended slide lasts considerably longer, and has a slightly larger window to perform the corresponding [[epounce]] and [[eflip]].
 
@@ -33,22 +32,13 @@ There is a window to [[slidethrow]] by throwing an item forwards mid-slide.
 ___
 # Gifs
 ## Bulk
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/eslide_0.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/eslide_1.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/eslide_2.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/eslide_3.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/eslide_4.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/eslide_5.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/eslide_6.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/eslide_7.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/eslide_8.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/eslide_9.gif>
+![[eslide_0.gif]]
+![[eslide_1.gif]]
+![[eslide_2.gif]]
+![[eslide_3.gif]]
+![[eslide_4.gif]]
+![[eslide_5.gif]]
+![[eslide_6.gif]]
+![[eslide_7.gif]]
+![[eslide_8.gif]]
+![[eslide_9.gif]]

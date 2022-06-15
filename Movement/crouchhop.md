@@ -3,8 +3,7 @@ Status: #stub
 Tags: #move, #variant, [[hop]]
 
 # crouchhop - Crouch-Hop
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crouchhop_header.gif>
-
+![[crouchhop_header.gif]]
 ## Description
 
 
@@ -23,22 +22,13 @@ Tags: #move, #variant, [[hop]]
 ___
 # Gifs
 ## Bulk
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crouchhop_0.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crouchhop_1.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crouchhop_2.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crouchhop_3.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crouchhop_4.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crouchhop_5.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crouchhop_6.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crouchhop_7.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crouchhop_8.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crouchhop_9.gif>
+![[crouchhop_0.gif]]
+![[crouchhop_1.gif]]
+![[crouchhop_2.gif]]
+![[crouchhop_3.gif]]
+![[crouchhop_4.gif]]
+![[crouchhop_5.gif]]
+![[crouchhop_6.gif]]
+![[crouchhop_7.gif]]
+![[crouchhop_8.gif]]
+![[crouchhop_9.gif]]

@@ -3,8 +3,7 @@ Status: #partdone
 Tags: #move, #variant, [[throw]], #fundimentals
 
 # downthrow - Down-Throw
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/downthrow_header.gif>
-
+![[downthrow_header.gif]]
 ## Description
 It is possible to throw an item downwards out of the flip state, by holding only the down input direction and pressing throw.
 
@@ -23,22 +22,13 @@ Spears thrown downwards have the same potential to embed in the ground as when t
 ___
 # Gifs
 ## Bulk
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/downthrow_0.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/downthrow_1.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/downthrow_2.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/downthrow_3.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/downthrow_4.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/downthrow_5.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/downthrow_6.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/downthrow_7.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/downthrow_8.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/downthrow_9.gif>
+![[downthrow_0.gif]]
+![[downthrow_1.gif]]
+![[downthrow_2.gif]]
+![[downthrow_3.gif]]
+![[downthrow_4.gif]]
+![[downthrow_5.gif]]
+![[downthrow_6.gif]]
+![[downthrow_7.gif]]
+![[downthrow_8.gif]]
+![[downthrow_9.gif]]
