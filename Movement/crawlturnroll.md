@@ -3,8 +3,7 @@ Status: #partdone
 Tags: #move, #initiator, [[roll]]
 
 # crawlturnroll - Crawl-Turn Roll
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crawlturnroll_header.gif>
-
+![[crawlturnroll_header.gif]]
 ## Description
 It is possible to begin a roll by holding down during the middle of a buffered [[crawlturn]]. It is possible to buffer the crawl-turn by holding backwards within the first 5 frames of beginning the [[crouch]] state.
 
@@ -23,25 +22,15 @@ It is reasonable to enter the crouch state either by performing a first crawl-tu
 ___
 # Gifs
 ## Ledge Variant
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crawlturnroll_ledge.gif>
-
+![[crawlturnroll_ledge.gif]]
 ## Bulk
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crawlturnroll_0.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crawlturnroll_1.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crawlturnroll_2.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crawlturnroll_3.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crawlturnroll_4.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crawlturnroll_5.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crawlturnroll_6.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crawlturnroll_7.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crawlturnroll_8.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crawlturnroll_9.gif>
+![[crawlturnroll_0.gif]]
+![[crawlturnroll_1.gif]]
+![[crawlturnroll_2.gif]]
+![[crawlturnroll_3.gif]]
+![[crawlturnroll_4.gif]]
+![[crawlturnroll_5.gif]]
+![[crawlturnroll_6.gif]]
+![[crawlturnroll_7.gif]]
+![[crawlturnroll_8.gif]]
+![[crawlturnroll_9.gif]]

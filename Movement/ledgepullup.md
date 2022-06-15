@@ -3,8 +3,7 @@ Status: #done
 Tags: #move, #fundimentals
 
 # ledgepullup - Ledge Pull-Up
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/ledgepullup_header.gif>
-
+![[ledgepullup_header.gif]]
 ## Description
 By holding towards a ledge as slugcat is up against it, it is possible for slugcat to pull up over it. If slugcat is lower on the wall, a jump input may be required, but the pull-up will act the same.
 
@@ -27,22 +26,13 @@ Jumping when pressing against the bottom of a wall tends to give friction and re
 ___
 # Gifs
 ## Bulk
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/ledgepullup_0.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/ledgepullup_1.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/ledgepullup_2.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/ledgepullup_3.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/ledgepullup_4.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/ledgepullup_5.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/ledgepullup_6.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/ledgepullup_7.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/ledgepullup_8.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/ledgepullup_9.gif>
+![[ledgepullup_0.gif]]
+![[ledgepullup_1.gif]]
+![[ledgepullup_2.gif]]
+![[ledgepullup_3.gif]]
+![[ledgepullup_4.gif]]
+![[ledgepullup_5.gif]]
+![[ledgepullup_6.gif]]
+![[ledgepullup_7.gif]]
+![[ledgepullup_8.gif]]
+![[ledgepullup_9.gif]]

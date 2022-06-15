@@ -3,8 +3,7 @@ Status: #stub, #needsgif
 Tags: #move
 
 # jumpstore - Jump-Store
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/jumpstore_header.gif>
-
+![[jumpstore_header.gif]]
 ## Description
 
 
@@ -23,22 +22,13 @@ Tags: #move
 ___
 # Gifs
 ## Bulk
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/jumpstore_0.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/jumpstore_1.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/jumpstore_2.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/jumpstore_3.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/jumpstore_4.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/jumpstore_5.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/jumpstore_6.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/jumpstore_7.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/jumpstore_8.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/jumpstore_9.gif>
+![[jumpstore_0.gif]]
+![[jumpstore_1.gif]]
+![[jumpstore_2.gif]]
+![[jumpstore_3.gif]]
+![[jumpstore_4.gif]]
+![[jumpstore_5.gif]]
+![[jumpstore_6.gif]]
+![[jumpstore_7.gif]]
+![[jumpstore_8.gif]]
+![[jumpstore_9.gif]]

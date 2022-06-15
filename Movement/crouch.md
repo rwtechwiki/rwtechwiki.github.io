@@ -3,8 +3,7 @@ Status: #partdone, #needsgif
 Tags: #move, #initiator, [[turnstore]], #fundimentals
 
 # crouch - Crouch
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crouch_header.gif>
-
+![[crouch_header.gif]]
 ## Description
 By pressing down from the standing state, slugcat enters a crouching position, where it can crawl around and fit under 1-tile ceilings.
 
@@ -27,22 +26,13 @@ There is a window to [[crouchthrow]] by pressing through towards the end of the 
 ___
 # Gifs
 ## Bulk
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crouch_0.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crouch_1.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crouch_2.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crouch_3.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crouch_4.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crouch_5.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crouch_6.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crouch_7.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crouch_8.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crouch_9.gif>
+![[crouch_0.gif]]
+![[crouch_1.gif]]
+![[crouch_2.gif]]
+![[crouch_3.gif]]
+![[crouch_4.gif]]
+![[crouch_5.gif]]
+![[crouch_6.gif]]
+![[crouch_7.gif]]
+![[crouch_8.gif]]
+![[crouch_9.gif]]

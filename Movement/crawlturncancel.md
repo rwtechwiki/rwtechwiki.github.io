@@ -3,8 +3,7 @@ Status: #partdone
 Tags: #move, #fundimentals
 
 # crawlturncancel - Crawl-Turn-Cancel
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crawlturncancel_header.gif>
-
+![[crawlturncancel_header.gif]]
 ## Description
 There is a window to begin a crawl-turn-cancel by pressing up during frames 1-4 of a [[crawlturn]]. Slugcat pops into the air and ends up in the standing state. Slugcat reaches significantly higher above the ground if the cancel is on frame 1 or 4 of the crawl-turn.
 
@@ -29,22 +28,13 @@ For the frame-1 cancel, if down, jump and the direction slugcat is turning away 
 ___
 # Gifs
 ## Bulk
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crawlturncancel_0.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crawlturncancel_1.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crawlturncancel_2.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crawlturncancel_3.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crawlturncancel_4.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crawlturncancel_5.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crawlturncancel_6.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crawlturncancel_7.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crawlturncancel_8.gif>
-
-<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/crawlturncancel_9.gif>
+![[crawlturncancel_0.gif]]
+![[crawlturncancel_1.gif]]
+![[crawlturncancel_2.gif]]
+![[crawlturncancel_3.gif]]
+![[crawlturncancel_4.gif]]
+![[crawlturncancel_5.gif]]
+![[crawlturncancel_6.gif]]
+![[crawlturncancel_7.gif]]
+![[crawlturncancel_8.gif]]
+![[crawlturncancel_9.gif]]
