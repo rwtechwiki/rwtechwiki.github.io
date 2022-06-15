@@ -1,6 +1,6 @@
 {
-  "findText": "<img src=https:\\/\\/raw\\.githubusercontent\\.com\\/LauraHannah44\\/Rain-World-Movement\\/main\\/Files\\/(.*?)>",
-  "replaceText": "<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/$1>\n",
+  "findText": "<img src=https:\\/\\/raw\\.githubusercontent\\.com\\/LauraHannah44\\/Rain-World-Movement\\/main\\/Files\\/(.*?)>\\n",
+  "replaceText": "![[$1]]",
   "useRegEx": true,
   "selOnly": false,
   "caseInsensitive": false,
