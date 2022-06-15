@@ -3,7 +3,8 @@ Status: #stub
 Tags: #move, #initiator, [[roll]]
 
 # ledgedroproll - Ledge-Drop Roll
-![[ledgedroproll_header.gif]]
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/ledgedroproll_header.gif>
+
 ## Description
 
 
@@ -22,13 +23,22 @@ Tags: #move, #initiator, [[roll]]
 ___
 # Gifs
 ## Bulk
-![[ledgedroproll_0.gif]]
-![[ledgedroproll_1.gif]]
-![[ledgedroproll_2.gif]]
-![[ledgedroproll_3.gif]]
-![[ledgedroproll_4.gif]]
-![[ledgedroproll_5.gif]]
-![[ledgedroproll_6.gif]]
-![[ledgedroproll_7.gif]]
-![[ledgedroproll_8.gif]]
-![[ledgedroproll_9.gif]]
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/ledgedroproll_0.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/ledgedroproll_1.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/ledgedroproll_2.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/ledgedroproll_3.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/ledgedroproll_4.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/ledgedroproll_5.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/ledgedroproll_6.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/ledgedroproll_7.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/ledgedroproll_8.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/ledgedroproll_9.gif>

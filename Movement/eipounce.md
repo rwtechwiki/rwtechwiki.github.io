@@ -3,7 +3,8 @@ Status: #partdone
 Tags: #move, #variant, [[pounce]]
 
 # eipounce - Extended Instant Slide-Pounce
-![[eipounce_header.gif]]
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/eipounce_header.gif>
+
 ## Description
 This [[pounce]] variant is produced by pressing jump on frame 2 of an [[eslide]]. It has a much larger range than a regular [[epounce]] as the slide extension initially gives slugcat a higher speed before slowing down.
 
@@ -22,13 +23,22 @@ This move can only be performed if the extended slide begins on frame 14 or 15 o
 ___
 # Gifs
 ## Bulk
-![[eipounce_0.gif]]
-![[eipounce_1.gif]]
-![[eipounce_2.gif]]
-![[eipounce_3.gif]]
-![[eipounce_4.gif]]
-![[eipounce_5.gif]]
-![[eipounce_6.gif]]
-![[eipounce_7.gif]]
-![[eipounce_8.gif]]
-![[eipounce_9.gif]]
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/eipounce_0.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/eipounce_1.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/eipounce_2.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/eipounce_3.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/eipounce_4.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/eipounce_5.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/eipounce_6.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/eipounce_7.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/eipounce_8.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/eipounce_9.gif>

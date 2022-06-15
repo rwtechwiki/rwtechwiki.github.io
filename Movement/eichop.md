@@ -3,7 +3,8 @@ Status: #partdone
 Tags: #move, #variant, [[hop]]
 
 # eichop - Extended Instant Crouch Slide-Hop
-![[eichop_header.gif]]
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/eichop_header.gif>
+
 ## Description
 If down is input on frame 2 of an [[ehop]], the move becomes an eichop, giving slugcat significantly more speed, as long as the ehop was a frame 1 jump input after the [[slide]] (an eihop).
 
@@ -22,13 +23,22 @@ If down is input on frame 2 of an [[ehop]], the move becomes an eichop, giving s
 ___
 # Gifs
 ## Bulk
-![[eichop_0.gif]]
-![[eichop_1.gif]]
-![[eichop_2.gif]]
-![[eichop_3.gif]]
-![[eichop_4.gif]]
-![[eichop_5.gif]]
-![[eichop_6.gif]]
-![[eichop_7.gif]]
-![[eichop_8.gif]]
-![[eichop_9.gif]]
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/eichop_0.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/eichop_1.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/eichop_2.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/eichop_3.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/eichop_4.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/eichop_5.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/eichop_6.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/eichop_7.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/eichop_8.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/eichop_9.gif>

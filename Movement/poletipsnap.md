@@ -3,7 +3,8 @@ Status: #stub
 Tags: #move
 
 # poletipsnap - Pole-Tip Snap
-![[poletipsnap_header.gif]]
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/poletipsnap_header.gif>
+
 ## Description
 
 
@@ -22,13 +23,22 @@ Tags: #move
 ___
 # Gifs
 ## Bulk
-![[poletipsnap_0.gif]]
-![[poletipsnap_1.gif]]
-![[poletipsnap_2.gif]]
-![[poletipsnap_3.gif]]
-![[poletipsnap_4.gif]]
-![[poletipsnap_5.gif]]
-![[poletipsnap_6.gif]]
-![[poletipsnap_7.gif]]
-![[poletipsnap_8.gif]]
-![[poletipsnap_9.gif]]
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/poletipsnap_0.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/poletipsnap_1.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/poletipsnap_2.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/poletipsnap_3.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/poletipsnap_4.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/poletipsnap_5.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/poletipsnap_6.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/poletipsnap_7.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/poletipsnap_8.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/poletipsnap_9.gif>

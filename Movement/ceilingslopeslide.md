@@ -3,7 +3,8 @@ Status: #partdone, #needsgif
 Tags: #move
 
 # ceilingslopeslide - Ceiling-Slope Slide
-![[ceilingslide_header.gif]]
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/ceilingslide_header.gif>
+
 ## Description
 It is possible to "stick to" and slide down a ceiling slope by holding the forward direction along it after a [[chargehop]] or with precise positioning from other [[hop|hops]].
 
@@ -22,13 +23,22 @@ It is possible to "stick to" and slide down a ceiling slope by holding the forwa
 ___
 # Gifs
 ## Bulk
-![[ceilingslopeslide_0.gif]]
-![[ceilingslopeslide_1.gif]]
-![[ceilingslopeslide_2.gif]]
-![[ceilingslopeslide_3.gif]]
-![[ceilingslopeslide_4.gif]]
-![[ceilingslopeslide_5.gif]]
-![[ceilingslopeslide_6.gif]]
-![[ceilingslopeslide_7.gif]]
-![[ceilingslopeslide_8.gif]]
-![[ceilingslopeslide_9.gif]]
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/ceilingslopeslide_0.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/ceilingslopeslide_1.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/ceilingslopeslide_2.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/ceilingslopeslide_3.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/ceilingslopeslide_4.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/ceilingslopeslide_5.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/ceilingslopeslide_6.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/ceilingslopeslide_7.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/ceilingslopeslide_8.gif>
+
+<img src=https://raw.githubusercontent.com/LauraHannah44/Rain-World-Movement/main/Files/ceilingslopeslide_9.gif>
