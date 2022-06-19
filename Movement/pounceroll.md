@@ -5,10 +5,10 @@ Tags: #move, #initiator, [[roll]], #fundimentals
 # pounceroll - Pounce-Roll
 ![[pounceroll_header.gif]]
 ## Description
-It is possible to [[roll]] from the [[pounce]] state by holding down and forward for enough frames before landing. 
+It is possible to [[roll]] from a [[pounce]] by holding down and left/right for enough frames before landing. 
 
 ## Notes
-This does not work for [[rollpounce]], and so requires falling from high enough of the ground in order to [[droproll]] from that move.
+This does not work for [[rollpounce]], and so requires falling from high enough off the ground in order to [[droproll]] from that move.
 
 ## Performed from
 [[pounce]]

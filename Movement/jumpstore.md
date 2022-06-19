@@ -11,7 +11,7 @@ Tags: #move
 
 
 ## Performed from
-[[chargehopcancel]], [[jumpcancel]], [[slidetunnelentry]]
+[[crouchhopcancel]], [[jumpcancel]], [[slidetunnelentry]]
 
 ## Allows for
 [[jumpstoredboost]]

@@ -1,6 +1,6 @@
 Status: #stub
 
-Tags: #move
+Tags: #move, #variant, [[polemomentumjump]]
 
 # slidepmjump - Slide Pole-Momentum Jump
 ![[slidepmjump_header.gif]]

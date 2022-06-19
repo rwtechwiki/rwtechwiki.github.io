@@ -5,10 +5,10 @@ Tags: #move
 # ceilingslopeslide - Ceiling-Slope Slide
 ![[ceilingslide_header.gif]]
 ## Description
-It is possible to "stick to" and slide down a ceiling slope by holding the forward direction along it after a [[chargehop]] or with precise positioning from other [[hop|hops]].
+It is possible to "stick to" and slide down a ceiling slope by holding the forward direction as slugcat is pressed against it after a [[chargehop]] or with precise positioning from other [[hop|hops]].
 
 ## Notes
-
+Due to slugcats acceleration midair, this allows for longer horizontal jumps, in the vary rare cases where the terrain allows for it.
 
 ## Performed from
 [[chargehop]], [[hop]]

@@ -1,6 +1,6 @@
 {
-  "findText": "<img src=https:\\/\\/raw\\.githubusercontent\\.com\\/LauraHannah44\\/Rain-World-Movement\\/main\\/Files\\/(.*?)>\\n",
-  "replaceText": "![[$1]]",
+  "findText": "chargehop",
+  "replaceText": "crouchhop",
   "useRegEx": true,
   "selOnly": false,
   "caseInsensitive": false,

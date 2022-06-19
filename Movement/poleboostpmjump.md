@@ -1,6 +1,6 @@
 Status: #stub, #needsgif 
 
-Tags: #move
+Tags: #move, #variant, [[polemomentumjump]]
 
 # poleboostpmjump - Pole-Boost Pole-Momentum Jump
 ![[poleboostpmjump_header.gif]]
