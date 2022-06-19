@@ -1,6 +1,6 @@
 Status: #stub
 
-Tags: #movetype
+Tags: #movetype, #variant, [[flip]]
 
 # turnstoredflip - Turn-Stored Flip
 ## Description

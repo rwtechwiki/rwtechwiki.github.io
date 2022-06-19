@@ -1,14 +1,16 @@
-Status: #stub
+Status: #partdone 
 
 Tags: #move, #variant, [[hop]]
 
 # crouchhop - Crouch-Hop
 ![[crouchhop_header.gif]]
 ## Description
-
+When crawling on the ground, it is possible to perform a tile-high hop by pressing jump, which gives slugcat some extra momentum.
 
 ## Notes
+This move can be very useful for preserving momentum upon landing from [[pounce|pounces]], as the airtime can be used to return slugcat to the standing state via [[airorientation]].
 
+When only slugcats head chunk is on the ground, this move gives almost no height.
 
 ## Performed from
 

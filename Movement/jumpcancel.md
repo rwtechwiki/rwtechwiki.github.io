@@ -1,11 +1,11 @@
-Status: #stub, #needsgif 
+Status: #partdone, #needsgif 
 
 Tags: #move, #initiator, [[jumpstore]]
 
 # jumpcancel - Jump-Cancel
 ![[jumpcancel_header.gif]]
 ## Description
-
+It is possible to return slugcat to the ground the same frame a jump input is pressed. This allows for 8 [[jumpstore]] from the beginning of a floor slope, a ceiling slope 1 tile off the ground, or a heavy enough creature corpse.
 
 ## Notes
 

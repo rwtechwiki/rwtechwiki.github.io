@@ -101,14 +101,14 @@
   "active": "dc57a7fd2cc0d2f6",
   "lastOpenFiles": [
     "Movement/airhop.md",
-    "Movement/chargehopcancel.md",
-    "Movement/wallslide.md",
-    "Movement/wallregrab.md",
-    "Movement/walljump.md",
-    "Movement/wallhop.md",
-    "Movement/walk.md",
-    "Movement/turnstoredflip.md",
-    "Movement/turnstore.md",
-    "Movement/turnhop.md"
+    "Movement/airorientation.md",
+    "Movement/awallhop.md",
+    "Movement/ceilingslopeslide.md",
+    "Movement/chargehop.md",
+    "Movement/coyotejump.md",
+    "Movement/crawlturn.md",
+    "Movement/crawlturncancel.md",
+    "Movement/crawlturncanceltumble.md",
+    "Movement/crawlturnfastfall.md"
   ]
 }

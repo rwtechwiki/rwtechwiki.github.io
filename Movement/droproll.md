@@ -1,11 +1,11 @@
-Status: #stub
+Status: #partdone 
 
 Tags: #move, #initiator, [[roll]]
 
 # droproll - Drop-Roll
 ![[droproll_header.gif]]
 ## Description
-
+It is possible to [[roll]] from falling a height of at least 4 tiles by holding down and left/right for enough frames before landing.
 
 ## Notes
 
@@ -17,7 +17,7 @@ Tags: #move, #initiator, [[roll]]
 
 
 ## Chains to
-
+[[roll]]
 
 ___
 # Gifs
