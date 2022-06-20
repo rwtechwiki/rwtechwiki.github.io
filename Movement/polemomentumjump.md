@@ -1,6 +1,6 @@
 Status: #partdone, #needsgif
 
-Tags: #move, #variant, [[airhop]], [[hop]]
+Tags: #movetype
 
 # polemomentumjump - Pole-Momentum Jump
 ![[polemomentumjump_header.gif]]
@@ -10,14 +10,8 @@ By holding to the side as slugcats feet approach the top tile of a pole, it is p
 ## Notes
 
 
-## Performed from
+## Variants
 [[flippmjump]], [[poleboostpmjump]], [[jumppmjump]], [[slidepmjump]]
-
-## Allows for
-
-
-## Chains to
-
 
 ___
 # Gifs

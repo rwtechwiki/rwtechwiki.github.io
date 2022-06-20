@@ -1,11 +1,11 @@
-Status: #stub
+Status: #partdone 
 
 Tags: #move
 
 # spearpin - Spear-Pin
 ![[spearpin_header.gif]]
 ## Description
-
+It is possible to stick a creature to a wall, floor or ceiling by [[throw|throwing]] a spear at its chunk towards the surface.
 
 ## Notes
 

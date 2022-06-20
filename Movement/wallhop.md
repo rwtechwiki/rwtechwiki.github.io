@@ -1,10 +1,10 @@
-Status: #stub 
+Status: #partdone 
 
 Tags: #movetype
 
 # wallhop - Wall-Hop
 ## Description
-
+It is possible to wall-hop by pressing jump within 15 frames of leaving a [[wallslide]], effectively producing a [[walljump]] midair.
 
 ## Notes
 

@@ -1,10 +1,10 @@
-Status: #stub
+Status: #partdone 
 
 Tags: #movetype
 
 # throw - Throw
 ## Description
-
+By pressing the throw button, slugcat will throw whatever is in the leftmost hand. This can be done in a variety of moves to achieve a few different outcomes.
 
 ## Notes
 

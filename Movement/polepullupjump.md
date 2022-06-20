@@ -1,17 +1,16 @@
-Status: #stub
+Status: #partdone 
 
 Tags: #move
 
 # polepullupjump - Pole-Pullup Jump
 ![[polepullupjump_header.gif]]
 ## Description
-
+By pulling up on a pole, and jumping once slugcats feet reach the pole, it is possible to travel along the pole faster than walking along the top.
 
 ## Notes
 
 
 ## Performed from
-[[polegrab]]
 
 ## Allows for
 

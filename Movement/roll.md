@@ -12,6 +12,8 @@ The number of frames the roll lasts for varies randomly depending on which metho
 
 Rolls can ascend 1-tile differences in floor geometry.
 
+There is a window at the very end of the roll in which a jump input produces a [[rollslide]] without needing to re-press down and forward.
+
 ## Performed from
 [[droproll]], [[crawlturnroll]], [[crouchtumble]], [[jumptumble]], [[pounceroll]], [[fliproll]]
 

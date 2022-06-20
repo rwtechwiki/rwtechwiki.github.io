@@ -1,17 +1,17 @@
-Status: #stub, #needsgif
+Status: #partdone, #needsgif
 
 Tags: #move, #fundimentals
 
 # walk - Walk
 ![[walk_header.gif]]
 ## Description
-
+It is possible to walk by holding a horizontal input direction while standing.
 
 ## Notes
 
 
 ## Performed from
-[[stand]]
+
 
 ## Allows for
 

@@ -1,6 +1,6 @@
 {
-  "findText": "chargehop",
-  "replaceText": "crouchhop",
+  "findText": "ledgedrop",
+  "replaceText": "turndrop",
   "useRegEx": true,
   "selOnly": false,
   "caseInsensitive": false,

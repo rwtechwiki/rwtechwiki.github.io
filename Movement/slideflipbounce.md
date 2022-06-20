@@ -1,14 +1,14 @@
-Status: #stub, #needsgif 
+Status: #partdone, #needsgif 
 
 Tags: #move, #variant, [[turnstoredflip]]
 
 # slideflipbounce - Slide-Flip Bounce
 ![[slideflipbounce_header.gif]]
 ## Description
-
+It is possible to perform a unique bounce move by pressing jump as slugcat hits the ground at the end of a [[slideflip]], as long as the player has [[turnstore|turnstorage]]. 
 
 ## Notes
-
+Like the slide-flip, this move has a fixed arc through the air.
 
 ## Performed from
 [[slideflip]]
