@@ -17,7 +17,7 @@ A variant of a [[pounce]], produced by pressing jump during frames 27 through 31
 
 
 ## Chains to
-[[crouch]], [[pounceroll]]
+[[pounceroll]]
 
 ___
 # Gifs

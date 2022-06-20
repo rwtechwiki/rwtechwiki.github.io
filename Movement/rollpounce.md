@@ -19,7 +19,7 @@ It is possible to buffer the jump input in order to roll-pounce on the first fra
 
 
 ## Chains to
-[[crouch]]
+
 
 ___
 # Gifs

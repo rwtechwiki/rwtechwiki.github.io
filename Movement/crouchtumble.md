@@ -11,7 +11,7 @@ By performing failed inputs of a [[slide]], staggered either with down long enou
 
 
 ## Performed from
-[[walk]], [[slide]]
+[[crouch]]
 
 ## Allows for
 

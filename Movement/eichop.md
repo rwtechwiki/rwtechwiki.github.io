@@ -17,7 +17,7 @@ If down is input on frame 2 of an [[ehop]], the move becomes an eichop, giving s
 
 
 ## Chains to
-[[crouch]]
+
 
 ___
 # Gifs
