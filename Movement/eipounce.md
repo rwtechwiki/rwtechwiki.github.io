@@ -17,7 +17,7 @@ This move can only be performed if the extended slide begins on frame 14 or 15 o
 
 
 ## Chains to
-[[crouch]], [[pounceroll]]
+[[pounceroll]]
 
 ___
 # Gifs

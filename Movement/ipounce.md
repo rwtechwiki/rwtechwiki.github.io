@@ -17,7 +17,7 @@ Due to the slide not fully starting, jumpstorage does not interfere with this mo
 
 
 ## Chains to
-[[crouch]], [[pounceroll]]
+[[pounceroll]]
 
 ___
 # Gifs

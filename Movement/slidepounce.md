@@ -17,7 +17,7 @@ A variant of a [[pounce]], produced by pressing jump during frames 14 through 16
 [[slidethrow]]
 
 ## Chains to
-[[crouch]], [[pounceroll]]
+[[pounceroll]]
 
 ___
 # Gifs
