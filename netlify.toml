@@ -44,6 +44,19 @@ STRICT_LINE_BREAKS = ""
 # (Optional, default "") Only display local connections to page in footer graph.
 LOCAL_GRAPH = "y"
 # (Optional) visjs graph options. Can remove if desired.
+GRAPH_OPTIONS = """
+        {
+            "physics": {
+                "repulsion": {
+                    "springLength": 0,
+                    "springConstant": 0.005,
+                    "nodeDistance": 500
+                },
+                "minVelocity": 0.75,
+                "solver": "repulsion"
+            }
+        }
+        """
 
 [[plugins]]
 package = "netlify-plugin-submit-sitemap"
