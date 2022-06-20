@@ -47,9 +47,6 @@ LOCAL_GRAPH = "y"
 GRAPH_OPTIONS = """
         {
             "physics": {
-                "repulsion": {
-                    "springLength": 0
-                }
             }
         }
         """
