@@ -1,4 +1,4 @@
-Status: #done, #needsgif 
+Status: #partdone, #needsgif 
 
 Tags: #move
 

@@ -17,7 +17,7 @@ A variant of a [[flip]] with a fixed arc, produced by pressing backwards and jum
 [[slidethrow]], [[downthrow]]
 
 ## Chains to
-[[stand]], [[fliproll]]
+[[fliproll]]
 
 ___
 # Gifs

@@ -11,7 +11,7 @@ By inputting jump while on the ground, slugcat can jump 2 tiles into the air. Th
 
 
 ## Performed from
-[[stand]], [[walk]]
+[[walk]]
 
 ## Allows for
 

@@ -7,7 +7,7 @@ Tags: #movetype, #fundimentals
 A flip is a move which sets slugcat spinning at a constant speed in the air. It continues on a variable arc until contact with the ground.
 
 ## Notes
-It is not possible to press up or down to set slugcats orientation midair in the flip state. Due to this, slugcat will almost always land into the [[stand]] state.
+It is not possible to press up or down to set slugcats orientation midair in the flip state. Due to this, slugcat will almost always land into the standing state.
 
 It is always possible to [[fliproll]] out of the flip state.
 

@@ -1,6 +1,6 @@
 Status: #partdone 
 
-Tags: #move, #variant, [[polemomentumjump]]
+Tags: #move, #variant, [[polemomentumjump]], [[airhop]], [[airhop]]
 
 # flippmjump - Flip Pole-Momentum Jump
 ![[flippmjump_header.gif]]

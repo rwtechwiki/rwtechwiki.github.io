@@ -1,14 +1,14 @@
-Status: #stub
+Status: #partdone 
 
 Tags: #move, #initiator, [[roll]]
 
 # ledgedroproll - Ledge-Drop Roll
 ![[ledgedroproll_header.gif]]
 ## Description
-
+There is a window to [[roll]] upon dropping down a ledge of any number of tiles by performing a [[ledgedropfastfall]].
 
 ## Notes
-
+It is possible to extend the drop-roll window by performing a [[turndrop]].
 
 ## Performed from
 [[ledgedropfastfall]]

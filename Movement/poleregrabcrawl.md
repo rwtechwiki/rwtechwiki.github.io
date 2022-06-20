@@ -1,17 +1,17 @@
-Status: #stub, #needsgif 
+Status: #partdone
 
 Tags: #move
 
 # poleregrabcrawl - Pole-Regrab-Crawl
 ![[poleregrabcrawl_header.gif]]
 ## Description
-
+It is possible to slightly speed up horizontal pole movement by rapidly tapping down to drop off the pole, then up to regrab it without falling down.
 
 ## Notes
 
 
 ## Performed from
-[[polegrab]]
+
 
 ## Allows for
 

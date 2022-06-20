@@ -17,7 +17,7 @@ A variant of a [[flip]], produced by pressing backwards and jump during frames 2
 [[downthrow]]
 
 ## Chains to
-[[stand]], [[fliproll]]
+[[fliproll]]
 
 ___
 # Gifs

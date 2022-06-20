@@ -1,14 +1,14 @@
-Status: #stub
+Status: #partdone 
 
 Tags: #move
 
 # polehop - Pole-Hop
 ![[polehop_header.gif]]
 ## Description
-
+When slugcat is travelling travelling horizontally while upright and midair, it is possible to hop off a horizontal pole with a very precise jump input as slugcats feet drop to the level of the pole.
 
 ## Notes
-
+The window to perform this move is fewer frames the faster slugcat is falling, as the move is based on the position of slugcat's bottom chunk relative to the pole.
 
 ## Performed from
 [[hop]]
