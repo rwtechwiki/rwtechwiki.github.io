@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "792ddc78af1b7831",
+        "id": "8b8647d458784912",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Movement/crawlturnroll.md",
+            "file": "Movement/denjump.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "crouch",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Movement/crawlturnroll.md",
+                "file": "Movement/denjump.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +98,17 @@
     "width": 181,
     "collapsed": true
   },
-  "active": "792ddc78af1b7831",
+  "active": "8b8647d458784912",
   "lastOpenFiles": [
-    "Movement/crawlturnroll.md",
-    "Movement/crouchthrow.md",
-    "Movement/crouchhop.md",
-    "Movement/crouchhopcancel.md",
-    "Movement/crouch.md",
-    "Movement/slide.md",
-    "Movement/turnstore.md",
-    "Movement/slidepounce.md",
-    "Movement/rollpounce.md",
-    "Movement/pounce.md"
+    "Movement/denjump.md",
+    "Exploits/screenedgespear.md",
+    "Exploits/twohandglitch.md",
+    "Exploits/batflyspearlink.md",
+    "Exploits/pinteleportation.md",
+    "Exploits/greenneuronhyperspeed.md",
+    "Exploits/guardianskip.md",
+    "Exploits/beesglitch.md",
+    "Exploits/deathglitch.md",
+    "Exploits/karmacache.md"
   ]
 }
