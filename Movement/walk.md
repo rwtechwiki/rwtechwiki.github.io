@@ -2,7 +2,7 @@ Status: #partdone, #needsgif
 
 Tags: #move, #fundimentals
 
-# walk - Walk
+# Walk
 ![[walk_header.gif]]
 ## Description
 It is possible to walk by holding a horizontal input direction while standing.

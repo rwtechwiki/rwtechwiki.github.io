@@ -2,7 +2,7 @@ Status: #stub, #needsgif
 
 Tags: #move
 
-# waterhop - Water-Hop
+# Water-Hop
 ![[waterhop_header.gif]]
 ## Description
 

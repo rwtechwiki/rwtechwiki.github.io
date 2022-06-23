@@ -2,7 +2,7 @@ Status: #partdone
 
 Tags: #move, #variant, [[hop]]
 
-# crouchhop - Crouch-Hop
+# Crouch-Hop
 ![[crouchhop_header.gif]]
 ## Description
 When crawling on the ground, it is possible to perform a tile-high hop by pressing jump, which gives slugcat some extra momentum.

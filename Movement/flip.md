@@ -2,7 +2,7 @@ Status: #partdone
 
 Tags: #movetype, #fundimentals
 
-# flip - Flip
+# Flip
 ## Description
 A flip is a move which sets slugcat spinning at a constant speed in the air. It continues on a variable arc until contact with the ground.
 

@@ -2,7 +2,7 @@ Status: #partdone
 
 Tags: #move
 
-# polehop - Pole-Hop
+# Pole-Hop
 ![[polehop_header.gif]]
 ## Description
 When slugcat is travelling travelling horizontally while upright and midair, it is possible to hop off a horizontal pole with a very precise jump input as slugcats feet drop to the level of the pole.

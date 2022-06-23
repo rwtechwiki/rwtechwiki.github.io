@@ -2,7 +2,7 @@ Status: #partdone, #needsgif
 
 Tags: #move, #fundimentals
 
-# stand - Stand
+# Stand
 ![[stand_header.gif]]
 ## Description
 By pressing up, slugcat switches from a crouching to a standing position, where it can [[walk]] around and begin moves like the [[slide]] or [[ledgepullup]].

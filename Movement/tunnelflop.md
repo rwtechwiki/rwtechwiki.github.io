@@ -2,7 +2,7 @@ Status: #stub, #needsgif
 
 Tags: #move
 
-# tunnelflop - Tunnel-Flop
+# Tunnel-Flop
 ![[tunnelflop_header.gif]]
 ## Description
 

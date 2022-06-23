@@ -2,7 +2,7 @@ Status: #stub, #needsgif
 
 Tags: #move
 
-# denladderclimb - Den Ladder-Climb
+# Den Ladder-Climb
 ![[denladderclimb_header.gif]]
 ## Description
 

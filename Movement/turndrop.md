@@ -2,7 +2,7 @@ Status: #partdone, #needsgif
 
 Tags: #move, #initiator, [[turnstore]]
 
-# turndrop - Turn-Drop
+# Turn-Drop
 ![[turndrop_header.gif]]
 ## Description
 It is possible to [[turnstore]] by initiating a [[dashturn]] as slugcat reaches a ledge, dropping off it due to the skid momentum.

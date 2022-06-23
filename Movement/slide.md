@@ -2,7 +2,7 @@ Status: #done
 
 Tags: #move, #initiator, [[turnstore]], #fundimentals
 
-# slide - Slide
+# Slide
 ![[slide_header.gif]]
 ## Description
 It is possible to slide while [[walk|walking]] by pressing down then jump at roughly the same time. The move can last for roughly 17 frames by holding forward throughout and has several windows throughout its duration to chain to other moves.

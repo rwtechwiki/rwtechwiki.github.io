@@ -2,7 +2,7 @@ Status: #partdone
 
 Tags: #move
 
-# poletipsnap - Pole-Tip Snap
+# Pole-Tip Snap
 ![[poletipsnap_header.gif]]
 ## Description
 It is possible to snap slugcats feet onto the tip of a vertical pole while airborn in the standing state, by tapping up as they are within a short distance.

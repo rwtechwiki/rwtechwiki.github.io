@@ -2,7 +2,7 @@ Status: #partdone
 
 Tags: #move
 
-# airorientation - Air-Orientation
+# Air-Orientation
 ![[airorientation_header.gif]]
 ## Description
 When mid-air in the [[hop]] state, it is possible to [[stand]] or [[crouch]] using the up and down inputs. 

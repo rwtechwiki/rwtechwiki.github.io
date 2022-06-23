@@ -2,7 +2,7 @@ Status: #partdone
 
 Tags: #move, #fundimentals
 
-# roll - Roll
+# Roll
 ![[roll_header.gif]]
 ## Description
 It is possible to roll under certain conditions by holding down and left/right. For a variable number of frames (40-60), slugcat will travel along the ground while spinning. From a roll, a jump input will produce a variable-height [[rollpounce]].

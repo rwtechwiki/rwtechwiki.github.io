@@ -2,7 +2,7 @@ Status: #stub, #needsgif
 
 Tags: #move
 
-# denjump - Den-Jump
+# Den-Jump
 ![[denjump_header.gif]]
 ## Description
 

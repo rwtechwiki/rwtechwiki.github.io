@@ -2,7 +2,7 @@ Status: #stub, #needsgif
 
 Tags: #move
 
-# {{title}} - NAMEPLACEHOLDER
+# NAMEPLACEHOLDER
 ![[{{title}}_header.gif]]
 ## Description
 

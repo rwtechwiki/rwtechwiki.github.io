@@ -2,7 +2,7 @@ Status: #partdone
 
 Tags: #move, #initiator, [[crawlturnroll]]
 
-# crouchtumble - Crouch-Tumble
+# Crouch-Tumble
 ![[crouchtumble_header.gif]]
 ## Description
 By performing failed inputs of a [[slide]], staggered either with down long enough before jump, or a quick second jump input after the first, slugcat will topple over forward. With another one or two well-timed jump inputs, slugcat begins a [[crawlturnroll]] by tumbling over forward.

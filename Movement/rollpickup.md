@@ -2,7 +2,7 @@ Status: #partdone, #needsgif
 
 Tags: #move
 
-# rollpickup - Roll-Pickup
+# Roll-Pickup
 ![[rollpickup_header.gif]]
 ## Description
 It is possible to pick up items from the [[roll]] state by letting go of the down input, quickly pressing grab then re-inputting down.

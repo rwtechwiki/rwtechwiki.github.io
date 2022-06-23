@@ -2,7 +2,7 @@ Status: #stub, #needsgif
 
 Tags: #move
 
-# flipcreaturefling - Flip Creature-Fling
+# Flip Creature-Fling
 ![[flipcreaturefling_header.gif]]
 ## Description
 

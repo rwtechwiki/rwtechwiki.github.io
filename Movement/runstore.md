@@ -2,7 +2,7 @@ Status: #stub, #needsgif
 
 Tags: #move
 
-# runstore - Run-Store
+# Run-Store
 ![[runstore_header.gif]]
 ## Description
 

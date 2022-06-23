@@ -2,7 +2,7 @@ Status: #stub, #needsgif
 
 Tags: #move
 
-# pouncecreaturefling - Pounce Creature-Fling
+# Pounce Creature-Fling
 ![[pouncecreaturefling_header.gif]]
 ## Description
 

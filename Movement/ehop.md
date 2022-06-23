@@ -2,7 +2,7 @@ Status: #partdone
 
 Tags: #move, #variant, [[hop]], #fundimentals
 
-# ehop - Extended Slide-Hop
+# Extended Slide-Hop
 ![[ehop_header.gif]]
 ## Description
 There is a window to ehop by pressing jump during frames 1 through 26 after the throw input of an [[eslide]]. The first frame of these is named an extended instant slide-hop, or eihop, as it carries significantly more speed.

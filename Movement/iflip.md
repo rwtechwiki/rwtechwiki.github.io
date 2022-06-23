@@ -2,7 +2,7 @@ Status: #partdone
 
 Tags: #move, #variant, [[flip]], [[jumpstoredboost]]
 
-# iflip - Instant Slide-Flip
+# Instant Slide-Flip
 ![[iflip_header.gif]]
 ## Description
 This [[flip]] variant is produced by pressing backwards and jump on frame 2 of a [[slide]].

@@ -2,7 +2,7 @@ Status: #partdone, #needsgif
 
 Tags: #move, #initiator, [[jumpstore]], #fundimentals 
 
-# slidetunnelentry - Slide Tunnel-Entry
+# Slide Tunnel-Entry
 ![[slidetunnelentry_header.gif]]
 ## Description
 It is possible to transfer momentum from a [[slide]] into a floor-height tunnel either in front of or below slugcat. In order to descend into a downward tunnel mid-slide, the down key must be pressed as slugcats head reaches the top of the tunnel.

@@ -2,7 +2,7 @@ Status: #partdone, #needsgif
 
 Tags: #move, #variant, [[polemomentumjump]], [[airhop]], [[hop]]
 
-# poleboostpmjump - Pole-Boost Pole-Momentum Jump
+# Pole-Boost Pole-Momentum Jump
 ![[poleboostpmjump_header.gif]]
 ## Description
 It is possible to perform a [[polemomentumjump]] by [[poleboost|poleboosting]] as slugcat's ears reach roughly half a tile below the tip of a pole, then holding left/right a couple of frames later. Slugcat will float above the tip of the pole, allowing for an [[airhop]] with roughly a tile of extra height.

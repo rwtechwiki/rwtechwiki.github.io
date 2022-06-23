@@ -2,7 +2,7 @@ Status: #partdone, #needsgif
 
 Tags: #move
 
-# fastroll - Fast-Roll
+# Fast-Roll
 ![[fastroll_header.gif]]
 ## Description
 This is a version of [[roll]], produced by holding a controller joystick at an angle just below horizontal while rolling. The roll will be considerably faster, and last for a shorter duration.

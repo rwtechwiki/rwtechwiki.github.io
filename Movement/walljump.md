@@ -1,8 +1,8 @@
 Status: #partdone
 
-Tags: #move
+Tags: #move, #variant, [[wallhop]]
 
-# walljump - Wall-Jump
+# Wall-Jump
 ![[walljump_header.gif]]
 ## Description
 By pressing jump while holding towards a wall during a [[wallslide]], slugcat will jump from the wall with a fixed height.

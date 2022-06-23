@@ -2,7 +2,7 @@ Status: #stub
 
 Tags: #movetype
 
-# runstoredturn - Run-Stored Turn
+# Run-Stored Turn
 ## Description
 
 

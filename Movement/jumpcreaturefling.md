@@ -2,7 +2,7 @@ Status: #stub, #needsgif
 
 Tags: #move
 
-# jumpcreaturefling - Jump Creature-Fling
+# Jump Creature-Fling
 ![[jumpcreaturefling_header.gif]]
 ## Description
 

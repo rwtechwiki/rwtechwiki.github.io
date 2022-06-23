@@ -2,7 +2,7 @@ Status: #partdone
 
 Tags: #move, #variant, [[throw]], #fundimentals
 
-# crouchthrow - Crouch-Throw
+# Crouch-Throw
 ![[crouchthrow_header.gif]]
 ## Description
 By throwing as slugcat is mid-[[crouch]], a thrown item will have a downward trajectory.

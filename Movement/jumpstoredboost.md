@@ -2,7 +2,7 @@ Status: #partdone
 
 Tags: #movetype
 
-# jumpstoredboost - Jump-Stored Boost
+# Jump-Stored Boost
 ## Description
 Some moves send slugcat airborn with velocity without setting jump-boost to a value. Therefore, if a [[jumpstore]] has been performed, these moves gain significant height by holding jump midair.
 

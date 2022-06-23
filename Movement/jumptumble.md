@@ -2,7 +2,7 @@ Status: #partdone
 
 Tags: #move, #initiator, [[crawlturnroll]]
 
-# jumptumble - Jump-Tumble
+# Jump-Tumble
 ![[jumptumble_header.gif]]
 ## Description
 By holding up while slugcat is [[walk|walking]], and releasing up around the time of a [[jump]], slugcat will rotate backwards midair. By holding foward and down for long enough before hitting the ground, it is possible to [[crawlturnroll]] from this really fucked up jump.

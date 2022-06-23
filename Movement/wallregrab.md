@@ -2,7 +2,7 @@ Status: #partdone, #needsgif
 
 Tags: #move
 
-# wallregrab - Wall-Regrab
+# Wall-Regrab
 ![[wallregrab_header.gif]]
 ## Description
 It is possible to slow or even reverse a [[wallslide]] by repeatedly letting go of the input direction towards the wall for as little as 1 frame before pressing it back.

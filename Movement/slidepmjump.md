@@ -2,7 +2,7 @@ Status: #partdone
 
 Tags: #move, #variant, [[polemomentumjump]], [[airhop]], [[hop]]
 
-# slidepmjump - Slide Pole-Momentum Jump
+# Slide Pole-Momentum Jump
 ![[slidepmjump_header.gif]]
 ## Description
 It is possible to perform a [[polemomentumjump]] from a [[slide]] by pressing up and jump as slugcat reaches a 2-tall pole or [[downthrow|downthrown]] spear. Slugcat will float above the tip of the pole, allowing for an [[airhop]] with roughly a tile of extra height.

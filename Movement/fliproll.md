@@ -2,7 +2,7 @@ Status: #partdone
 
 Tags: #move, #initiator, [[roll]], #fundimentals
 
-# fliproll - Flip-Roll
+# Flip-Roll
 ![[fliproll_header.gif]]
 ## Description
 It is possible to [[roll]] from a [[flip]] by holding down and left/right for enough frames before landing.
