@@ -2,7 +2,7 @@ Status: #partdone
 
 Tags: #move, #initiator, [[roll]], #fundimentals
 
-# pounceroll - Pounce-Roll
+# Pounce-Roll
 ![[pounceroll_header.gif]]
 ## Description
 It is possible to [[roll]] from a [[pounce]] by holding down and left/right for enough frames before landing. 

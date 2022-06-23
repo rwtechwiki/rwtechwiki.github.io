@@ -2,7 +2,7 @@ Status: #partdone
 
 Tags: #move, #fundimentals
 
-# poleboost - Pole-Boost
+# Pole-Boost
 ![[poleboost_header.gif]]
 ## Description
 By pressing jump while climbing upwards on a pole, slugcat will accelerate up the pole for a couple of tiles, before slowing and taking some frames to begin climbing again.

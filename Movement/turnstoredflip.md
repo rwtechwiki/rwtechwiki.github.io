@@ -2,7 +2,7 @@ Status: #partdone
 
 Tags: #movetype, #variant, [[flip]]
 
-# turnstoredflip - Turn-Stored Flip
+# Turn-Stored Flip
 ## Description
 With turn-storage, it is possible to [[flip]] from a variety of [[hop]] moves, to either [[downthrow]] or gain more height when jumping against a wall. This is usually done by pressing the turn direction, up and jump simultaneously in order to jump the moment walking begins.
 

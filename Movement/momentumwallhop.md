@@ -2,7 +2,7 @@ Status: #stub, #needsgif
 
 Tags: #move
 
-# momentumwallhop - Momentum Wall-Hop
+# Momentum Wall-Hop
 ![[momentumwallhop_header.gif]]
 ## Description
 

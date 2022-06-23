@@ -2,7 +2,7 @@ Status: #partdone
 
 Tags: #move, #variant, [[throw]], #fundimentals
 
-# slidethrow - Slide-Throw
+# Slide-Throw
 ![[slidethrow_header.gif]]
 ## Description
 It is possible to propell an item forwards out of the slide state by pressing throw. The item will have a downward trajectory and ricochet once off any surface it contacts.

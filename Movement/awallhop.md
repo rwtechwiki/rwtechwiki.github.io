@@ -2,7 +2,7 @@ Status: #partdone
 
 Tags: #move, #variant, [[wallhop]], [[airhop]], [[hop]]
 
-# awallhop - Aerial Wall-Hop
+# Aerial Wall-Hop
 ![[awallhop_header.gif]]
 ## Description
 If you pull away from a [[wallslide]], there is a 15-frame window where slugcat is able to [[walljump]] mid-air.

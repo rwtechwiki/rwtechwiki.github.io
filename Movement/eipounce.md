@@ -2,7 +2,7 @@ Status: #partdone
 
 Tags: #move, #variant, [[pounce]]
 
-# eipounce - Extended Instant Slide-Pounce
+# Extended Instant Slide-Pounce
 ![[eipounce_header.gif]]
 ## Description
 This [[pounce]] variant is produced by pressing jump on frame 2 of an [[eslide]]. It has a much larger range than a regular [[epounce]] as the slide extension initially gives slugcat a higher speed before slowing down.

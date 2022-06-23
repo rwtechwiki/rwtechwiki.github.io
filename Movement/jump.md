@@ -1,8 +1,8 @@
 Status: #partdone
 
-Tags: #move, #variant, [[hop]], [[turnstoredflip]], #fundimentals
+Tags: #move, #variant, [[hop]], #fundimentals
 
-# jump - Jump
+# Jump
 ![[jump_header.gif]]
 ## Description
 By inputting jump while on the ground, slugcat can jump 2 tiles into the air. This allows for scaling 4-tile-high walls using a [[ledgepullup]].

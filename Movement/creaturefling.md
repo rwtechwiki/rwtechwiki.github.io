@@ -2,7 +2,7 @@ Status: #stub
 
 Tags: #movetype
 
-# creaturefling - Creature-Fling
+# Creature-Fling
 ## Description
 
 

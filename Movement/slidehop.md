@@ -2,7 +2,7 @@ Status: #partdone
 
 Tags: #move, #variant, [[hop]]
 
-# slidehop - Slide-Hop
+# Slide-Hop
 ![[slidehop_header.gif]]
 ## Description
 It is possible to [[hop]] out of a [[slide]] by pressing up and jump simultaneously, before the window to [[slidepounce]].

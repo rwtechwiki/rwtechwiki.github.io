@@ -1,8 +1,8 @@
 Status: #partdone
 
-Tags: #move, #variant, [[airhop]], [[hop]], #fundimentals
+Tags: #move, #variant, [[airhop]], [[hop]], #alternate, [[turnstoredflip]], [[polewalk]], #fundimentals
 
-# coyotejump - Coyote Jump
+# Coyote Jump
 ![[coyotejump_header.gif]]
 ## Description
 There is a 5-frame window where slugcat is able to jump mid-air after walking off a ledge. This allows for slightly longer running jumps across gaps.
@@ -23,7 +23,7 @@ This move works identically when walking off the tip of a horizontal pole.
 
 ___
 # Gifs
-## Pole Variant
+## Pole Alternate
 ![[coyotejump_pole.gif]]
 ## Bulk
 ![[coyotejump_0.gif]]

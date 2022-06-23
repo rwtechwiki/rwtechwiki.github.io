@@ -2,7 +2,7 @@ Status: #partdone
 
 Tags: #move, #variant, [[fastfall]]
 
-# ledgedropfastfall - Ledge-Drop Fast-Fall
+# Ledge-Drop Fast-Fall
 ![[ledgedropfastfall_header.gif]]
 ## Description
 It is possible to increase fall speed off a ledge by holding down as slugcat reaches the edge. With good timing, this can allow for a [[droproll]] from a 1-tile drop. 

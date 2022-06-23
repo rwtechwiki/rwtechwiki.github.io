@@ -2,7 +2,7 @@ Status: #partdone, #needsgif
 
 Tags: #move, #initiator, [[turnstore]], #fundimentals
 
-# crouch - Crouch
+# Crouch
 ![[crouch_header.gif]]
 ## Description
 By pressing down from the standing state, slugcat enters a crouching position, where it can crawl around and fit under 1-tile ceilings.

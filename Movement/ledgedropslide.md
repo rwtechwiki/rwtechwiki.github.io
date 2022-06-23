@@ -2,7 +2,7 @@ Status: #stub, #needsgif
 
 Tags: #move
 
-# ledgedropslide - Ledge-Drop-Slide
+# Ledge-Drop-Slide
 ![[ledgedropslide_header.gif]]
 ## Description
 

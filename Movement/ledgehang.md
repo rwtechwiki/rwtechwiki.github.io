@@ -2,7 +2,7 @@ Status: #partdone
 
 Tags: #move
 
-# ledgehang - Ledge-Hang
+# Ledge-Hang
 ![[ledgehang_header.gif]]
 ## Description
 It is possible to suspend slugcat indefinitely against a ledge by letting go of jump and forward at the very beginning of a [[ledgepullup]]. It generally takes a lot more force to nudge slugcat from this position, compared to standing and crouching states.

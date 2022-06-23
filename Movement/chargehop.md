@@ -2,7 +2,7 @@ Status: #partdone
 
 Tags: #move, #variant, [[hop]], #fundimentals
 
-# chargehop - Charge-Hop
+# Charge-Hop
 ![[chargehop_header.gif]]
 ## Description
 By holding jump for 20 frames when crouching, slugcat's back arches and horizontal inputs are restricted until the jump button is released. Slugcat will then leap forward with a longer arc than a normal jump, allowing it to cross further gaps.

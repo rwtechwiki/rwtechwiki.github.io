@@ -2,7 +2,7 @@ Status: #partdone, #needsgif
 
 Tags: #move, #initiator, [[jumpstore]]
 
-# crouchhopcancel - Crouch-Hop-Cancel
+# Crouch-Hop-Cancel
 ![[crouchhopcancel_header.gif]]
 ## Description
 It is possible to gain 6 jump-boost when grounded by inputting down to [[crouch]], and pressing and releasing jump before slugcat fully enters the crouch state.

@@ -2,7 +2,7 @@ Status: #partdone
 
 Tags: #move, #variant, [[pounce]], #fundimentals
 
-# rollpounce - Roll-Pounce
+# Roll-Pounce
 ![[rollpounce_header.gif]]
 ## Description
 A variant of a [[pounce]], produced by pressing jump at any point during a [[roll]]. The height of the roll-pounce depends on how many frames slugcat has rolled for before the jump input.

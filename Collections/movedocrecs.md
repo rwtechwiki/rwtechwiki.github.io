@@ -2,49 +2,49 @@ Status: #partdone
 
 Tags: #collection 
 
-# movedocrecs - Movement Guide Doc Recommendations
+# Movement Guide Doc Recommendations
 ## Beginner
-[[ledgepullup]]
+[[ledgepullup]] - Taught in the tutorial, really important for climbing!
 ![[ledgepullup_header.gif]]
-[[walljump]]
+[[walljump]] - Essential for mid game areas.
 ![[walljump_header.gif]]
-[[throwboost]]
+[[throwboost]] - Effectively gives you a better jump.
 ![[throwboost_header.gif]]
 
-[[tunnelboost]]
+[[tunnelboost]] - Escape from lizards in tunnels!
 ![[tunnelboost_header.gif]]
-[[tunnelexitboost]]
+[[tunnelexitboost]] - ^
 ![[tunnelexitboost_header.gif]]
-[[tunnelturn]]
+[[tunnelturn]] - ^
 ![[tunnelturn_header.gif]]
 
 ## Intermediate
-[[slide]]
+[[slide]] - Important to start practicing. Key to unlocking faster movement over time.
 ![[slide_header.gif]]
-[[slidepounce]]
+[[slidepounce]] - ^
 ![[slidepounce_header.gif]]
-[[roll]]
+[[roll]] - Survive falls and keep moving.
 ![[roll_header.gif]]
-[[rollpounce]]
+[[rollpounce]] - ^
 ![[rollpounce_header.gif]]
-[[crouchhop]]
+[[crouchhop]] - Jump to keep moving!
 ![[crouchhop_0.gif]]
 
 ## Adept
-[[poleregrablagcancel]]
+[[poleregrablagcancel]] - Go up poles quickly! Invaluable tech.
 ![[poleregrablagcancel_header.gif]]
-[[mouthspear]]
+[[mouthspear]] - Take on lizards with a single spear!
 ![[mouthspear_header.gif]]
 ![[slidethrow_header.gif]]
-[[eslide]]
+[[eslide]] - Go really fast on flat surfaces.
 ![[eslide_header.gif]]
-[[slideflip]]
+[[slideflip]] - Quickly change direction to evade threats.
 ![[slideflip_header.gif]]
 
 ## Advanced
-[[crawlturnjump]]
+[[crawlturnjump]] - Gain extra height from jump!
 ![[crawlturnjump_header.gif]]
-[[flippmjump]]
+[[flippmjump]] - Saves time in some parts of the game - Extra height from poles!
 ![[flippmjump_header.gif]]
-[[spearpin]]
+[[spearpin]] - Essential offensive move for getting the drop on lizards.
 ![[spearpin_down1.gif]]

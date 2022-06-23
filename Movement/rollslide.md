@@ -2,7 +2,7 @@ Status: #partdone
 
 Tags: #move
 
-# rollslide - Roll-Slide
+# Roll-Slide
 ![[rollslide_header.gif]]
 ## Description
 There is a window at the very end of a [[roll]] in which a jump input produces a [[slide]] without needing to re-press down and forward.

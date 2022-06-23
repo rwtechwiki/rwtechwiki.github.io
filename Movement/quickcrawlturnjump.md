@@ -2,7 +2,7 @@ Status: #partdone
 
 Tags: #move, #variant, [[jumpstoredboost]]
 
-# quickcrawlturnjump - Quick Crawl-Turn Jump
+# Quick Crawl-Turn Jump
 ![[quickcrawlturnjump_header.gif]]
 ## Description
 After performing a first-frame [[crawlturncancel]], there is a window exactly 5 frames later to input forward and jump, and down within a frame, to jump 6 tiles into the air.

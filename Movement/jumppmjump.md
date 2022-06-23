@@ -2,7 +2,7 @@ Status: #partdone
 
 Tags: #move, #variant, [[polemomentumjump]], [[airhop]], [[hop]]
 
-# jumppmjump - Jump Pole-Momentum Jump
+# Jump Pole-Momentum Jump
 ![[jumppmjump_header.gif]]
 ## Description
 It is possible to perform a [[polemomentumjump]] by [[jump|jumping]] as slugcat reaches a 2-tall pole or [[downthrow|downthrown]] spear, then holding up a couple of frames later. Slugcat will float above the tip of the pole, allowing for an [[airhop]] with roughly a tile of extra height.
