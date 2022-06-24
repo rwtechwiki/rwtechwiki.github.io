@@ -56,7 +56,7 @@ Entering the crouching position and holding jump until Slugcat’s back is arche
 ![[chargehop_header.gif]]
 Note: In this gif, forward is held immediately after Slugcat’s back is arched. This is useful to avoid accidentally pressing forward too soon, and running off the edge.
 
-[[airorientation]]
+[[airorient]]
 Tapping up immediately after charge-hopping puts Slugcat in an upright position, giving it more height. This can help grab ledges upon landing.
 ![[airorientation_header.gif]]
 
@@ -217,7 +217,7 @@ This can be done regardless of which way Slugcat is landing, as long as the poun
 The longer the roll, the higher the pounce arc. Tapping jump while holding down and left/right will pounce instantly without rolling at all.  
 A rapid series of beats can be heard when rolling. (1 initial on beginning the roll, then 4 more in total) These can be used to time pounces.
 ![[rollpounce_header.gif]]
-Remember that you can [[airorientation|land upright]] from pounces, and conserve momentum, by tapping jump on landing, then up!
+Remember that you can [[airorient|land upright]] from pounces, and conserve momentum, by tapping jump on landing, then up!
 
 [[rollslide]]
 It is possible to slide immediately after a roll by holding forwards and down, and timing jump at the very end of the roll when Slugcat is in the upright position.
