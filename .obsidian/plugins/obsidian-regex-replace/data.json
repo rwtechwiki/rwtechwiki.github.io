@@ -1,6 +1,6 @@
 {
-  "findText": "ledgedrop",
-  "replaceText": "turndrop",
+  "findText": "airorientation",
+  "replaceText": "airorient",
   "useRegEx": true,
   "selOnly": false,
   "caseInsensitive": false,

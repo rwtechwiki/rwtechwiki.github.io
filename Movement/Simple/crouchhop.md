@@ -8,7 +8,7 @@ Tags: #move, #variant, [[hop]]
 When crawling on the ground, it is possible to perform a tile-high hop by pressing jump, which gives slugcat some extra momentum.
 
 ## Notes
-This move can be very useful for preserving momentum upon landing from [[pounce|pounces]], as the airtime can be used to return slugcat to the standing state via [[airorientation]].
+This move can be very useful for preserving momentum upon landing from [[pounce|pounces]], as the airtime can be used to return slugcat to [[airorient]] into the standing state.
 
 When only slugcats head chunk is on the ground, this move gives almost no height.
 

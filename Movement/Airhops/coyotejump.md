@@ -16,7 +16,7 @@ This move works identically when walking off the tip of a horizontal pole.
 [[walk]]
 
 ## Allows for
-[[airorientation]]
+[[airorient]]
 
 ## Chains to
 

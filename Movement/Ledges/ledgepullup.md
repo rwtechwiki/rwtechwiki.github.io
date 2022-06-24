@@ -1,4 +1,4 @@
-Status: #done
+Status: #partdone
 
 Tags: #move, #fundimentals
 
@@ -13,6 +13,8 @@ There is a window to perform a [[crawlturncancel]] (specifically a with a simula
 Ledge pull-ups allow slugcat to ascend walls 2 tiles higher than it would otherwise be able to, i.e. a regular jump is 2 tiles high, so slugcat can climb 4 tile walls using only a jump and ledge pull-up.
 
 Jumping when pressing against the bottom of a wall tends to give friction and reduce jump height, so jumping towards the ledge is best to gain maximum height.
+
+It is possible to perform a ledge pull-up even if the tile being pulled up onto is a slope.
 
 ## Performed from
 [[wallslide]]
