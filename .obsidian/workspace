@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Movement/Poles/flippmjump.md",
+            "file": "Movement/airorientation.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Movement/Poles/flippmjump.md",
+                "file": "Movement/airorientation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "997a8d0435072ee6",
   "lastOpenFiles": [
-    "Movement/Poles/flippmjump.md",
-    "Movement/Poles/poleboostpmjump.md",
-    "Movement/Poles/poleboost.md",
-    "Movement/Poles/jumppmjump.md",
-    "Movement/crawlturnjump.md",
-    "Movement/hop.md",
-    "Movement/eichop.md",
-    "Movement/ledgehang.md",
-    "Movement/jumptumble.md",
-    "Movement/jumpstore.md"
+    "Movement/airorientation.md",
+    "Movement/wallslide.md",
+    "Movement/waterhop.md",
+    "Movement/wallregrab.md",
+    "Movement/walljump.md",
+    "Movement/walk.md",
+    "Movement/throwboost.md",
+    "Movement/stand.md",
+    "Movement/crouch.md",
+    "Movement/crouchhop.md"
   ]
 }
