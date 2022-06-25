@@ -1,6 +1,8 @@
 Status: #partdone
 
-Tags: #move
+Note Type: #move
+
+Tags: #pole 
 
 # Pole-Regrab-Crawl
 ![[poleregrabcrawl_header.gif]]

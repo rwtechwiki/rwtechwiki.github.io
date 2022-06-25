@@ -1,6 +1,8 @@
 Status: #partdone
 
-Tags: #move, #variant, [[throw]], #fundimentals
+Note Type: #move, #variant, [[throw]]
+
+Tags: #fundimentals, #slide, #throw 
 
 # Slide-Throw
 ![[slidethrow_header.gif]]

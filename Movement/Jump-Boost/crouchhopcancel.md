@@ -1,6 +1,8 @@
 Status: #partdone, #needsgif 
 
-Tags: #move, #initiator, [[jumpstore]]
+Note Type: #move, #initiator, [[jumpstore]]
+
+Tags: #storage 
 
 # Crouch-Hop-Cancel
 ![[crouchhopcancel_header.gif]]

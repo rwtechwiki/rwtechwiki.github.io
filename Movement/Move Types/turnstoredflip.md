@@ -1,6 +1,8 @@
 Status: #partdone 
 
-Tags: #movetype, #variant, [[flip]]
+Note Type: #movetype, #variant, [[flip]]
+
+Tags: #storage 
 
 # Turn-Stored Flip
 ## Description
@@ -10,7 +12,7 @@ With turn-storage, it is possible to [[flip]] from a variety of [[hop]] moves, t
 
 
 ## Variants
-[[hop]], [[slideflipbounce]], [[crawlturnjump]]
+[[hop]], [[slidefliphop]], [[crawlturnjump]]
 
 ___
 # Gifs

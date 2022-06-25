@@ -1,6 +1,8 @@
 Status: #partdone 
 
-Tags: #movetype
+Note Type: #movetype
+
+Tags: #storage 
 
 # Jump-Stored Boost
 ## Description

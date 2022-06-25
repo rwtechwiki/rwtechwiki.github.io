@@ -1,6 +1,8 @@
 Status: #partdone, #needsgif 
 
-Tags: #move
+Note Type: #move
+
+Tags: #storage 
 
 # Turn-Store
 ![[turnstore_header.gif]]

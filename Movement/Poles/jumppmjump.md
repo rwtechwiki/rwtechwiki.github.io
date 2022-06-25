@@ -1,6 +1,8 @@
 Status: #partdone 
 
-Tags: #move, #variant, [[polemomentumjump]], [[airhop]], [[hop]]
+Note Type: #move, #variant, [[polemomentumjump]], [[airhop]], [[hop]]
+
+Tags: #pole 
 
 # Jump Pole-Momentum Jump
 ![[jumppmjump_header.gif]]

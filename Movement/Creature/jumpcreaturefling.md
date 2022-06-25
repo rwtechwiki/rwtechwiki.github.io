@@ -1,6 +1,8 @@
 Status: #stub, #needsgif 
 
-Tags: #move, #variant, [[hop]]
+Note Type: #move, #variant, [[hop]]
+
+Tags: #creature 
 
 # Jump Creature-Fling
 ![[jumpcreaturefling_header.gif]]

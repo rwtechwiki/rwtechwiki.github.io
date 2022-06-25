@@ -1,6 +1,8 @@
 Status: #partdone
 
-Tags: #move, #variant, [[fastfall]]
+Note Type: #move, #variant, [[fastfall]], #alternate, [[ledgepullup]]
+
+Tags: #ledge, #crawlturn, #fastfall
 
 # Crawl-Turn Fast-Fall
 ![[crawlturnfastfall_header.gif]]

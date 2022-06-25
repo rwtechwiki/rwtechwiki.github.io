@@ -1,6 +1,8 @@
 Status: #partdone, #needsgif 
 
-Tags: #move, #alternate, [[turnstoredflip]]
+Note Type: #move, #alternate, [[turnstoredflip]]
+
+Tags: #slide 
 
 # Slide-Flip Hop
 ![[slideflipbounce_header.gif]]

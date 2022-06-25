@@ -1,6 +1,8 @@
 Status: #partdone
 
-Tags: #move, #variant, [[hop]], #fundimentals
+Note Type: #move, #variant, [[hop]]
+
+Tags: #fundimentals
 
 # Charge-Hop
 ![[chargehop_header.gif]]

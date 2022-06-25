@@ -1,6 +1,8 @@
 Status: #partdone, #needsgif
 
-Tags: #move
+Note Type: #move
+
+Tags: #roll 
 
 # Roll-Pickup
 ![[rollpickup_header.gif]]

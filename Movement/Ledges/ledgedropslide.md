@@ -1,6 +1,8 @@
 Status: #stub, #needsgif 
 
-Tags: #move, #initiator, [[slide]]
+Note Type: #move, #initiator, [[slide]]
+
+Tags: #ledge, #slide 
 
 # Ledge-Drop-Slide
 ![[ledgedropslide_header.gif]]

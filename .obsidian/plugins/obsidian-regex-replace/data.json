@@ -1,6 +1,6 @@
 {
-  "findText": "airorientation",
-  "replaceText": "airorient",
+  "findText": "flip",
+  "replaceText": "starve",
   "useRegEx": true,
   "selOnly": false,
   "caseInsensitive": false,

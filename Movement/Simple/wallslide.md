@@ -1,6 +1,8 @@
 Status: #partdone
 
-Tags: #move, #fundimentals
+Note Type: #move
+
+Tags: #fundimentals, #wall 
 
 # Wall-Slide
 ![[wallslide_header.gif]]

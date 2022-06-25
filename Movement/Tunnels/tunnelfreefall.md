@@ -1,6 +1,8 @@
 Status: #partdone, #needsgif 
 
-Tags: #move
+Note Type: #move
+
+Tags: #tunnel 
 
 # Tunnel-Freefall
 ![[tunnelfreefall_header.gif]]

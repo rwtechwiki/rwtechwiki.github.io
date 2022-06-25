@@ -1,6 +1,8 @@
 Status: #stub, #needsgif 
 
-Tags: #move
+Note Type: #move
+
+Tags: 
 
 # NAMEPLACEHOLDER
 ![[{{title}}_header.gif]]

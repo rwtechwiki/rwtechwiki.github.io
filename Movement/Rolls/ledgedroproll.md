@@ -1,6 +1,8 @@
 Status: #partdone 
 
-Tags: #move, #initiator, [[roll]]
+Note Type: #move, #initiator, [[roll]]
+
+Tags: #ledge, #roll
 
 # Ledge-Drop Roll
 ![[ledgedroproll_header.gif]]

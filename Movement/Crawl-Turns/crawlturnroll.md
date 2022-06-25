@@ -1,6 +1,8 @@
 Status: #partdone
 
-Tags: #move, #initiator, [[roll]], #alternate, [[ledgepullup]]
+Note Type: #move, #initiator, [[roll]], #alternate, [[ledgepullup]]
+
+Tags: #ledge, #crawlturn, #roll
 
 # Crawl-Turn Roll
 ![[crawlturnroll_header.gif]]

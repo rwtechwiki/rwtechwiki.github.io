@@ -1,6 +1,8 @@
 Status: #stub, #needsgif 
 
-Tags: #move
+Note Type: #move
+
+Tags: #tunnel 
 
 # Tunnel-Corner-Boost
 ![[tunnelcornerboost_header.gif]]

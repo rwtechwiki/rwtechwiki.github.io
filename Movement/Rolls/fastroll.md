@@ -1,6 +1,8 @@
 Status: #partdone, #needsgif
 
-Tags: #move
+Note Type: #move
+
+Tags: #roll 
 
 # Fast-Roll
 ![[fastroll_header.gif]]

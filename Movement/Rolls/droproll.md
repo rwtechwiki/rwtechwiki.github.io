@@ -1,6 +1,8 @@
 Status: #partdone 
 
-Tags: #move, #initiator, [[roll]]
+Note Type: #move, #initiator, [[roll]]
+
+Tags: #roll 
 
 # Drop-Roll
 ![[droproll_header.gif]]

@@ -1,6 +1,8 @@
 Status: #partdone
 
-Tags: #move, #variant, [[airhop]], [[hop]]
+Note Type: #move, #variant, [[airhop]], [[hop]]
+
+Tags: #ledge 
 
 # Extended Coyote Jump
 ![[ecoyotejump_header.gif]]

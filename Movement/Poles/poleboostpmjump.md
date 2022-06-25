@@ -1,6 +1,8 @@
 Status: #partdone, #needsgif 
 
-Tags: #move, #variant, [[polemomentumjump]], [[airhop]], [[hop]], #alternate, [[turnstoredflip]]
+Note Type: #move, #variant, [[polemomentumjump]], [[airhop]], [[hop]], #alternate, [[turnstoredflip]]
+
+Tags: #pole 
 
 # Pole-Boost Pole-Momentum Jump
 ![[poleboostpmjump_header.gif]]

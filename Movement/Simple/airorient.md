@@ -1,6 +1,8 @@
 Status: #partdone
 
-Tags: #move
+Note Type: #move
+
+Tags: 
 
 # Air-Orient
 ![[airorient_header.gif]]
