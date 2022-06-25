@@ -1,7 +1,5 @@
 Status: #stub
-
 Note Type: #movetype, #variant, [[hop]]
-
 Tags: #storage 
 
 # Turn-Stored Hop

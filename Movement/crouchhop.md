@@ -1,7 +1,5 @@
 Status: #partdone 
-
 Note Type: #move, #variant, [[hop]]
-
 Tags: 
 
 # Crouch-Hop

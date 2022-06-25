@@ -1,7 +1,5 @@
 Status: #partdone
-
 Note Type: #move, #variant, [[flip]]
-
 Tags: #slide 
 
 # Extended Slide-Flip

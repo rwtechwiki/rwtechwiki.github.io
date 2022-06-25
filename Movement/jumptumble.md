@@ -1,7 +1,5 @@
 Status: #partdone
-
 Note Type: #move, #initiator, [[crawlturnroll]]
-
 Tags: #roll 
 
 # Jump-Tumble

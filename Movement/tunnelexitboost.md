@@ -1,7 +1,5 @@
 Status: #partdone, #needsgif 
-
 Note Type: #move, #alternate, [[jumpstoredboost]]
-
 Tags: #tunnel 
 
 # Tunnel-Exit-Boost

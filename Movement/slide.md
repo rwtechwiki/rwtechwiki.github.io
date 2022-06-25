@@ -1,7 +1,5 @@
 Status: #partdone
-
 Note Type: #move, #initiator, [[turnstore]]
-
 Tags: #fundimentals, #slide 
 
 # Slide

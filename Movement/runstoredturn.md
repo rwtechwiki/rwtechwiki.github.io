@@ -1,7 +1,5 @@
 Status: #stub
-
 Note Type: #movetype
-
 Tags: #storage 
 
 # Run-Stored Turn

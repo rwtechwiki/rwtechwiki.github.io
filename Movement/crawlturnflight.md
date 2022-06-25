@@ -1,7 +1,5 @@
 Status: #partdone, #needsgif 
-
 Note Type: #move
-
 Tags: #crawlturn, #flight 
 
 # Crawl-Turn Flight

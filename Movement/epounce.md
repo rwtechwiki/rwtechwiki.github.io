@@ -1,7 +1,5 @@
 Status: #partdone
-
 Note Type: #move, #variant, [[pounce]]
-
 Tags: #fundimentals, #slide 
 
 # Extended Slide-Pounce

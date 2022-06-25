@@ -1,7 +1,5 @@
 Status: #partdone 
-
 Note Type: #movetype
-
 Tags: #fastfall 
 
 # Fast-Fall

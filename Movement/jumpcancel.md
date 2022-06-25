@@ -1,7 +1,5 @@
 Status: #partdone, #needsgif 
-
 Note Type: #move, #initiator, [[jumpstore]]
-
 Tags: #storage 
 
 # Jump-Cancel
