@@ -1,6 +1,6 @@
 {
-  "findText": "flip",
-  "replaceText": "starve",
+  "findText": "bounce",
+  "replaceText": "hop",
   "useRegEx": true,
   "selOnly": false,
   "caseInsensitive": false,
