@@ -1,5 +1,4 @@
-# On every push this script is executed
-on: push
+on: workflow_run
 name: Build and push obisidan-zola to pasges branch 
 jobs:
   build:
