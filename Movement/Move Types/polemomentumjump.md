@@ -1,6 +1,8 @@
 Status: #partdone, #needsgif
 
-Tags: #movetype, #variant, [[hop]], #alternate, [[turnstoredflip]]
+Note Type: #movetype, #variant, [[hop]], [[airhop]], #alternate, [[turnstoredflip]]
+
+Tags: #pole
 
 # Pole-Momentum Jump
 ![[polemomentumjump_header.gif]]

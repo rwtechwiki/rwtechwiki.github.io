@@ -1,6 +1,8 @@
 Status: #stub, #needsgif 
 
-Tags: #move, #variant, [[fastfall]]
+Note Type: #move, #variant, [[fastfall]]
+
+Tags: #creature, #fastfall 
 
 # Fast-Fall-Grapple
 ![[fastfallgrapple_header.gif]]

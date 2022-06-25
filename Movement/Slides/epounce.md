@@ -1,6 +1,8 @@
 Status: #partdone
 
-Tags: #move, #variant, [[pounce]], #fundimentals
+Note Type: #move, #variant, [[pounce]]
+
+Tags: #fundimentals, #slide 
 
 # Extended Slide-Pounce
 ![[epounce_header.gif]]

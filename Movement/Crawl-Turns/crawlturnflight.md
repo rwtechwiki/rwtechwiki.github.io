@@ -1,6 +1,8 @@
 Status: #partdone, #needsgif 
 
-Tags: #move
+Note Type: #move
+
+Tags: #crawlturn, #flight 
 
 # Crawl-Turn Flight
 ![[crawlturnflight_header.gif]]

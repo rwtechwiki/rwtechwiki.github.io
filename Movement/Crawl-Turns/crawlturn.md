@@ -1,6 +1,8 @@
 Status: #partdone
 
-Tags: #move, #fundimentals
+Note Type: #move
+
+Tags: #fundimentals, #crawlturn
 
 # Crawl-Turn
 ![[crawlturn_header.gif]]

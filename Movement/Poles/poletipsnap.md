@@ -1,6 +1,8 @@
 Status: #partdone 
 
-Tags: #move
+Note Type: #move
+
+Tags: #pole 
 
 # Pole-Tip Snap
 ![[poletipsnap_header.gif]]

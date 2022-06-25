@@ -1,6 +1,8 @@
 Status: #partdone 
 
-Tags: #move, #variant, [[hop]]
+Note Type: #move, #variant, [[hop]]
+
+Tags: #slide 
 
 # Slide-Hop
 ![[slidehop_header.gif]]

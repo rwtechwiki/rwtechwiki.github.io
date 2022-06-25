@@ -1,6 +1,8 @@
 Status: #partdone
 
-Tags: #move, #variant, [[hop]], #alternate, [[turnstoredflip]], #fundimentals
+Note Type: #move, #variant, [[hop]], #alternate, [[turnstoredflip]]
+
+Tags: #fundimentals
 
 # Jump
 ![[jump_header.gif]]

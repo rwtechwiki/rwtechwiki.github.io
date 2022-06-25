@@ -1,6 +1,8 @@
 Status: #partdone, #needsgif 
 
-Tags: #move
+Note Type: #move
+
+Tags: #wall 
 
 # Wall-Regrab
 ![[wallregrab_header.gif]]

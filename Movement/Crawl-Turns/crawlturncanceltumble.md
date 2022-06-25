@@ -1,6 +1,8 @@
 Status: #partdone, #needsgif 
 
-Tags: #move, #initiator, [[crawlturnroll]]
+Note Type: #move, #initiator, [[crawlturnroll]]
+
+Tags: #crawlturn, #roll
 
 # Crawl-Turn Cancel Tumble
 ![[crawlturncanceltumble_header.gif]]

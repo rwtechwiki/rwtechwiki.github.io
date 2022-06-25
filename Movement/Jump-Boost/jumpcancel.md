@@ -1,6 +1,8 @@
 Status: #partdone, #needsgif 
 
-Tags: #move, #initiator, [[jumpstore]]
+Note Type: #move, #initiator, [[jumpstore]]
+
+Tags: #storage 
 
 # Jump-Cancel
 ![[jumpcancel_header.gif]]

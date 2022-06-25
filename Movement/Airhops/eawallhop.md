@@ -1,6 +1,8 @@
 Status: #partdone
 
-Tags: #move, #variant, [[wallhop]], [[airhop]], [[hop]]
+Note Type: #move, #variant, [[wallhop]], [[airhop]], [[hop]]
+
+Tags: #throw
 
 # Extended Aerial Wall-Hop
 ![[eawallhop_header.gif]]

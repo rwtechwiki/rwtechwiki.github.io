@@ -1,6 +1,8 @@
 Status: #partdone, #needsgif
 
-Tags: #move, #initiator, [[turnstore]], #fundimentals
+Note Type: #move, #initiator, [[turnstore]]
+
+Tags: #fundimentals
 
 # Crouch
 ![[crouch_header.gif]]

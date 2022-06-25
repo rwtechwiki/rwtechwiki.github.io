@@ -1,6 +1,8 @@
 Status: #stub, #needsgif 
 
-Tags: #move
+Note Type: #move
+
+Tags: #storage
 
 # Run-Store
 ![[runstore_header.gif]]

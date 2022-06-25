@@ -1,6 +1,8 @@
 Status: #partdone
 
-Tags: #move, #variant, [[wallhop]], [[hop]]
+Note Type: #move, #variant, [[wallhop]], [[hop]]
+
+Tags: #wall 
 
 # Wall-Jump
 ![[walljump_header.gif]]

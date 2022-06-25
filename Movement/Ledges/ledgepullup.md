@@ -1,6 +1,8 @@
 Status: #partdone
 
-Tags: #move, #fundimentals
+Note Type: #move
+
+Tags: #fundimentals, #ledge
 
 # Ledge Pull-Up
 ![[ledgepullup_header.gif]]

@@ -1,6 +1,8 @@
 Status: #partdone, #needsgif 
 
-Tags: #move, #initiator, [[turnstore]]
+Note Type: #move, #initiator, [[turnstore]]
+
+Tags: #ledge, #storage 
 
 # Turn-Drop
 ![[turndrop_header.gif]]

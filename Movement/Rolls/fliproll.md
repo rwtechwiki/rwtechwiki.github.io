@@ -1,6 +1,8 @@
 Status: #partdone
 
-Tags: #move, #initiator, [[roll]], #fundimentals
+Note Type: #move, #initiator, [[roll]]
+
+Tags: #fundimentals, #roll 
 
 # Flip-Roll
 ![[fliproll_header.gif]]

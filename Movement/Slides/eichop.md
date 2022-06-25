@@ -1,6 +1,8 @@
 Status: #partdone
 
-Tags: #move, #variant, [[hop]], #fundimentals 
+Note Type: #move, #variant, [[hop]]
+
+Tags: #fundimentals, #slide 
 
 # Extended Instant Crouch Slide-Hop
 ![[eichop_header.gif]]

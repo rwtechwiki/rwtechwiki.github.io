@@ -1,6 +1,8 @@
 Status: #partdone
 
-Tags: #move, #variant, [[flip]], #fundimentals
+Note Type: #move, #variant, [[flip]]
+
+Tags: #fundimentals, #slide 
 
 # Slide-Flip
 ![[slideflip_header.gif]]

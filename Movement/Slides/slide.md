@@ -1,6 +1,8 @@
 Status: #partdone
 
-Tags: #move, #initiator, [[turnstore]], #fundimentals
+Note Type: #move, #initiator, [[turnstore]]
+
+Tags: #fundimentals, #slide 
 
 # Slide
 ![[slide_header.gif]]

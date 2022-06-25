@@ -1,6 +1,8 @@
 Status: #partdone, #needsgif 
 
-Tags: #move
+Note Type: #move
+
+Tags: #tunnel 
 
 # Tunnel-Turn
 ![[tunnelturn_header.gif]]
@@ -8,7 +10,7 @@ Tags: #move
 When crawling in tunnels, pressing jump while holding the input direction towards slugcats feet will cause it to shake for a second, before flipping around to face in the other direction. 
 
 ## Notes
-If done in the downward direction, slugcat will instead enter [[tunnelfreefall]].
+If done in the downward direction in a vertical tunnel, slugcat will instead enter [[tunnelfreefall]].
 
 If done towards slugcats head, slugcat will instead perform a [[tunnelboost]].
 

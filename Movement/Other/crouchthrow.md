@@ -1,6 +1,8 @@
 Status: #partdone
 
-Tags: #move, #variant, [[throw]], #fundimentals
+Note Type: #move, #variant, [[throw]]
+
+Tags: #fundimentals, #throw 
 
 # Crouch-Throw
 ![[crouchthrow_header.gif]]

@@ -1,6 +1,8 @@
 Status: #stub, #needsgif 
 
-Tags: #move
+Note Type: #move
+
+Tags: #tunnel 
 
 # Tunnel-Flop
 ![[tunnelflop_header.gif]]

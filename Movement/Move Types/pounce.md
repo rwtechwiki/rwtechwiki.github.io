@@ -1,6 +1,8 @@
 Status: #partdone 
 
-Tags: #movetype, #fundimentals
+Note Type: #movetype
+
+Tags: #fundimentals
 
 # Pounce
 ## Description

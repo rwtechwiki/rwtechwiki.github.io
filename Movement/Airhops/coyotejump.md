@@ -1,6 +1,8 @@
 Status: #partdone
 
-Tags: #move, #variant, [[airhop]], [[hop]], #alternate, [[turnstoredflip]], pole, #fundimentals
+Note Type: #move, #variant, [[airhop]], [[hop]], #alternate, [[turnstoredflip]], pole
+
+Tags: #fundimentals, #ledge, #pole 
 
 # Coyote Jump
 ![[coyotejump_header.gif]]

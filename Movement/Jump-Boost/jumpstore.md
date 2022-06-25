@@ -1,6 +1,8 @@
 Status: #partdone, #needsgif 
 
-Tags: #move
+Note Type: #move
+
+Tags: #storage 
 
 # Jump-Store
 ![[jumpstore_header.gif]]

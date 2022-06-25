@@ -1,6 +1,8 @@
 Status: #partdone
 
-Tags: #move, #variant, [[pounce]], #alternate, instant, #fundimentals
+Note Type: #move, #variant, [[pounce]], #alternate, instant
+
+Tags: #fundimentals, #roll 
 
 # Roll-Pounce
 ![[rollpounce_header.gif]]

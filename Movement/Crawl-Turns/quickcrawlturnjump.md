@@ -1,6 +1,8 @@
 Status: #partdone 
 
-Tags: #move, #variant, [[hop]], #alternate, [[jumpstoredboost]]
+Note Type: #move, #variant, [[hop]], #alternate, [[jumpstoredboost]]
+
+Tags: #crawlturn 
 
 # Quick Crawl-Turn Jump
 ![[quickcrawlturnjump_header.gif]]

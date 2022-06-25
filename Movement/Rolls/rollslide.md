@@ -1,6 +1,8 @@
 Status: #partdone 
 
-Tags: #move, #initiator, [[slide]]
+Note Type: #move, #initiator, [[slide]]
+
+Tags: #roll 
 
 # Roll-Slide
 ![[rollslide_header.gif]]

@@ -1,6 +1,8 @@
 Status: #partdone
 
-Tags: #move, #variant, [[hop]], #alternate, instant, #fundimentals
+Note Type: #move, #variant, [[hop]], #alternate, instant
+
+Tags: #fundimentals, #slide 
 
 # Extended Slide-Hop
 ![[ehop_header.gif]]

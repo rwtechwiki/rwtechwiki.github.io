@@ -1,6 +1,8 @@
 Status: #partdone
 
-Tags: #move, #fundimentals
+Note Type: #move, #alternate, [[ledgepullup]]
+
+Tags: #fundimentals, #ledge, #crawlturn 
 
 # Crawl-Turn-Cancel
 ![[crawlturncancel_header.gif]]

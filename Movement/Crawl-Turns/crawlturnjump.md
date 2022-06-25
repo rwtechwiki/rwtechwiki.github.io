@@ -1,6 +1,8 @@
 Status: #partdone
 
-Tags: #move, #variant, [[airhop]], [[hop]], #alternate, [[turnstoredflip]], [[ledgepullup]], #fundimentals
+Note Type: #move, #variant, [[airhop]], [[hop]], #alternate, [[turnstoredflip]], [[ledgepullup]]
+
+Tags: #fundimentals, #ledge, #crawlturn 
 
 # Crawl-Turn Jump
 ![[crawlturnjump_header.gif]]

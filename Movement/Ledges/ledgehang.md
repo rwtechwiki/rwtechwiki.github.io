@@ -1,6 +1,8 @@
 Status: #partdone 
 
-Tags: #move
+Note Type: #move
+
+Tags: #ledge 
 
 # Ledge-Hang
 ![[ledgehang_header.gif]]

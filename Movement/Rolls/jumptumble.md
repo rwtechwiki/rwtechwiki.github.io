@@ -1,6 +1,8 @@
 Status: #partdone
 
-Tags: #move, #initiator, [[crawlturnroll]]
+Note Type: #move, #initiator, [[crawlturnroll]]
+
+Tags: #roll 
 
 # Jump-Tumble
 ![[jumptumble_header.gif]]

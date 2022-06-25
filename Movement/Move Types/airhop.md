@@ -1,6 +1,8 @@
 Status: #partdone 
 
-Tags: #movetype, #variant, [[hop]]
+Note Type: #movetype, #variant, [[hop]]
+
+Tags: 
 
 # Air-Hop
 ## Description

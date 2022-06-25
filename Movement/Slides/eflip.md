@@ -1,6 +1,8 @@
 Status: #partdone
 
-Tags: #move, #variant, [[flip]]
+Note Type: #move, #variant, [[flip]]
+
+Tags: #slide 
 
 # Extended Slide-Flip
 ![[eflip_header.gif]]
