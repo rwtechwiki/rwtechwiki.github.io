@@ -1,7 +1,5 @@
 Status: #partdone
-
 Note Type: #move, #variant, [[wallhop]], [[hop]]
-
 Tags: #wall 
 
 # Wall-Jump

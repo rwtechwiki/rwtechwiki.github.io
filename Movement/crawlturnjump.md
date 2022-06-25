@@ -1,7 +1,5 @@
 Status: #partdone
-
 Note Type: #move, #variant, [[airhop]], [[hop]], #alternate, [[turnstoredflip]], [[ledgepullup]]
-
 Tags: #fundimentals, #ledge, #crawlturn 
 
 # Crawl-Turn Jump

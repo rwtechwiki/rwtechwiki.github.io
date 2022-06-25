@@ -1,7 +1,5 @@
 Status: #stub
-
 Note Type: #movetype
-
 Tags: #creature 
 
 # Creature-Fling

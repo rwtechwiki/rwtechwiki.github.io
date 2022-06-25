@@ -1,7 +1,5 @@
 Status: #partdone
-
 Note Type: #move, #variant, [[airhop]], [[hop]]
-
 Tags: #slide
 
 # Extended Slide Air-Hop

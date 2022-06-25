@@ -1,7 +1,5 @@
 Status: #partdone
-
 Note Type: #move, #variant, [[hop]], #alternate, instant
-
 Tags: #fundimentals, #slide 
 
 # Extended Slide-Hop

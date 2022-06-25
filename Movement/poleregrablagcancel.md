@@ -1,7 +1,5 @@
 Status: #partdone
-
 Note Type: #move
-
 Tags: #fundimentals, #pole 
 
 # Pole-Regrab Lag-Cancel

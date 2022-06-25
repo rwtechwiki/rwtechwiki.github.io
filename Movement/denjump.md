@@ -1,7 +1,5 @@
 Status: #stub, #needsgif 
-
 Note Type: #move, #alternate, [[jumpstoredboost]]
-
 Tags: #slide 
 
 # Den-Jump

@@ -1,7 +1,5 @@
 Status: #stub, #needsgif 
-
 Note Type: #move, #variant, [[pounce]]
-
 Tags: #creature 
 
 # Pounce Creature-Fling

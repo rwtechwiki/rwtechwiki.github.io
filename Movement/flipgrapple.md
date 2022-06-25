@@ -1,7 +1,5 @@
 Status: #stub, #needsgif 
-
 Note Type: #move, #variant, [[flip]]
-
 Tags: #creature 
 
 # Flip-Grapple

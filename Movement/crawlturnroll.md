@@ -1,7 +1,5 @@
 Status: #partdone
-
 Note Type: #move, #initiator, [[roll]], #alternate, [[ledgepullup]]
-
 Tags: #ledge, #crawlturn, #roll
 
 # Crawl-Turn Roll

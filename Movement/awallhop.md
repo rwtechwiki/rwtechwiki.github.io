@@ -1,7 +1,5 @@
 Status: #partdone
-
 Note Type: #move, #variant, [[wallhop]], [[airhop]], [[hop]]
-
 Tags: #wall 
 
 # Aerial Wall-Hop

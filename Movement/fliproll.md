@@ -1,7 +1,5 @@
 Status: #partdone
-
 Note Type: #move, #initiator, [[roll]]
-
 Tags: #fundimentals, #roll 
 
 # Flip-Roll

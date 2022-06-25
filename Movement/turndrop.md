@@ -1,7 +1,5 @@
 Status: #partdone, #needsgif 
-
 Note Type: #move, #initiator, [[turnstore]]
-
 Tags: #ledge, #storage 
 
 # Turn-Drop

@@ -1,7 +1,5 @@
 Status: #partdone 
-
 Note Type: #move, #initiator, [[slide]]
-
 Tags: #roll 
 
 # Roll-Slide

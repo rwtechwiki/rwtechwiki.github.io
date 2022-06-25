@@ -1,7 +1,5 @@
 Status: #partdone
-
 Note Type: #move, #variant, [[pounce]], #alternate, instant
-
 Tags: #fundimentals, #roll 
 
 # Roll-Pounce

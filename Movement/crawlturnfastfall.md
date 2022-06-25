@@ -1,7 +1,5 @@
 Status: #partdone
-
 Note Type: #move, #variant, [[fastfall]], #alternate, [[ledgepullup]]
-
 Tags: #ledge, #crawlturn, #fastfall
 
 # Crawl-Turn Fast-Fall

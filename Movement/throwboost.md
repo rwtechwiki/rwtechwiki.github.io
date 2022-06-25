@@ -1,7 +1,5 @@
 Status: #partdone
-
 Note Type: #move, #variant, [[throw]]
-
 Tags: #throw 
 
 # Throw-Boost

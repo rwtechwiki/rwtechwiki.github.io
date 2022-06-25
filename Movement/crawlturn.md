@@ -1,7 +1,5 @@
 Status: #partdone
-
 Note Type: #move
-
 Tags: #fundimentals, #crawlturn
 
 # Crawl-Turn

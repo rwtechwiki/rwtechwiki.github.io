@@ -1,7 +1,5 @@
 Status: #partdone
-
 Note Type: #move, #variant, [[flip]], [[jumpstoredboost]]
-
 Tags: #slide 
 
 # Instant Slide-Flip

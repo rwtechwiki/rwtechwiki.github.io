@@ -7,8 +7,12 @@
         "id": "997a8d0435072ee6",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Templates/movetype.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Templates/movetype.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,15 +100,15 @@
   },
   "active": "997a8d0435072ee6",
   "lastOpenFiles": [
-    "Movement/Airhops/momentumwallhop.md",
-    "Movement/Airhops/gwallhop.md",
-    "Movement/Airhops/ecoyotejump.md",
-    "Movement/Airhops/eawallhop.md",
-    "Movement/Airhops/eairhop.md",
-    "Movement/Airhops/coyotejump.md",
-    "Movement/Airhops/awallhop.md",
-    "Movement/Slides/slidefliphop.md",
-    "Movement/Slides/slidehop.md",
-    "Movement/Slides/slideflip.md"
+    "Templates/movetype.md",
+    "Templates/move.md",
+    "Templates/gifs.md",
+    "Movement/airhop.md",
+    "Movement/ledgedropslide.md",
+    "Movement/mouthspear.md",
+    "Movement/polecoyotejump.md",
+    "Movement/poleboostpmjump.md",
+    "Movement/poleboost.md",
+    "Movement/momentumwallhop.md"
   ]
 }

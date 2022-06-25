@@ -1,7 +1,5 @@
 Status: #stub, #needsgif 
-
 Note Type: #move, #initiator, [[slide]]
-
 Tags: #ledge, #slide 
 
 # Ledge-Drop-Slide

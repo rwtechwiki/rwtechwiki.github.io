@@ -1,7 +1,5 @@
 Status: #stub, #needsgif 
-
 Note Type: #move, #variant, [[hop]]
-
 Tags: #creature 
 
 # Jump Creature-Fling

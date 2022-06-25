@@ -1,7 +1,5 @@
 Status: #stub, #needsgif 
-
 Note Type: #move, #variant, [[wallhop]], [[airhop]], [[hop]]
-
 Tags: #wall 
 
 # Momentum Wall-Hop

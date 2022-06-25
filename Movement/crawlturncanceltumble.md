@@ -1,7 +1,5 @@
 Status: #partdone, #needsgif 
-
 Note Type: #move, #initiator, [[crawlturnroll]]
-
 Tags: #crawlturn, #roll
 
 # Crawl-Turn Cancel Tumble

@@ -1,7 +1,5 @@
 Status: #partdone 
-
 Note Type: #move, #alternate, down, up
-
 Tags: #creature, #throw, #wall 
 
 # Spear-Pin

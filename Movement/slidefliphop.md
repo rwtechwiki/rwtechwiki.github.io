@@ -1,7 +1,5 @@
 Status: #partdone, #needsgif 
-
 Note Type: #move, #variant, [[hop]], #alternate, [[turnstoredflip]]
-
 Tags: #slide 
 
 # Slide-Flip Hop

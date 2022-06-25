@@ -1,7 +1,5 @@
 Status: #partdone
-
 Note Type: #move, #variant, [[pounce]], [[jumpstoredboost]]
-
 Tags: #slide 
 
 # Instant Slide-Pounce

@@ -1,7 +1,5 @@
 Status: #partdone 
-
 Note Type: #move, #variant, [[polemomentumjump]], [[airhop]], [[hop]], #alternate, [[turnstoredflip]]
-
 Tags: #pole 
 
 # Slide Pole-Momentum Jump

@@ -1,7 +1,5 @@
 Status: #partdone 
-
 Note Type: #move, #variant, [[polemomentumjump]], [[airhop]], [[hop]]
-
 Tags: #pole 
 
 # Jump Pole-Momentum Jump
