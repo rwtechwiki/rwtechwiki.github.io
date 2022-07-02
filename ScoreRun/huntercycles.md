@@ -1,4 +1,4 @@
 Status: #stub
 Note Type: 
 Tags: #score
-# Score Calculation 
+# Hunter Cycles

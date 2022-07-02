@@ -1,4 +1,4 @@
-Status: #partdone
+Status: #stub
 Note Type: 
 Tags: 
 # Hunter Physics
