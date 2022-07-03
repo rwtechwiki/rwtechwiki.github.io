@@ -4,7 +4,7 @@ Tags: #score
 # Hunter Mode
 After beating Rain World with either Survivor or Monk, your save file will now have the Hunter character available. While playing as Hunter, besides the [physics changes](hunterphysics), there are two main mechanical differences which will be relevant for this note:
 
-- [Hunter has a 20 cycle limit](huntercycles.md). After 20 cycles have passed, death is now permanent and each survived cycle becomes exponentially more difficult to survive.
+- [Hunter has a 20 cycle limit](huntercycles). After 20 cycles have passed, death is now permanent and each survived cycle becomes exponentially more difficult to survive.
 - Everything done during the game is being tracked to [tally up a score](scorecalculation) at the end of the playthrough. The main way to to raise this score is by killing creatures and getting Passages.
 
 While playing Hunter Mode, there are also 3 story objectives that can be completed during a run. The first two are related to the **green neuron** that you start the game with. Delivering the neuron to FIve Pebbles and to Looks to the Moon will complete the "Helped Pebbles" and "Delivered Payload", repsectively. The third and last one is simply ascending at the end of the run, which will complete the "Ascended" objective. Completing the objectives is optional, however they will contribute to the final score.
