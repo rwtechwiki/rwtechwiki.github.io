@@ -1,6 +1,6 @@
 Status: #stub, #needsgif 
 Note Type: #move
-Tags: #creature 
+Tags: #intended, #creature 
 
 # Flip-Creature-Bounce
 ![[flipcreaturebounce_header.gif]]

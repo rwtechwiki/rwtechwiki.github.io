@@ -1,6 +1,6 @@
 Status: #partdone 
-
 Note Type: #collection
+Tags: #googledoc, [link](https://docs.google.com/document/d/1o3gouaiHsHT2H9d2HD5gDhgmoWwoL94gSFt7Ka1-vDk)
 
 # Movement Guide Doc
 

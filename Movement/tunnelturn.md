@@ -1,6 +1,6 @@
 Status: #partdone, #needsgif 
 Note Type: #move
-Tags: #tunnel 
+Tags: #intended, #tunnel 
 
 # Tunnel-Turn
 ![[tunnelturn_header.gif]]

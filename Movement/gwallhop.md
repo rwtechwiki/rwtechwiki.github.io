@@ -1,6 +1,6 @@
 Status: #partdone
 Note Type: #move, #variant, [[wallhop]], [[airhop]], [[hop]]
-Tags: #fundimentals, #wall
+Tags: #fundimentals, #unintended, #wall
 
 # Grounded Wall-Hop
 ![[gwallhop_header.gif]]

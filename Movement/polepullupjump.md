@@ -1,6 +1,6 @@
 Status: #partdone 
 Note Type: #move, #variant, [[hop]], #alternate, [[turnstoredflip]]
-Tags: #pole 
+Tags: #intended, #pole 
 
 # Pole-Pullup Jump
 ![[polepullupjump_header.gif]]

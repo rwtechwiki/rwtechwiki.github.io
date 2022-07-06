@@ -1,6 +1,6 @@
 Status: #stub, #needsgif 
 Note Type: #move, #variant, [[flip]]
-Tags: #creature 
+Tags: #unintended, #creature 
 
 # Flip-Grapple
 ![[flipgrapple_header.gif]]

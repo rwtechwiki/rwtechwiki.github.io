@@ -1,6 +1,6 @@
 Status: #partdone
 Note Type: #move, #initiator, [[crawlturnroll]]
-Tags: #roll 
+Tags: #unintended, #roll 
 
 # Crouch-Tumble
 ![[crouchtumble_header.gif]]
@@ -21,7 +21,7 @@ By performing failed inputs of a [[slide]], staggered either with down long enou
 
 ___
 # Gifs
-## 3 Jump Variant
+## 3 Jump Alternate
 ![[crouchtumble_3J.gif]]
 ## Bulk
 ![[crouchtumble_0.gif]]

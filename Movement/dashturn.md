@@ -1,6 +1,6 @@
 Status: #partdone
 Note Type: #move
-Tags: #fundimentals
+Tags: #fundimentals, #intended 
 
 # Dash-Turn
 ![[dashturn_header.gif]]

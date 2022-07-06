@@ -1,6 +1,6 @@
-Status: #partdone, #needsgif
+Status: #partdone
 Note Type: #move
-Tags: #fundimentals
+Tags: #fundimentals, #intended 
 
 # Stand
 ![[stand_header.gif]]

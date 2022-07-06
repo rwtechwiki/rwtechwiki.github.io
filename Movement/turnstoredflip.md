@@ -1,6 +1,6 @@
 Status: #partdone 
 Note Type: #movetype, #variant, [[flip]]
-Tags: #storage 
+Tags: #unintended, #storage 
 
 # Turn-Stored Flip
 ## Description

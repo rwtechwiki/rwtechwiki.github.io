@@ -1,6 +1,6 @@
 Status: #partdone
 Note Type: #move, #variant, [[airhop]], [[hop]]
-Tags: #slide
+Tags: #unintended, #slide
 
 # Extended Slide Air-Hop
 ![[eairhop_header.gif]]

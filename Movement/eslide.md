@@ -1,6 +1,6 @@
 Status: #partdone
 Note Type: #move, #variant, [[throw]]
-Tags: #fundimentals, #slide 
+Tags: #fundimentals, #intended, #slide 
 
 # Extended Slide
 ![[eslide_header.gif]]

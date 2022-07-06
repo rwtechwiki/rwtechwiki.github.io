@@ -1,6 +1,6 @@
 Status: #partdone 
 Note Type: #move
-Tags: #pole 
+Tags: #intended, #pole 
 
 # Pole-Hop
 ![[polehop_header.gif]]

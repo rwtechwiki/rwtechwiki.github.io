@@ -1,6 +1,6 @@
 Status: #partdone
 Note Type: #move, #initiator, [[roll]]
-Tags: #fundimentals, #roll 
+Tags: #fundimentals, #intended, #roll 
 
 # Pounce-Roll
 ![[pounceroll_header.gif]]

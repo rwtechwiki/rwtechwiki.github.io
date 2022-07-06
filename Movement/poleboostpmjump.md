@@ -1,6 +1,6 @@
-Status: #partdone, #needsgif 
+Status: #partdone
 Note Type: #move, #variant, [[polemomentumjump]], [[airhop]], [[hop]], #alternate, [[turnstoredflip]]
-Tags: #pole 
+Tags: #unintended, #pole 
 
 # Pole-Boost Pole-Momentum Jump
 ![[poleboostpmjump_header.gif]]
@@ -21,6 +21,8 @@ The left/right input is required, as a [[poleboost]] without causes slugcats fee
 
 ___
 # Gifs
+## TS Alternate
+![[poleboostpmjump_TS.gif]]
 ## Bulk
 ![[poleboostpmjump_0.gif]]
 ![[poleboostpmjump_1.gif]]

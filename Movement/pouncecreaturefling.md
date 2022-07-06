@@ -1,6 +1,6 @@
 Status: #stub, #needsgif 
 Note Type: #move, #variant, [[pounce]]
-Tags: #creature 
+Tags: #unintended, #creature 
 
 # Pounce Creature-Fling
 ![[pouncecreaturefling_header.gif]]

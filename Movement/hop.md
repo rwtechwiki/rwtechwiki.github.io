@@ -1,6 +1,6 @@
 Status: #partdone 
 Note Type: #movetype
-Tags: #fundimentals
+Tags: #fundimentals, #intended 
 
 # Hop
 ## Description

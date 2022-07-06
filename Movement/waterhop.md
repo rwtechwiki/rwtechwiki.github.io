@@ -1,6 +1,6 @@
 Status: #stub, #needsgif 
 Note Type: #move
-Tags: #water
+Tags: #intended, #water
 
 # Water-Hop
 ![[waterhop_header.gif]]

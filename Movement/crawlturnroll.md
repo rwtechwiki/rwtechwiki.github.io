@@ -1,6 +1,6 @@
-Status: #partdone
+Status: #toreview 
 Note Type: #move, #initiator, [[roll]], #alternate, [[ledgepullup]]
-Tags: #ledge, #crawlturn, #roll
+Tags: #unintended, #ledge, #crawlturn, #roll
 
 # Crawl-Turn Roll
 ![[crawlturnroll_header.gif]]
@@ -21,7 +21,7 @@ It is reasonable to enter the crouch state either by performing a first crawl-tu
 
 ___
 # Gifs
-## Ledge Variant
+## Ledge Alternate
 ![[crawlturnroll_ledge.gif]]
 ## Bulk
 ![[crawlturnroll_0.gif]]

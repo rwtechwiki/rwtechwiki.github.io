@@ -1,6 +1,6 @@
 Status: #partdone
 Note Type: #move, #variant, [[hop]]
-Tags: #fundimentals
+Tags: #fundimentals, #intended 
 
 # Turn-Hop
 ![[turnhop_header.gif]]

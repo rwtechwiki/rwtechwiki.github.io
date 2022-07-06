@@ -1,6 +1,6 @@
 Status: #partdone 
 Note Type: #move, #variant, [[fastfall]], #alternate, [[turndrop]]
-Tags: #ledge, #fastfall
+Tags: #unintended, #ledge, #fastfall
 
 # Ledge-Drop Fast-Fall
 ![[ledgedropfastfall_header.gif]]

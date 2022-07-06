@@ -1,6 +1,6 @@
-Status: #partdone
+Status: #toreview 
 Note Type: #move, #variant, [[wallhop]], [[airhop]], [[hop]]
-Tags: #wall 
+Tags: #intended, #wall 
 
 # Aerial Wall-Hop
 ![[awallhop_header.gif]]

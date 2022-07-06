@@ -1,6 +1,6 @@
 Status: #partdone 
 Note Type: #move, #variant, [[hop]]
-Tags: 
+Tags: #intended 
 
 # Crouch-Hop
 ![[crouchhop_header.gif]]

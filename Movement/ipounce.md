@@ -1,6 +1,6 @@
 Status: #partdone
 Note Type: #move, #variant, [[pounce]], [[jumpstoredboost]]
-Tags: #slide 
+Tags: #unintended, #slide 
 
 # Instant Slide-Pounce
 ![[ipounce_header.gif]]

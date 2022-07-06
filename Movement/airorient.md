@@ -1,6 +1,6 @@
-Status: #partdone
+Status: #toreview
 Note Type: #move
-Tags: 
+Tags: #fundimentals, #intended 
 
 # Air-Orient
 ![[airorient_header.gif]]
@@ -14,7 +14,7 @@ This allows for maintaining momentum from a [[chargehop]] or [[crouchhop]], by [
 [[hop]]
 
 ## Allows for
-[[hop]], [[polehop]]
+[[jump]], [[polehop]]
 
 ## Chains to
 

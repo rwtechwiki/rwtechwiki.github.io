@@ -1,6 +1,6 @@
 Status: #partdone
 Note Type: #move, #variant, [[pounce]]
-Tags: #slide 
+Tags: #unintended, #slide 
 
 # Extended Instant Slide-Pounce
 ![[eipounce_header.gif]]
