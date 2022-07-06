@@ -1,6 +1,6 @@
 Status: #partdone
 Note Type: #move, #variant, [[flip]]
-Tags: #fundimentals
+Tags: #fundimentals, #intended 
 
 # Turn-Flip
 ![[turnflip_header.gif]]

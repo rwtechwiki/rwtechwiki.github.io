@@ -1,6 +1,6 @@
 Status: #partdone
 Note Type: #move, #variant, [[fastfall]], #alternate, [[ledgepullup]]
-Tags: #ledge, #crawlturn, #fastfall
+Tags: #unintended, #ledge, #crawlturn, #fastfall
 
 # Crawl-Turn Fast-Fall
 ![[crawlturnfastfall_header.gif]]
@@ -9,6 +9,8 @@ It is possible to drastically increase falling acceleration by becoming airborn 
 
 ## Notes
 This move is possible regardless of whether the [[crawlturncancel]] is performed from a [[crawlturn]] or a [[ledgepullup]].
+
+This fastfall state can be maintained using a grapple worm via a [[fastfallgrapple]].
 
 ## Performed from
 [[crawlturncancel]]
@@ -21,6 +23,8 @@ This move is possible regardless of whether the [[crawlturncancel]] is performed
 
 ___
 # Gifs
+## Ledge Alternate
+![[crawlturnfastfall_ledge.gif]]
 ## Bulk
 ![[crawlturnfastfall_0.gif]]
 ![[crawlturnfastfall_1.gif]]

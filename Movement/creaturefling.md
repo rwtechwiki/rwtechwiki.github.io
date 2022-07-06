@@ -1,6 +1,6 @@
 Status: #stub
 Note Type: #movetype
-Tags: #creature 
+Tags: #unintended, #creature 
 
 # Creature-Fling
 ## Description

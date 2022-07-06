@@ -1,6 +1,6 @@
 Status: #partdone
 Note Type: #move
-Tags: #fundimentals, #slide 
+Tags: #fundimentals, #intended, #slide 
 
 # Slide-Parkour
 ![[slideparkour_header.gif]]

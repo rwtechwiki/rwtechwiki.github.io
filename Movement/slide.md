@@ -1,6 +1,6 @@
-Status: #partdone
-Note Type: #move, #initiator, [[turnstore]]
-Tags: #fundimentals, #slide 
+Status: #toreview, #needsalternategif
+Note Type: #move, #initiator, [[turnstore]], #alternate, crouch
+Tags: #fundimentals, #intended, #slide 
 
 # Slide
 ![[slide_header.gif]]
@@ -28,6 +28,8 @@ If a slide crosses over a vertical tunnel entrance, it is possible to convert mo
 
 Similarly if the slide enters a ground level horizontal tunnel entrance, a well-timed jump will give slugcat 8 jumpstorage.
 
+It is also possible to begin a slide from the crouch state by inputting up, forward and jump for exactly 1 frame before switching to down, forward and jump. This allows for a slide with pre-existing, especially inverse-direction, [[turnstore]].
+
 ## Performed from
 [[walk]], [[rollslide]], [[ledgedropfastfall]]
 
@@ -39,6 +41,8 @@ Similarly if the slide enters a ground level horizontal tunnel entrance, a well-
 
 ___
 # Gifs
+## Crouch Alternate
+![[slide_crouch.gif]]
 ## Bulk
 ![[slide_0.gif]]
 ![[slide_1.gif]]

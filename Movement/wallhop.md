@@ -1,6 +1,6 @@
 Status: #partdone 
 Note Type: #movetype, #variant, [[hop]]
-Tags: #wall 
+Tags: #intended, #wall 
 
 # Wall-Hop
 ## Description

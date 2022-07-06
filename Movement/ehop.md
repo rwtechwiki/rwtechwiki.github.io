@@ -1,6 +1,6 @@
 Status: #partdone
 Note Type: #move, #variant, [[hop]], #alternate, instant
-Tags: #fundimentals, #slide 
+Tags: #fundimentals, #intended, #slide 
 
 # Extended Slide-Hop
 ![[ehop_header.gif]]
@@ -8,6 +8,8 @@ Tags: #fundimentals, #slide
 There is a window to ehop by pressing jump during frames 1 through 26 after the throw input of an [[eslide]]. The first frame of these is named an extended instant slide-hop, or eihop, as it carries significantly more speed.
 
 ## Notes
+For early extended slide-hops, returning to the forward input is not required to perform the move, however holding the throw direction slows slugcat midair, due to the move's variable arc.
+
 There is a window to [[eichop]] by inputting down on frame 2, if the ehop had a frame 1 jump input (an eihop).
 
 ## Performed from

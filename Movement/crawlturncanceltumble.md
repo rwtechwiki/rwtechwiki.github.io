@@ -1,6 +1,6 @@
 Status: #partdone, #needsgif 
 Note Type: #move, #initiator, [[crawlturnroll]]
-Tags: #crawlturn, #roll
+Tags: #unintended, #crawlturn, #roll
 
 # Crawl-Turn Cancel Tumble
 ![[crawlturncanceltumble_header.gif]]
@@ -17,7 +17,7 @@ With precise timing, it is possible to tumble over from a [[crawlturncancel]] su
 
 
 ## Chains to
-
+[[crawlturnroll]]
 
 ___
 # Gifs

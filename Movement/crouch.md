@@ -1,6 +1,6 @@
-Status: #partdone, #needsgif
+Status: #partdone
 Note Type: #move, #initiator, [[turnstore]]
-Tags: #fundimentals
+Tags: #fundimentals, #intended 
 
 # Crouch
 ![[crouch_header.gif]]

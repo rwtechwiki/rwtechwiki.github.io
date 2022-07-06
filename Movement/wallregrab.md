@@ -1,6 +1,6 @@
-Status: #partdone, #needsgif 
+Status: #partdone
 Note Type: #move
-Tags: #wall 
+Tags: #unintended, #wall 
 
 # Wall-Regrab
 ![[wallregrab_header.gif]]

@@ -1,6 +1,6 @@
 Status: #partdone 
 Note Type: #movetype
-Tags: #throw 
+Tags: #intended, #throw 
 
 # Throw
 ## Description

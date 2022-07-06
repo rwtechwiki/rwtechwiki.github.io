@@ -1,6 +1,6 @@
 Status: #partdone
 Note Type: #move
-Tags: #fundimentals, #pole 
+Tags: #fundimentals, #intended, #pole 
 
 # Pole-Boost
 ![[poleboost_header.gif]]

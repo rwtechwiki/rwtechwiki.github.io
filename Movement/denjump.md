@@ -1,6 +1,6 @@
 Status: #stub, #needsgif 
 Note Type: #move, #alternate, [[jumpstoredboost]]
-Tags: #slide 
+Tags: #unintended, #slide
 
 # Den-Jump
 ![[denjump_header.gif]]

@@ -1,6 +1,6 @@
 Status: #partdone
 Note Type: #move, #variant, [[flip]], [[jumpstoredboost]]
-Tags: #slide 
+Tags: #unintended, #slide 
 
 # Instant Slide-Flip
 ![[iflip_header.gif]]

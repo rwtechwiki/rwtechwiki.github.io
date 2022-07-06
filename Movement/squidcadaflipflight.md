@@ -1,6 +1,6 @@
 Status: #stub, #needsgif 
 Note Type: #move, #variant, [[flip]]
-Tags: #creature, #flight
+Tags: #unintended, #creature, #flight
 
 # Squidcada-Starve-Flight
 ![[squidcadastarveflight_header.gif]]

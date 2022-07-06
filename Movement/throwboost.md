@@ -1,6 +1,6 @@
 Status: #partdone
 Note Type: #move, #variant, [[throw]]
-Tags: #throw 
+Tags: #intended, #throw 
 
 # Throw-Boost
 ![[throwboost_header.gif]]

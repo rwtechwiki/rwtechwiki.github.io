@@ -1,6 +1,6 @@
 Status: #partdone 
 Note Type: #movetype
-Tags: #storage 
+Tags: #unintended, #storage 
 
 # Jump-Stored Boost
 ## Description

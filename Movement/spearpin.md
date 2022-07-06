@@ -1,6 +1,6 @@
 Status: #partdone 
 Note Type: #move, #alternate, down, up
-Tags: #creature, #throw, #wall 
+Tags: #intended, #creature, #throw, #wall 
 
 # Spear-Pin
 ![[spearpin_header.gif]]

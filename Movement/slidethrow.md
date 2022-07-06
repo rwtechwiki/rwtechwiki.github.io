@@ -1,6 +1,6 @@
 Status: #partdone
-Note Type: #move, #variant, [[throw]]
-Tags: #fundimentals, #slide, #throw 
+Note Type: #move, #variant, [[throw]], #alternate, [[slidepounce]], [[slideflip]], [[eslide]]
+Tags: #fundimentals, #intended, #slide, #throw 
 
 # Slide-Throw
 ![[slidethrow_header.gif]]
@@ -22,11 +22,11 @@ Due to the downward trajectory of the item initially, slugcat can slidethrow a s
 
 ___
 # Gifs
-## Pounce Variant
+## Pounce Alternate
 ![[slidethrow_pounce.gif]]
-## Flip Variant
+## Flip Alternate
 ![[slidethrow_flip.gif]]
-## Extended Variant
+## Extended Alternate
 ![[slidethrow_extended.gif]]
 ## Bulk
 ![[slidethrow_0.gif]]

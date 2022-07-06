@@ -1,6 +1,6 @@
 Status: #partdone, #needsgif
 Note Type: #move
-Tags: #fundimentals
+Tags: #fundimentals, #intended 
 
 # Walk
 ![[walk_header.gif]]

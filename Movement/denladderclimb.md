@@ -1,6 +1,6 @@
 Status: #stub, #needsgif 
 Note Type: #move, #variant, [[hop]]
-Tags: #wall 
+Tags: #unintended, #wall 
 
 # Den Ladder-Climb
 ![[denladderclimb_header.gif]]

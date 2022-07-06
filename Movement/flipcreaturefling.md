@@ -1,6 +1,6 @@
 Status: #stub, #needsgif 
 Note Type: #move, #variant, [[flip]]
-Tags: #creature
+Tags: #unintended, #creature
 
 # Flip Creature-Fling
 ![[flipcreaturefling_header.gif]]

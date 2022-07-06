@@ -1,6 +1,6 @@
 Status: #stub, #needsgif 
 Note Type: #move, #variant, [[wallhop]], [[airhop]], [[hop]]
-Tags: #wall 
+Tags: #unintended, #wall 
 
 # Momentum Wall-Hop
 ![[momentumwallhop_header.gif]]

@@ -1,6 +1,6 @@
-Status: #partdone, #needsgif 
+Status: #toreview, #needsgif 
 Note Type: #move
-Tags: 
+Tags: #unintended 
 
 # Ceiling-Slope Slide
 ![[ceilingslide_header.gif]]

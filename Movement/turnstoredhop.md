@@ -1,6 +1,6 @@
 Status: #stub
 Note Type: #movetype, #variant, [[hop]]
-Tags: #storage 
+Tags: #unintended, #storage 
 
 # Turn-Stored Hop
 ## Description
