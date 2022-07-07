@@ -1,6 +1,6 @@
 {
-  "findText": "bounce",
-  "replaceText": "hop",
+  "findText": "walk",
+  "replaceText": "run",
   "useRegEx": true,
   "selOnly": false,
   "caseInsensitive": false,

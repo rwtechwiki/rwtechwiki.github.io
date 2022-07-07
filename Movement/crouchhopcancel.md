@@ -1,4 +1,4 @@
-Status: #partdone
+Status: #toreview 
 Note Type: #move, #initiator, [[jumpstore]]
 Tags: #unintended, #storage 
 
@@ -8,7 +8,7 @@ Tags: #unintended, #storage
 It is possible to gain 6 jump-boost when grounded by inputting down to [[crouch]], and pressing and releasing jump before slugcat fully enters the crouch state.
 
 ## Notes
-This move exploits the 6 jump-boost slugcat gains at the start of a [[crouchhop]], which is given as long as jump is pressed and released, when slugcat is not standing up. Usually the jump-boost would be lost as a jump when fully crouching guarantees slugcat to become airborn.
+This move exploits the 6 jump-boost slugcat gains at the start of a [[crouchhop]], which is given as long as jump is pressed and released, when slugcat is not standing up. Usually the jump-boost would be lost, because a jump when fully crouching guarantees slugcat to become airborn.
 
 ## Performed from
 [[crouch]]

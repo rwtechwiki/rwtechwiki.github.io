@@ -1,4 +1,4 @@
-Status: #partdone
+Status: #toreview
 Note Type: #move, #initiator, [[turnstore]]
 Tags: #fundimentals, #intended 
 
@@ -12,7 +12,7 @@ There is a window mid-crouch to [[crouchhopcancel]] by pressing and releasing ju
 
 It is possible to buffer a [[crawlturn]] by inputting to start one during a crouch. This is one way to begin a [[crawlturnroll]].
 
-There is a window to [[crouchthrow]] by pressing through towards the end of the crouch.
+There is a window to [[crouchthrow]] by pressing throw towards the end of the crouch.
 
 ## Performed from
 

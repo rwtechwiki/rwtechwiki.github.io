@@ -5,7 +5,7 @@ Tags: #unintended, #roll
 # Jump-Tumble
 ![[jumptumble_header.gif]]
 ## Description
-By holding up while slugcat is [[walk|walking]], and switching to down around the time of a [[jump]] in order to [[airorient]], slugcat will rotate backwards midair. By holding foward and down for long enough before hitting the ground, it is possible to [[crawlturnroll]] from this really fucked up jump.
+By holding up while slugcat is [[run|running]], and switching to down around the time of a [[jump]] in order to [[airorient]], slugcat will rotate backwards midair. By holding foward and down for long enough before hitting the ground, it is possible to [[crawlturnroll]] from this really fucked up jump.
 
 ## Notes
 This move is made significantly easier if the jump lands 1 tile lower than it began.
@@ -13,7 +13,7 @@ This move is made significantly easier if the jump lands 1 tile lower than it be
 With an item throw, the window to perform this move gets bigger.
 
 ## Performed from
-[[walk]]
+[[run]]
 
 ## Allows for
 

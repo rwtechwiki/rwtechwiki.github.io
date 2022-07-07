@@ -11,7 +11,7 @@ It is possible to increase fall speed off a ledge by holding down as slugcat rea
 It is possible to extend the drop-fast-fall window by performing a [[turndrop]].
 
 ## Performed from
-[[walk]]
+[[run]]
 
 ## Allows for
 
