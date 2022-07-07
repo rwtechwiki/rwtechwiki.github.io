@@ -8,7 +8,7 @@ LANDING_BUTTON = "Get Started"
 # (Optional) Site description on landing page
 LANDING_DESCRIPTION = "This is a comprehensive collection and explanation of Rain World tech, including movement and eventually exploits, strategies and guides! (huge work in progress)"
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
-LANDING_PAGE = "collections/movedocrecs"
+LANDING_PAGE = "/movement/slide/"
 # (Optional) Site title on landing page
 LANDING_TITLE = "Welcome!"
 PYTHON_VERSION = "3.8"
