@@ -13,7 +13,7 @@ Slugcat jumps 1 frame after the input is received, unlike with all other inputs.
 It is possible to buffer this move by inputting jump within 5 frames of reaching a canJump state (i.e. feet on the ground in standing state). The jump will occur as soon as this is reached, allowing the player to conserve most horizontal momentum.
 
 ## Performed from
-[[walk]]
+[[run]]
 
 ## Allows for
 

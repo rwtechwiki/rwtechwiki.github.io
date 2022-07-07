@@ -11,7 +11,7 @@ By holding towards a wall when standing on a floor, it is possible to jump away 
 
 
 ## Performed from
-[[walk]]
+[[run]]
 
 ## Allows for
 

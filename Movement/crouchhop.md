@@ -1,4 +1,4 @@
-Status: #partdone 
+Status: #toreview 
 Note Type: #move, #variant, [[hop]]
 Tags: #intended 
 

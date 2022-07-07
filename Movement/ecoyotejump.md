@@ -11,7 +11,7 @@ It is possible to perform this move in place of a [[coyotejump]] by crouching ju
 The timing for entering the crouching state is similar to that of the [[ledgedropfastfall]]. In fact this move might just be a ledge-drop coyote jump.
 
 ## Performed from
-[[walk]]
+[[run]]
 
 ## Allows for
 

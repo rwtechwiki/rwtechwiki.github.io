@@ -5,7 +5,7 @@ Tags: #fundimentals, #intended
 # Stand
 ![[stand_header.gif]]
 ## Description
-By pressing up, slugcat switches from a crouching to a standing position, where it can [[walk]] around and begin moves like the [[slide]] or [[ledgepullup]].
+By pressing up, slugcat switches from a crouching to a standing position, where it can [[run]] around and begin moves like the [[slide]] or [[ledgepullup]].
 
 ## Notes
 
@@ -17,7 +17,7 @@ By pressing up, slugcat switches from a crouching to a standing position, where 
 
 
 ## Chains to
-[[walk]]
+[[run]]
 
 ___
 # Gifs

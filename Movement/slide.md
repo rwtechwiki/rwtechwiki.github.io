@@ -5,10 +5,10 @@ Tags: #fundimentals, #intended, #slide
 # Slide
 ![[slide_header.gif]]
 ## Description
-It is possible to slide while [[walk|walking]] by pressing down then jump at roughly the same time. The move can last for roughly 17 frames by holding forward throughout and has several windows throughout its duration to chain to other moves.
+It is possible to slide while [[run|running]] by pressing down then jump at roughly the same time. The move can last for roughly 17 frames by holding forward throughout and has several windows throughout its duration to chain to other moves.
 
 ## Notes
-The move can be started the frame walking begins, effectively sliding from standing.
+The move can be started the frame running begins, effectively sliding from standing.
 
 Slides are not stopped by ledges, slugcat will stay against the floor for the duration.
 
@@ -31,7 +31,7 @@ Similarly if the slide enters a ground level horizontal tunnel entrance, a well-
 It is also possible to begin a slide from the crouch state by inputting up, forward and jump for exactly 1 frame before switching to down, forward and jump. This allows for a slide with pre-existing, especially inverse-direction, [[turnstore]].
 
 ## Performed from
-[[walk]], [[rollslide]], [[ledgedropfastfall]]
+[[run]], [[rollslide]], [[ledgedropfastfall]]
 
 ## Allows for
 [[slidethrow]]
