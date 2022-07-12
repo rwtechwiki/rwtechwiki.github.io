@@ -24,4 +24,4 @@ To simplify it, everything inside the curly brackets is added up, then multiplie
 - *Helped Pebbles?*: if the player showed the green neuron to Five Pebbles, this is a value of of 1. Otherwise, it's 0.
 - *Ascended?*: if the player was able to enter the void sea and ascend, this is a value of 1. Otherwise, it's 0.
 
-In conclusion, killing creatures, eating, surviving cycles increases a player's score and obtaining Passages, while dying, quitting the game and taking too long decreases it. 
+In conclusion, killing creatures, eating, surviving cycles, obtaining Passages and completing story objectives increases a player's score, while dying, quitting the game and taking too long decreases it. 
