@@ -2,7 +2,7 @@ Status: #partdone
 Note Type: 
 Tags: #score
 # Hunter Mode
-After beating Rain World with either Survivor or Monk, your save file will now have the Hunter character available. While playing as Hunter, besides the [physics changes](hunterphysics), there are two main mechanical differences which will be relevant for this note:
+After beating Rain World with either Survivor or Monk, your save file will now have the Hunter character available. While playing as Hunter, besides the [stat changes](slugcatstats.md), there are two main mechanical differences which will be relevant for this note:
 
 - [Hunter has a 20 cycle limit](huntercycles). After 20 cycles have passed, death is now permanent and each survived cycle becomes exponentially more difficult to survive.
 - Everything done during the game is being tracked to [tally up a score](scorecalculation) at the end of the playthrough. The main way to to raise this score is by killing creatures and getting Passages.
