@@ -1,6 +1,6 @@
 Status: #partdone
 Note Type: 
-Tags: #score
+Tags: #score, #spoilers
 # Score Calculation 
 At the end of a [Score Run](huntermode), a player's score is calculated using the following formula:
 
@@ -13,7 +13,7 @@ Final Score = (1 + Passages) * {
 
 To simplify it, everything inside the curly brackets is added up, then multiplied by 1 plus the number of passages obtained in game. Each value from the formula is explained below.
 
-- [Passages](passages): the amount of Passages the player has achieved in the run.
+- [Passages](Lists/passages.md): the amount of Passages the player has achieved in the run.
 - Food: the amount of food the player has consumed during the run.
 - Survives: the amount of cycles the player has succesfully completed in the run.
 - Deaths: the amount of times the player has died during the run.

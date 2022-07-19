@@ -1,6 +1,6 @@
 Status: #partdone 
 Note Type: 
-Tags: #score
+Tags: #score, #spoilers 
 # Official Score Run Rules
 To submit a score to the official leaderboards, there are some rules that should be followed during gameplay.
 
@@ -21,11 +21,12 @@ An additional concept worth mentioning is that the starvation mechanic in the ga
 ## Rules
 ### General Guidelines
 - A Score Run is a test of skill for traditional Rain World gameplay.
-- Runs with a score above 40k should be recorded.
+- All runs should be submitted with a full screenshot of the 'statistics' screen.
+- Runs with a score above 50k should be recorded.
 - Starving is not allowed unless a rule states otherwise.
 
 ### Specific Rules
-- No modifications to the game are permitted. Current PC version is 1.7. Consoles’ version is 1.8.
+- No modifications to the game are permitted. Current PC version is 1.5. Consoles’ version is 1.8.
 - No reading the save file to reveal hidden information. Using the [Hunter Tracker](https://jaclynonacloud.github.io/rainworld-tracker/) is allowed.
 - No quitting, especially before the end of the 30 second grace period. Deaths should be taken instead of quits in these cases. This avoids karma caching, and waiting for good cycle lengths.
 - No infinite points strategies (Five Pebbles exploit).
@@ -37,3 +38,6 @@ An additional concept worth mentioning is that the starvation mechanic in the ga
 - Any passage progress that occurs on a starve cycle, which results in death, must be repeated on a valid cycle (e.g. yellow lizard kill for Dragon Slayer, Wanderer pips). 
 - No auxiliary passage progress (Wanderer regions, Dragon Slayer Yellow, etc) is allowed before cycle 13. I.E. no advantage from dying on starve to gain the Survivor passage early. Some passages such as Outlaw or Hunter are allowed.
 - No intentional deaths on starve cycles.
+
+## Current leaderboards
+The current leaderboards are available [here](https://docs.google.com/document/d/1-4e_coQFiKok5UAmI9e_AXSGvITqZ9HTeH6n380SZXY/). This document also contains relevant run history and the single-cycle leaderboards.
