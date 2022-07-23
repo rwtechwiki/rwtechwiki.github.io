@@ -1,5 +1,5 @@
 Status: #partdone, #needsgif
-Note Type: #move
+Note Type: #move, #alternate, kick
 Tags: #intended, #tunnel 
 
 # Tunnel-Boost
@@ -21,6 +21,8 @@ Due to the end-lag, this is not worth it unless you perform the move with slugca
 
 ___
 # Gifs
+## Kick Alternate 
+![[tunnelboost_kick0.gif]]
 ## Bulk
 ![[tunnelboost_0.gif]]
 ![[tunnelboost_1.gif]]
