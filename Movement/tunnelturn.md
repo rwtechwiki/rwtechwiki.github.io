@@ -1,4 +1,4 @@
-Status: #partdone, #needsgif 
+Status: #partdone
 Note Type: #move
 Tags: #intended, #tunnel 
 
@@ -11,7 +11,6 @@ When crawling in tunnels, pressing jump while holding the input direction toward
 If done in the downward direction in a vertical tunnel, slugcat will instead enter [[tunnelfreefall]].
 
 If done towards slugcats head, slugcat will instead perform a [[tunnelboost]].
-
 This is useful as slugcat travels faster when moving forwards through tunnels than backwards.
 
 ## Performed from
