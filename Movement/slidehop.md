@@ -8,7 +8,7 @@ Tags: #intended, #slide
 It is possible to [[hop]] out of a [[slide]] by pressing up and jump simultaneously, before the window to [[slidepounce]].
 
 ## Notes
-This move is shorter and slower than a slide-pounce, and unlike the [[eslide]], the versitility of exiting the slide before the pounce window is not as important.
+This move is shorter and slower than a slide-pounce, and unlike the [[extendedslide]], the versitility of exiting the slide before the pounce window is not as important.
 
 ## Performed from
 [[slide]]

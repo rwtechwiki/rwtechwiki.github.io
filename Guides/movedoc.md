@@ -36,14 +36,14 @@ It is still possible to jump a few frames after running off an edge. This can be
 This can also be done off of poles.
 ![[polecoyotejump_header.gif]]
 
-[[ecoyotejump]]
+[[extendedcoyotejump]]
 Extending coyote jumps off ledges is possible by crouching while running off, then tapping up and jump simultaneously.
 ![[ecoyotejump_header.gif]]
-[[gwallhop]]
+[[groundedwallhop]]
 Hugging a wall then simultaneously tapping outwards + double tapping jump allows Slugcat to jump twice. Jump needs to be double tapped quickly as the window is quite short.
 ![[gwallhop_header.gif]]
 
-[[awallhop]]
+[[aerialwallhop]]
 While sliding down a wall, holding out then pressing jump allows Slugcat to hop midair for a short window of time. This only works when holding away from the wall.
 ![[awallhop_header.gif]]
 Note: This is likely a leniency/coyote mechanic for pressing outwards before pressing jump while wall jumping.
@@ -130,7 +130,7 @@ This can be avoided by pressing jump on landing, to enter a temporary upright st
 This also conserves momentum, which is extremely useful for exiting all pounces and roll chains.
 ![[crouchhop_header.gif]]
 
-[[ipounce]]
+[[instantslidepounce]]
 Normally only useful/applicable with tool assisted inputs (macros or keybinds), Slugcat can pounce in the first frame of a slide.
 This is practically achievable in game by slowing down time, e.g. with mushrooms. It can also be done without slowdown, which is less practical due to the difficulty in pressing a key twice in 3 frames.
 Instant slide pounce height can be increased with prior horizontal momentum from either turning or jumping.
@@ -145,38 +145,38 @@ To slide flip correctly, forward must be released, and backwards held, before ju
 The jump window is the same as for slide pouncing.
 Pressing jump and back too early results in a regular failed slide pounce due to the shorter slide. Forward must be held long enough for a regular slide, to slide flip.
 
-[[iflip]]
+[[instantslideflip]]
 Normally only useful/applicable with tool assisted inputs (macros or keybinds), Slugcat can perform a slide flip on the first frame of a slide.
 This is practically achievable in game by slowing down time, e.g. with mushrooms. The inputs are more demanding than instant pouncing, which makes this less practical overall but still achievable.
 ![[iflip_header.gif]]
 
 ### Extended Sliding
-[[eslide]]
+[[extendedslide]]
 This can be done by throwing an item backwards mid slide, and greatly increases distance travelled. As with regular slides, holding forward is needed to get a full length slide.
 ![[eslide_header.gif]]
 
-[[ehop]]
+[[extendedslidehop]]
 By holding forwards and repeatedly hopping after an extended slide, momentum can be conserved for a long distance, similarly to [[turnhop|turn hopping]] (Explained later in guide). This is unique to extended slides, as they eject the Slugcat into a standing position unlike regular slides.
 ![[ehop_header.gif]]
 
-[[epounce]]
+[[extendedslidepounce]]
 It is possible to pounce out of an extended slide. This requires holding forward significantly longer than normal, as the extended slide needs to also be extended to full length.
 ![[epounce_header.gif]]
 
-[[eflip]]
+[[extendedslideflip]]
 It is also possible to slide flip out of extended slides. Like extended slide pouncing, this requires holding forward significantly longer, as the extended slide needs to also be extended to full length.
 ![[eflip_header.gif]]
 
-[[ehop|eihop]]
+[[extendedslidehop|eihop]]
 An extremely useful tool for quickly travelling horizontal distance and crossing wide gaps, this move is performed by starting an extended slide, pressing jump 1 frame later and then holding forwards. For optimal speed, forwards must be pressed and held within a few frames of the jump input. This move can be performed during any frame in which slide extension is possible.
 ![[ehop_instant0.gif]]
 
-[[eipounce]]
+[[extendedinstantslidepounce]]
 A similarly performed variant of the extended instant pounce, this move is performed by starting an extended slide and pressing jump on the same frame, then pressing forward exactly one frame later. The forward input must be within one frame of the jump input, otherwise a slide-flip will be performed instead. This move can only be performed when started on one of the last 2 possible frames of a slide in which slide extension is possible.
 ![[eipounce_header.gif]]
 This move can be rolled out of like any other pounce and travels further than regular slide pouncing.
 
-[[eichop]]
+[[extendedinstantcrouchslidehop]]
 The fastest known horizontal move to date, performed by starting an extended slide, pressing jump and holding forwards 1 frame later and then pressing down 1 frame after that. For optimal distance, forwards must be pressed and held on the same frame as the jump input. This move can be performed during any frame in which slide extension is possible.
 ![[eichop_header.gif]]
 
@@ -275,14 +275,14 @@ Unlike other pole climbing methods, this is applicable on all poles and vastly i
 Note: This can be done in a slower sequence or as a single instance for practice! The “end” of this move is the pole re grab (the boost end lag cancel).
 
 ### Pole-Momentum
-[[flippmjump]]
+[[flippolemomentumjump]]
 Backflipping onto poles gives an upward boost, which can be paired with a pole boost (jump + up while on pole) to gain height quickly from the ground.
 This is done first by holding back, and then tapping jump and holding up to initiate a backflip. Once Slugcat has grabbed the pole, tapping jump again while still holding up adds the momentum of a pole boost to the existing momentum of the backflip, causing Slugcat to slide off the top of the pole.  
 Jump can then be tapped again to perform a regular jump midair.  
 For practical application, jump is quickly tapped three times in succession while holding up. The initial turn (to initiate a backflip) must be done before jump and up are simultaneously pressed.
 ![[flippmjump_header.gif]]
 
-[[slidepmjump]]
+[[slidepolemomentumjump]]
 Sufficient pole momentum for a midair jump can also be gained via a slide, most effectively on 2 tile high poles. This can be performed by holding up mid slide to transition to the pole, tapping jump once to boost upwards and then tapping jump midair.
 ![[slidepmjump_header.gif]]
 

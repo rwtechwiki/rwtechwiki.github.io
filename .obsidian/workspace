@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Movement/tunnelboost.md",
+            "file": "Movement/aerialwallhop.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Movement/tunnelboost.md",
+                "file": "Movement/aerialwallhop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Movement/tunnelboost.md",
+                "file": "Movement/aerialwallhop.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -113,15 +113,15 @@
   },
   "active": "8b91f66ba02e846e",
   "lastOpenFiles": [
-    "Movement/tunnelcornerboost.md",
-    "Lists/heavyitem.md",
-    "Lists/movedocrecs.md",
-    "Guides/movedoc.md",
-    "Lists/lightitem.md",
-    "Movement/throwtumble.md",
-    "Movement/throwboost.md",
-    "Movement/throw.md",
-    "Movement/slidethrow.md",
-    "Movement/poleregrablagcancel.md"
+    "Movement/crawlturnroll.md",
+    "Movement/crawlturnjump.md",
+    "Movement/crawlturnfly.md",
+    "Movement/crawlturnfastfall.md",
+    "Movement/crawlturncanceltumble.md",
+    "Movement/crawlturncancel.md",
+    "Movement/crawlturn.md",
+    "Movement/coyotejump.md",
+    "Movement/chargehop.md",
+    "Movement/ceilingslopeslide.md"
   ]
 }

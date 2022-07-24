@@ -1,6 +1,6 @@
 {
-  "findText": "walk",
-  "replaceText": "run",
+  "findText": "awallhop",
+  "replaceText": "aerialwallhop",
   "useRegEx": true,
   "selOnly": false,
   "caseInsensitive": false,

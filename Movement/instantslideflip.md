@@ -3,7 +3,7 @@ Note Type: #move, #variant, [[flip]], [[jumpstoredboost]]
 Tags: #unintended, #slide 
 
 # Instant Slide-Flip
-![[iflip_header.gif]]
+![[instantslideflip_header.gif]]
 ## Description
 This [[flip]] variant is produced by pressing backwards and jump on frame 2 of a [[slide]].
 
@@ -22,13 +22,13 @@ Due to the slide not fully starting, jumpstorage does not interfere with this mo
 ___
 # Gifs
 ## Bulk
-![[iflip_0.gif]]
-![[iflip_1.gif]]
-![[iflip_2.gif]]
-![[iflip_3.gif]]
-![[iflip_4.gif]]
-![[iflip_5.gif]]
-![[iflip_6.gif]]
-![[iflip_7.gif]]
-![[iflip_8.gif]]
-![[iflip_9.gif]]
+![[instantslideflip_0.gif]]
+![[instantslideflip_1.gif]]
+![[instantslideflip_2.gif]]
+![[instantslideflip_3.gif]]
+![[instantslideflip_4.gif]]
+![[instantslideflip_5.gif]]
+![[instantslideflip_6.gif]]
+![[instantslideflip_7.gif]]
+![[instantslideflip_8.gif]]
+![[instantslideflip_9.gif]]

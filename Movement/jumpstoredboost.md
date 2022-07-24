@@ -10,7 +10,7 @@ Some moves send slugcat airborn with velocity without setting jump-boost to a va
 
 
 ## Variants
-[[tunnelexitboost]], [[ipounce]], [[iflip]], [[quickcrawlturnjump]]
+[[tunnelexitboost]], [[instantslidepounce]], [[instantslideflip]], [[quickcrawlturnjump]]
 
 ___
 # Gifs
