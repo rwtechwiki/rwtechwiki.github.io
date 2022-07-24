@@ -1,9 +1,9 @@
 Status: #partdone 
-Note Type: #move, #variant, [[hop]], #alternate, [[jumpstoredboost]]
+Note Type: #move, #alternate, [[jumpstoredboost]]
 Tags: #unintended, #crawlturn 
 
-# Quick Crawl-Turn Jump
-![[quickcrawlturnjump_header.gif]]
+# Crawl-Turn Vault
+![[crawlturnvault_header.gif]]
 ## Description
 After performing a first-frame [[crawlturncancel]], there is a window exactly 5 frames later to input forward and jump, and down within a frame, to jump 6 tiles into the air.
 
@@ -24,13 +24,13 @@ Slugcat ends this move in the crouch state, so an additional up input to [[airor
 ___
 # Gifs
 ## Bulk
-![[quickcrawlturnjump_0.gif]]
-![[quickcrawlturnjump_1.gif]]
-![[quickcrawlturnjump_2.gif]]
-![[quickcrawlturnjump_3.gif]]
-![[quickcrawlturnjump_4.gif]]
-![[quickcrawlturnjump_5.gif]]
-![[quickcrawlturnjump_6.gif]]
-![[quickcrawlturnjump_7.gif]]
-![[quickcrawlturnjump_8.gif]]
-![[quickcrawlturnjump_9.gif]]
+![[crawlturnvault_0.gif]]
+![[crawlturnvault_1.gif]]
+![[crawlturnvault_2.gif]]
+![[crawlturnvault_3.gif]]
+![[crawlturnvault_4.gif]]
+![[crawlturnvault_5.gif]]
+![[crawlturnvault_6.gif]]
+![[crawlturnvault_7.gif]]
+![[crawlturnvault_8.gif]]
+![[crawlturnvault_9.gif]]

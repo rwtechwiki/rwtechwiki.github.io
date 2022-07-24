@@ -12,7 +12,7 @@ It is not possible to press up or down to set slugcats orientation midair in the
 It is always possible to [[roll]] out of the pounce state, with the exception of the [[rollpounce]].
 
 ## Variants
-[[rollpounce]], [[slidepounce]], [[instantslidepounce]], [[extendedslidepounce]], [[extendedinstantslidepounce]]
+[[rollpounce]], [[slidepounce]], [[slideinstantpounce]], [[extendedslidepounce]], [[extendedslideinstantpounce]]
 
 ___
 # Gifs

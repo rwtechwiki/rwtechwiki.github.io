@@ -1,5 +1,5 @@
 Status: #partdone
-Note Type: #move, #variant, [[hop]], #alternate, [[turnstoredflip]]
+Note Type: #move, #variant, [[jumptype]], #alternate, [[turnstoredflip]]
 Tags: #fundimentals, #intended 
 
 # Jump

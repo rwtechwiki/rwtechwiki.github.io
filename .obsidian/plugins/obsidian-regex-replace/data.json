@@ -1,6 +1,6 @@
 {
-  "findText": "awallhop",
-  "replaceText": "aerialwallhop",
+  "findText": "extendedslideairhop",
+  "replaceText": "extendedslideairjump",
   "useRegEx": true,
   "selOnly": false,
   "caseInsensitive": false,

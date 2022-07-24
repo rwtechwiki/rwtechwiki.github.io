@@ -2,7 +2,7 @@ Status: #stub, #needsgif
 Note Type: #move
 Tags: #intended, #creature 
 
-# Flip-Creature-Bounce
+# Flip Creature-Bounce
 ![[flipcreaturebounce_header.gif]]
 ## Description
 

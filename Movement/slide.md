@@ -12,7 +12,7 @@ The move can be started the frame running begins, effectively sliding from stand
 
 Slides are not stopped by ledges, slugcat will stay against the floor for the duration.
 
-There is a window to [[instantslidepounce]] or [[instantslideflip]] by pressing jump on frame 2.
+There is a window to [[slideinstantpounce]] or [[slideinstantflip]] by pressing jump on frame 2.
 
 There is a window to [[slidepounce]] or [[slideflip]] by pressing jump during frames 14 through 16.
 
@@ -37,7 +37,7 @@ It is also possible to begin a slide from the crouch state by inputting up, forw
 [[slidethrow]]
 
 ## Chains to
- [[extendedslide]], [[instantslideflip]], [[instantslidepounce]], [[slidepounce]], [[slideflip]], [[slideparkour]]
+ [[extendedslide]], [[slideinstantflip]], [[slideinstantpounce]], [[slidepounce]], [[slideflip]], [[slideparkour]]
 
 ___
 # Gifs

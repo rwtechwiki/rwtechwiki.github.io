@@ -7,12 +7,8 @@
         "id": "ebf465da41d25130",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Movement/aerialwallhop.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#kick",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Movement/aerialwallhop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Movement/aerialwallhop.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -111,17 +105,17 @@
     "width": 235,
     "collapsed": true
   },
-  "active": "8b91f66ba02e846e",
+  "active": "ebf465da41d25130",
   "lastOpenFiles": [
-    "Movement/crawlturnroll.md",
-    "Movement/crawlturnjump.md",
-    "Movement/crawlturnfly.md",
-    "Movement/crawlturnfastfall.md",
-    "Movement/crawlturncanceltumble.md",
-    "Movement/crawlturncancel.md",
-    "Movement/crawlturn.md",
-    "Movement/coyotejump.md",
-    "Movement/chargehop.md",
-    "Movement/ceilingslopeslide.md"
+    "Movement/turnstoredjump.md",
+    "Movement/turnstoredflip.md",
+    "Movement/aerialwalljump.md",
+    "Movement/walljumptype.md",
+    "Movement/turnjump.md",
+    "Movement/throwtumble.md",
+    "Movement/throwdoublewalljump.md",
+    "Movement/throwboost.md",
+    "Movement/slidepolemomentumjump.md",
+    "Movement/slidejump.md"
   ]
 }

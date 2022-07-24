@@ -39,11 +39,11 @@ This can also be done off of poles.
 [[extendedcoyotejump]]
 Extending coyote jumps off ledges is possible by crouching while running off, then tapping up and jump simultaneously.
 ![[ecoyotejump_header.gif]]
-[[groundedwallhop]]
+[[groundeddoublewalljump]]
 Hugging a wall then simultaneously tapping outwards + double tapping jump allows Slugcat to jump twice. Jump needs to be double tapped quickly as the window is quite short.
 ![[gwallhop_header.gif]]
 
-[[aerialwallhop]]
+[[aerialwalljump]]
 While sliding down a wall, holding out then pressing jump allows Slugcat to hop midair for a short window of time. This only works when holding away from the wall.
 ![[awallhop_header.gif]]
 Note: This is likely a leniency/coyote mechanic for pressing outwards before pressing jump while wall jumping.
@@ -74,7 +74,7 @@ Note: Throw boosting can be used at the start of any aerial move to increase spe
 Backflips are performed by jumping immediately after turning around.
 ![[turnflip_header.gif]]
 
-[[turnhop]]
+[[turnjump]]
 Turn hopping involves repeatedly jumping after turning to conserve turn momentum and cover ground quickly. Momentum conserved this way only depletes when in contact with the ground, so will last longer with more precise and better timed jumps.
 ![[turnhop_header.gif]]
 
@@ -124,13 +124,13 @@ Jumping mid slide results in a long pounce.
 Pressing the second jump too early or late results in a smaller crouch-hop.
 ![[slidepounce_header.gif]]
 
-[[crouchhop]]
+[[hop]]
 It is not possible to change to an upright state mid pounce, and so unless able to roll, Slugcat will always land in a crouched state, which slows the player down.  
 This can be avoided by pressing jump on landing, to enter a temporary upright state, and then pressing up to switch to standing.  
 This also conserves momentum, which is extremely useful for exiting all pounces and roll chains.
 ![[crouchhop_header.gif]]
 
-[[instantslidepounce]]
+[[slideinstantpounce]]
 Normally only useful/applicable with tool assisted inputs (macros or keybinds), Slugcat can pounce in the first frame of a slide.
 This is practically achievable in game by slowing down time, e.g. with mushrooms. It can also be done without slowdown, which is less practical due to the difficulty in pressing a key twice in 3 frames.
 Instant slide pounce height can be increased with prior horizontal momentum from either turning or jumping.
@@ -145,7 +145,7 @@ To slide flip correctly, forward must be released, and backwards held, before ju
 The jump window is the same as for slide pouncing.
 Pressing jump and back too early results in a regular failed slide pounce due to the shorter slide. Forward must be held long enough for a regular slide, to slide flip.
 
-[[instantslideflip]]
+[[slideinstantflip]]
 Normally only useful/applicable with tool assisted inputs (macros or keybinds), Slugcat can perform a slide flip on the first frame of a slide.
 This is practically achievable in game by slowing down time, e.g. with mushrooms. The inputs are more demanding than instant pouncing, which makes this less practical overall but still achievable.
 ![[iflip_header.gif]]
@@ -155,8 +155,8 @@ This is practically achievable in game by slowing down time, e.g. with mushrooms
 This can be done by throwing an item backwards mid slide, and greatly increases distance travelled. As with regular slides, holding forward is needed to get a full length slide.
 ![[eslide_header.gif]]
 
-[[extendedslidehop]]
-By holding forwards and repeatedly hopping after an extended slide, momentum can be conserved for a long distance, similarly to [[turnhop|turn hopping]] (Explained later in guide). This is unique to extended slides, as they eject the Slugcat into a standing position unlike regular slides.
+[[extendedslidejump]]
+By holding forwards and repeatedly hopping after an extended slide, momentum can be conserved for a long distance, similarly to [[turnjump|turn hopping]] (Explained later in guide). This is unique to extended slides, as they eject the Slugcat into a standing position unlike regular slides.
 ![[ehop_header.gif]]
 
 [[extendedslidepounce]]
@@ -167,20 +167,20 @@ It is possible to pounce out of an extended slide. This requires holding forward
 It is also possible to slide flip out of extended slides. Like extended slide pouncing, this requires holding forward significantly longer, as the extended slide needs to also be extended to full length.
 ![[eflip_header.gif]]
 
-[[extendedslidehop|eihop]]
+[[extendedslidejump|eihop]]
 An extremely useful tool for quickly travelling horizontal distance and crossing wide gaps, this move is performed by starting an extended slide, pressing jump 1 frame later and then holding forwards. For optimal speed, forwards must be pressed and held within a few frames of the jump input. This move can be performed during any frame in which slide extension is possible.
 ![[ehop_instant0.gif]]
 
-[[extendedinstantslidepounce]]
+[[extendedslideinstantpounce]]
 A similarly performed variant of the extended instant pounce, this move is performed by starting an extended slide and pressing jump on the same frame, then pressing forward exactly one frame later. The forward input must be within one frame of the jump input, otherwise a slide-flip will be performed instead. This move can only be performed when started on one of the last 2 possible frames of a slide in which slide extension is possible.
 ![[eipounce_header.gif]]
 This move can be rolled out of like any other pounce and travels further than regular slide pouncing.
 
-[[extendedinstantcrouchslidehop]]
+[[extendedslideinstanthop]]
 The fastest known horizontal move to date, performed by starting an extended slide, pressing jump and holding forwards 1 frame later and then pressing down 1 frame after that. For optimal distance, forwards must be pressed and held on the same frame as the jump input. This move can be performed during any frame in which slide extension is possible.
 ![[eichop_header.gif]]
 
-[[denjump]]
+[[denhop]]
 Holding down and pressing jump over a den mid slide launches Slugcat upwards.  
 In the example below, the wall directly next to the den makes entering it via slide reliable. This move is a lot less reliable when attempting to enter dens without a wall next to them. Smaller boosts out of dens can also be applicable for gaining height in combat, on a case to case basis.
 ![[denboost_header.gif]]
@@ -291,7 +291,7 @@ Sufficient pole momentum for a midair jump can also be gained via a slide, most 
 Pressing jump + forward mid pullup propels Slugcat forward, which is useful for long stretches of pole.
 ![[polepullupjump_header.gif]]
 
-[[polehop]]
+[[poleskip]]
 Pole hopping is done by jumping, holding forward, and tapping jump while hitting the pole.  
 To pole hop from pounce, release and enter the upright position in mid air by immediately pressing up, then let go of up and jump in time to hop. This is significantly faster than jump pole hopping.
 ![[polehop_header.gif]]
@@ -312,7 +312,7 @@ A successful turn can be identified by a sound cue, the small “droplets” see
 Backflips are possible as a result of dash turns, and can be done without droplets showing.
 ![[turnflip_header.gif]]
 
-[[turnhop]]
+[[turnjump]]
 Turn hopping involves repeatedly jumping after turning, to conserve dash turn speed. Momentum conserved this way only depletes when in contact with the ground, so will last longer with more precise and better timed jumps.
 ![[turnhop_header.gif]]
 
@@ -352,7 +352,7 @@ The same inputs apply for backflipping from a slide as they do for crouching.
 Failed slides can be backflipped out of as well, which insures against failure.
 It is possible to backflip out of a turn stored roll by holding in the original turn direction and pressing up + jump simultaneously.
 
-[[turnstoredhop]]
+[[turnstoredjump]]
 The speed burst from releasing turn storage by standing from crouch can be prolonged by jumping, as with a normal turn.
 
 ### Crawl-Turns
@@ -366,7 +366,7 @@ The speed burst from releasing turn storage by standing from crouch can be prolo
 ![[crawlturnjump_header.gif]]
 [[crawlturnfastfall]]
 ![[crawlturnfastfall_header.gif]]
-[[quickcrawlturnjump]]
+[[crawlturnvault]]
 ![[quickcrawlturnjump_header.gif]]
 
 ## Jump-Boost
@@ -379,7 +379,7 @@ The speed burst from releasing turn storage by standing from crouch can be prolo
 ![[waterboost_header.gif]]
 [[wiggleswimming]]
 ![[wiggleswimming_header.gif]]
-[[waterhop]]
+[[waterskip]]
 ![[waterhop_header.gif]]
 
 ## Combat
