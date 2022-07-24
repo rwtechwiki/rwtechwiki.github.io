@@ -10,7 +10,7 @@ By holding to the side as slugcats feet approach the top tile of a pole, it is p
 
 
 ## Variants
-[[flippmjump]], [[poleboostpmjump]], [[jumppmjump]], [[slidepmjump]]
+[[flippolemomentumjump]], [[poleboostpolemomentumjump]], [[jumppolemomentumjump]], [[slidepolemomentumjump]]
 
 ___
 # Gifs

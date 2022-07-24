@@ -10,7 +10,7 @@ When slugcat becomes airborn without use of the jump button, there is a 5-frame 
 The variables in code which account for this are canJump and canWallJump. They are set to 5 and 15 respectively when in contact with the floor or wall respectively, and decrement by 1 every frame. While they are non-zero, slugcat is able to jump as normal. They are set to 0 upon jumping.
 
 ## Variants
-[[awallhop]], [[coyotejump]], [[crawlturnjump]], [[eairhop]], [[eawallhop]], [[ecoyotejump]], [[flippmjump]], [[gwallhop]], [[jumppmjump]], [[momentumwallhop]], [[poleboostpmjump]], [[polecoyotejump]], [[polemomentumjump]], [[slidepmjump]]
+[[aerialwallhop]], [[coyotejump]], [[crawlturnjump]], [[extendedslideairhop]], [[extendedaerialwallhop]], [[extendedcoyotejump]], [[flippolemomentumjump]], [[groundedwallhop]], [[jumppolemomentumjump]], [[momentumwallhop]], [[poleboostpolemomentumjump]], [[polecoyotejump]], [[polemomentumjump]], [[slidepolemomentumjump]]
 
 ___
 # Gifs

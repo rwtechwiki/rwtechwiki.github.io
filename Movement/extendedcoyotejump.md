@@ -3,7 +3,7 @@ Note Type: #move, #variant, [[airhop]], [[hop]]
 Tags: #intended, #ledge 
 
 # Extended Coyote Jump
-![[ecoyotejump_header.gif]]
+![[extendedcoyotejump_header.gif]]
 ## Description
 It is possible to perform this move in place of a [[coyotejump]] by crouching just before you leave a ledge, then returning to standing state as you jump, within 5 frames of leaving the ground.
 
@@ -22,13 +22,13 @@ The timing for entering the crouching state is similar to that of the [[ledgedro
 ___
 # Gifs
 ## Bulk
-![[ecoyotejump_0.gif]]
-![[ecoyotejump_1.gif]]
-![[ecoyotejump_2.gif]]
-![[ecoyotejump_3.gif]]
-![[ecoyotejump_4.gif]]
-![[ecoyotejump_5.gif]]
-![[ecoyotejump_6.gif]]
-![[ecoyotejump_7.gif]]
-![[ecoyotejump_8.gif]]
-![[ecoyotejump_9.gif]]
+![[extendedcoyotejump_0.gif]]
+![[extendedcoyotejump_1.gif]]
+![[extendedcoyotejump_2.gif]]
+![[extendedcoyotejump_3.gif]]
+![[extendedcoyotejump_4.gif]]
+![[extendedcoyotejump_5.gif]]
+![[extendedcoyotejump_6.gif]]
+![[extendedcoyotejump_7.gif]]
+![[extendedcoyotejump_8.gif]]
+![[extendedcoyotejump_9.gif]]

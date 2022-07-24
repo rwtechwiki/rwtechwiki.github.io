@@ -10,7 +10,7 @@ It is possible to wall-hop by pressing jump within 15 frames of leaving a [[wall
 
 
 ## Variants
-[[awallhop]], [[eawallhop]], [[gwallhop]]
+[[aerialwallhop]], [[extendedaerialwallhop]], [[groundedwallhop]]
 
 ___
 # Gifs
