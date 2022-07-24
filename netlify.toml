@@ -1,14 +1,14 @@
 [build]
-command = "rm -rf __obsidian __site && mkdir __obsidian && mv * __obsidian || true && git clone -b dev https://github.com/ppeetteerrs/obsidian-zola.git __site && __site/run.sh"
+command = "rm -rf __obsidian __site && mkdir __obsidian && mv * __obsidian || true && git clone -b dev https://github.com/rwtechwiki/obsidian-zola.git __site && __site/run.sh"
 publish = "public"
 
 [build.environment]
 # (Optional) Text in landing page button
 LANDING_BUTTON = "Get Started"
 # (Optional) Site description on landing page
-LANDING_DESCRIPTION = "This is a comprehensive collection and explanation of Rain World tech, including movement and eventually exploits and other tech! (huge work in progress)"
+LANDING_DESCRIPTION = "This is a comprehensive collection and explanation of Rain World tech, including movement and eventually exploits, strategies and guides! (huge work in progress)"
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
-LANDING_PAGE = "collections/movedocrecs"
+LANDING_PAGE = "/movement/slide/"
 # (Optional) Site title on landing page
 LANDING_TITLE = "Welcome!"
 PYTHON_VERSION = "3.8"
@@ -44,42 +44,7 @@ STRICT_LINE_BREAKS = ""
 # (Optional, default "") Only display local connections to page in footer graph.
 LOCAL_GRAPH = "y"
 # (Optional) visjs graph options. Can remove if desired.
-GRAPH_OPTIONS = """
-        {
-            nodes: {
-                shape: "dot",
-                color: isDark() ? "#003d7a" : "#dee2e6",
-                font: {
-                    face: "Inter",
-                    color: isDark() ? "#c9cdd1" : "#616469",
-                    strokeColor: isDark() ? "#c9cdd1" : "#616469",
-                },
-                scaling: {
-                    label: {
-                        enabled: true,
-                    },
-                },
-            },
-            edges: {
-                color: { inherit: "both" },
-                width: 0.8,
-                "smooth": false,
-                hoverWidth: 4
-            },
-            "physics": {
-                "repulsion": {
-                    "springLength": 0,
-                    "springConstant": 0.005,
-                    "nodeDistance": 500
-                },
-                "minVelocity": 0.75,
-                "solver": "repulsion"
-            },
-            interaction: { hover: true },
-            height: "100%",
-            width: "100%"
-        }
-        """
+
 
 [[plugins]]
 package = "netlify-plugin-submit-sitemap"

@@ -1,5 +1,5 @@
 # On every push this script is executed
-on: push
+on: [push, workflow_dispatch]
 name: Build and push obisidan-zola to pasges branch 
 jobs:
   build:
@@ -9,9 +9,12 @@ jobs:
       - name: checkout
         uses: actions/checkout@v2
       - name: build_and_deploy
-        uses: trwbox/obsidian-zola-build-action@v0.1.1-alpha
+        # In the spot where it says v0.1.3.1-alpha, update that to the latest release tag on a new release
+        uses: trwbox/obsidian-zola-build-action@v0.1.3.1-alpha
         env:
           # Target branch
           PAGES_BRANCH: gh-pages
           # Provide personal access token
           TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Using zola fork for html changes
+          ZOLA_REPO: '''https://github.com/rwtechwiki/obsidian-zola'''
