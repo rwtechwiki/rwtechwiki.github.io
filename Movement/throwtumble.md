@@ -5,13 +5,13 @@ Tags: #unintended, #throw, #roll
 # Throw-Tumble
 ![[throwtumble_header.gif]]
 ## Description
-It is possible to rotate slugcat forward from the crouch position midair by [[throw|throwing]] a single [[heavyitem]]. This can allow for a [[crawlturnroll]] from [[hop]] moves at a certain height, using an [[airorient]] where required.
+It is possible to rotate slugcat forward from the crouch position midair by [[throw|throwing]] a single [[heavyitem]]. This can allow for a [[crawlturnroll]] from [[hoptype]] moves at a certain height, using an [[airorient]] where required.
 
 ## Notes
 
 
 ## Performed from
-[[hop]]
+[[jumptype]]
 
 ## Allows for
 

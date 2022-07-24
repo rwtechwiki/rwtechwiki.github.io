@@ -1,11 +1,11 @@
 Status: #partdone 
-Note Type: #move, #variant, [[polemomentumjump]], [[airhop]], [[hop]]
+Note Type: #move, #variant, [[polemomentumjump]], [[airjump]], [[jumptype]]
 Tags: #unintended, #pole 
 
 # Flip Pole-Momentum Jump
 ![[flippolemomentumjump_header.gif]]
 ## Description
-It is possible to perform a [[polemomentumjump]] by grabbing a pole while upside down from a [[flip]], and reaching the tip (usually with a [[poleboost]]) while still upside down. Slugcat will float above the tip of the pole, with its body reorienting back upright, allowing for an [[airhop]] with 1-2 tiles of extra height.
+It is possible to perform a [[polemomentumjump]] by grabbing a pole while upside down from a [[flip]], and reaching the tip (usually with a [[poleboost]]) while still upside down. Slugcat will float above the tip of the pole, with its body reorienting back upright, allowing for an [[airjump]] with 1-2 tiles of extra height.
 
 ## Notes
 Because slugcats feet are above the tip of the pole, left/right do not need to be held to avoid snapping to the tip of the pole.

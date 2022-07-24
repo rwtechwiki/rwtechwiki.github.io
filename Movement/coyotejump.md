@@ -1,5 +1,5 @@
 Status: #toreview 
-Note Type: #move, #variant, [[airhop]], [[hop]], #alternate, [[turnstoredflip]], pole
+Note Type: #move, #variant, [[airjump]], [[jumptype]], #alternate, [[turnstoredflip]], pole
 Tags: #fundimentals, #intended, #ledge, #pole
 
 # Coyote Jump

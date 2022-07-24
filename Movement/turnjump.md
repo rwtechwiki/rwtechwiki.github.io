@@ -1,9 +1,9 @@
 Status: #partdone
-Note Type: #move, #variant, [[hop]]
+Note Type: #move, #variant, [[jumptype]]
 Tags: #fundimentals, #intended 
 
-# Turn-Hop
-![[turnhop_header.gif]]
+# Turn-Jump
+![[turnjump_header.gif]]
 ## Description
 By pressing jump within the frames 10 through 20 of a [[dashturn]], slugcat will hop, preserving the momentum from the dash-turn.
 
@@ -22,13 +22,13 @@ By pressing jump within the frames 10 through 20 of a [[dashturn]], slugcat will
 ___
 # Gifs
 ## Bulk
-![[turnhop_0.gif]]
-![[turnhop_1.gif]]
-![[turnhop_2.gif]]
-![[turnhop_3.gif]]
-![[turnhop_4.gif]]
-![[turnhop_5.gif]]
-![[turnhop_6.gif]]
-![[turnhop_7.gif]]
-![[turnhop_8.gif]]
-![[turnhop_9.gif]]
+![[turnjump_0.gif]]
+![[turnjump_1.gif]]
+![[turnjump_2.gif]]
+![[turnjump_3.gif]]
+![[turnjump_4.gif]]
+![[turnjump_5.gif]]
+![[turnjump_6.gif]]
+![[turnjump_7.gif]]
+![[turnjump_8.gif]]
+![[turnjump_9.gif]]

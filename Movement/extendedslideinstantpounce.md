@@ -2,8 +2,8 @@ Status: #partdone
 Note Type: #move, #variant, [[pounce]]
 Tags: #unintended, #slide 
 
-# Extended Instant Slide-Pounce
-![[extendedinstantslidepounce_header.gif]]
+# Extended-Slide Instant-Pounce
+![[extendedslideinstantpounce_header.gif]]
 ## Description
 This [[pounce]] variant is produced by pressing jump on frame 2 of an [[extendedslide]]. It has a much larger range than a regular [[extendedslidepounce]] as the slide extension initially gives slugcat a higher speed before slowing down.
 
@@ -22,13 +22,13 @@ This move can only be performed if the extended slide begins on frame 14 or 15 o
 ___
 # Gifs
 ## Bulk
-![[extendedinstantslidepounce_0.gif]]
-![[extendedinstantslidepounce_1.gif]]
-![[extendedinstantslidepounce_2.gif]]
-![[extendedinstantslidepounce_3.gif]]
-![[extendedinstantslidepounce_4.gif]]
-![[extendedinstantslidepounce_5.gif]]
-![[extendedinstantslidepounce_6.gif]]
-![[extendedinstantslidepounce_7.gif]]
-![[extendedinstantslidepounce_8.gif]]
-![[extendedinstantslidepounce_9.gif]]
+![[extendedslideinstantpounce_0.gif]]
+![[extendedslideinstantpounce_1.gif]]
+![[extendedslideinstantpounce_2.gif]]
+![[extendedslideinstantpounce_3.gif]]
+![[extendedslideinstantpounce_4.gif]]
+![[extendedslideinstantpounce_5.gif]]
+![[extendedslideinstantpounce_6.gif]]
+![[extendedslideinstantpounce_7.gif]]
+![[extendedslideinstantpounce_8.gif]]
+![[extendedslideinstantpounce_9.gif]]

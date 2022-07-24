@@ -1,8 +1,8 @@
 Status: #partdone
-Note Type: #move, #variant, [[airhop]], [[hop]]
+Note Type: #move, #variant, [[airjump]], [[jumptype]]
 Tags: #intended, #ledge 
 
-# Extended Coyote Jump
+# Extended Coyote-Jump
 ![[extendedcoyotejump_header.gif]]
 ## Description
 It is possible to perform this move in place of a [[coyotejump]] by crouching just before you leave a ledge, then returning to standing state as you jump, within 5 frames of leaving the ground.

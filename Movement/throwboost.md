@@ -11,7 +11,7 @@ When mid-air, it is possible to gain some forward momentum by throwing a [[heavy
 This only works for items which are thrown forward with force, i.e. rocks, spears, etc.
 
 ## Performed from
-[[hop]], [[pounce]], [[flip]]
+
 
 ## Allows for
 

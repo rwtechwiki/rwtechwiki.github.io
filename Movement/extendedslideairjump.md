@@ -1,9 +1,9 @@
 Status: #partdone
-Note Type: #move, #variant, [[airhop]], [[hop]]
+Note Type: #move, #variant, [[airjump]], [[jumptype]]
 Tags: #unintended, #slide
 
-# Extended Slide Air-Hop
-![[extendedslideairhop_header.gif]]
+# Extended-Slide Air-Jump
+![[extendedslideairjump_header.gif]]
 ## Description
 At the end of an [[extendedslide]], slugcat is popped upright out of crouching state. It is possible to use this to perform an extended slide air-hop. Slugcat will hop from roughly a tile off the ground, giving a slightly higher jump.
 
@@ -22,13 +22,13 @@ This happens regardless of how long the extended slide has been airborn for, all
 ___
 # Gifs
 ## Bulk
-![[extendedslideairhop_0.gif]]
-![[extendedslideairhop_1.gif]]
-![[extendedslideairhop_2.gif]]
-![[extendedslideairhop_3.gif]]
-![[extendedslideairhop_4.gif]]
-![[extendedslideairhop_5.gif]]
-![[extendedslideairhop_6.gif]]
-![[extendedslideairhop_7.gif]]
-![[extendedslideairhop_8.gif]]
-![[extendedslideairhop_9.gif]]
+![[extendedslideairjump_0.gif]]
+![[extendedslideairjump_1.gif]]
+![[extendedslideairjump_2.gif]]
+![[extendedslideairjump_3.gif]]
+![[extendedslideairjump_4.gif]]
+![[extendedslideairjump_5.gif]]
+![[extendedslideairjump_6.gif]]
+![[extendedslideairjump_7.gif]]
+![[extendedslideairjump_8.gif]]
+![[extendedslideairjump_9.gif]]

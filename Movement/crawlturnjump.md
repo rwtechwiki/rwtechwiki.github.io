@@ -1,5 +1,5 @@
 Status: #toreview
-Note Type: #move, #variant, [[airhop]], [[hop]], #alternate, [[turnstoredflip]], [[ledgepullup]]
+Note Type: #move, #variant, [[airjump]], [[jumptype]], #alternate, [[turnstoredflip]], [[ledgepullup]]
 Tags: #fundimentals, #unintended, #ledge, #crawlturn 
 
 # Crawl-Turn Jump

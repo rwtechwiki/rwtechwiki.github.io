@@ -1,5 +1,5 @@
 Status: #partdone
-Note Type: #movetype, #variant, [[hop]], [[airhop]], #alternate, [[turnstoredflip]]
+Note Type: #movetype, #variant, [[airjump]], [[jumptype]], #alternate, [[turnstoredflip]]
 Tags: #unintended, #pole
 
 # Pole-Momentum Jump

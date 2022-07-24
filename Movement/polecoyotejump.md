@@ -1,5 +1,5 @@
 Status: #partdone
-Note Type: #move, #variant, [[airhop]], [[hop]], #alternate, [[turnstoredflip]]
+Note Type: #move, #variant, [[airjump]], [[jumptype]], #alternate, [[turnstoredflip]]
 Tags: #intended, #pole 
 
 # Pole Coyote Jump
