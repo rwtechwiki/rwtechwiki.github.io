@@ -8,7 +8,7 @@ Tags: #fundimentals, #intended
 By pressing down from the standing state, slugcat enters a crouching position, where it can crawl around and fit under 1-tile ceilings.
 
 ## Notes
-There is a window mid-crouch to [[crouchhopcancel]] by pressing and releasing jump.
+There is a window mid-crouch to [[hopcancel]] by pressing and releasing jump.
 
 It is possible to buffer a [[crawlturn]] by inputting to start one during a crouch. This is one way to begin a [[crawlturnroll]].
 
@@ -18,7 +18,7 @@ There is a window to [[crouchthrow]] by pressing throw towards the end of the cr
 
 
 ## Allows for
-[[crouchhopcancel]]
+[[hopcancel]]
 
 ## Chains to
 [[crouchthrow]]

@@ -15,7 +15,7 @@ It is possible to store jump-boost value, or to jump-store, by performing a move
 
 
 ## Performed from
-[[crouchhopcancel]], [[jumpcancel]], [[slidetunnelentry]]
+[[hopcancel]], [[jumpcancel]], [[slidetunnelentry]]
 
 ## Allows for
 [[jumpstoredboost]]

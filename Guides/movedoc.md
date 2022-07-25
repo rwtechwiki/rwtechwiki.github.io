@@ -43,7 +43,7 @@ Extending coyote jumps off ledges is possible by crouching while running off, th
 Hugging a wall then simultaneously tapping outwards + double tapping jump allows Slugcat to jump twice. Jump needs to be double tapped quickly as the window is quite short.
 ![[gwallhop_header.gif]]
 
-[[aerialwalljump]]
+[[coyotewalljump]]
 While sliding down a wall, holding out then pressing jump allows Slugcat to hop midair for a short window of time. This only works when holding away from the wall.
 ![[awallhop_header.gif]]
 Note: This is likely a leniency/coyote mechanic for pressing outwards before pressing jump while wall jumping.
