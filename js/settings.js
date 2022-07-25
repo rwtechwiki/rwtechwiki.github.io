@@ -1,0 +1,1 @@
+var sidebar_collapsed=true
