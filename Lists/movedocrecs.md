@@ -38,7 +38,7 @@ Tags: #googledoc, [link](https://docs.google.com/document/d/1o3gouaiHsHT2H9d2HD5
 ![[slidethrow_header.gif]]
 [[extendedslide]] - Go really fast on flat surfaces.
 ![[eslide_header.gif]]
-[[slideflip]] - Quickly change direction to evade threats.
+[[slidespin]] - Quickly change direction to evade threats.
 ![[slideflip_header.gif]]
 
 ## Advanced

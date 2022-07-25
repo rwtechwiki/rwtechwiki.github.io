@@ -2,8 +2,8 @@ Status: #partdone
 Note Type: #move, #variant, [[flip]]
 Tags: #fundimentals, #intended, #slide 
 
-# Slide-Flip
-![[slideflip_header.gif]]
+# Slide-Spin
+![[slidespin_header.gif]]
 ## Description
 A variant of a [[flip]] with a fixed arc, produced by pressing backwards and jump during frames 14 through 16 of a [[slide]]. It is always possible to [[fliproll]] from this move.
 
@@ -22,13 +22,13 @@ A variant of a [[flip]] with a fixed arc, produced by pressing backwards and jum
 ___
 # Gifs
 ## Bulk
-![[slideflip_0.gif]]
-![[slideflip_1.gif]]
-![[slideflip_2.gif]]
-![[slideflip_3.gif]]
-![[slideflip_4.gif]]
-![[slideflip_5.gif]]
-![[slideflip_6.gif]]
-![[slideflip_7.gif]]
-![[slideflip_8.gif]]
-![[slideflip_9.gif]]
+![[slidespin_0.gif]]
+![[slidespin_1.gif]]
+![[slidespin_2.gif]]
+![[slidespin_3.gif]]
+![[slidespin_4.gif]]
+![[slidespin_5.gif]]
+![[slidespin_6.gif]]
+![[slidespin_7.gif]]
+![[slidespin_8.gif]]
+![[slidespin_9.gif]]

@@ -2,7 +2,7 @@ Status: #partdone
 Note Type: #move, #variant, [[walljumptype]], [[airjump]]
 Tags: #unintended, #throw
 
-# Extended Aerial Wall-Hop
+# Throw Double-Walljump / TDwalljump
 ![[throwdoublewalljump_header.gif]]
 ## Description
 By inputting throw the frame after a [[walljump]], still holding towards the wall, it is possible to both wall-jump and regain the ability to [[walljumptype]] midair for 15 frames.

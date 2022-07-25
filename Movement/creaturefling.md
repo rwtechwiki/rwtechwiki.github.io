@@ -2,7 +2,7 @@ Status: #stub
 Note Type: #movetype
 Tags: #unintended, #creature 
 
-# Creature-Fling
+# Creature-Fling / CF
 ## Description
 
 

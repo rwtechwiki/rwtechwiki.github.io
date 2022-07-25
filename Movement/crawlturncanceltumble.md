@@ -2,7 +2,7 @@ Status: #partdone, #needsgif
 Note Type: #move, #initiator, [[crawlturnroll]]
 Tags: #unintended, #crawlturn, #roll
 
-# Crawl-Turn Cancel Tumble
+# Crawl-Turn Cancel Tumble / CTCT(R)
 ![[crawlturncanceltumble_header.gif]]
 ## Description
 With precise timing, it is possible to tumble over from a [[crawlturncancel]] such that if down diagonal inputs are maintained, slugcat will perform a [[crawlturnroll]].

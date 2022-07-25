@@ -21,6 +21,9 @@ This move is shorter and slower than a slide-pounce, and unlike the [[extendedsl
 
 ___
 # Gifs
+## TS Alternates
+![[slidejump_fTS]]
+![[slidejump_bTS]]
 ## Bulk
 ![[slidejump_0.gif]]
 ![[slidejump_1.gif]]

@@ -2,7 +2,7 @@ Status: #partdone
 Note Type: #move, #variant, [[fastfall]], #alternate, [[ledgepullup]]
 Tags: #unintended, #ledge, #crawlturn, #fastfall
 
-# Crawl-Turn Fast-Fall
+# Crawl-Turn Fast-Fall / CTFF
 ![[crawlturnfastfall_header.gif]]
 ## Description
 It is possible to drastically increase falling acceleration by becoming airborn after performing a [[crawlturncancel]], and continuing to hold in the crawl-turn direction.

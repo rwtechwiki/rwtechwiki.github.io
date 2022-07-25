@@ -2,7 +2,7 @@ Status: #partdone
 Note Type: #move, #variant, [[jumptype]]
 Tags: #fundimentals, #unintended, #slide 
 
-# Extended-Slide Instant-Hop
+# Extended-Slide Instant-Hop / ESIhop
 ![[extendedslideinstanthop_header.gif]]
 ## Description
 If down is input on frame 2 of an [[extendedslidejump]], the move becomes an extendedslideinstanthop, giving slugcat significantly more speed, as long as the ehop was a frame 1 jump input after the [[slide]] (an eihop).

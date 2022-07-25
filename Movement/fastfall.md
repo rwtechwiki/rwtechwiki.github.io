@@ -2,7 +2,7 @@ Status: #partdone
 Note Type: #movetype
 Tags: #unintended, #fastfall 
 
-# Fast-Fall
+# Fast-Fall / FF
 ## Description
 It is possible to accelerate slugcat faster than normal midair by beginning a fall in a few different ways. This can allow for stunning or killing slugcat from much shorter falls than usually possible.
 

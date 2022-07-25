@@ -2,7 +2,7 @@ Status: #toreview
 Note Type: #move, #variant, [[airjump]], [[jumptype]], #alternate, [[turnstoredflip]], [[ledgepullup]]
 Tags: #fundimentals, #unintended, #ledge, #crawlturn 
 
-# Crawl-Turn Jump
+# Crawl-Turn Jump / CTJ
 ![[crawlturnjump_header.gif]]
 ## Description
 If you perform a [[crawlturncancel]], there is a 5-frame window after leaving the ground where slugcat is able to jump mid-air.

@@ -2,7 +2,7 @@ Status: #partdone
 Note Type: #move, #variant, [[throw]]
 Tags: #fundimentals, #intended, #throw 
 
-# Down-Throw
+# Down-Throw / DT
 ![[downthrow_header.gif]]
 ## Description
 It is possible to [[throw]] an item downwards out of the flip state, by holding only the down input direction and pressing throw.

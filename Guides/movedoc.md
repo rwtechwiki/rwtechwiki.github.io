@@ -137,7 +137,7 @@ Instant slide pounce height can be increased with prior horizontal momentum from
 ![[ipounce_header.gif]]
 
 ### Slide-Flipping
-[[slideflip]]
+[[slidespin]]
 Pressing jump while holding backwards mid slide results in a long backflip.
 ![[slideflip_header.gif]]
 Note:  
@@ -145,7 +145,7 @@ To slide flip correctly, forward must be released, and backwards held, before ju
 The jump window is the same as for slide pouncing.
 Pressing jump and back too early results in a regular failed slide pounce due to the shorter slide. Forward must be held long enough for a regular slide, to slide flip.
 
-[[slideinstantflip]]
+[[slideinstantspin]]
 Normally only useful/applicable with tool assisted inputs (macros or keybinds), Slugcat can perform a slide flip on the first frame of a slide.
 This is practically achievable in game by slowing down time, e.g. with mushrooms. The inputs are more demanding than instant pouncing, which makes this less practical overall but still achievable.
 ![[iflip_header.gif]]

@@ -2,7 +2,7 @@ Status: #stub
 Note Type: #movetype, #variant, [[jumptype]]
 Tags: #unintended, #storage 
 
-# Turn-Stored Jump
+# Turn-Stored Jump / TSjump
 ## Description
 
 

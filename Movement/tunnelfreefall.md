@@ -8,7 +8,7 @@ Tags: #intended, #tunnel
 By pressing jump when holding downwards in a vertical tunnel, slugcat will begin to fall at normal speed down the shaft. This continues until a different direction is held or slugcat reaches a floor.
 
 ## Notes
-
+When facing upwards, hitting the ground in a tunnel-freefall causes slugcat to bounce
 
 ## Performed from
 
