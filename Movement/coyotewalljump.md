@@ -2,8 +2,8 @@ Status: #toreview
 Note Type: #move, #variant, [[walljumptype]], [[airjump]]
 Tags: #intended, #wall 
 
-# Aerial Wall-Jump
-![[aerialwalljump_header.gif]]
+# Coyote Wall-Jump
+![[coyotewalljump_header.gif]]
 ## Description
 If you pull away from a [[wallslide]], there is a 15-frame window where slugcat is able to [[walljump]] mid-air.
 
@@ -24,13 +24,13 @@ There is a version of this move called an [[throwdoublewalljump]] which requires
 ___
 # Gifs
 ## Bulk
-![[aerialwalljump_0.gif]]
-![[aerialwalljump_1.gif]]
-![[aerialwalljump_2.gif]]
-![[aerialwalljump_3.gif]]
-![[aerialwalljump_4.gif]]
-![[aerialwalljump_5.gif]]
-![[aerialwalljump_6.gif]]
-![[aerialwalljump_7.gif]]
-![[aerialwalljump_8.gif]]
-![[aerialwalljump_9.gif]]
+![[coyotewalljump_0.gif]]
+![[coyotewalljump_1.gif]]
+![[coyotewalljump_2.gif]]
+![[coyotewalljump_3.gif]]
+![[coyotewalljump_4.gif]]
+![[coyotewalljump_5.gif]]
+![[coyotewalljump_6.gif]]
+![[coyotewalljump_7.gif]]
+![[coyotewalljump_8.gif]]
+![[coyotewalljump_9.gif]]

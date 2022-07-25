@@ -1,4 +1,4 @@
-Status: #partdone 
+Status: #partdone, #needsalternategif 
 Note Type: #move, #alternate, [[jumpstoredboost]]
 Tags: #unintended, #crawlturn 
 
@@ -23,6 +23,10 @@ Slugcat ends this move in the crouch state, so an additional up input to [[airor
 
 ___
 # Gifs
+## 6JS Alternate
+![[crawlturnvault_6JS]]
+## 8JS Alternate
+![[crawlturnvault_8JS]]
 ## Bulk
 ![[crawlturnvault_0.gif]]
 ![[crawlturnvault_1.gif]]

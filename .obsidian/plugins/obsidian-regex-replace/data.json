@@ -1,6 +1,6 @@
 {
-  "findText": "extendedslideairhop",
-  "replaceText": "extendedslideairjump",
+  "findText": "crouchhopcancel",
+  "replaceText": "hopcancel",
   "useRegEx": true,
   "selOnly": false,
   "caseInsensitive": false,

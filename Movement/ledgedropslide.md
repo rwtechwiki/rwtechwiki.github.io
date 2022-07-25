@@ -21,6 +21,8 @@ Tags: #intended, #ledge, #slide
 
 ___
 # Gifs
+## 2-Tile Alternate
+![[ledgedropslide_2tile.gif]]
 ## Bulk
 ![[ledgedropslide_0.gif]]
 ![[ledgedropslide_1.gif]]

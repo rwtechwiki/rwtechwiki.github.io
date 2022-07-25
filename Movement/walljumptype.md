@@ -10,7 +10,7 @@ It is possible to wall-jump by pressing jump within 15 frames of leaving a [[wal
 
 
 ## Variants
-[[aerialwalljump]], [[throwdoublewalljump]], [[groundeddoublewalljump]]
+[[coyotewalljump]], [[throwdoublewalljump]], [[groundeddoublewalljump]]
 
 ___
 # Gifs
