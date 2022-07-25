@@ -2,7 +2,7 @@ Status: #partdone
 Note Type: #move, #variant, [[pounce]], [[jumpstoredboost]]
 Tags: #unintended, #slide 
 
-# Slide Instant-Pounce
+# Slide Instant-Pounce / SIpounce
 ![[slideinstantpounce_header.gif]]
 ## Description
 This [[pounce]] variant is produced by pressing jump on frame 2 of a [[slide]]. It has a higher arc than a regular slide pounce as the slide does not have time to deccelerate slugcat horizontally beforehand.

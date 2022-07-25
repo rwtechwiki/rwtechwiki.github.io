@@ -2,7 +2,7 @@ Status: #toreview, #needsalternategif
 Note Type: #move
 Tags: #unintended, #crawlturn, #fly 
 
-# Crawl-Turn Fly
+# Crawl-Turn Fly / CTF
 ![[crawlturnfly_header.gif]]
 ## Description
 It is possible to fly upwards from a [[crawlturn]] by repeatedly inputting left and right for 3 frames at a time, after some setup timings. By using slightly different left and right input timings, it is possible to control ascent, descent, and slow left/right travel midair.

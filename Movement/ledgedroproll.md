@@ -2,7 +2,7 @@ Status: #partdone
 Note Type: #move, #initiator, [[roll]]
 Tags: #unintended, #ledge, #roll
 
-# Ledge-Drop Roll
+# Ledge-Drop Roll / droproll
 ![[ledgedroproll_header.gif]]
 ## Description
 There is a window to [[roll]] upon dropping down a ledge of any number of tiles by performing a [[ledgedropfastfall]].

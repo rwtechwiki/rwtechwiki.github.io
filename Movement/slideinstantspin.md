@@ -2,8 +2,8 @@ Status: #partdone
 Note Type: #move, #variant, [[flip]], [[jumpstoredboost]]
 Tags: #unintended, #slide 
 
-# Slide Instant-Flip
-![[slideinstantflip_header.gif]]
+# Slide Instant-Spin / SIspin
+![[slideinstantspin_header.gif]]
 ## Description
 This [[flip]] variant is produced by pressing backwards and jump on frame 2 of a [[slide]].
 
@@ -22,13 +22,13 @@ Due to the slide not fully starting, jumpstorage does not interfere with this mo
 ___
 # Gifs
 ## Bulk
-![[slideinstantflip_0.gif]]
-![[slideinstantflip_1.gif]]
-![[slideinstantflip_2.gif]]
-![[slideinstantflip_3.gif]]
-![[slideinstantflip_4.gif]]
-![[slideinstantflip_5.gif]]
-![[slideinstantflip_6.gif]]
-![[slideinstantflip_7.gif]]
-![[slideinstantflip_8.gif]]
-![[slideinstantflip_9.gif]]
+![[slideinstantspin_0.gif]]
+![[slideinstantspin_1.gif]]
+![[slideinstantspin_2.gif]]
+![[slideinstantspin_3.gif]]
+![[slideinstantspin_4.gif]]
+![[slideinstantspin_5.gif]]
+![[slideinstantspin_6.gif]]
+![[slideinstantspin_7.gif]]
+![[slideinstantspin_8.gif]]
+![[slideinstantspin_9.gif]]

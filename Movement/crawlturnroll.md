@@ -2,7 +2,7 @@ Status: #toreview
 Note Type: #move, #initiator, [[roll]], #alternate, [[ledgepullup]]
 Tags: #unintended, #ledge, #crawlturn, #roll
 
-# Crawl-Turn Roll
+# Crawl-Turn Roll / CTR
 ![[crawlturnroll_header.gif]]
 ## Description
 It is possible to begin a roll by holding down during the middle of a buffered [[crawlturn]]. It is possible to buffer the crawl-turn by holding backwards within the first 5 frames of beginning the crouch state.

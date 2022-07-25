@@ -2,7 +2,7 @@ Status: #toreview
 Note Type: #move, #alternate, [[ledgepullup]]
 Tags: #fundimentals, #unintended, #ledge, #crawlturn 
 
-# Crawl-Turn-Cancel
+# Crawl-Turn-Cancel / CTC
 ![[crawlturncancel_header.gif]]
 ## Description
 There is a window to begin a crawl-turn-cancel by pressing up during frames 1-4 of a [[crawlturn]]. Slugcat pops into the air and ends up in the standing state. Slugcat reaches significantly higher above the ground if the cancel is on frame 1 or 4 of the crawl-turn.

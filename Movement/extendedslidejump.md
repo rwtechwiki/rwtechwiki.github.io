@@ -2,7 +2,7 @@ Status: #partdone
 Note Type: #move, #variant, [[jumptype]], #alternate, instant
 Tags: #fundimentals, #intended, #slide 
 
-# Extended-Slide Jump
+# Extended-Slide Jump / ESjump
 ![[extendedslidejump_header.gif]]
 ## Description
 There is a window to extendedslidejump by pressing jump during frames 1 through 26 after the throw input of an [[extendedslide]]. The first frame of these is named an extended instant slide-hop, or eihop, as it carries significantly more speed.

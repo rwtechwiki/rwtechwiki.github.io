@@ -2,7 +2,7 @@ Status: #stub, #needsgif
 Note Type: #move, #variant, [[flip]]
 Tags: #unintended, #creature
 
-# Flip Creature-Fling
+# Flip Creature-Fling / flipCF
 ![[flipcreaturefling_header.gif]]
 ## Description
 

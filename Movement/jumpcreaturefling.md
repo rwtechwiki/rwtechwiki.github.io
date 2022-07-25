@@ -2,7 +2,7 @@ Status: #stub, #needsgif
 Note Type: #move, #variant, [[jumptype]]
 Tags: #unintended, #creature 
 
-# Jump Creature-Fling
+# Jump Creature-Fling / jumpCF
 ![[jumpcreaturefling_header.gif]]
 ## Description
 
