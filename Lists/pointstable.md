@@ -1,6 +1,7 @@
 Status: #partdone
 Note Type: #lists
 Tags: #score 
+
 # Points Table
 Most creatures will award the player points when killed in Hunter Mode. These are the points that will become the 'KillScore' when the player's [[scorecalculation|final score is calculated]]. Below are each of the creatures worth in points.
 

@@ -2,7 +2,7 @@ Status: #partdone, #needsgif
 Note Type: #move
 Tags: #unintended, #storage 
 
-# Turn-Store
+# Turn-Store / TS
 ![[turnstore_header.gif]]
 ## Description
 Slugcat's turn counter is not incremented by the game when slugcat is not running on the ground. This introduces a plethora of ways in which it is possible to delay a [[turnflip]] or [[turnjump]] until significantly later.

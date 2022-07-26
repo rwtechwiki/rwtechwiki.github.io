@@ -1,8 +1,8 @@
 Status: #partdone 
 Note Type: #lists 
 Tags: #score 
-# Passages
 
+# Passages
 Passages are in-game objectives that can be completed during a playthrough of Rain World. Normally, completing a Passage gives a slugcat the ability to travel instantly to any shelter, but in [[huntermode|Hunter Mode]], each Passage works as a score multiplier instead.
 
 There are a total of ten passages that can be obtained.
