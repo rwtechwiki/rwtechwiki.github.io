@@ -12,7 +12,7 @@ A thrown [[heavyitem]] will have a slight upward trajectory until about 8 tiles 
 A thrown [[lightitem]] can be tossed with a more arching trajectory by holding the up input when throwing it.
 
 ## Variants
-[[throwboost]], [[throwtumble]], [[slidethrow]], [[downthrow]], [[eslide]], [[crouchthrow]]
+[[throwboost]], [[throwtumble]], [[slidethrow]], [[downthrow]], [[extendedslide]], [[crouchthrow]]
 
 ___
 # Gifs

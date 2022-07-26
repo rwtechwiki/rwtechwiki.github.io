@@ -1,14 +1,14 @@
-Status: #partdone, #needsgif 
+Status: #partdone, 
 Note Type: #move
 Tags: #intended, #tunnel 
 
 # Tunnel-Freefall
 ![[tunnelfreefall_header.gif]]
 ## Description
-By pressing jump when holding downwards in a vertical tunnel, slugcat will begin to fall at normal speed down the shaft. This continues until up is held or slugcat reaches a floor.
+By pressing jump when holding downwards in a vertical tunnel, slugcat will begin to fall at normal speed down the shaft. This continues until a different direction is held or slugcat reaches a floor.
 
 ## Notes
-
+When facing upwards, hitting the ground in a tunnel-freefall causes slugcat to bounce
 
 ## Performed from
 
@@ -21,6 +21,8 @@ By pressing jump when holding downwards in a vertical tunnel, slugcat will begin
 
 ___
 # Gifs
+## Facing up alternate
+![[tunnelfreefall_up_0.gif]]
 ## Bulk
 ![[tunnelfreefall_0.gif]]
 ![[tunnelfreefall_1.gif]]

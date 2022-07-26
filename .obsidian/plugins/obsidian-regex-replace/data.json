@@ -1,6 +1,6 @@
 {
-  "findText": "walk",
-  "replaceText": "run",
+  "findText": "slideflipbounce",
+  "replaceText": "spinbounce",
   "useRegEx": true,
   "selOnly": false,
   "caseInsensitive": false,

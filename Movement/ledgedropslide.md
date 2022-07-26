@@ -2,7 +2,7 @@ Status: #stub, #needsgif
 Note Type: #move, #initiator, [[slide]]
 Tags: #intended, #ledge, #slide 
 
-# Ledge-Drop-Slide
+# Ledge-Drop-Slide / dropslide
 ![[ledgedropslide_header.gif]]
 ## Description
 
@@ -21,6 +21,8 @@ Tags: #intended, #ledge, #slide
 
 ___
 # Gifs
+## 2-Tile Alternate
+![[ledgedropslide_2tile.gif]]
 ## Bulk
 ![[ledgedropslide_0.gif]]
 ![[ledgedropslide_1.gif]]

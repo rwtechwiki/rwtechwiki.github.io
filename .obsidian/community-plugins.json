@@ -1,5 +1,6 @@
 [
   "obsidian-admonition",
   "sliding-panes-obsidian",
-  "obsidian-regex-replace"
+  "obsidian-regex-replace",
+  "obsidian-discordrpc"
 ]

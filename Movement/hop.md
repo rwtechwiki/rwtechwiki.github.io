@@ -1,16 +1,25 @@
-Status: #partdone 
-Note Type: #movetype
-Tags: #fundimentals, #intended 
+Status: #toreview 
+Note Type: #move, #variant, [[hoptype]]
+Tags: #intended 
 
 # Hop
+![[hop_header.gif]]
 ## Description
-Outside certain slide windows and tunnels/poles, jump inputs usually allow for slugcat to propel itself around 2 tiles off the ground.
+When crawling on the ground, it is possible to perform a tile-high hop by pressing jump, which gives slugcat some extra momentum.
 
 ## Notes
-It is possible to press up or down to set slugcats [[airorient|orientation]] midair in the hop state. Due to this, slugcat can either land into the standing or crouching state based on player choice.
+This move can be very useful for preserving momentum upon landing from [[pounce|pounces]], as the airtime can be used to return slugcat to [[airorient]] into the standing state.
 
-## Variants
-[[jump]], [[ehop]], [[eichop]], [[turnhop]], [[airhop]], [[wallhop]]
+When only slugcats head chunk is on the ground, this move gives almost no height.
+
+## Performed from
+
+
+## Allows for
+
+
+## Chains to
+
 
 ___
 # Gifs

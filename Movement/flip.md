@@ -16,7 +16,7 @@ It is always possible to [[downthrow]] during the flip state.
 The direction of spin mid-air is based on the direction slugcat turned towards before performing the flip. This becomes relevant when performing a [[turnstoredflip]], as it is usually possible to have chosen the direction of the turn long before performing the flip.
 
 ## Variants
-[[turnflip]], [[slideflip]], [[iflip]], [[eflip]], [[turnstoredflip]]
+[[turnflip]], [[slidespin]], [[slideinstantspin]], [[extendedslideflip]], [[turnstoredflip]]
 
 ___
 # Gifs

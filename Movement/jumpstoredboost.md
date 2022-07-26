@@ -2,7 +2,7 @@ Status: #partdone
 Note Type: #movetype
 Tags: #unintended, #storage 
 
-# Jump-Stored Boost
+# Jump-Stored Boost / JSboost
 ## Description
 Some moves send slugcat airborn with velocity without setting jump-boost to a value. Therefore, if a [[jumpstore]] has been performed, these moves gain significant height by holding jump midair.
 
@@ -10,7 +10,7 @@ Some moves send slugcat airborn with velocity without setting jump-boost to a va
 
 
 ## Variants
-[[tunnelexitboost]], [[ipounce]], [[iflip]], [[quickcrawlturnjump]]
+[[tunnelexitboost]], [[slideinstantpounce]], [[slideinstantspin]], [[crawlturnvault]]
 
 ___
 # Gifs

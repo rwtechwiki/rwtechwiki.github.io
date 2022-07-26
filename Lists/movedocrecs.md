@@ -27,7 +27,7 @@ Tags: #googledoc, [link](https://docs.google.com/document/d/1o3gouaiHsHT2H9d2HD5
 ![[roll_header.gif]]
 [[rollpounce]] - ^
 ![[rollpounce_header.gif]]
-[[crouchhop]] - Jump to keep moving!
+[[hop]] - Jump to keep moving!
 ![[crouchhop_0.gif]]
 
 ## Adept
@@ -36,15 +36,15 @@ Tags: #googledoc, [link](https://docs.google.com/document/d/1o3gouaiHsHT2H9d2HD5
 [[mouthspear]] - Take on lizards with a single spear!
 ![[mouthspear_header.gif]]
 ![[slidethrow_header.gif]]
-[[eslide]] - Go really fast on flat surfaces.
+[[extendedslide]] - Go really fast on flat surfaces.
 ![[eslide_header.gif]]
-[[slideflip]] - Quickly change direction to evade threats.
+[[slidespin]] - Quickly change direction to evade threats.
 ![[slideflip_header.gif]]
 
 ## Advanced
 [[crawlturnjump]] - Gain extra height from jump!
 ![[crawlturnjump_header.gif]]
-[[flippmjump]] - Saves time in some parts of the game - Extra height from poles!
+[[flippolemomentumjump]] - Saves time in some parts of the game - Extra height from poles!
 ![[flippmjump_header.gif]]
 [[spearpin]] - Essential offensive move for getting the drop on lizards.
 ![[spearpin_down1.gif]]

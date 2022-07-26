@@ -1,8 +1,8 @@
-Status: #toreview 
+Status: #toreview
 Note Type: #move
 Tags: #fundimentals, #intended, #crawlturn
 
-# Crawl-Turn
+# Crawl-Turn / CT
 ![[crawlturn_header.gif]]
 ## Description
 It is possible to crawl-turn from the crouch state by pressing the opposite direction to slugcat's facing. This causes slugcat to flip over to crouch facing the opposite direction.

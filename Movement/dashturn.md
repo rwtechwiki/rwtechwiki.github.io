@@ -5,7 +5,7 @@ Tags: #fundimentals, #intended
 # Dash-Turn
 ![[dashturn_header.gif]]
 ## Description
-By turning around after [[run|running]] for more than 10 frames in the same direction. slugcat gains a burst of speed. With an early jump input, this move can chain to a [[turnflip]], and with a later input you can perform a [[turnhop]].
+By turning around after [[run|running]] for more than 10 frames in the same direction. slugcat gains a burst of speed. With an early jump input, this move can chain to a [[turnflip]], and with a later input you can perform a [[turnjump]].
 
 ## Notes
 Due to some startup frames to running, forward must be held for 12 frames from standing still to dash-turn.
@@ -21,7 +21,7 @@ It is also possible to perform this move without room for an uninterrupted run-u
 
 
 ## Chains to
-[[turnhop]], [[turnflip]]
+[[turnjump]], [[turnflip]]
 
 ___
 # Gifs

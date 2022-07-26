@@ -5,16 +5,16 @@ Tags: #fundimentals, #intended
 # Air-Orient
 ![[airorient_header.gif]]
 ## Description
-When mid-air in [[hop]]-type moves, it is possible to [[stand]] or [[crouch]] using the up and down inputs. 
+When mid-air after [[jumptype]] or [[hoptype]] moves, it is possible to [[stand]] or [[crouch]] using the up and down inputs. 
 
 ## Notes
-This allows for maintaining momentum from a [[chargehop]] or [[crouchhop]], by [[hop|hopping]] or [[polehop|polehopping]].
+This allows for maintaining momentum from a [[chargehop]] or [[hop]], by [[jumptype|jumping]] or [[poleskip|poleskipping]].
 
 ## Performed from
-[[hop]]
+[[jumptype]]
 
 ## Allows for
-[[jump]], [[polehop]]
+[[jump]], [[poleskip]]
 
 ## Chains to
 

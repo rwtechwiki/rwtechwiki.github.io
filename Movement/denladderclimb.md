@@ -1,5 +1,5 @@
 Status: #stub, #needsgif 
-Note Type: #move, #variant, [[hop]]
+Note Type: #move, #variant, [[jumptype]]
 Tags: #unintended, #wall 
 
 # Den Ladder-Climb
