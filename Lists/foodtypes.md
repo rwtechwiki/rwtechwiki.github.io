@@ -28,7 +28,7 @@ Tags:
 - Wolf Spiders
 - Red Spiders
 - Miros Birds
-- Glowphers
+- Lantern Mice
 - Daddy and Brother Long Legs
 - Dropwigs
 - Eggbugs

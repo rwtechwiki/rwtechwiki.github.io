@@ -30,7 +30,7 @@ An additional concept worth mentioning is that the starvation mechanic in the ga
 - No reading the save file to reveal hidden information. Using the [Hunter Tracker](https://jaclynonacloud.github.io/rainworld-tracker/) is allowed.
 - No quitting, especially before the end of the 30 second grace period. Deaths should be taken instead of quits in these cases. This avoids karma caching, and waiting for good cycle lengths.
 - No infinite points strategies (Five Pebbles exploit).
-- No [kill-multiplication glitch](Exploits/deathduplication).
+- No [[deathduplication|kill-duplication glitch]].
 
 ### Starving Rules
 - A starve is permissible to activate the double spawn glitch.
