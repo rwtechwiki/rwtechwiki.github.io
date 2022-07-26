@@ -8,13 +8,13 @@ Tags: #unintended, #ledge, #storage
 It is possible to [[turnstore]] by initiating a [[dashturn]] as slugcat reaches a ledge, dropping off it due to the skid momentum.
 
 ## Notes
-This move widens the window to [[ledgedropfastfall]] or [[ledgedroproll]].
+This move widens the window to [[ledgedrop]] or [[ledgedroproll]].
 
 ## Performed from
 [[dashturn]]
 
 ## Allows for
-[[ledgedropfastfall]]
+[[ledgedrop]]
 
 ## Chains to
 

@@ -25,8 +25,8 @@ ___
 # Gifs
 ## Pounce Alternate
 ![[slidethrow_pounce.gif]]
-## Flip Alternate
-![[slidethrow_flip.gif]]
+## Spin Alternate
+![[slidethrow_spin.gif]]
 ## Extended Alternate
 ![[slidethrow_extended.gif]]
 ## Bulk

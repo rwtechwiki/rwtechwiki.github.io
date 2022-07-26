@@ -1,6 +1,6 @@
 {
-  "findText": "slideflipbounce",
-  "replaceText": "spinbounce",
+  "findText": "ledgedropfastfall",
+  "replaceText": "ledgedrop",
   "useRegEx": true,
   "selOnly": false,
   "caseInsensitive": false,
