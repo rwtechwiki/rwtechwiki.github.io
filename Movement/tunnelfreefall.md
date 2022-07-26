@@ -1,4 +1,4 @@
-Status: #partdone, 
+Status: #partdone
 Note Type: #move
 Tags: #intended, #tunnel 
 

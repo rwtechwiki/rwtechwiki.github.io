@@ -2,7 +2,7 @@
   "collapse-filter": true,
   "search": "-tag:#collection -path:Templates",
   "showTags": false,
-  "showAttachments": true,
+  "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": true,
@@ -53,6 +53,6 @@
   "repelStrength": 12.6495726495727,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.11660890377043277,
+  "scale": 0.28710820679714855,
   "close": true
 }
