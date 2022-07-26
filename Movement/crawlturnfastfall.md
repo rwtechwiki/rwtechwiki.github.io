@@ -1,11 +1,11 @@
 Status: #partdone
-Note Type: #move, #variant, [[fastfall]], #alternate, [[ledgepullup]]
+Note Type: #move, #alternate, [[ledgepullup]]
 Tags: #unintended, #ledge, #crawlturn, #fastfall
 
 # Crawl-Turn Fast-Fall / CTFF
 ![[crawlturnfastfall_header.gif]]
 ## Description
-It is possible to drastically increase falling acceleration by becoming airborn after performing a [[crawlturncancel]], and continuing to hold in the crawl-turn direction.
+It is possible to drastically increase falling acceleration by becoming airborn after performing a [[crawlturncancel]], and continuing to hold in the crawl-turn direction. This can allow for stunning or killing slugcat from much shorter falls than usually possible.
 
 ## Notes
 This move is possible regardless of whether the [[crawlturncancel]] is performed from a [[crawlturn]] or a [[ledgepullup]].

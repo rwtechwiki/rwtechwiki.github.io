@@ -163,7 +163,7 @@ By holding forwards and repeatedly hopping after an extended slide, momentum can
 It is possible to pounce out of an extended slide. This requires holding forward significantly longer than normal, as the extended slide needs to also be extended to full length.
 ![[epounce_header.gif]]
 
-[[extendedslideflip]]
+[[extendedslidespin]]
 It is also possible to slide flip out of extended slides. Like extended slide pouncing, this requires holding forward significantly longer, as the extended slide needs to also be extended to full length.
 ![[eflip_header.gif]]
 
