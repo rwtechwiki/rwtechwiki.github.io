@@ -35,5 +35,3 @@ Tags:
 - Rain Deer
 - Noodlefly
 
-Currently no confirmation whether or not Leviathans and Guardians can be eaten by Hunter.
-
