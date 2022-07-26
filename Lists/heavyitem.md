@@ -3,12 +3,12 @@ Note Type: #list
 Tags: #throw
 
 # Heavy Items (Weapons)
-spear
-rubble
-spore puff
-flashbang
-bubble fruit (unpopped)
-grenade
-explosive spear
-cherrybomb
-beehive
+- Spear
+- Rubble
+- Spore puff
+- Flashbang
+- Bubble fruit (unpopped)
+- Grenade
+- Explosive spear
+- Cherrybomb
+- Beehive

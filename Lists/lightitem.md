@@ -3,19 +3,19 @@ Note Type: #list
 Tags: #throw
 
 # Light Items
-blue fruit
-bubble fruit (popped)
-slime mold
-batfly
-vulture grub
-centipede
-jellyfish
-neuron fly
-baby noodlefly
-hazer
-pearl
-batnip
-bubble weed
-mushroom
-karma flower
-lantern
+- Blue fruit
+- Bubble fruit (popped)
+- Slime mold
+- Batfly
+- Vulture grub
+- Centipede
+- Jellyfish
+- Neuron fly
+- Baby noodlefly
+- Hazer
+- Pearl
+- Batnip
+- Bubble weed
+- Mushroom
+- Karma flower
+- Lantern
