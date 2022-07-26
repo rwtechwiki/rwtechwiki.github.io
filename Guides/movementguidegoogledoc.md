@@ -9,7 +9,7 @@ Tags: #googledoc, [link](https://docs.google.com/document/d/1o3gouaiHsHT2H9d2HD5
 ![[jump_header.gif]]
 
 ## Recommendations
-[[movedocrecs]]
+[[movementdocrecommendations]]
 Here are a few basic essential moves for players of all skill levels unsure where to start:
 
 ## Basic Moves
