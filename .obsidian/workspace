@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Guides/wiggleswimming.md",
+            "file": "Meta/main.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guides/wiggleswimming.md",
+                "file": "Meta/main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guides/wiggleswimming.md",
+                "file": "Meta/main.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -113,15 +113,15 @@
   },
   "active": "7466aebe7e4034b9",
   "lastOpenFiles": [
+    "Guides/vulturedemasking.md",
+    "Lists/movementdocrecommendations.md",
+    "Guides/movementguidegoogledoc.md",
+    "Movement/airjump.md",
+    "Guides/wiggleswimming.md",
     "Guides/rollpouncechaining.md",
     "Guides/pianoinginputs.md",
-    "Guides/wiggleswimming.md",
     "Guides/fastpoleclimbing.md",
-    "Guides/movedoc.md",
     "Movement/throw.md",
-    "Movement/turndrop.md",
-    "Movement/crawlturnfastfall.md",
-    "Movement/ledgedrop.md",
-    "Movement/crawlturncanceltumble.md"
+    "Movement/turndrop.md"
   ]
 }
