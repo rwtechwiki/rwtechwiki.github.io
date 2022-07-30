@@ -11,10 +11,10 @@ It is possible to return slugcat to the ground the same frame a jump input is pr
 
 
 ## Performed from
-
+[[jumptype]]
 
 ## Allows for
-
+[[jumpstore]]
 
 ## Chains to
 
