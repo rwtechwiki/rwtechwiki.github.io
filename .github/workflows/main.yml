@@ -17,4 +17,4 @@ jobs:
           # Provide personal access token
           TOKEN: ${{ secrets.GITHUB_TOKEN }}
           # Using zola fork for html changes
-          ZOLA_REPO: '''https://github.com/rwtechwiki/obsidian-zola'''
+          ZOLA_REPO: '''https://github.com/rwtechwiki/obsidian-zola.git'''
