@@ -4,15 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4e612aade8bf1ca9",
+        "id": "7466aebe7e4034b9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Guides/fastpoleclimbing.md",
+            "file": "Lists/passages.md",
             "mode": "source",
             "source": false
           }
+        }
         }
       }
     ],
@@ -69,7 +70,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guides/fastpoleclimbing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guides/fastpoleclimbing.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -111,17 +110,8 @@
     "width": 235,
     "collapsed": true
   },
-  "active": "8b91f66ba02e846e",
+  "active": "9118e39591776964",
   "lastOpenFiles": [
-    "Guides/lizardhunting.md",
-    "Guides/fastpoleclimbing.md",
-    "Guides/wiggleswimming.md",
-    "Guides/vulturedemasking.md",
-    "Guides/saintmonk.md",
-    "Guides/rollpouncechaining.md",
-    "Guides/pianoinginputs.md",
-    "Guides/movementguidegoogledoc.md",
-    "Guides/lizardstunlocking.md",
-    "Movement/tunnelturn.md"
+    "Movement/crouchtumble.md"
   ]
 }

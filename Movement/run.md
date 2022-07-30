@@ -1,4 +1,4 @@
-Status: #partdone, #needsgif
+Status: #partdone
 Note Type: #move
 Tags: #fundimentals, #intended 
 
