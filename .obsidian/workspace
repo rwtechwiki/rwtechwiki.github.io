@@ -14,17 +14,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "9118e39591776964",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "ScoreRun/scorerunrules.md",
-            "mode": "source",
-            "source": false
-          }
         }
       }
     ],
@@ -52,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cancel",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +70,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ScoreRun/scorerunrules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ScoreRun/scorerunrules.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,15 +112,6 @@
   },
   "active": "9118e39591776964",
   "lastOpenFiles": [
-    "Lists/passages.md",
-    "Lists/movementdocrecommendations.md",
-    "Lists/lightitem.md",
-    "Lists/heavyitem.md",
-    "Lists/foodtypes.md",
-    "Lists/slugcatstats.md",
-    "Lists/rollstarters.md",
-    "Lists/pointstable.md",
-    "Movement/airorient.md",
     "Movement/crouchtumble.md"
   ]
 }

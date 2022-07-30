@@ -1,4 +1,4 @@
-Status: #partdone
+Status: #toreview 
 Note Type: #move, #variant, [[throw]]
 Tags: #fundimentals, #intended, #slide 
 

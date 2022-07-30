@@ -10,7 +10,7 @@ This is a version of [[roll]], produced by holding a controller joystick at an a
 ## Notes
 Due to the shortened duration of this move, it is not possible for it to produce a [[rollpounce]] high enough to chain to another roll. 
 
-The roll ends in the standing state.
+The roll ends in the standing state as opposed to a [[crouch]], and so it is not possible to [[rollslide]].
 
 ## Performed from
 [[roll]]
