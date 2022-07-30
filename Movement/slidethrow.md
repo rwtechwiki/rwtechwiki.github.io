@@ -25,7 +25,7 @@ ___
 # Gifs
 ## Pounce Alternate
 ![[slidethrow_pounce.gif]]
-## Flip Alternate
+## Spin Alternate
 ![[slidethrow_flip.gif]]
 ## Extended Alternate
 ![[slidethrow_extended.gif]]
