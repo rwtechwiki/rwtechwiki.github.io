@@ -1,4 +1,4 @@
-Status: #stub
+Status: #toreview 
 Note Type: 
 Tags: #score, #spoilers 
 # Hunter Cycles

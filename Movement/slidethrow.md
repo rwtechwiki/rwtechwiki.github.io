@@ -26,7 +26,7 @@ ___
 ## Pounce Alternate
 ![[slidethrow_pounce.gif]]
 ## Spin Alternate
-![[slidethrow_flip.gif]]
+![[slidethrow_spin.gif]]
 ## Extended Alternate
 ![[slidethrow_extended.gif]]
 ## Bulk

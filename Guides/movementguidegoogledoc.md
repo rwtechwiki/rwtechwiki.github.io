@@ -9,7 +9,7 @@ Tags: #googledoc, [link](https://docs.google.com/document/d/1o3gouaiHsHT2H9d2HD5
 ![[jump_header.gif]]
 
 ## Recommendations
-[[movedocrecs]]
+[[movementdocrecommendations]]
 Here are a few basic essential moves for players of all skill levels unsure where to start:
 
 ## Basic Moves
@@ -163,7 +163,7 @@ By holding forwards and repeatedly hopping after an extended slide, momentum can
 It is possible to pounce out of an extended slide. This requires holding forward significantly longer than normal, as the extended slide needs to also be extended to full length.
 ![[epounce_header.gif]]
 
-[[extendedslideflip]]
+[[extendedslidespin]]
 It is also possible to slide flip out of extended slides. Like extended slide pouncing, this requires holding forward significantly longer, as the extended slide needs to also be extended to full length.
 ![[eflip_header.gif]]
 

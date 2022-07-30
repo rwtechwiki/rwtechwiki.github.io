@@ -3,7 +3,6 @@ Note Type: #list
 Tags: 
 
 # Slugcat stats
-
 |                       | Survivor | Monk | Hunter |
 |-----------------------|----------|------|--------|
 |Food to hibernate      |4         |3     |6       |

@@ -31,7 +31,7 @@ Similarly if the slide enters a ground level horizontal tunnel entrance, a well-
 It is also possible to begin a slide from the crouch state by inputting up, forward and jump for exactly 1 frame before switching to down, forward and jump. This allows for a slide with pre-existing, especially inverse-direction, [[turnstore]].
 
 ## Performed from
-[[run]], [[rollslide]], [[ledgedropfastfall]]
+[[run]], [[rollslide]], [[ledgedrop]]
 
 ## Allows for
 [[slidethrow]]

@@ -1,15 +1,16 @@
 Status: #partdone
 Note Type: #lists
 Tags: #score 
+
 # Points Table
-Most creatures will award the player points when killed in Hunter Mode. These are the points that will become the 'KillScore' when the player's [final score is calculated](scorecalculation.md). Below are each of the creatures worth in points.
+Most creatures will award the player points when killed in Hunter Mode. These are the points that will become the 'KillScore' when the player's [[scorecalculation|final score is calculated]]. Below are each of the creatures worth in points.
 
 |Creature         |Score  |  |Creature                  |Score  |
 |-----------------|-------|--|--------------------------|-------|
 |Green Lizard     |10     |  |Large/Overgrown Centipede |7      |
 |Pink Lizard      |7      |  |Red Centipede             |19     |
 |Blue Lizard      |6      |  |Centiwing                 |5      |
-|White Lizard     |8      |  |Glowpher                  |2      |
+|White Lizard     |8      |  |Lantern Mouse             |2      |
 |Black Lizard     |7      |  |Wolf Spider               |4      |
 |Yellow Lizard    |6      |  |Red Spider                |5      |
 |Cyan Lizard      |9      |  |Miros Bird                |16     |

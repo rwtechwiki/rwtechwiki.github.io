@@ -1,6 +1,7 @@
 Status: #toreview  
 Note Type: #list
 Tags: 
+
 # Food Types
 ## Vegetarian
 - Blue Fruit
@@ -15,7 +16,7 @@ Tags:
 - Jellyfish
 - Vulture Grubs
 - Hazers
-- Eggbug eggs
+- Eggbug Eggs
 - Baby Noodleflies
 
 ### Hunter Exclusive
@@ -28,12 +29,9 @@ Tags:
 - Wolf Spiders
 - Red Spiders
 - Miros Birds
-- Glowphers
+- Lantern Mice
 - Daddy and Brother Long Legs
 - Dropwigs
 - Eggbugs
 - Rain Deer
 - Noodlefly
-
-Currently no confirmation whether or not Leviathans and Guardians can be eaten by Hunter.
-

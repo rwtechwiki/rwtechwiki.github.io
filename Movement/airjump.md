@@ -1,5 +1,5 @@
 Status: #toreview
-Note Type: #movetype, #variant
+Note Type: #movetype
 Tags: #fundimentals, #intended
 
 # Air-Jump
