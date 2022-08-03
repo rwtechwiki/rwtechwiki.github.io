@@ -20,7 +20,7 @@ Most creatures will award the player points when killed in Hunter Mode. These ar
 |Snail            |1      |  |Eggbug                    |2      |
 |Pole Plant       |2      |  |Dropwig                   |5      |
 |Monster Kelp     |7      |  |Adult Noodlefly           |5      |
-|Scavenger        |7      |  |Jetfish                   |4      |
+|Scavenger        |6      |  |Jetfish                   |4      |
 |Vulture          |15     |  |Leviathan                 |25     |
 |King Vulture     |25     |  |Overseer                  |1      |
 |Small Centipede  |7      |  |Garbage Worm              |1      |
