@@ -1,4 +1,4 @@
-Status: #partdone
+Status: #toreview
 Note Type: 
 Tags: #score, #spoilers
 # Score Calculation 
