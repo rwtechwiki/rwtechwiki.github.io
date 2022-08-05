@@ -26,10 +26,10 @@ Eat only [[foodtypes|meat]] for 5 cycles in a row (12 points at 2 points per cyc
 Rest with a friendly lizard 3 cycles in a row. Resting without a friendly lizard resets progress.
 
 ### Monk
-Eat only [[foodtypes|vegetarian food]] for 5 cycles in a row (12 points at 2 points per cycle). Dying counts as -1. Eating *meat* resets the Passage progress.
+Eat only [[foodtypes|vegetarian food]] for 5 cycles in a row (10 points at 2 points per cycle). Dying counts as -1. Eating *meat* resets the Passage progress.
 
 ### Saint
-Do not take aggressive action against any creature for 6 cycles in a row (12 points at 2 points per cycle). Any aggressive action resets progress. Throwing rocks or sticks near creatures can count as aggressive action. Dying is -1.
+Do not take aggressive action against any creature for 6 cycles in a row (12 points at 2 points per cycle). Any aggressive action resets progress. Throwing rocks or sticks near creatures can count as an aggressive action. Dying is -1.
 
 ### Scholar
 Touch 3 of the colored pearls in the game. 
