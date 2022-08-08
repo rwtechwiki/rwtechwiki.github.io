@@ -1,6 +1,7 @@
 Status: #toreview 
 Note Type: 
 Tags: #score, #spoilers 
+
 # Hunter Cycles
 Unlike Survivor and Monk, playing as Hunter includes a perma-death mechanic in the game. Hunter's cycle counter starts at 19 and decreases with every passing cycle - instead of starting at 1 and increasing, like the other slugcats. In case a death occurs after the cycle counter reaches 0, it will be permanent - meaning the player will no longer the able to access this save file.
 

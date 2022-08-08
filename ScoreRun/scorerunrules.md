@@ -1,6 +1,7 @@
 Status: #partdone 
 Note Type: 
 Tags: #score, #spoilers 
+
 # Official Score Run Rules
 To submit a score to the official leaderboards, there are some rules that should be followed during gameplay.
 

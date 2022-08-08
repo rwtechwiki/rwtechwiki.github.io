@@ -8,13 +8,13 @@ Tags: #fundimentals, #intended
 When mid-air after [[jumptype]] or [[hoptype]] moves, it is possible to [[stand]] or [[crouch]] using the up and down inputs. 
 
 ## Notes
-This allows for maintaining momentum from a [[chargehop]] or [[hop]], by [[jumptype|jumping]] or [[poleskip|poleskipping]].
+This allows for maintaining momentum from a [[chargehop]] or [[hop]], by [[jumptype|jumping]] or [[polebounce|poleskipping]].
 
 ## Performed from
 [[jumptype]]
 
 ## Allows for
-[[jump]], [[poleskip]]
+[[jump]], [[polebounce]]
 
 ## Chains to
 
