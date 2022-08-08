@@ -10,7 +10,7 @@ By holding jump for 20 frames when crouching, slugcat's back arches and horizont
 ## Notes
 This move does not use a fixed arc, so holding forward from the very start of the hop is important for maximising distance travelled. The forward button can be safely held as soon as slugcat's back arches, as the game will only receive the input once jump is released.
 
-Like all [[hoptype]] moves, it is possible to input up to [[airorient|orient]] slugcat into the standing state midair. This allows for a [[ledgepullup]] or [[poleskip]], helping with certain long jumps.
+Like all [[hoptype]] moves, it is possible to input up to [[airorient|orient]] slugcat into the standing state midair. This allows for a [[ledgepullup]] or [[polebounce]], helping with certain long jumps.
 
 ## Performed from
 

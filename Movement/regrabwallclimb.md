@@ -2,8 +2,8 @@ Status: #partdone
 Note Type: #move
 Tags: #unintended, #wall 
 
-# Wall-Regrab
-![[wallregrab_header.gif]]
+# Regrab Wallclimb
+![[regrabwallclimb_header.gif]]
 ## Description
 It is possible to slow or even reverse a [[wallslide]] by repeatedly letting go of the input direction towards the wall for as little as 1 frame before pressing it back.
 
@@ -22,13 +22,13 @@ It is possible to slow or even reverse a [[wallslide]] by repeatedly letting go 
 ___
 # Gifs
 ## Bulk
-![[wallregrab_0.gif]]
-![[wallregrab_1.gif]]
-![[wallregrab_2.gif]]
-![[wallregrab_3.gif]]
-![[wallregrab_4.gif]]
-![[wallregrab_5.gif]]
-![[wallregrab_6.gif]]
-![[wallregrab_7.gif]]
-![[wallregrab_8.gif]]
-![[wallregrab_9.gif]]
+![[regrabwallclimb_0.gif]]
+![[regrabwallclimb_1.gif]]
+![[regrabwallclimb_2.gif]]
+![[regrabwallclimb_3.gif]]
+![[regrabwallclimb_4.gif]]
+![[regrabwallclimb_5.gif]]
+![[regrabwallclimb_6.gif]]
+![[regrabwallclimb_7.gif]]
+![[regrabwallclimb_8.gif]]
+![[regrabwallclimb_9.gif]]

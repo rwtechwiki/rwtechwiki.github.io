@@ -14,7 +14,7 @@ By holding towards a wall while off the ground, slugcat will slide slowly downwa
 
 
 ## Allows for
-[[wallregrab]]
+[[regrabwallclimb]]
 
 ## Chains to
 [[walljump]], [[coyotewalljump]], [[throwdoublewalljump]], [[ledgepullup]]

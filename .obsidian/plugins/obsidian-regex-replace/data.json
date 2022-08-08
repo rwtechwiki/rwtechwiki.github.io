@@ -1,6 +1,6 @@
 {
-  "findText": "ledgedropfastfall",
-  "replaceText": "ledgedrop",
+  "findText": "waterskip",
+  "replaceText": "waterbounce",
   "useRegEx": true,
   "selOnly": false,
   "caseInsensitive": false,
