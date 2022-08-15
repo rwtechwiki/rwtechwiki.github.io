@@ -1,6 +1,7 @@
 Status: #toreview
 Note Type: 
 Tags: #score, #spoilers
+
 # Score Calculation 
 At the end of a [[huntermode|Score Run]], a player's score is calculated using the following formula:
 

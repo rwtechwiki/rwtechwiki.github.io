@@ -1,6 +1,7 @@
 Status: #partdone
 Note Type: 
 Tags: #score, #spoilers
+
 # Hunter Mode
 After beating Rain World with either Survivor or Monk, your save file will now have the Hunter character available. While playing as Hunter, besides the [[slugcatstats|stat changes]], there are two main mechanical differences which will be relevant for this note:
 

@@ -1,6 +1,7 @@
 Status: #toreview  
 Note Type: #list
 Tags: 
+
 # Food Types
 ## Vegetarian
 - Blue Fruit
