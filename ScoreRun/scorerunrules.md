@@ -22,7 +22,7 @@ An additional concept worth mentioning is that the starvation mechanic in the ga
 ### General Guidelines
 - A Score Run is a test of skill for traditional Rain World gameplay.
 - All runs should be submitted with a full screenshot of the 'statistics' screen.
-- Runs with a score above 50k should be recorded.
+- Runs with a score above 50k must be recorded in video and made available somewhere for evaluation.
 - Starving is not allowed unless a rule states otherwise.
 
 ### Specific Rules
