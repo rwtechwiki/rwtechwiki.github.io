@@ -1,11 +1,11 @@
-Status: #partdone
+Status: #toreview 
 Note Type: #move, #variant, [[throw]]
 Tags: #fundimentals, #intended, #slide 
 
 # Extended-Slide / Eslide
 ![[extendedslide_header.gif]]
 ## Description
-There is a window to extend a [[slide]] by throwing a weapon item backwards during frames 10 through 15 of the slide. The extended slide lasts considerably longer, and has a slightly larger window to perform the corresponding [[extendedslidepounce]] and [[extendedslideflip]].
+There is a window to extend a [[slide]] by throwing a weapon item backwards during frames 10 through 15 of the slide. The extended slide lasts considerably longer, and has a slightly larger window to perform the corresponding [[extendedslidepounce]] and [[extendedslidespin]].
 
 ## Notes
 Unlike normal slides, extended slides are not stopped by slugcat becoming airborn. This allows for any extendedslide-exiting move to be performed after dropping down to a lower floor, and for the ending pop-up of the extendedslide to occur midair.
@@ -18,7 +18,7 @@ There is a window to [[extendedslideinstantpounce]] by pressing jump on the same
 
 There is a window to [[extendedslidejump]] by pressing jump during frames 1 through 26 (after the throw input).
 
-There is a window to [[extendedslidepounce]] or [[extendedslideflip]] by pressing jump during frames 27 through 31 (after the throw input).
+There is a window to [[extendedslidepounce]] or [[extendedslidespin]] by pressing jump during frames 27 through 31 (after the throw input).
 
 There is a window to [[slidethrow]] by throwing an item forwards mid-slide.
 
@@ -29,7 +29,7 @@ There is a window to [[slidethrow]] by throwing an item forwards mid-slide.
 [[extendedslidethrow]]
 
 ## Chains to
-[[extendedslidejump]], [[extendedslideflip]], [[extendedslideinstantpounce]], [[extendedslidepounce]]
+[[extendedslidejump]], [[extendedslidespin]], [[extendedslideinstantpounce]], [[extendedslidepounce]]
 
 ___
 # Gifs

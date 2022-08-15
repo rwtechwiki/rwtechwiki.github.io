@@ -1,6 +1,6 @@
 {
-  "findText": "slideflipbounce",
-  "replaceText": "spinbounce",
+  "findText": "waterskip",
+  "replaceText": "waterbounce",
   "useRegEx": true,
   "selOnly": false,
   "caseInsensitive": false,

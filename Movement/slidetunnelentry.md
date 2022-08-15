@@ -1,5 +1,5 @@
 Status: #partdone, #needsgif 
-Note Type: #move, #initiator, [[jumpstore]]
+Note Type: #move
 Tags: #fundimentals, #intended, #slide, #tunnel
 
 # Slide Tunnel-Entry

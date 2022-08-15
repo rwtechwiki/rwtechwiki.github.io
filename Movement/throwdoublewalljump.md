@@ -5,7 +5,7 @@ Tags: #unintended, #throw
 # Throw Double-Walljump / TDwalljump
 ![[throwdoublewalljump_header.gif]]
 ## Description
-By inputting throw the frame after a [[walljump]], still holding towards the wall, it is possible to both wall-jump and regain the ability to [[walljumptype]] midair for 15 frames.
+By inputting throw the frame after a [[walljump]], still holding towards the wall, it is possible regain the ability to wall-jump midair for 15 frames after the first.
 
 ## Notes
 

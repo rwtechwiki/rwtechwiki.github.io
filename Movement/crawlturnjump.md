@@ -10,6 +10,8 @@ If you perform a [[crawlturncancel]], there is a 5-frame window after leaving th
 ## Notes
 This gives slugcat roughly 1 extra tile of jump height, becoming able to [[ledgepullup]] 5-tile walls.
 
+It is possible to gain less than a tile of extra height by holding backwards quickly after this move.
+
 ## Performed from
 [[crawlturncancel]]
 

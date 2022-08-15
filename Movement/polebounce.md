@@ -2,8 +2,8 @@ Status: #partdone
 Note Type: #move
 Tags: #intended, #pole 
 
-# Pole-Skip
-![[poleskip_header.gif]]
+# Pole-Bounce
+![[polebounce_header.gif]]
 ## Description
 When slugcat is travelling travelling horizontally while upright and midair, it is possible to skip off a horizontal pole with a very precise jump input as slugcats feet drop to the level of the pole.
 
@@ -22,13 +22,13 @@ The window to perform this move is fewer frames the faster slugcat is falling, a
 ___
 # Gifs
 ## Bulk
-![[poleskip_0.gif]]
-![[poleskip_1.gif]]
-![[poleskip_2.gif]]
-![[poleskip_3.gif]]
-![[poleskip_4.gif]]
-![[poleskip_5.gif]]
-![[poleskip_6.gif]]
-![[poleskip_7.gif]]
-![[poleskip_8.gif]]
-![[poleskip_9.gif]]
+![[polebounce_0.gif]]
+![[polebounce_1.gif]]
+![[polebounce_2.gif]]
+![[polebounce_3.gif]]
+![[polebounce_4.gif]]
+![[polebounce_5.gif]]
+![[polebounce_6.gif]]
+![[polebounce_7.gif]]
+![[polebounce_8.gif]]
+![[polebounce_9.gif]]

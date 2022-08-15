@@ -9,13 +9,13 @@ Tags: #googledoc, [link](https://docs.google.com/document/d/1o3gouaiHsHT2H9d2HD5
 ![[jump_header.gif]]
 
 ## Recommendations
-[[movedocrecs]]
 Here are a few basic essential moves for players of all skill levels unsure where to start:
+[[movedocrecommendations]]
 
 ## Basic Moves
 ### Jumping
 [[ledgepullup]]
-When hitting a wall just below a ledge, holding forwards and pressing jump allows Slugcat to climb up.
+When hitting a wall just below a ledge, holding forwards and pressing jump allows slugcat to climb up.
 ![[ledgepullup_header.gif]]
 Note that pressing against walls gives Slugcat friction, and so jumping towards the ledge is best to gain maximum height.
 
@@ -163,7 +163,7 @@ By holding forwards and repeatedly hopping after an extended slide, momentum can
 It is possible to pounce out of an extended slide. This requires holding forward significantly longer than normal, as the extended slide needs to also be extended to full length.
 ![[epounce_header.gif]]
 
-[[extendedslideflip]]
+[[extendedslidespin]]
 It is also possible to slide flip out of extended slides. Like extended slide pouncing, this requires holding forward significantly longer, as the extended slide needs to also be extended to full length.
 ![[eflip_header.gif]]
 
@@ -291,7 +291,7 @@ Sufficient pole momentum for a midair jump can also be gained via a slide, most 
 Pressing jump + forward mid pullup propels Slugcat forward, which is useful for long stretches of pole.
 ![[polepullupjump_header.gif]]
 
-[[poleskip]]
+[[polebounce]]
 Pole hopping is done by jumping, holding forward, and tapping jump while hitting the pole.  
 To pole hop from pounce, release and enter the upright position in mid air by immediately pressing up, then let go of up and jump in time to hop. This is significantly faster than jump pole hopping.
 ![[polehop_header.gif]]
@@ -379,7 +379,7 @@ The speed burst from releasing turn storage by standing from crouch can be prolo
 ![[waterboost_header.gif]]
 [[wiggleswimming]]
 ![[wiggleswimming_header.gif]]
-[[waterskip]]
+[[waterbounce]]
 ![[waterhop_header.gif]]
 
 ## Combat
