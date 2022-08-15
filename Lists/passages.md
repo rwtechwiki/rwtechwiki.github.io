@@ -8,7 +8,7 @@ Passages are in-game objectives that can be completed during a playthrough of Ra
 There are a total of ten passages that can be obtained.
 
 ### Survivor
-Rest 5 times at max Karma level. **This Passage must be completed for any other achievement progression to be made.**
+Rest 5 times at max Karma level. **This Passage must be completed for any other Passage progression to be made.**
 
 ### Wanderer
 Enter and rest in every region.
