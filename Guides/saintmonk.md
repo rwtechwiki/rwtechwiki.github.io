@@ -1,4 +1,4 @@
- Status: #partdone
+ Status: #toreview 
 Note Type: 
 Tags: #score, #spoilers 
 
@@ -8,9 +8,11 @@ During Score Runs, the player is always trying to maximize the amount of kills d
 As explained in in the [[passages|Passages]] page, achieving Monk means eating only "vegetarian" food for 5 cycles, while achieving Saint requires spending 6 cycles without harming any other creature.
 
 ## Starting conditions
-It doesn't matter too much at what point in a run the player decides to start doing the Saint/Monk cycles. As long as Hunter has the ability to meet echoes and the Survivor Passage has already been completed, hibernating while fulfilling the Passages' conditions will start Saint/Monk progress. It is also worth noting that Hunter does not need to priorly go to an Echo's location to "prime it" like Survivor does.
+It doesn't matter too much at what point in a run the player decides to start doing the Saint/Monk cycles. However, players often aim to start this process later into the run (around cycle 6 or 5) to maximize the time the Chimney Canopy Echo can be used for [[vulturecheese|Vulture Cheese]].
 
-Currently, the optimal shelter to start the Saint/Monk cycles is the upper one in Industrial Complex, HI_S05. You'll want to hibernate in this shelter with 2 objects stored in it: a "vegetarian" food and a King Vulture mask. For the first item, there are easy blue fruits no more then two rooms away, in HI_C11 and HI_A11 - or alternatively, a neuron from Five Pebbles can be brought along. For the second item, please read the [[vulturehunting|vulture hunting guide]] or the [[vulturecheese|vulture cheesing page]].
+As long as Hunter has the ability to meet echoes and the Survivor Passage has already been completed, hibernating while fulfilling the Passages' conditions will start Saint/Monk progress. It is also worth noting that Hunter does not need to priorly go to an Echo's location to "prime it" like Survivor does.
+
+Currently, the optimal shelter to start the Saint/Monk cycles is the upper one in Industrial Complex, HI_S05. You'll want to hibernate in this shelter with 2 objects stored in it: a "vegetarian" food and a King Vulture mask. For the first item, there are easy blue fruits no more then two rooms away, in HI_C11 and HI_A11 - or alternatively, a neuron from Five Pebbles can be brought along. For the second item, please read the [[vulturehunting|vulture hunting guide]].
 
 ## The loop
 As explained in the [[passagestorage|passage storage page]], dying or meeting an Echo in a starve cycle will keep the Passage progress of the previous cycle, even though the game returns to the beginning of said previous cycle. 
