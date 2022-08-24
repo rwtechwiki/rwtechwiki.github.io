@@ -5,10 +5,10 @@ Tags: #fundimentals, #unintended, #slide
 # Extended-Slide Instant-Hop / ESIhop
 ![[extendedslideinstanthop_header.gif]]
 ## Description
-If down is input on frame 2 of an [[extendedslidejump]], the move becomes an extendedslideinstanthop, giving slugcat significantly more speed, as long as the ehop was a frame 1 jump input after the [[slide]] (an eihop).
+If down is input on frame 2 of an [[extendedslideinstantjump]], the move becomes an eslide ihop, giving slugcat significantly more speed.
 
 ## Notes
-
+When performed on later [[extendedslidejump]] moves, slugcat tends to flop backwards midair and not get anywhere near as much distance.
 
 ## Performed from
 [[extendedslidejump]]

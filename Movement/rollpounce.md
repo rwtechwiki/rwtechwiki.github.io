@@ -10,7 +10,7 @@ A variant of a [[pounce]], produced by pressing jump at any point during a [[rol
 ## Notes
 This move can be rolled out of only if slugcat falls from high enough. It is possible to reach this height on flat ground by waiting until the last few frames of most rolls.
 
-It is possible to buffer the jump input in order to roll-pounce on the first frame of the roll, giving a very short burst of forward momentum. This lends itself well to a [[hop]] in order to keep some of the momentum.
+It is possible to buffer the jump input in order to roll-pounce on the first frame of the roll, giving a very short burst of forward momentum. This lends itself well to a [[hop]] in order to keep some of the momentum. This alternate can look as though slugcat pounces midair, when falling with enough speed.
 
 ## Performed from
 [[roll]], [[fastroll]]
