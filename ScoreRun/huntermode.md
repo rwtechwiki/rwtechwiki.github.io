@@ -12,6 +12,6 @@ While playing Hunter Mode, there are also [[hunterobjectives|3 story objectives]
 
 The same can be said about [[passages|Passages]]: in-game achievements that can be completed during a run and, in Hunter Mode, multiply the player's score. These Passages are the same ones that can be obtained in the Survivor and Monk game modes.
 
-Finally, a playthrough of the Hunter Mode is generally referred to as a Score Run. Even though Hunter can be played with the same dynamics as Survivor, these notes will focus on the concept of playing a run while attempting to get the maximum possible score at the end of the run. 
+Finally, a playthrough of the Hunter Mode is generally referred to as a Score Run. Even though Hunter can be played with the same dynamics as Survivor, these #score notes will focus on the concept of playing while attempting to get the maximum possible score at the end of the run. 
 
 Much like any kind of competition, to submit a Score Run to the official leaderboard, there are some [[scorerunrules|rules]] that should be followed during gameplay. The game can be freely played without following these rules, however doing so will disqualify a run from being added to the leaderboards.
