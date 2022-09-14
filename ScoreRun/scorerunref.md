@@ -14,6 +14,8 @@ When doing a playthrough of [[huntermode|Hunter Mode]] while trying to maximize 
 
 One thing that should be noted too is that **everything is easier with a vulture mask**. Getting one can be done as early as the first cycle and becoming consistent in obtaining it is pretty much an essential tool for a score runner.
 
+Finally, [[doublespawn|double spawning]] will be mentioned a few times in this page. Doubling is essential for getting top-scoring runs, but if your goal is to learn and not necessarily break into the top 10, there is no need to double regions. Average scores of up to 20k points can be obtained without a single double-spawned region.
+
 ## Cycle 19
 Cycle 19 is the first cycle of a Score Run. Even though Hunter will always start in the same place and a player's general goal will always be the same, there are several possible ways to approach it. 
 
@@ -44,11 +46,47 @@ As previously stated, finishing the cycle on the bottom shelter, `LF_S01`, with 
 ### The path to Sky Islands
 Alternatively, another route that could be taken on cycle 19 is towards Sky Islands - which a lot less traditional but there are high-scoring runs that have used it in the past. The value in this path comes from the fact that it allows you to get closer to both Five Pebbles and the optimal [[vulturecheese|vulture cheese spot]], Chimney Canopy.
 
+The first point of interest is, again, the vulture grub from `LF_A04`. This grub can be used to [[vulturehunting|hunt vultures]] and get a mask in `LF_D03` just like in the path to Outskirts, however simply storing it and climbing up `LF_F02` towards `LF_A07` is also acceptable. The latter generally means spending a cycle in Sky Islands without a vulture mask, which is more likely to be acquired upon entering Chimney Canopy. 
+
+This initial climb towards Sky Islands can have a few adult or overgrown centipedes, so having two spears or a sporepuff is recommended.
+
+Sky Islands starts with four uneventful rooms, so first place you will be hunting here is probably `SI_D06`. The long flat surfaces are very favorable for killing the lizards even without a mask and a lot of creatures from other rooms tend to congregate here. In case the green pearl was kept, it can generally be traded to scavs during around here too.
+
+The next important part of this path is `SI_C02`. Even though this room doesn't have many natural spawns, cyans are constantly going in and out of the pipe that leads to `SI_C07` and can be stabbed with relative ease.
+
+Finally, the Sky Islands cycle 19 can either end on `SI_S04` or `SI_S05`. Both of these shelters can lead to easy starve fixes in case you want to [[doublespawn|double spawn]], but remember that doing so will prevent doubling Chimney Canopy on the following cycle - which is likely more optimal.
+
+### Concerning Scavengers
+While playing as Hunter, the slugcat's reputation will start at a lower then default value for all creatures. This means, among other things, that most scavengers will try to kill you on sight. So when meeting a wandering pack or lonely scavenger, there are three viable options:
+- Stay away from its range. If the scav is holding a spear upwards as in a throwing motion, it can probably hit you.
+- Stab it before it stabs you.
+- Drop everything you're holding and hope the scavenger decides to trade instead of killing you. This generally means this scav will no longer try to randomly kill you during this cycle.
+
+However, scavengers from tolls will only attack the player on sight in case their reputation is extremely low. Using tolls, either naturally or [[tollcheese|cheesing]] is generally the best way to raise your reputation and stay safe from wandering scavs.
+
 ## Getting Passages
+As explained in the [[passages|Passages]] page, each Passage will serve as a score multiplier in the end of the run. These are the general strategies for obtaining each one.
+
+Note that once a Passage is completed, it is impossible to lose Passage progress - except for Cheiftain. Only a completed Passage will count as a multiplier.
+
 ### Survivor
+Survivor is the first Passage needed to obtain the other ones and consists of just hibernating at maximum karma. There isn't much to say about getting it, except to avoid dying twice in a row. Ideally, a player would complete survivor in the first 6 cycles, but missing it is not run-ending. 
+
+These first cycles are mostly used to [[fixingdoubles|doubling and saving]] the three main regions for hunting - Outskirts, Industrial and Chimney - and maximize the amount of kills without being distracted by doing specific objectives for other Passages.
+
 ### Outlaw
+Outlaw is a rather simple passage to get in a Score Run, since you will already spend most of your cycle trying to kill creatures and the creatures that count for Outlaw progress can be eaten by Hunter.
+
+An easy way to complete Outlaw in a single cycle is using [[vulturecheese|vulture cheese]]. Otherwise, spending a cycle or two [[lizardhunting|killing lizards]] (which is the default Hunter gameplay) should generally be enough to achieve the Passage.
+
 ### Hunter
+Completing the Hunter Passage happens naturally during a Hunter run, since the requirement for Passage progress is simply eating meat for five cycles in a row and Hunter can feed mostly on meat only. Remember that neurons do not count as meat, so make sure not to eat one during Hunter cycles (while being full, a neuron can be stored in Slugcat's stomach without breaking Hunter).
+
+The most important detail is to have a clear goal of when to start Passage progress: before or after the Saint/Monk cycles - given that Monk progress will break Hunter, as expected.
+
 ### Scholar
+Scholar Passage progress happens when Slugcat touches a colored pearl and luckily there are two colored pearls near the top of Five Pebbles, which is always visited in Score Runs.
+
 ### Dragon Slayer
 ### Saint and Monk
 ### Friend
