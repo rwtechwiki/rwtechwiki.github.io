@@ -1,0 +1,1 @@
+﻿.collapsible-section:hover{cursor:pointer;text-decoration:underline}.collapsible-section:after{content:"➕";font-size:0.8rem;float:right}.collapsible-section.open:after{content:"➖"}.dark .collapsible-section:after,.dark .collapsible-section.open:after{filter:brightness(150%)}.docs-links .collapsible-wrapper{overflow:hidden;transition:height 0.5s ease-out}
