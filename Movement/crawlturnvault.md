@@ -24,7 +24,7 @@ Slugcat ends this move in the crouch state, so an additional up input to [[airor
 ___
 # Gifs
 ## 6JS Alternate
-![[crawlturnvault_6JS]]
+![[crawlturnvault_6JS.gif]]
 ## 8JS Alternate
 ![[crawlturnvault_8JS]]
 ## Bulk
