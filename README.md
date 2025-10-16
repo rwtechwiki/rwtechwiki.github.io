@@ -4,6 +4,6 @@
 
 Wikipedia but for Rain World tech
 
-url: 
-from: 
+url:  
+from:  
 using: https://github.com/jackyzha0/quartz
