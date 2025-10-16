@@ -1,8 +1,14 @@
-Status: #partdone
-Note Type: #move, #variant, [[throw]]
-Tags: #fundimentals, #intended, #throw 
-
-# Down-Throw / DT
+---
+title: Down-Throw / DT
+tags:
+  - fundamentals
+  - intended
+  - throw
+  - move
+  - variant
+socialImage: embedHeaders/downthrow_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[downthrow_header.gif]]
 ## Description
 It is possible to [[throw]] an item downwards out of the flip state, by holding only the down input direction and pressing throw.

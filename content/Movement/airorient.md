@@ -1,8 +1,12 @@
-Status: #toreview
-Note Type: #move
-Tags: #fundimentals, #intended 
-
-# Air-Orient
+---
+title: Air-Orient
+tags:
+  - fundamentals
+  - intended
+  - move
+socialImage: embedHeaders/airorient_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[airorient_header.gif]]
 ## Description
 When mid-air after [[jumptype]] or [[hoptype]] moves, it is possible to [[stand]] or [[crouch]] using the up and down inputs. 

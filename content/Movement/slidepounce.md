@@ -1,6 +1,6 @@
 Status: #partdone
 Note Type: #move, #variant, [[pounce]]
-Tags: #fundimentals, #intended, #slide 
+Tags: #fundamentals, #intended, #slide 
 
 # Slide-Pounce
 ![[slidepounce_header.gif]]

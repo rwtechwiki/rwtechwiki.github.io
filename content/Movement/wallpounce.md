@@ -1,6 +1,6 @@
 Status: #partdone 
 Note Type: #move 
-Tags: #fundimentals, #intended, #pounce
+Tags: #fundamentals, #intended, #pounce
 
 # Wall Pounce
 ![[pounce_header.gif]]

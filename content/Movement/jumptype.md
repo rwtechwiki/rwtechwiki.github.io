@@ -1,8 +1,12 @@
-Status: #partdone 
-Note Type: #movetype
-Tags: #fundimentals, #intended 
-
-# Jump-Type
+---
+title: Jump-Type
+tags:
+  - fundamentals
+  - intended
+  - movetype
+socialImage: 
+socialDescription: One of the moves in Rain World 3
+---
 ## Description
 Outside certain slide windows and tunnels/poles, jump inputs usually allow for slugcat to propel itself around 2 tiles off the ground.
 

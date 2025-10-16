@@ -1,8 +1,14 @@
-Status: #partdone 
-Note Type: #move, #initiator, [[roll]]
-Tags: #unintended, #ledge, #roll
-
-# Ledge-Drop Roll / droproll
+---
+title: Ledge-Drop Roll / droproll
+tags:
+  - unintended
+  - ledge
+  - roll
+  - move
+  - initiator
+socialImage: embedHeaders/ledgedroproll_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[ledgedroproll_header.gif]]
 ## Description
 There is a window to [[roll]] upon dropping down a ledge of any number of tiles by performing a [[ledgedrop]].

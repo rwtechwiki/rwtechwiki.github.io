@@ -1,8 +1,14 @@
-Status: #partdone
-Note Type: #move, #initiator, [[roll]]
-Tags: #fundimentals, #intended, #roll 
-
-# Flip-Roll
+---
+title: Flip Roll
+tags:
+  - fundamentals
+  - intended
+  - roll
+  - move
+  - initiator
+socialImage: embedHeaders/fliproll_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[fliproll_header.gif]]
 ## Description
 It is possible to [[roll]] from a [[flip]] by holding down and left/right for enough frames before landing.

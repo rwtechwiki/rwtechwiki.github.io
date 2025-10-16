@@ -1,9 +1,13 @@
-Status: #stub, #needsgif 
-Note Type: #move, #variant, [[jumptype]]
-Tags: #unintended, #creature 
-
-# Jump Creature-Fling / jumpCF
-![[jumpcreaturefling_header.gif]]
+---
+title: Jump Creature-Fling / jumpCF
+tags:
+  - unintended
+  - creature
+  - move
+  - variant
+socialImage: embedHeaders/jumpcreaturefling_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ## Description
 
 

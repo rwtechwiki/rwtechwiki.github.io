@@ -1,6 +1,6 @@
 Status: #partdone, #needsgif 
 Note Type: #move
-Tags: #fundimentals, #intended, #slide, #tunnel
+Tags: #fundamentals, #intended, #slide, #tunnel
 
 # Slide Tunnel-Entry
 ![[slidetunnelentry_header.gif]]

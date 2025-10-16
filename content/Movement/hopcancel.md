@@ -1,8 +1,13 @@
-Status: #toreview 
-Note Type: #move, #initiator, [[jumpstore]]
-Tags: #unintended, #storage 
-
-# Hop-Cancel
+---
+title: Hop-Cancel
+tags:
+  - unintended
+  - storage
+  - move
+  - initiator
+socialImage: embedHeaders/hopcancel_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[hopcancel_header.gif]]
 ## Description
 It is possible to gain 6 jump-boost when grounded by inputting down to [[crouch]], and pressing and releasing jump before slugcat fully enters the crouch state.

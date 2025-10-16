@@ -1,8 +1,11 @@
-Status: #stub
-Note Type: #move
-Tags: #unintended
-
-# Extended-Slide Instant-Spin / ESIspin
+---
+title: Extended-Slide Instant-Spin / EIspin
+tags:
+  - unintended
+  - move
+socialImage: embedHeaders/extendedslideinstantspin_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[extendedslideinstantspin_header.gif]]
 ## Description
 

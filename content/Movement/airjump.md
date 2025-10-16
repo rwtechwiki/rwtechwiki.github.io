@@ -1,8 +1,12 @@
-Status: #toreview
-Note Type: #movetype
-Tags: #fundimentals, #intended
-
-# Air-Jump
+---
+title: Air-Jump
+tags:
+  - fundamentals
+  - intended
+  - movetype
+socialImage: 
+socialDescription: One of the moves in Rain World 3
+---
 ## Description
 When slugcat becomes airborn without use of the jump button, there is a 5-frame window after leaving the ground to hop by pressing jump. There is an equivalent window for a [[walljumptype]], with 15 frames within which slugcat is still able to [[jump]] after leaving a [[wallslide]].
 

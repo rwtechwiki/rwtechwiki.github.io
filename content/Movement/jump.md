@@ -1,8 +1,13 @@
-Status: #partdone
-Note Type: #move, #variant, [[jumptype]], #alternate, [[turnstoredflip]]
-Tags: #fundimentals, #intended 
-
-# Jump
+---
+title: Jump
+tags:
+  - fundamentals
+  - intended
+  - move
+  - variant
+socialImage: embedHeaders/jump_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[jump_header.gif]]
 ## Description
 By inputting jump while on the ground, slugcat can jump 2 tiles into the air. This allows for scaling 4-tile-high walls using a [[ledgepullup]].

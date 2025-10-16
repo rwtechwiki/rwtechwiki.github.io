@@ -1,8 +1,14 @@
-Status: #partdone
-Note Type: #move, #variant, [[pounce]]
-Tags: #fundimentals, #intended, #slide 
-
-# Extended-Slide Pounce / ESpounce
+---
+title: Extended-Slide Pounce / ESpounce
+tags:
+  - fundamentals
+  - intended
+  - slide
+  - move
+  - variant
+socialImage: embedHeaders/extendedslidepounce_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[extendedslidepounce_header.gif]]
 ## Description
 A variant of a [[pounce]], produced by pressing jump during frames 27 through 31 (after the throw input) of an [[extendedslide]]. It is always possible to [[pounceroll]] from this move.

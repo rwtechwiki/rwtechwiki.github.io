@@ -1,6 +1,6 @@
 Status: #partdone
 Note Type: #move
-Tags: #fundimentals, #intended, #creature, #throw 
+Tags: #fundamentals, #intended, #creature, #throw 
 
 # Mouth-Spear
 ![[mouthspear_header.gif]]

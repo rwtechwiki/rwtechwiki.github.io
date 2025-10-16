@@ -1,6 +1,6 @@
 Status: #partdone
 Note Type: #move
-Tags: #fundimentals, #intended 
+Tags: #fundamentals, #intended 
 
 # Stand
 ![[stand_header.gif]]

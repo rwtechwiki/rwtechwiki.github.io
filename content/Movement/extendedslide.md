@@ -1,8 +1,14 @@
-Status: #toreview 
-Note Type: #move, #variant, [[throw]]
-Tags: #fundimentals, #intended, #slide 
-
-# Extended-Slide / Eslide
+---
+title: Extended-Slide / Eslide
+tags:
+  - fundamentals
+  - intended
+  - slide
+  - move
+  - variant
+socialImage: embedHeaders/extendedslide_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[extendedslide_header.gif]]
 ## Description
 There is a window to extend a [[slide]] by throwing a weapon item backwards during frames 10 through 15 of the slide. The extended slide lasts considerably longer, and has a slightly larger window to perform the corresponding [[extendedslidepounce]] and [[extendedslidespin]].

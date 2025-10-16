@@ -1,9 +1,13 @@
-Status: #stub, #needsgif 
-Note Type: #move, #variant, [[flip]]
-Tags: #unintended, #creature
-
-# Flip Creature-Fling / flipCF
-![[flipcreaturefling_header.gif]]
+---
+title: Flip Creature-Fling / flipCF
+tags:
+  - unintended
+  - creature
+  - move
+  - variant
+socialImage: 
+socialDescription: One of the moves in Rain World 3
+---
 ## Description
 
 

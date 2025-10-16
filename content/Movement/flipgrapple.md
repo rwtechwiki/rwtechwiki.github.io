@@ -1,9 +1,13 @@
-Status: #stub, #needsgif 
-Note Type: #move, #variant, [[flip]]
-Tags: #unintended, #creature 
-
-# Flip-Grapple
-![[flipgrapple_header.gif]]
+---
+title: Flip Grapple
+tags:
+  - unintended
+  - creature
+  - move
+  - variant
+socialImage: embedHeaders/slide_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ## Description
 
 

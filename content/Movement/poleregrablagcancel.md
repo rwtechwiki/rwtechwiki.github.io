@@ -1,6 +1,6 @@
 Status: #partdone
 Note Type: #move
-Tags: #fundimentals, #unintended, #pole 
+Tags: #fundamentals, #unintended, #pole 
 
 # Pole-Regrab Lag-Cancel
 ![[poleregrablagcancel_header.gif]]

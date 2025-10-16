@@ -1,8 +1,15 @@
-Status: #toreview
-Note Type: #move, #variant, [[airjump]], [[jumptype]], #alternate, [[turnstoredflip]], [[ledgepullup]]
-Tags: #fundimentals, #unintended, #ledge, #crawlturn 
-
-# Crawl-Turn Jump / CTJ
+---
+title: Crawl-Turn Jump / CTJ
+tags:
+  - fundamentals
+  - unintended
+  - ledge
+  - crawlturn
+  - move
+  - variant
+socialImage: embedHeaders/crawlturnjump_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[crawlturnjump_header.gif]]
 ## Description
 If you perform a [[crawlturncancel]], there is a 5-frame window after leaving the ground where slugcat is able to jump mid-air.

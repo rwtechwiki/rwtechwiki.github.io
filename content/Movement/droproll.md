@@ -1,8 +1,14 @@
-Status: #partdone 
-Note Type: #move, #initiator, [[roll]]
-Tags: #intended, #roll 
-
-# Drop-Roll
+---
+title: Drop-Roll
+tags:
+  - fundamentals
+  - intended
+  - roll
+  - move
+  - initiator
+socialImage: embedHeaders/droproll_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[droproll_header.gif]]
 ## Description
 It is possible to [[roll]] from falling a height of at least 4 tiles by holding down and left/right for enough frames before landing.

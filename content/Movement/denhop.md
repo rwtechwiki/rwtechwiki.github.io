@@ -1,9 +1,12 @@
-Status: #stub, #needsgif 
-Note Type: #move, #alternate, [[jumpstoredboost]]
-Tags: #unintended, #slide
-
-# Den-Hop
-![[denhop_header.gif]]
+---
+title: Den-Hop
+tags:
+  - unintended
+  - slide
+  - move
+socialImage: 
+socialDescription: One of the moves in Rain World 3
+---
 ## Description
 
 

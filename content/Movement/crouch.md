@@ -1,8 +1,13 @@
-Status: #toreview
-Note Type: #move, #initiator, [[turnstore]]
-Tags: #fundimentals, #intended 
-
-# Crouch
+---
+title: Crouch
+tags:
+  - fundamentals
+  - intended
+  - move
+  - initiator
+socialImage: embedHeaders/crouch_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[crouch_header.gif]]
 ## Description
 By pressing down from the standing state, slugcat enters a crouching position, where it can crawl around and fit under 1-tile ceilings.

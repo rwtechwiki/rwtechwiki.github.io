@@ -1,8 +1,12 @@
-Status: #partdone 
-Note Type: #movetype
-Tags: #fundimentals, #intended
-
-# Flip
+---
+title: Flip
+tags:
+  - fundamentals
+  - movetype
+  - intended
+socialImage: 
+socialDescription: One of the moves in Rain World 3
+---
 ## Description
 A flip is a move which sets slugcat spinning at a constant speed in the air. It continues on a variable arc until contact with the ground.
 

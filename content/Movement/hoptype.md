@@ -1,8 +1,12 @@
-Status: #partdone 
-Note Type: #movetype
-Tags: #fundimentals, #intended 
-
-# Hop-Type
+---
+title: Hop-Type
+tags:
+  - fundamentals
+  - intended
+  - movetype
+socialImage: 
+socialDescription: One of the moves in Rain World 3
+---
 ## Description
 
 

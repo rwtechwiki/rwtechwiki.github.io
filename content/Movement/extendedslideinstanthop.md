@@ -1,8 +1,14 @@
-Status: #partdone
-Note Type: #move, #variant, [[jumptype]]
-Tags: #fundimentals, #unintended, #slide 
-
-# Extended-Slide Instant-Hop / ESIhop
+---
+title: Extended-Slide Instant-Hop / EIhop
+tags:
+  - fundamentals
+  - unintended
+  - slide
+  - move
+  - variant
+socialImage: embedHeaders/extendedslideinstanthop_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[extendedslideinstanthop_header.gif]]
 ## Description
 If down is input on frame 2 of an [[extendedslideinstantjump]], the move becomes an eslide ihop, giving slugcat significantly more speed.

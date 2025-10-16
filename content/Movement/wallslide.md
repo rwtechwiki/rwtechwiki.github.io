@@ -1,6 +1,6 @@
 Status: #partdone
 Note Type: #move
-Tags: #fundimentals, #intended, #wall 
+Tags: #fundamentals, #intended, #wall 
 
 # Wall-Slide
 ![[wallslide_header.gif]]

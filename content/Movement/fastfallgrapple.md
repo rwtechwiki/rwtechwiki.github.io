@@ -1,9 +1,14 @@
-Status: #stub, #needsgif 
-Note Type: #move, #variant, [[fastfall]]
-Tags: #unintended, #creature, #fastfall 
-
-# Fast-Fall-Grapple
-![[fastfallgrapple_header.gif]]
+---
+title: Fast-Fall-Grapple
+tags:
+  - unintended
+  - creature
+  - fastfall
+  - move
+  - variant
+socialImage: 
+socialDescription: One of the moves in Rain World 3
+---
 ## Description
 
 

@@ -1,6 +1,6 @@
 Status: #partdone
 Note Type: #move, #variant, [[jumptype]]
-Tags: #fundimentals, #intended 
+Tags: #fundamentals, #intended 
 
 # Turn-Jump
 ![[turnjump_header.gif]]

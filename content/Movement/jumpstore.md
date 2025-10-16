@@ -1,9 +1,12 @@
-Status: #partdone, #needsgif 
-Note Type: #move
-Tags: #unintended, #storage 
-
-# Jump-Store / JS
-![[jumpstore_header.gif]]
+---
+title: Jump-Store / JS
+tags:
+  - unintended
+  - storage
+  - move
+socialImage: 
+socialDescription: One of the moves in Rain World 3
+---
 ## Description
 Jump-boost is a value in the game's code which determines height during certain moves, based on how long jump is held as the move begins. For most moves, it is set to a non-zero value as slugcat leaves the ground, and is "cashed in" for upwards velocity for every frame jump is held.
 

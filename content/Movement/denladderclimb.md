@@ -1,9 +1,13 @@
-Status: #stub, #needsgif 
-Note Type: #move, #variant, [[jumptype]]
-Tags: #unintended, #wall 
-
-# Den Ladder-Climb
-![[denladderclimb_header.gif]]
+---
+title: Den Ladder-Climb
+tags:
+  - unintended
+  - wall
+  - move
+  - variant
+socialImage: 
+socialDescription: One of the moves in Rain World 3
+---
 ## Description
 
 

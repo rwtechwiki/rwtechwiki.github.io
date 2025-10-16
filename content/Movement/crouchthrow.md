@@ -1,8 +1,14 @@
-Status: #toreview 
-Note Type: #move, #variant, [[throw]]
-Tags: #fundimentals, #intended, #throw 
-
-# Crouch-Throw
+---
+title: Crouch-Throw
+tags:
+  - fundamentals
+  - intended
+  - throw
+  - move
+  - variant
+socialImage: embedHeaders/crouchthrow_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[crouchthrow_header.gif]]
 ## Description
 By throwing a [[heavyitem]] as slugcat is towards the end of a [[crouch]], it will have a downward trajectory.

@@ -1,8 +1,12 @@
-Status: #toreview, #needsalternategif 
-Note Type: #move, #alternate, [[turnstore]], [[runstore]]
-Tags: #fundimentals, #intended 
-
-# Dash-Turn
+---
+title: Dash-Turn
+tags:
+  - fundamentals
+  - intended
+  - move
+socialImage: embedHeaders/dashturn_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[dashturn_header.gif]]
 ## Description
 By turning around after [[run|running]] for more than 10 frames in the same direction. slugcat gains a burst of speed. With an early jump input, this move can chain to a [[turnflip]], and with a later input you can perform a [[turnjump]].

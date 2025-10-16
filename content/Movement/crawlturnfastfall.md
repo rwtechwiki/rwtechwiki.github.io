@@ -1,8 +1,14 @@
-Status: #partdone
-Note Type: #move, #alternate, [[ledgepullup]]
-Tags: #unintended, #ledge, #crawlturn, #fastfall
-
-# Crawl-Turn Fast-Fall / CTFF
+---
+title: Crawl-Turn Fast-Fall / CTFF
+tags:
+  - unintended
+  - crawlturn
+  - ledge
+  - fastfall
+  - move
+socialImage: embedHeaders/crawlturnfastfall_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[crawlturnfastfall_header.gif]]
 ## Description
 It is possible to drastically increase falling acceleration by becoming airborn after performing a [[crawlturncancel]], and continuing to hold in the crawl-turn direction. This can allow for stunning or killing slugcat from much shorter falls than usually possible.

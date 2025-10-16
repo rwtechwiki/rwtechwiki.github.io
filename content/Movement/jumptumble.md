@@ -1,8 +1,13 @@
-Status: #partdone
-Note Type: #move, #initiator, [[crawlturnroll]]
-Tags: #unintended, #roll 
-
-# Jump-Tumble
+---
+title: Jump-Tumble
+tags:
+  - unintended
+  - roll
+  - move
+  - initiator
+socialImage: embedHeaders/jumptumble_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[jumptumble_header.gif]]
 ## Description
 By holding up while slugcat is [[run|running]], and switching to down around the time of a [[jump]] in order to [[airorient]], slugcat will rotate backwards midair. By holding foward and down for long enough before hitting the ground, it is possible to [[crawlturnroll]] from this really fucked up jump.

@@ -1,8 +1,13 @@
-Status: #partdone 
-Note Type: #move, #variant, [[polemomentumjump]], [[airjump]], [[jumptype]]
-Tags: #unintended, #pole 
-
-# Jump Pole-Momentum Jump / jumpPMjump
+---
+title: Jump Pole-Momentum Jump / jumpPMjump
+tags:
+  - unintended
+  - pole
+  - move
+  - variant
+socialImage: embedHeaders/jumppolemomentumjump_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[jumppolemomentumjump_header.gif]]
 ## Description
 It is possible to perform a [[polemomentumjump]] by [[jump|jumping]] as slugcat reaches a 2-tall pole or [[downthrow|downthrown]] spear, then holding up a couple of frames later. Slugcat will float above the tip of the pole, allowing for an [[airjump]] with roughly a tile of extra height.

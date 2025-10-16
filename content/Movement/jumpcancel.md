@@ -1,9 +1,13 @@
-Status: #partdone, #needsgif 
-Note Type: #move, #initiator, [[jumpstore]]
-Tags: #unintended, #storage 
-
-# Jump-Cancel
-![[jumpcancel_header.gif]]
+---
+title: Jump Cancel
+tags:
+  - unintended
+  - storage
+  - move
+  - initiator
+socialImage: 
+socialDescription: One of the moves in Rain World 3
+---
 ## Description
 It is possible to return slugcat to the ground the same frame a jump input is pressed. This allows for 8 [[jumpstore]] from the beginning of a floor slope, a ceiling slope 1 tile off the ground, or a heavy enough creature corpse.
 

@@ -1,8 +1,12 @@
-Status: #toreview 
-Note Type: #move, #variant, [[walljumptype]], [[airjump]]
-Tags: #intended, #wall 
-
-# Coyote Wall-Jump
+---
+title: Coyote Wall-Jump
+tags:
+  - intended
+  - move
+  - wall
+socialImage: embedHeaders/coyotewalljump_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[coyotewalljump_header.gif]]
 ## Description
 If you pull away from a [[wallslide]], there is a 15-frame window where slugcat is able to [[walljump]] mid-air.

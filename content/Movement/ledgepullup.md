@@ -1,8 +1,13 @@
-Status: #partdone
-Note Type: #move
-Tags: #fundimentals, #intended, #ledge
-
-# Ledge Pull-Up
+---
+title: Ledge Pull-Up
+tags:
+  - fundamentals
+  - intended
+  - ledge
+  - move
+socialImage: embedHeaders/ledgepullup_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[ledgepullup_header.gif]]
 ## Description
 By holding towards a ledge as slugcat is up against it, it is possible for slugcat to pull up over it. If slugcat is lower on the wall, a jump input may be required, but the pull-up will act the same.

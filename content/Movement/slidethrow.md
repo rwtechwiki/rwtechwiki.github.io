@@ -1,6 +1,6 @@
 Status: #partdone
 Note Type: #move, #variant, [[throw]], #alternate, [[slidepounce]], [[slidespin]], [[extendedslide]]
-Tags: #fundimentals, #intended, #slide, #throw 
+Tags: #fundamentals, #intended, #slide, #throw 
 
 # Slide-Throw
 ![[slidethrow_header.gif]]

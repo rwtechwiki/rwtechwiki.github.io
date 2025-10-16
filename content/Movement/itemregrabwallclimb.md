@@ -1,9 +1,13 @@
-Status: #stub, #needsgif 
-Note Type: #move
-Tags: #unintended, #throw
-
-# Item-Regrab Wallclimb
-![[itemregrabwallclimb_header.gif]]
+---
+title: Item-Regrab Wallclimb
+tags:
+  - unintended
+  - throw
+  - slide
+  - move
+socialImage: 
+socialDescription: One of the moves in Rain World 3
+---
 ## Description
 It is possible to slow or even reverse a [[wallslide]] by repeatedly throwing a [[lightitem]] towards the wall and regrabbing it. The move is best performed with a bubble fruit with one bite taken from it, then slightly worse with a vulture grub or blue fruit.
 

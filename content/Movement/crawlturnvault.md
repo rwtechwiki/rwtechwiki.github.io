@@ -1,8 +1,12 @@
-Status: #partdone, #needsalternategif 
-Note Type: #move, #alternate, [[jumpstoredboost]]
-Tags: #unintended, #crawlturn 
-
-# Crawl-Turn Vault / CTV
+---
+title: Crawl-Turn Vault / CTV
+tags:
+  - unintended
+  - crawlturn
+  - move
+socialImage: embedHeaders/crawlturnvault_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[crawlturnvault_header.gif]]
 ## Description
 After performing a first-frame [[crawlturncancel]], there is a window exactly 5 frames later to input forward and jump, and down within a frame, to jump 6 tiles into the air.

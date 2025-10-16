@@ -1,8 +1,13 @@
-Status: #stub, #needsgif 
-Note Type: #move
-Tags: #fundimentals, #unintended, #slide 
-
-# Extended-Slide Instant-Jump / ESIjump
+---
+title: Extended-Slide Instant-Jump / EIjump
+tags:
+  - fundamentals
+  - unintended
+  - slide
+  - move
+socialImage: embedHeaders/extendedslideinstantjump_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[extendedslideinstantjump_header.gif]]
 ## Description
 This move is the version of an [[extendedslidejump]] where jump is performed on the first possible frame.

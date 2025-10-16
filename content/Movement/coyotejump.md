@@ -1,8 +1,15 @@
-Status: #toreview 
-Note Type: #move, #variant, [[airjump]], [[jumptype]], #alternate, [[turnstoredflip]], pole
-Tags: #fundimentals, #intended, #ledge, #pole
-
-# Coyote Jump
+---
+title: Coyote Jump
+tags:
+  - fundamentals
+  - intended
+  - move
+  - variant
+  - ledge
+  - pole
+socialImage: embedHeaders/coyotejump_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[coyotejump_header.gif]]
 ## Description
 There is a 5-frame window where slugcat is able to jump mid-air after running off a ledge. This allows for slightly longer running jumps across gaps.

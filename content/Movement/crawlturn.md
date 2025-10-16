@@ -1,8 +1,13 @@
-Status: #toreview
-Note Type: #move
-Tags: #fundimentals, #intended, #crawlturn
-
-# Crawl-Turn / CT
+---
+title: Crawl-Turn / CT
+tags:
+  - fundamentals
+  - intended
+  - crawlturn
+  - move
+socialImage: embedHeaders/crawlturn_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[crawlturn_header.gif]]
 ## Description
 It is possible to crawl-turn from the crouch state by pressing the opposite direction to slugcat's facing. This causes slugcat to flip over to crouch facing the opposite direction.

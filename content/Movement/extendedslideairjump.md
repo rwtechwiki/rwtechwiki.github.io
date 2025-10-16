@@ -1,8 +1,13 @@
-Status: #partdone
-Note Type: #move, #variant, [[airjump]], [[jumptype]]
-Tags: #unintended, #slide
-
-# Extended-Slide Air-Jump
+---
+title: Extended-Slide Air-Jump
+tags:
+  - unintended
+  - slide
+  - move
+  - variant
+socialImage: embedHeaders/extendedslideairjump_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[extendedslideairjump_header.gif]]
 ## Description
 At the end of an [[extendedslide]], slugcat is popped upright out of crouching state. It is possible to use this to perform an extended slide air-hop. Slugcat will hop from roughly a tile off the ground, giving a slightly higher jump.

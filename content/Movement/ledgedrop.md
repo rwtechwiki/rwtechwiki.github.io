@@ -1,9 +1,14 @@
-Status: #partdone 
-Note Type: #move, #alternate, [[turndrop]]
-Tags: #unintended, #ledge, #fastfall
-
-# Ledge-Drop
-![[ledgedrop_header.gif]]
+---
+title: Ledge-Drop
+tags:
+  - unintended
+  - ledge
+  - fastfall
+  - move
+  - alternate
+socialImage: 
+socialDescription: One of the moves in Rain World 3
+---
 ## Description
 It is possible to increase fall speed off a ledge by holding down as slugcat reaches the edge. With good timing, this can allow for a [[droproll]] from a 1-tile drop. 
 

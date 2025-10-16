@@ -1,8 +1,12 @@
-Status: #toreview 
-Note Type: #move #alternate 
-Tags: #unintended #crawlturn 
-
-# Crawl-Turn Wall Climb
+---
+title: Crawl-Turn Wall Climb
+tags:
+  - unintended
+  - crawlturn
+  - move
+socialImage: embedHeaders/crawlturnwallclimb_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[crawlturnwallclimb_header.gif]]
 ## Description
 After getting upside down and pressing forward into a wall for more than 44 ticks (with an up input pressed sometime during that time), releasing the forward input for exactly 12 ticks and then repressing it will cause slugcat to slide up the wall at an increasing speed.

@@ -1,8 +1,13 @@
-Status: #toreview 
-Note Type: #move, #variant, [[hoptype]]
-Tags: #intended 
-
-# Hop
+---
+title: Hop
+tags:
+  - fundamentals
+  - intended
+  - move
+  - variant
+socialImage: embedHeaders/hop_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[hop_header.gif]]
 ## Description
 When crawling on the ground, it is possible to perform a tile-high hop by pressing jump, which gives slugcat some extra momentum.

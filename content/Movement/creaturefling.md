@@ -1,8 +1,13 @@
-Status: #stub
-Note Type: #movetype
-Tags: #unintended, #creature 
-
-# Creature-Fling / CF
+---
+title: Creature-Fling / CF
+tags:
+  - fundamentals
+  - unintended
+  - movetype
+  - creature
+socialImage: 
+socialDescription: One of the moves in Rain World 3
+---
 ## Description
 
 

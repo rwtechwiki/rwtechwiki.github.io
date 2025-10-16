@@ -1,6 +1,6 @@
 Status: #partdone 
 Note Type: #movetype
-Tags: #fundimentals, #intended 
+Tags: #fundamentals, #intended 
 
 # Pounce
 ## Description

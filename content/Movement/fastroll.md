@@ -1,8 +1,12 @@
-Status: #partdone
-Note Type: #move
-Tags: #unintended, #roll 
-
-# Fast-Roll
+---
+title: Fast-Roll
+tags:
+  - unintended
+  - roll
+  - move
+socialImage: embedHeaders/fastroll_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[fastroll_header.gif]]
 ## Description
 This is a version of [[roll]], produced by holding a controller joystick at an angle just below horizontal while rolling. The roll will be considerably faster, and last for a shorter duration.

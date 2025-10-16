@@ -1,8 +1,15 @@
-Status: #toreview 
-Note Type: #move, #initiator, [[roll]], #alternate, [[ledgepullup]]
-Tags: #unintended, #ledge, #crawlturn, #roll
-
-# Crawl-Turn Roll / CTR
+---
+title: Crawl-Turn Roll / CTR
+tags:
+  - unintended
+  - ledge
+  - crawlturn
+  - roll
+  - move
+  - initiator
+socialImage: embedHeaders/crawlturnroll_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[crawlturnroll_header.gif]]
 ## Description
 It is possible to begin a roll by holding down during the middle of a buffered [[crawlturn]]. It is possible to buffer the crawl-turn by holding backwards within the first 5 frames of beginning the crouch state.

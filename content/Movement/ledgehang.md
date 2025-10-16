@@ -1,8 +1,12 @@
-Status: #partdone 
-Note Type: #move
-Tags: #intended, #ledge 
-
-# Ledge-Hang
+---
+title: Ledge-Hang
+tags:
+  - intended
+  - ledge
+  - move
+socialImage: embedHeaders/ledgehang_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[ledgehang_header.gif]]
 ## Description
 It is possible to suspend slugcat indefinitely against a ledge by letting go of jump and forward at the very beginning of a [[ledgepullup]]. It generally takes a lot more force to nudge slugcat from this position, compared to standing and crouching states.

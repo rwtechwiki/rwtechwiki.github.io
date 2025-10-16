@@ -1,6 +1,6 @@
 Status: #partdone
 Note Type: #move, #variant, [[flip]]
-Tags: #fundimentals, #intended, #slide 
+Tags: #fundamentals, #intended, #slide 
 
 # Slide-Spin
 ![[slidespin_header.gif]]

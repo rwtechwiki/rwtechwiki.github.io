@@ -1,8 +1,12 @@
-Status: #partdone 
-Note Type: #movetype
-Tags: #unintended, #storage 
-
-# Jump-Stored Boost / JSboost
+---
+title: Jump-Stored Boost / JSboost
+tags:
+  - storage
+  - unintended
+  - movetype
+socialImage: 
+socialDescription: One of the moves in Rain World 3
+---
 ## Description
 Some moves send slugcat airborn with velocity without setting jump-boost to a value. Therefore, if a [[jumpstore]] has been performed, these moves gain significant height by holding jump midair.
 

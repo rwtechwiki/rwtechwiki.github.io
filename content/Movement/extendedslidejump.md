@@ -1,8 +1,14 @@
-Status: #partdone
-Note Type: #move, #variant, [[jumptype]], #alternate, instant
-Tags: #fundimentals, #intended, #slide 
-
-# Extended-Slide Jump / ESjump
+---
+title: Extended-Slide Jump / ESjump
+tags:
+  - fundamentals
+  - intended
+  - slide
+  - move
+  - variant
+socialImage: embedHeaders/extendedslidejump_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[extendedslidejump_header.gif]]
 ## Description
 There is a window to extendedslidejump by pressing jump during frames 1 through 26 after the throw input of an [[extendedslide]]. The first frame of these is named separately as an [[extendedslideinstantjump]], as it carries significantly more speed.

@@ -1,8 +1,13 @@
-Status: #toreview 
-Note Type: #move, #initiator, [[crawlturnroll]]
-Tags: #unintended, #roll 
-
-# Crouch-Tumble
+---
+title: Crouch-Tumble
+tags:
+  - unintended
+  - roll
+  - move
+  - initiator
+socialImage: embedHeaders/crouchtumble_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[crouchtumble_header.gif]]
 ## Description
 By performing failed inputs of a [[slide]], staggered either with down long enough before jump, or a quick second jump input after the first, slugcat will topple over forward. With another one or two well-timed jump inputs, slugcat begins a [[crawlturnroll]] by tumbling over forward.

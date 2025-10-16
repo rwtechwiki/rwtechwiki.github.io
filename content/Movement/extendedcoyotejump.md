@@ -1,8 +1,13 @@
-Status: #partdone
-Note Type: #move, #variant, [[airjump]], [[jumptype]]
-Tags: #intended, #ledge 
-
-# Extended Coyote-Jump / Ecoyote
+---
+title: Extended Coyote-Jump / Ecoyote
+tags:
+  - intended
+  - ledge
+  - move
+  - variant
+socialImage: embedHeaders/extendedcoyotejump_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[extendedcoyotejump_header.gif]]
 ## Description
 It is possible to perform this move in place of a [[coyotejump]] by crouching just before you leave a ledge, then returning to standing state as you jump, within 5 frames of leaving the ground.

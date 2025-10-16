@@ -1,8 +1,13 @@
-Status: #toreview 
-Note Type: #move, #variant, [[hoptype]]
-Tags: #fundimentals, #intended 
-
-# Charge-Hop
+---
+title: Charge-Hop
+tags:
+  - fundamentals
+  - intended
+  - move
+  - variant
+socialImage: embedHeaders/chargehop_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[chargehop_header.gif]]
 ## Description
 By holding jump for 20 frames when crouching, slugcat's back arches and horizontal inputs are restricted until the jump button is released. Slugcat will then leap forward with a longer arc than a normal jump, allowing it to cross further gaps.

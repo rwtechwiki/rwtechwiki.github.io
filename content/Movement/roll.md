@@ -1,6 +1,6 @@
 Status: #partdone
 Note Type: #move
-Tags: #fundimentals, #intended, #roll 
+Tags: #fundamentals, #intended, #roll 
 
 # Roll
 ![[roll_header.gif]]

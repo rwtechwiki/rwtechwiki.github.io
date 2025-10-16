@@ -1,8 +1,14 @@
-Status: #stub, #needsgif 
-Note Type: #move, #initiator, [[slide]]
-Tags: #intended, #ledge, #slide 
-
-# Ledge-Drop-Slide / dropslide
+---
+title: Ledge-Drop-Slide / dropslide
+tags:
+  - intended
+  - ledge
+  - slide
+  - move
+  - initiator
+socialImage: embedHeaders/ledgedropslide_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[ledgedropslide_header.gif]]
 ## Description
 

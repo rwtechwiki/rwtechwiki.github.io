@@ -1,9 +1,11 @@
-Status: #toreview, 
-Note Type: #move
-Tags: #unintended 
-
-# Ceiling-Slope Slide
-![[ceilingslopeslide_header.gif]]
+---
+title: Ceiling-Slope Slide
+tags:
+  - move
+  - unintended
+socialImage: embedHeaders/ceilingslopeslide_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ## Description
 It is possible to "stick to" and slide down a ceiling slope by holding the forward direction as slugcat is pressed against it after a [[chargehop]] or with precise positioning from other [[jumptype|jumps]] or [[hoptype|hops]].
 

@@ -1,9 +1,13 @@
 ---
-title: "Slide"
-alias: "Movement/whiplash"
-tags: ["fundimentals", "intended", "slide"]
-socialImage: "embedHeaders/slide_header.gif"
-socialDescription: "One of the moves in Rain World 3"
+title: Slide
+tags:
+  - fundamentals
+  - intended
+  - slide
+  - move
+  - initiator
+socialImage: embedHeaders/slide_header.gif
+socialDescription: One of the moves in Rain World 3
 ---
 ![[slide_header.gif]]
 ## Description
