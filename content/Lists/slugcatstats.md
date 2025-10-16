@@ -1,8 +1,10 @@
-Status: #toreview  
-Note Type: #list
-Tags: 
-
-# Slugcat stats
+---
+title: Slugcat Stats
+tags:
+  - list
+socialImage: 
+socialDescription: One of the moves in Rain World 3
+---
 |                       | Survivor | Monk | Hunter |
 |-----------------------|----------|------|--------|
 |Food to hibernate      |4         |3     |6       |

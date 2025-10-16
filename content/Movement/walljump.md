@@ -1,8 +1,13 @@
-Status: #partdone
-Note Type: #move, #variant, [[walljumptype]], [[jumptype]]
-Tags: #intended, #wall 
-
-# Wall-Jump
+---
+title: Wall-Jump
+tags:
+  - intended
+  - wall
+  - move
+  - variant
+socialImage: embedHeaders/walljump_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[walljump_header.gif]]
 ## Description
 By pressing jump while holding towards a wall during a [[wallslide]], slugcat will jump from the wall with a fixed height.

@@ -1,8 +1,11 @@
-Status: #partdone 
-Note Type: 
-Tags: #score, #spoilers 
-
-# Official Score Run Rules
+---
+title: Official Score Run Rules
+tags:
+  - score
+  - spoilers
+socialImage: 
+socialDescription: One of the moves in Rain World 3
+---
 To submit a score to the official leaderboards, there are some rules that should be followed during gameplay.
 
 These rules are not definitive and are subject to change in the future.

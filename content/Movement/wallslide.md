@@ -1,8 +1,13 @@
-Status: #partdone
-Note Type: #move
-Tags: #fundamentals, #intended, #wall 
-
-# Wall-Slide
+---
+title: Wall-Slide
+tags:
+  - fundamentals
+  - intended
+  - wall
+  - move
+socialImage: embedHeaders/wallslide_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[wallslide_header.gif]]
 ## Description
 By holding towards a wall while off the ground, slugcat will slide slowly downwards against the wall.

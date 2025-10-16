@@ -1,9 +1,14 @@
-Status: #partdone
-Note Type: #move, #variant, [[throw]], [[wallpounce]]
-Tags: #intended, #throw, #wallpounce 
-
-# Throw Pounce
-![[throwpounce_header.gif]]
+---
+title: Throw Pounce
+tags:
+  - intended
+  - throw
+  - wallpounce
+  - move
+  - variant
+socialImage: 
+socialDescription: One of the moves in Rain World 3
+---
 ## Description
 When close to a wall, including during [[wallslide]], throwing a [[heavyitem]] towards the wall and pressing jump triggers a [[wallpounce]] without any initial movement.
 

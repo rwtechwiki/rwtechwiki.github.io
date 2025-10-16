@@ -1,8 +1,12 @@
-Status: #partdone
-Note Type: #move
-Tags: #fundamentals, #intended 
-
-# Stand
+---
+title: Stand
+tags:
+  - fundamentals
+  - intended
+  - move
+socialImage: embedHeaders/stand_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[stand_header.gif]]
 ## Description
 By pressing up, slugcat switches from a crouching to a standing position, where it can [[run]] around and begin moves like the [[slide]] or [[ledgepullup]].

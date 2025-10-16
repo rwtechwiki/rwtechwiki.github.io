@@ -1,8 +1,13 @@
-Status: #partdone
-Note Type: #move, #variant, [[jumptype]]
-Tags: #fundamentals, #intended 
-
-# Turn-Jump
+---
+title: Turn-Jump
+tags:
+  - fundamentals
+  - intended
+  - move
+  - variant
+socialImage: embedHeaders/turnjump_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[turnjump_header.gif]]
 ## Description
 By pressing jump within the frames 10 through 20 of a [[dashturn]], slugcat will hop, preserving the momentum from the dash-turn.

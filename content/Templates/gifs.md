@@ -1,4 +1,9 @@
-# Gifs
+---
+title: Gifs
+tags:
+socialImage: 
+socialDescription: One of the moves in Rain World 3
+---
 ## Bulk
 ![[{{title}}_0.gif]]
 ![[{{title}}_1.gif]]

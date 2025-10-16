@@ -1,8 +1,10 @@
-Status: #stub, #needsgif 
-Note Type: #move
-Tags: 
-
-# NAMEPLACEHOLDER
+---
+title: NAMEPLACEHOLDER
+tags:
+  - move
+socialImage: 
+socialDescription: One of the moves in Rain World 3
+---
 ![[{{title}}_header.gif]]
 ## Description
 

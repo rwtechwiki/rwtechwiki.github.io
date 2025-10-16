@@ -1,9 +1,12 @@
-Status: #partdone, #needsgif 
-Note Type: #move, #alternate, [[jumpstoredboost]]
-Tags: #intended, #tunnel 
-
-# Tunnel-Exit-Boost
-![[tunnelexitboost_header.gif]]
+---
+title: Tunnel-Exit-Boost
+tags:
+  - intended
+  - tunnel
+  - move
+socialImage: 
+socialDescription: One of the moves in Rain World 3
+---
 ## Description
 It is possible to negate the end-lag of a [[tunnelboost]] by performing the move such that slugcat exits the tunnel, becoming airborn during it. A tunnel-boost doesn't set jump-boost, and so this move can be greatly improved using [[jumpstore|jumpstorage]].
 

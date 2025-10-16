@@ -1,8 +1,12 @@
-Status: #partdone
-Note Type: #move
-Tags: #intended, #tunnel 
-
-# Tunnel-Freefall
+---
+title: Tunnel-Freefall
+tags:
+  - intended
+  - tunnel
+  - move
+socialImage: embedHeaders/tunnelfreefall_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[tunnelfreefall_header.gif]]
 ## Description
 By pressing jump when holding downwards in a vertical tunnel, slugcat will begin to fall at normal speed down the shaft. This continues until a different direction is held or slugcat reaches a floor.

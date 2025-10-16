@@ -1,8 +1,11 @@
-Status: #done
-Note Type: #list
-Tags: #throw
-
-# Light Items
+---
+title: Light Items
+tags:
+  - list
+  - throw
+socialImage: 
+socialDescription: One of the moves in Rain World 3
+---
 - Blue fruit
 - Bubble fruit (popped)
 - Slime mold

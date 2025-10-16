@@ -1,8 +1,11 @@
-Status: #toreview 
-Note Type: 
-Tags: #score, #spoilers 
-
-# Hunter Cycles
+---
+title: Hunter Cycles
+tags:
+  - score
+  - spoilers
+socialImage: 
+socialDescription: One of the moves in Rain World 3
+---
 Unlike Survivor and Monk, playing as Hunter includes a perma-death mechanic in the game. Hunter's cycle counter starts at 19 and decreases with every passing cycle - instead of starting at 1 and increasing, like the other slugcats. In case a death occurs after the cycle counter reaches 0, it will be permanent - meaning the player will no longer the able to access this save file.
 
 ## Negative Cycles and Red Illness

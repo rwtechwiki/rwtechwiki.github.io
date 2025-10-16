@@ -1,8 +1,11 @@
-Status: #toreview
-Note Type: 
-Tags: #score, #spoilers
-
-# Score Calculation 
+---
+title: Score Calculation
+tags:
+  - score
+  - spoilers
+socialImage: 
+socialDescription: One of the moves in Rain World 3
+---
 At the end of a [[huntermode|Score Run]], a player's score is calculated using the following formula:
 
 ```

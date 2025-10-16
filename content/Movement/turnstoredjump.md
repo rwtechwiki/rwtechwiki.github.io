@@ -1,8 +1,13 @@
-Status: #stub
-Note Type: #movetype, #variant, [[jumptype]]
-Tags: #unintended, #storage 
-
-# Turn-Stored Jump / TSjump
+---
+title: Turn-Stored Jump / TSjump
+tags:
+  - unintended
+  - storage
+  - movetype
+  - variant
+socialImage: 
+socialDescription: One of the moves in Rain World 3
+---
 ## Description
 
 

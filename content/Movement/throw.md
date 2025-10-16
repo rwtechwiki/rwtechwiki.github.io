@@ -1,8 +1,12 @@
-Status: #partdone 
-Note Type: #movetype
-Tags: #intended, #throw 
-
-# Throw
+---
+title: Throw
+tags:
+  - intended
+  - throw
+  - movetype
+socialImage: 
+socialDescription: One of the moves in Rain World 3
+---
 ## Description
 By pressing the throw button, slugcat will throw whatever is in the leftmost hand. This can be done in a variety of moves to achieve a few different outcomes.
 

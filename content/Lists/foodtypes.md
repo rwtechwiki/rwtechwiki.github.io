@@ -1,8 +1,10 @@
-Status: #toreview  
-Note Type: #list
-Tags: 
-
-# Food Types
+---
+title: Food Types
+tags:
+  - list
+socialImage: 
+socialDescription: One of the moves in Rain World 3
+---
 ## Vegetarian
 - Blue Fruit
 - Popcorn Plant

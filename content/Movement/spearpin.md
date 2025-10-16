@@ -1,8 +1,15 @@
-Status: #partdone 
-Note Type: #move, #alternate, down, up
-Tags: #intended, #creature, #throw, #wall 
-
-# Spear-Pin
+---
+title: Spear-Pin
+tags:
+  - fundamentals
+  - intended
+  - creature
+  - throw
+  - wall
+  - move
+socialImage: embedHeaders/spearpin_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[spearpin_header.gif]]
 ## Description
 It is possible to stick a creature to a wall, floor or ceiling by [[throw|throwing]] a spear at its chunk towards the surface.

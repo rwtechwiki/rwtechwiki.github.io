@@ -1,9 +1,13 @@
-Status: #partdone, #needsgif 
-Note Type: #move, #variant, [[jumptype]], #alternate, [[turnstoredflip]]
-Tags: #intended, #slide 
-
-# Spin Bounce
-![[spinbounce_header.gif]]
+---
+title: Spin Bounce
+tags:
+  - intended
+  - slide
+  - move
+  - variant
+socialImage: 
+socialDescription: One of the moves in Rain World 3
+---
 ## Description
 It is possible to [[jumptype]] at the end of a [[slidespin]] by pressing jump as slugcat hits the ground. 
 

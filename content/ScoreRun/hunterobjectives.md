@@ -1,8 +1,11 @@
-Status: #toreview
-Note Type: 
-Tags: #score, #spoilers
-
-# Hunter Objectives
+---
+title: Hunter Objectives
+tags:
+  - score
+  - spoilers
+socialImage: 
+socialDescription: One of the moves in Rain World 3
+---
 During a playthrough of [[huntermode|Hunter Mode]], there are three main objectives that can be completed. Each one of them will [[scorecalculation|reward points]] at the end of the run.
 
 ## Helped Five Pebbles

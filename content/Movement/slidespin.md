@@ -1,8 +1,14 @@
-Status: #partdone
-Note Type: #move, #variant, [[flip]]
-Tags: #fundamentals, #intended, #slide 
-
-# Slide-Spin
+---
+title: Slide-Spin
+tags:
+  - fundamentals
+  - intended
+  - slide
+  - move
+  - variant
+socialImage: embedHeaders/slidespin_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[slidespin_header.gif]]
 ## Description
 A variant of a [[flip]] with a fixed arc, produced by pressing backwards and jump during frames 14 through 16 of a [[slide]]. It is always possible to [[fliproll]] from this move.

@@ -1,9 +1,12 @@
-Status: #stub, #needsgif 
-Note Type: #move
-Tags: #intended, #creature 
-
-# Spin Creature-Bounce
-![[spincreaturebounce_header.gif]]
+---
+title: Spin Creature-Bounce
+tags:
+  - intended
+  - creature
+  - move
+socialImage: 
+socialDescription: One of the moves in Rain World 3
+---
 ## Description
 
 

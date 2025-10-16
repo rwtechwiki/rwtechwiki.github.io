@@ -1,9 +1,14 @@
-Status: #partdone, #needsgif 
-Note Type: #move
-Tags: #fundamentals, #intended, #slide, #tunnel
-
-# Slide Tunnel-Entry
-![[slidetunnelentry_header.gif]]
+---
+title: Slide Tunnel-Entry
+tags:
+  - fundamentals
+  - intended
+  - slide
+  - tunnel
+  - move
+socialImage: 
+socialDescription: One of the moves in Rain World 3
+---
 ## Description
 It is possible to transfer momentum from a [[slide]] into a floor-height tunnel either in front of or below slugcat. In order to descend into a downward tunnel mid-slide, the down key must be pressed as slugcats head reaches the top of the tunnel.
 

@@ -1,8 +1,14 @@
-Status: #partdone
-Note Type: #move, #variant, [[flip]]
-Tags: #fundamentals, #intended 
-
-# Turn-Flip
+---
+title: Turn-Flip
+tags:
+  - fundamentals
+  - intended
+  - slide
+  - move
+  - variant
+socialImage: embedHeaders/turnflip_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[turnflip_header.gif]]
 ## Description
 By pressing jump within the first 9 frames of a [[dashturn]], slugcat will enter the [[flip]] state. Unlike flip moves from a [[slide]], it is possible to vary your jump arc using input directions during this move.

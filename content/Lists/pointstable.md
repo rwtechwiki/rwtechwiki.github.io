@@ -1,8 +1,11 @@
-Status: #partdone
-Note Type: #lists
-Tags: #score 
-
-# Points Table
+---
+title: Points Table
+tags:
+  - list
+  - score
+socialImage: 
+socialDescription: One of the moves in Rain World 3
+---
 Most creatures will award the player points when killed in Hunter Mode. These are the points that will become the 'KillScore' when the player's [[scorecalculation|final score is calculated]]. Below are each of the creatures worth in points (image followed by table version).
 
 ![[score_highres.png]]

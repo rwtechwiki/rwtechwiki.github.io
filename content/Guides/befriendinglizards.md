@@ -1,5 +1,6 @@
-Status: #stub
-Note Type: 
-Tags: 
-
-# Befriending Lizards
+---
+title: Befriending Lizards
+tags:
+socialImage: 
+socialDescription: One of the moves in Rain World 3
+---

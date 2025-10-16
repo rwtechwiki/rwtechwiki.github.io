@@ -1,8 +1,14 @@
-Status: #partdone 
-Note Type: #move, #variant, [[polemomentumjump]], [[airjump]], [[jumptype]], #alternate, [[turnstoredflip]]
-Tags: #unintended, #pole 
-
-# Slide Pole-Momentum Jump / slidePMjump
+---
+title: Slide Pole-Momentum Jump / slidePMjump
+tags:
+  - unintended
+  - slide
+  - pole
+  - move
+  - variant
+socialImage: embedHeaders/slidepolemomentumjump_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[slidepolemomentumjump_header.gif]]
 ## Description
 It is possible to perform a [[polemomentumjump]] from a [[slide]] by pressing up and jump as slugcat reaches a 2-tall pole or [[downthrow|downthrown]] spear. Slugcat will float above the tip of the pole, allowing for an [[airjump]] with roughly a tile of extra height.

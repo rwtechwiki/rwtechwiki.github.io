@@ -1,8 +1,13 @@
-Status: #partdone 
-Note Type: #movetype, #variant, [[flip]]
-Tags: #unintended, #storage 
-
-# Turn-Stored Flip / TSflip
+---
+title: Turn-Stored Flip / TSflip
+tags:
+  - unintended
+  - storage
+  - movetype
+  - variant
+socialImage: 
+socialDescription: One of the moves in Rain World 3
+---
 ## Description
 With turn-storage, it is possible to [[flip]] from all [[jumptype]] moves, to either [[downthrow]] or gain more height when jumping against a wall. This is usually done by pressing the turn direction, up and jump simultaneously in order to jump as soon as running begins.
 

@@ -1,8 +1,14 @@
-Status: #partdone
-Note Type: #move, #variant, [[pounce]]
-Tags: #fundamentals, #intended, #slide 
-
-# Slide-Pounce
+---
+title: Slide-Pounce
+tags:
+  - fundamentals
+  - intended
+  - slide
+  - move
+  - variant
+socialImage: embedHeaders/slidepounce_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[slidepounce_header.gif]]
 ## Description
 A variant of a [[pounce]], produced by pressing jump during frames 14 through 16 of a [[slide]]. This move is one of the lowest pounces, but gives slugcat a high horizontal speed. It is always possible to [[pounceroll]] from this move.

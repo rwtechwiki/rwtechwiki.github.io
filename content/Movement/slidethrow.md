@@ -1,8 +1,15 @@
-Status: #partdone
-Note Type: #move, #variant, [[throw]], #alternate, [[slidepounce]], [[slidespin]], [[extendedslide]]
-Tags: #fundamentals, #intended, #slide, #throw 
-
-# Slide-Throw
+---
+title: Slide-Throw
+tags:
+  - fundamentals
+  - intended
+  - slide
+  - throw
+  - move
+  - variant
+socialImage: embedHeaders/slidethrow_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[slidethrow_header.gif]]
 ## Description
 It is possible to propell a spear or rock-type item forwards out of the slide state by pressing throw. The item will have a downward trajectory and ricochet once off any surface it contacts.

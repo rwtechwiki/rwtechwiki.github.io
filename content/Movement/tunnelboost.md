@@ -1,8 +1,12 @@
-Status: #partdone
-Note Type: #move, #alternate, kick
-Tags: #intended, #tunnel 
-
-# Tunnel-Boost
+---
+title: Tunnel-Boost
+tags:
+  - intended
+  - tunnel
+  - move
+socialImage: embedHeaders/tunnelboost_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[tunnelboost_header.gif]]
 ## Description
 By pressing jump while climbing in a tunnel, slugcat will accelerate foward for a couple of tiles, before slowing and taking some frames to begin crawling again. If slugcat begins the tunnel-boost with its feet against a tile, either after turning a corner, exiting a pipe, or backing up to a wall, the boost will accelerate slugcat far more tiles before slowing.

@@ -1,8 +1,13 @@
-Status: #partdone
-Note Type: #move, #variant, [[throw]]
-Tags: #intended, #throw 
-
-# Throw-Boost
+---
+title: Throw-Boost
+tags:
+  - intended
+  - throw
+  - move
+  - variant
+socialImage: embedHeaders/throwboost_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[throwboost_header.gif]]
 ## Description
 When mid-air, it is possible to gain some forward momentum by throwing a [[heavyitem]] forward. This can be used to cross larger gaps via the same movement.

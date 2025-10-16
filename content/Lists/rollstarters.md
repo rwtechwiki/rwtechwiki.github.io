@@ -1,8 +1,11 @@
-Status: #done
-Note Type: #lists
-Tags: #roll 
-
-# Roll Starters
+---
+title: Roll Starters
+tags:
+  - list
+  - roll
+socialImage: 
+socialDescription: One of the moves in Rain World 3
+---
 [[droproll]]
 ![[droproll_header.gif]]
 [[fliproll]]

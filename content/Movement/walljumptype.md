@@ -1,8 +1,12 @@
-Status: #partdone 
-Note Type: #movetype
-Tags: #intended, #wall 
-
-# Wall-Jump-Type
+---
+title: Wall-Jump-Type
+tags:
+  - intended
+  - wall
+  - movetype
+socialImage: 
+socialDescription: One of the moves in Rain World 3
+---
 ## Description
 It is possible to wall-jump by pressing jump within 15 frames of leaving a [[wallslide]], effectively producing a [[walljump]] midair.
 

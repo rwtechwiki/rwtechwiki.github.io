@@ -1,8 +1,13 @@
-Status: #partdone 
-Note Type: #move, #variant, [[jumptype]]
-Tags: #intended, #slide 
-
-# Slide-Jump
+---
+title: Slide-Jump
+tags:
+  - intended
+  - slide
+  - move
+  - variant
+socialImage: embedHeaders/slidejump_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[slidejump_header.gif]]
 ## Description
 It is possible to [[jumptype]] out of a [[slide]] by pressing up and jump simultaneously, before the window to [[slidepounce]].

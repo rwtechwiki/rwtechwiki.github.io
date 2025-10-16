@@ -1,9 +1,14 @@
-Status: #partdone, #needsgif 
-Note Type: #move, #initiator, [[jumpstore]]
-Tags: #unintended, #slide, #tunnel 
-
-# Tunnel-Slide-Pounce
-![[tunnelslidepounce_header.gif]]
+---
+title: Tunnel-Slide-Pounce
+tags:
+  - unintended
+  - slide
+  - tunnel
+  - move
+  - initiator
+socialImage: 
+socialDescription: One of the moves in Rain World 3
+---
 ## Description
 After a [[slidetunnelentry]], under short stretches of horizontal tunnel (<6 tiles), it is possible to gain significant horizontal speed by timing a [[slidepounce]] to occur inside the tunnel, then holding jump as slugcat leaves the other end in order to [[jumpstoredboost]] out of the other end.
 

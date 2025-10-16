@@ -1,9 +1,12 @@
-Status: #stub, #needsgif 
-Note Type: #move
-Tags: #intended, #water
-
-# Water-Bounce
-![[waterbounce_header.gif]]
+---
+title: Water-Bounce
+tags:
+  - intended
+  - water
+  - move
+socialImage: 
+socialDescription: One of the moves in Rain World 3
+---
 ## Description
 
 

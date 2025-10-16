@@ -1,8 +1,11 @@
-Status: #done
-Note Type: #list
-Tags: #throw
-
-# Heavy Items (Weapons)
+---
+title: Heavy Items (Weapons)
+tags:
+  - list
+  - throw
+socialImage: 
+socialDescription: One of the moves in Rain World 3
+---
 - Spear
 - Rubble
 - Spore puff

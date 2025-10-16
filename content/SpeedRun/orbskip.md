@@ -1,5 +1,7 @@
-Status: #stub
-Note Type: 
-Tags: #speedrun
-
-# Orb Skip
+---
+title: Orb Skip
+tags:
+  - speedrun
+socialImage: 
+socialDescription: One of the moves in Rain World 3
+---

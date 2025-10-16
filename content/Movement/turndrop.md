@@ -1,8 +1,14 @@
-Status: #partdone
-Note Type: #move, #initiator, [[turnstore]]
-Tags: #unintended, #ledge, #storage 
-
-# Turn-Drop
+---
+title: Turn-Drop
+tags:
+  - unintended
+  - ledge
+  - storage
+  - move
+  - initiator
+socialImage: embedHeaders/turndrop_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[turndrop_header.gif]]
 ## Description
 It is possible to [[turnstore]] by initiating a [[dashturn]] as slugcat reaches a ledge, dropping off it due to the skid momentum.

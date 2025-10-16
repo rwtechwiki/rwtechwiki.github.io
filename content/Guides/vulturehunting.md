@@ -1,5 +1,7 @@
-Status: #stub
-Note Type: 
-Tags: #score
-
-# Hunting Vultures
+---
+title: Hunting Vultures
+tags:
+  - score
+socialImage: 
+socialDescription: One of the moves in Rain World 3
+---

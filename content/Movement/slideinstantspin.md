@@ -1,8 +1,13 @@
-Status: #partdone
-Note Type: #move, #variant, [[flip]], [[jumpstoredboost]]
-Tags: #unintended, #slide 
-
-# Slide Instant-Spin / SIspin
+---
+title: Slide Instant-Spin / SIspin
+tags:
+  - unintended
+  - slide
+  - move
+  - variant
+socialImage: embedHeaders/slideinstantspin_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[slideinstantspin_header.gif]]
 ## Description
 This [[flip]] variant is produced by pressing backwards and jump on frame 2 of a [[slide]].

@@ -1,9 +1,10 @@
-Status: #partdone 
-Note Type: #collection
-Tags: #googledoc, [link](https://docs.google.com/document/d/1o3gouaiHsHT2H9d2HD5gDhgmoWwoL94gSFt7Ka1-vDk)
-
-# Movement Guide Doc
-
+---
+title: Movement Guide Doc
+tags:
+  - googledoc
+socialImage: 
+socialDescription: One of the moves in Rain World 3
+---
 ## Expected Knowledge
 [[jump]]
 ![[jump_header.gif]]

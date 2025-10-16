@@ -1,9 +1,13 @@
-Status: #partdone 
-Note Type: #move 
-Tags: #fundamentals, #intended, #pounce
-
-# Wall Pounce
-![[pounce_header.gif]]
+---
+title: Wall Pounce
+tags:
+  - fundamentals
+  - intended
+  - pounce
+  - move
+socialImage: 
+socialDescription: One of the moves in Rain World 3
+---
 ## Description
 With the slugcat approching any vertical wall or terrain with enough horizontal speed, holding forward and pressing jump roughly within 3 pixels from the wall will make the slugcat bounce off the terrain in the opposite direction with considerable height and speed.
 

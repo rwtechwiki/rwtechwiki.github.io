@@ -1,8 +1,12 @@
-Status: #partdone
-Note Type: #move
-Tags: #intended, #tunnel 
-
-# Tunnel-Turn
+---
+title: Tunnel-Turn
+tags:
+  - intended
+  - tunnel
+  - move
+socialImage: embedHeaders/tunnelturn_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[tunnelturn_header.gif]]
 ## Description
 When crawling in tunnels, pressing jump while holding the input direction towards slugcats feet will cause it to shake for a second, before flipping around to face in the other direction. 

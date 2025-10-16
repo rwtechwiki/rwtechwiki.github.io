@@ -1,8 +1,11 @@
-Status: #partdone
-Note Type: 
-Tags: #score, #spoilers
-
-# Hunter Mode
+---
+title: Hunter Mode
+tags:
+  - score
+  - spoilers
+socialImage: 
+socialDescription: One of the moves in Rain World 3
+---
 After beating Rain World with either Survivor or Monk, your save file will now have the Hunter character available. While playing as Hunter, besides the [[slugcatstats|stat changes]], there are two main mechanical differences which will be relevant for this note:
 
 - [[huntercycles|Hunter has a 19 cycle limit]]. After 20 cycles have passed, death is now permanent and each survived cycle becomes exponentially more difficult to survive.

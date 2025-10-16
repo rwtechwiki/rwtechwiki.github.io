@@ -1,8 +1,11 @@
- Status: #partdone
-Note Type: 
-Tags: #score, #spoilers 
-
-# Saint and Monk Passages as Hunter
+---
+title: Saint and monk Passages as Hunter
+tags:
+  - score
+  - spoilers
+socialImage: 
+socialDescription: One of the moves in Rain World 3
+---
 During Score Runs, the player is always trying to maximize the amount of kills during each cycle, so spending 5 and 6 cycles doing the Monk and Saint Passages - respectively - can significantly lower the final score. To avoid this, most runs will use the [[passagestorage|passage storage glitch]] to get both Passages at the same time, without wasting any cycles and also getting some Wanderer progress.
 
 As explained in in the [[passages|Passages]] page, achieving Monk means eating only "vegetarian" food for 5 cycles, while achieving Saint requires spending 6 cycles without harming any other creature.

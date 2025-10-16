@@ -1,8 +1,13 @@
-Status: #partdone
-Note Type: #move, #variant, [[walljumptype]], [[airjump]]
-Tags: #unintended, #throw
-
-# Throw Double-Walljump / TDwalljump
+---
+title: Throw Double-Walljump / TDwalljump
+tags:
+  - unintended
+  - throw
+  - move
+  - variant
+socialImage: embedHeaders/throwdoublewalljump_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[throwdoublewalljump_header.gif]]
 ## Description
 By inputting throw the frame after a [[walljump]], still holding towards the wall, it is possible regain the ability to wall-jump midair for 15 frames after the first.

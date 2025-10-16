@@ -1,8 +1,11 @@
-Status: #partdone 
-Note Type: #collection 
-Tags: #googledoc, [link](https://docs.google.com/document/d/1o3gouaiHsHT2H9d2HD5gDhgmoWwoL94gSFt7Ka1-vDk)
-
-# Movement Guide Doc Recommendations
+---
+title: Movement Guide Doc Recommendations
+tags:
+  - list
+  - googledoc
+socialImage: 
+socialDescription: One of the moves in Rain World 3
+---
 ## Beginner
 [[ledgepullup]] - Taught in the tutorial, really important for climbing!
 ![[ledgepullup_header.gif]]
