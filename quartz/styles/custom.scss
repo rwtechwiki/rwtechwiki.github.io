@@ -1,3 +1,27 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+// Increase reading area width
+#quartz-root {
+    max-width: 1700px;
+}
+
+// Suppress alt names but allow them to be searched (look for divs in notes)
+.hidden-alts {
+    display:none;
+}
+
+// Increase reading article title size
+.article-title {
+    font-size: 3.5rem;
+}
+
+// Keep font size consistent if it is part of the preview window
+.preview-inner .article-title {
+    font-size: 1.75rem;
+}
+
+.center {
+    font-size: 1.2rem;
+}
