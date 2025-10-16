@@ -1,8 +1,12 @@
-Status: #partdone
-Note Type: #move
-Tags: #unintended, #wall 
-
-# Regrab Wallclimb
+---
+title: Regrab Wallclimb
+tags:
+  - unintended
+  - wall
+  - move
+socialImage: embedHeaders/regrabwallclimb_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[regrabwallclimb_header.gif]]
 ## Description
 It is possible to slow or even reverse a [[wallslide]] by repeatedly letting go of the input direction towards the wall for as little as 1 frame before pressing it back.

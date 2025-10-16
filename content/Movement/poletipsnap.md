@@ -1,8 +1,12 @@
-Status: #partdone 
-Note Type: #move
-Tags: #intended, #pole 
-
-# Pole-Tip Snap
+---
+title: Pole-Tip Snap
+tags:
+  - intended
+  - pole
+  - move
+socialImage: embedHeaders/poletipsnap_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[poletipsnap_header.gif]]
 ## Description
 It is possible to snap slugcats feet onto the tip of a vertical pole while airborn in the standing state, by tapping up as they are within a short distance.

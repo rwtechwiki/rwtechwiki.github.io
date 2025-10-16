@@ -1,8 +1,13 @@
-Status: #partdone
-Note Type: #move, #variant, [[polemomentumjump]], [[airjump]], [[jumptype]], #alternate, [[turnstoredflip]]
-Tags: #unintended, #pole 
-
-# Pole-Boost Pole-Momentum Jump / boostPMjump
+---
+title: Pole-Boost Pole-Momentum Jump / boostPMjump
+tags:
+  - unintended
+  - pole
+  - move
+  - variant
+socialImage: embedHeaders/poleboostpolemomentumjump_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[poleboostpolemomentumjump_header.gif]]
 ## Description
 It is possible to perform a [[polemomentumjump]] by [[poleboost|poleboosting]] as slugcat's ears reach roughly half a tile below the tip of a pole, then holding left/right a couple of frames later. Slugcat will float above the tip of the pole, allowing for an [[airjump]] with roughly a tile of extra height.

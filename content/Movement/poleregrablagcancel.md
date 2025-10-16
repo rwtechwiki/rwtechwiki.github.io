@@ -1,8 +1,13 @@
-Status: #partdone
-Note Type: #move
-Tags: #fundamentals, #unintended, #pole 
-
-# Pole-Regrab Lag-Cancel
+---
+title: Pole-Regrab Lag-Cancel
+tags:
+  - fundamentals
+  - unintended
+  - pole
+  - move
+socialImage: embedHeaders/poleregrablagcancel_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[poleregrablagcancel_header.gif]]
 ## Description
 By pressing jump and the input direction towards the pole, slugcat will very briefly release and regrab the pole. This allows for the cancellation of the endlag of a [[poleboost]], and so can be repeated over and over to climb any pole very fast.

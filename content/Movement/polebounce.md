@@ -1,8 +1,12 @@
-Status: #partdone 
-Note Type: #move
-Tags: #intended, #pole 
-
-# Pole-Bounce
+---
+title: Pole-Bounce
+tags:
+  - intended
+  - pole
+  - move
+socialImage: embedHeaders/polebounce_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[polebounce_header.gif]]
 ## Description
 When slugcat is travelling travelling horizontally while upright and midair, it is possible to skip off a horizontal pole with a very precise jump input as slugcats feet drop to the level of the pole.

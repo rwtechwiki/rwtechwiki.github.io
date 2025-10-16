@@ -1,8 +1,13 @@
-Status: #partdone
-Note Type: #move, #variant, [[airjump]], [[jumptype]], #alternate, [[turnstoredflip]]
-Tags: #intended, #pole 
-
-# Pole Coyote Jump
+---
+title: Pole Coyote Jump
+tags:
+  - intended
+  - pole
+  - move
+  - variant
+socialImage: embedHeaders/polecoyotejump_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[polecoyotejump_header.gif]]
 ## Description
 It is possible to perform the equivalent of a [[coyotejump]] from the tip of a vertical pole by holding to lean slugcat towards one side until its legs slip from the pole, then jumping within 5 frames.

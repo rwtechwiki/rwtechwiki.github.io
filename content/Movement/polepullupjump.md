@@ -1,8 +1,13 @@
-Status: #partdone 
-Note Type: #move, #variant, [[jumptype]], #alternate, [[turnstoredflip]]
-Tags: #intended, #pole 
-
-# Pole-Pullup Jump
+---
+title: Pole-Pullup Jump
+tags:
+  - intended
+  - pole
+  - move
+  - variant
+socialImage: embedHeaders/polepullupjump_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[polepullupjump_header.gif]]
 ## Description
 By pulling up on a pole, and jumping once slugcats feet reach the pole, it is possible to travel along the pole faster than walking along the top.

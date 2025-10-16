@@ -1,8 +1,12 @@
-Status: #partdone 
-Note Type: #movetype
-Tags: #fundamentals, #intended 
-
-# Pounce
+---
+title: Pounce
+tags:
+  - fundamentals
+  - intended
+  - movetype
+socialImage: 
+socialDescription: One of the moves in Rain World 3
+---
 ## Description
 The pounce state (RocketJump in code) sets slugcat at an angle based on its current velocity. It continues on a variable arc, usually set towards the left or right, until contact with the ground.
 

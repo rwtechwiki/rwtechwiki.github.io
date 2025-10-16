@@ -1,8 +1,13 @@
-Status: #partdone
-Note Type: #movetype, #variant, [[airjump]], [[jumptype]], #alternate, [[turnstoredflip]]
-Tags: #unintended, #pole
-
-# Pole-Momentum Jump / PMjump
+---
+title: Pole-Momentum Jump / PMjump
+tags:
+  - unintended
+  - pole
+  - movetype
+  - variant
+socialImage: 
+socialDescription: One of the moves in Rain World 3
+---
 ## Description
 By holding to the side as slugcats feet approach the top tile of a pole, it is possible to leave the tip of the pole with a 5-frame window to jump. If this is performed with enough vertical momentum, it is possible to jump more than 1 tile higher than slugcat would from the tip of the pole.
 

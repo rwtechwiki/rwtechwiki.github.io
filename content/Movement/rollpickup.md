@@ -1,9 +1,12 @@
-Status: #partdone, #needsgif
-Note Type: #move
-Tags: #unintended, #roll 
-
-# Roll-Pickup
-![[rollpickup_header.gif]]
+---
+title: Roll-Pickup
+tags:
+  - unintended
+  - roll
+  - move
+socialImage: 
+socialDescription: One of the moves in Rain World 3
+---
 ## Description
 It is possible to pick up items from the [[roll]] state by letting go of the down input, quickly pressing grab then re-inputting down.
 

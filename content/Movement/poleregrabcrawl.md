@@ -1,8 +1,12 @@
-Status: #partdone
-Note Type: #move
-Tags: #unintended, #pole 
-
-# Pole-Regrab-Crawl
+---
+title: Pole-Regrab-Crawl
+tags:
+  - unintended
+  - pole
+  - move
+socialImage: embedHeaders/poleregrabcrawl_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[poleregrabcrawl_header.gif]]
 ## Description
 It is possible to slightly speed up horizontal pole movement by rapidly tapping down to drop off the pole, then up to regrab it without falling down.

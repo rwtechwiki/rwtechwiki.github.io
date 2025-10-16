@@ -1,8 +1,13 @@
-Status: #partdone
-Note Type: #move
-Tags: #fundamentals, #intended, #roll 
-
-# Roll
+---
+title: Roll
+tags:
+  - fundamentals
+  - intended
+  - roll
+  - move
+socialImage: embedHeaders/roll_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[roll_header.gif]]
 ## Description
 It is possible to roll under certain conditions by holding down and left/right. For a variable number of frames (40-60), slugcat will travel along the ground while spinning. From a roll, a jump input will produce a variable-height [[rollpounce]].

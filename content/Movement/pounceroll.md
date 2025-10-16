@@ -1,8 +1,14 @@
-Status: #partdone
-Note Type: #move, #initiator, [[roll]]
-Tags: #fundamentals, #intended, #roll 
-
-# Pounce-Roll
+---
+title: Pounce-Roll
+tags:
+  - fundamentals
+  - intended
+  - roll
+  - move
+  - initiator
+socialImage: embedHeaders/pounceroll_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[pounceroll_header.gif]]
 ## Description
 It is possible to [[roll]] from a [[pounce]] by holding down and left/right for enough frames before landing. 

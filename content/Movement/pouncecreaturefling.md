@@ -1,9 +1,13 @@
-Status: #stub, #needsgif 
-Note Type: #move, #variant, [[pounce]]
-Tags: #unintended, #creature 
-
-# Pounce Creature-Fling / pounceCF
-![[pouncecreaturefling_header.gif]]
+---
+title: Pounce Creature-Fling / pounceCF
+tags:
+  - unintended
+  - creature
+  - move
+  - variant
+socialImage: 
+socialDescription: One of the moves in Rain World 3
+---
 ## Description
 
 

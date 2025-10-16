@@ -1,8 +1,14 @@
-Status: #partdone
-Note Type: #move
-Tags: #fundamentals, #intended, #creature, #throw 
-
-# Mouth-Spear
+---
+title: Mouth-Spear
+tags:
+  - fundamentals
+  - intended
+  - creature
+  - throw
+  - move
+socialImage: embedHeaders/mouthspear_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[mouthspear_header.gif]]
 ## Description
 If a thrown spear is travelling downwards towards a lizard's mouth, while it is open, the spear will embed in the head chunk rather than bouncing off. This deals 1.5x damage to the lizard and will stun it for significant time.

@@ -1,9 +1,13 @@
-Status: #stub, #needsgif 
-Note Type: #move, #variant, [[walljumptype]], [[airjump]]
-Tags: #unintended, #wall 
-
-# Momentum Wall-Hop
-![[momentumwallhop_header.gif]]
+---
+title: Momentum Wall-Hop
+tags:
+  - unintended
+  - wall
+  - move
+  - variant
+socialImage: 
+socialDescription: One of the moves in Rain World 3
+---
 ## Description
 
 

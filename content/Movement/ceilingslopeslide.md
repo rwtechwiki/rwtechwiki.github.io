@@ -3,7 +3,7 @@ title: Ceiling-Slope Slide
 tags:
   - move
   - unintended
-socialImage: embedHeaders/ceilingslopeslide_header.gif
+socialImage: 
 socialDescription: One of the moves in Rain World 3
 ---
 ## Description

@@ -1,8 +1,14 @@
-Status: #partdone
-Note Type: #move, #variant, [[pounce]], #alternate, instant
-Tags: #fundamentals, #intended, #roll 
-
-# Roll-Pounce
+---
+title: Roll-Pounce
+tags:
+  - fundamentals
+  - intended
+  - roll
+  - move
+  - variant
+socialImage: embedHeaders/rollpounce_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[rollpounce_header.gif]]
 ## Description
 A variant of a [[pounce]], produced by pressing jump at any point during a [[roll]]. The height of the roll-pounce depends on how many frames slugcat has rolled for before the jump input.
