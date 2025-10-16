@@ -1,4 +1,2 @@
 default social image when no header
 gif favicon
-
-START AT ROLLSLIDE
