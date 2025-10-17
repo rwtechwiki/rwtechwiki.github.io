@@ -1,5 +1,5 @@
 ---
-title: Slide
+title: Slide Parkour
 tags:
   - fundamentals
   - intended
