@@ -29,26 +29,35 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#eff1f5",
+          lightgray: "#ccd0da",
+          gray: "#9ca0b0",
+          darkgray: "#4c4f69",
+          dark: "#5c5f77",
+          secondary: "#04a5e5",
+          tertiary: "#1e66f5",
+          highlight: "#ccd0da",
+          textHighlight: "#df8e1d",
         },
         // Catppuccin macchiato with gif background color for light (background)
         darkMode: {
+          // Base
           light: "#1d1f2a",
+          // Surface 0
           lightgray: "#363a4f",
+          // Overlay 0
           gray: "#6e738d",
+          // Text
           darkgray: "#cad3f5",
+          // Subtext 1
           dark: "#b8c0e0",
+          // Sky / accent
           secondary: "#91d7e3",
+          // Blue / secondary accent
           tertiary: "#8aadf4",
+          // Surface 0
           highlight: "#363a4f",
+          // Yello
           textHighlight: "#eed49f",
         },
       },

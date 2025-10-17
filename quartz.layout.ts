@@ -8,8 +8,8 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/rwtechwiki/wiki",
-      "Discord": "https://discord.gg/rainworld",
+      "RWTechWiki GitHub": "https://github.com/rwtechwiki/wiki",
+      "RW Discord": "https://discord.gg/rainworld",
     },
   }),
 }
