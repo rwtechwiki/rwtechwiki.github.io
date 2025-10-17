@@ -8,6 +8,10 @@ tags:
 socialImage: embedHeaders/slideinstantpounce_header.gif
 socialDescription: One of the moves in Rain World 3
 ---
+<div class="hidden-alts">
+ipounce
+</div>
+
 ![[slideinstantpounce_header.gif]]
 ## Description
 This [[pounce]] variant is produced by pressing jump on frame 2 of a [[slide]]. It has a higher arc than a regular slide pounce as the slide does not have time to deccelerate slugcat horizontally beforehand.

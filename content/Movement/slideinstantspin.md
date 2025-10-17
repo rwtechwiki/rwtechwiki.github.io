@@ -8,6 +8,10 @@ tags:
 socialImage: embedHeaders/slideinstantspin_header.gif
 socialDescription: One of the moves in Rain World 3
 ---
+<div class="hidden-alts">
+ispin
+</div>
+
 ![[slideinstantspin_header.gif]]
 ## Description
 This [[flip]] variant is produced by pressing backwards and jump on frame 2 of a [[slide]].

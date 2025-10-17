@@ -1,8 +1,12 @@
-Status: #stub, #needsgif 
-Note Type: #move
-Tags: #unintended, #storage
-
-# Run-Store
+---
+title: Run-Store
+tags:
+  - unintended
+  - move
+  - storage
+socialImage: 
+socialDescription: One of the moves in Rain World 3
+---
 ![[runstore_header.gif]]
 ## Description
 

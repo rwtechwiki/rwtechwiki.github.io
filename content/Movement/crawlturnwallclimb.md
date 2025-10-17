@@ -1,5 +1,5 @@
 ---
-title: Crawl-Turn Wall Climb
+title: Crawl-Turn Wall Climb / CTWC
 tags:
   - unintended
   - crawlturn
@@ -7,6 +7,10 @@ tags:
 socialImage: embedHeaders/crawlturnwallclimb_header.gif
 socialDescription: One of the moves in Rain World 3
 ---
+<div class="hidden-alts">
+ctwc
+</div>
+
 ![[crawlturnwallclimb_header.gif]]
 ## Description
 After getting upside down and pressing forward into a wall for more than 44 ticks (with an up input pressed sometime during that time), releasing the forward input for exactly 12 ticks and then repressing it will cause slugcat to slide up the wall at an increasing speed.
@@ -20,7 +24,7 @@ The up input can be held for the entire duration of a CTWC, including when the f
 
 There is also a fast start to a Crawl-Turn Wall Climb with significantly more complex inputs that can only be performed on a one tile ledge (see Fast CTWC Start Alternate below).
 
-\*it is possible to start a Crawl-Turn Wall Climb while sliding headfirst down a wall, without touching solid ground. However, the inputs that have led to this occurring are chaotic and not reproducible.
+*\*it is possible to start a Crawl-Turn Wall Climb while sliding headfirst down a wall, without touching solid ground. However, the inputs that have led to this occurring are chaotic and not reproducible.*
 
 ## Performed From
 [[crawlturn]]

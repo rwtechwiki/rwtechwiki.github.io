@@ -1,8 +1,13 @@
-Status: #partdone 
-Note Type: #move, #initiator, [[slide]]
-Tags: #intended, #roll 
-
-# Roll-Slide
+---
+title: Roll-Slide
+tags:
+  - intended
+  - roll
+  - move
+  - initiator
+socialImage: embedHeaders/rollslide_header.gif
+socialDescription: One of the moves in Rain World 3
+---
 ![[rollslide_header.gif]]
 ## Description
 There is a window at the very end of a [[roll]] in which a jump input produces a [[slide]] without needing to re-press down and forward.

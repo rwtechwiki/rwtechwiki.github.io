@@ -1,9 +1,12 @@
-Status: #partdone
-Note Type: #move
-Tags: #fundamentals, #intended 
-
-# Run
-![[run_header.gif]]
+---
+title: Run
+tags:
+  - fundamentals
+  - intended
+  - move
+socialImage: 
+socialDescription: One of the moves in Rain World 3
+---
 ## Description
 It is possible to run by holding a horizontal input direction while standing.
 

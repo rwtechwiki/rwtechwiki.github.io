@@ -1,2 +1,2 @@
-default social image when no header
+default social image when no header (logo?)
 gif favicon

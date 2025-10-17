@@ -1,9 +1,12 @@
-Status: #stub, #needsgif 
-Note Type: #move
-Tags: #unintended 
-
-# Roll-Suspension / rollsus
-![[rollsuspension_header.gif]]
+---
+title: Roll-Suspension / rollsus
+tags:
+  - unintended
+  - roll
+  - move
+socialImage: 
+socialDescription: One of the moves in Rain World 3
+---
 ## Description
 
 
