@@ -8,10 +8,10 @@ socialImage:
 socialDescription: One of the moves in Rain World 3
 ---
 ## Description
-When slugcat becomes airborn without use of the jump button, there is a 5-frame window after leaving the ground to hop by pressing jump. There is an equivalent window for a [[walljumptype]], with 15 frames within which slugcat is still able to [[jump]] after leaving a [[wallslide]].
+When slugcat becomes airborn without use of the jump button, there is a 4-tick window after leaving the ground to hop by pressing jump. There is an equivalent window for a [[walljumptype]], with 14 ticks within which slugcat is still able to [[jump]] after leaving a [[wallslide]].
 
 ## Notes
-The variables in code which account for this are canJump and canWallJump. They are set to 5 and 15 respectively when in contact with the floor or wall respectively, and decrement by 1 every frame. While they are non-zero, slugcat is able to jump as normal. They are set to 0 upon jumping.
+The variables in code which account for this are canJump and canWallJump. They are set to 5 and 15 respectively when in contact with the floor or wall respectively, and decrement by 1 every tick. While they are above 1, slugcat is able to jump as normal, due to jump activating 1 tick after pressing the jump key. They are set to 0 upon jumping.
 
 ## Variants
 [[coyotewalljump]], [[coyotejump]], [[crawlturnjump]], [[extendedslideairjump]], [[throwdoublewalljump]], [[extendedcoyotejump]], [[flippolemomentumjump]], [[groundeddoublewalljump]], [[jumppolemomentumjump]], [[momentumwallhop]], [[poleboostpolemomentumjump]], [[polecoyotejump]], [[polemomentumjump]], [[slidepolemomentumjump]]
