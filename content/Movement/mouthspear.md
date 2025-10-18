@@ -6,6 +6,7 @@ tags:
   - creature
   - throw
   - move
+  - vanilla
 socialImage: embedHeaders/mouthspear_header.gif
 socialDescription: One of the moves in Rain World 3
 ---

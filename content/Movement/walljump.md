@@ -5,6 +5,7 @@ tags:
   - wall
   - move
   - variant
+  - vanilla
 socialImage: embedHeaders/walljump_header.gif
 socialDescription: One of the moves in Rain World 3
 ---

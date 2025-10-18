@@ -5,6 +5,7 @@ tags:
   - intended
   - ledge
   - move
+  - vanilla
 socialImage: embedHeaders/ledgepullup_header.gif
 socialDescription: One of the moves in Rain World 3
 ---

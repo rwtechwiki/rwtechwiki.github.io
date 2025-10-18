@@ -6,6 +6,7 @@ tags:
   - slide
   - move
   - initiator
+  - vanilla
 socialImage: embedHeaders/ledgedropslide_header.gif
 socialDescription: One of the moves in Rain World 3
 ---

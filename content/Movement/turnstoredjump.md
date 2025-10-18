@@ -5,7 +5,8 @@ tags:
   - storage
   - movetype
   - variant
-socialImage: 
+  - vanilla
+socialImage:
 socialDescription: One of the moves in Rain World 3
 ---
 ## Description

@@ -5,6 +5,7 @@ tags:
   - intended
   - move
   - variant
+  - vanilla
 socialImage: embedHeaders/turnjump_header.gif
 socialDescription: One of the moves in Rain World 3
 ---

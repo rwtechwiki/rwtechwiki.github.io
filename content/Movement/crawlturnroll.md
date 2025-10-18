@@ -7,6 +7,7 @@ tags:
   - roll
   - move
   - initiator
+  - vanilla
 socialImage: embedHeaders/crawlturnroll_header.gif
 socialDescription: One of the moves in Rain World 3
 ---

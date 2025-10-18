@@ -6,7 +6,8 @@ tags:
   - wallpounce
   - move
   - variant
-socialImage: 
+  - downpour
+socialImage:
 socialDescription: One of the moves in Rain World 3
 ---
 ## Description

@@ -4,7 +4,8 @@ tags:
   - unintended
   - move
   - storage
-socialImage: 
+  - vanilla
+socialImage:
 socialDescription: One of the moves in Rain World 3
 ---
 ![[runstore_header.gif]]

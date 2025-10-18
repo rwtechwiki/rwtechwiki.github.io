@@ -4,6 +4,7 @@ tags:
   - intended
   - pole
   - move
+  - vanilla
 socialImage: embedHeaders/polebounce_header.gif
 socialDescription: One of the moves in Rain World 3
 ---

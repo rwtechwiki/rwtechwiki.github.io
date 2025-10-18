@@ -5,6 +5,7 @@ tags:
   - throw
   - move
   - variant
+  - vanilla
 socialImage: embedHeaders/throwdoublewalljump_header.gif
 socialDescription: One of the moves in Rain World 3
 ---

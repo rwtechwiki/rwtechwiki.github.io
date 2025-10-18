@@ -5,6 +5,7 @@ tags:
   - intended
   - roll
   - move
+  - vanilla
 socialImage: embedHeaders/roll_header.gif
 socialDescription: One of the moves in Rain World 3
 ---

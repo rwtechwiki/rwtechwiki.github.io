@@ -4,6 +4,7 @@ tags:
   - fundamentals
   - intended
   - move
+  - vanilla
 socialImage: embedHeaders/airorient_header.gif
 socialDescription: One of the moves in Rain World 3
 ---

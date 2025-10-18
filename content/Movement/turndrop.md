@@ -6,6 +6,7 @@ tags:
   - storage
   - move
   - initiator
+  - vanilla
 socialImage: embedHeaders/turndrop_header.gif
 socialDescription: One of the moves in Rain World 3
 ---

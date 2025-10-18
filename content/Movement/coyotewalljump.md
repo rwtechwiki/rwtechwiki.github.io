@@ -4,6 +4,7 @@ tags:
   - intended
   - move
   - wall
+  - vanilla
 socialImage: embedHeaders/coyotewalljump_header.gif
 socialDescription: One of the moves in Rain World 3
 ---

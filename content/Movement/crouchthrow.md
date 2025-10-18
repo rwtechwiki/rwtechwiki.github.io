@@ -6,6 +6,7 @@ tags:
   - throw
   - move
   - variant
+  - vanilla
 socialImage: embedHeaders/crouchthrow_header.gif
 socialDescription: One of the moves in Rain World 3
 ---

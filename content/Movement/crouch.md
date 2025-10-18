@@ -5,6 +5,7 @@ tags:
   - intended
   - move
   - initiator
+  - vanilla
 socialImage: embedHeaders/crouch_header.gif
 socialDescription: One of the moves in Rain World 3
 ---

@@ -5,6 +5,7 @@ tags:
   - slide
   - move
   - variant
+  - vanilla
 socialImage: embedHeaders/extendedslideairjump_header.gif
 socialDescription: One of the moves in Rain World 3
 ---

@@ -4,6 +4,7 @@ tags:
   - intended
   - tunnel
   - move
+  - vanilla
 socialImage: embedHeaders/tunnelboost_header.gif
 socialDescription: One of the moves in Rain World 3
 ---

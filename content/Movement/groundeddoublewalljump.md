@@ -6,6 +6,7 @@ tags:
   - wall
   - move
   - variant
+  - vanilla
 socialImage: embedHeaders/groundeddoublewalljump_header.gif
 socialDescription: One of the moves in Rain World 3
 ---

@@ -5,6 +5,7 @@ tags:
   - intended
   - slide
   - move
+  - vanilla
 socialImage: embedHeaders/slideparkour_header.gif
 socialDescription: One of the moves in Rain World 3
 ---

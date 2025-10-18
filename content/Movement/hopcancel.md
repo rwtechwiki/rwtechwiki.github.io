@@ -5,6 +5,7 @@ tags:
   - storage
   - move
   - initiator
+  - vanilla
 socialImage: embedHeaders/hopcancel_header.gif
 socialDescription: One of the moves in Rain World 3
 ---

@@ -5,6 +5,7 @@ tags:
   - crawlturn
   - fly
   - move
+  - vanilla
 socialImage: embedHeaders/crawlturnfly_header.gif
 socialDescription: One of the moves in Rain World 3
 ---
