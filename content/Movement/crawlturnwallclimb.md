@@ -13,7 +13,7 @@ ctwc
 
 ![[crawlturnwallclimb_header.gif]]
 ## Description
-After getting upside down and pressing forward into a wall for more than 44 ticks (with an up input pressed sometime during that time), releasing the forward input for exactly 12 ticks and then repressing it will cause slugcat to slide up the wall at an increasing speed.
+After getting upside down and pressing forward into a wall while in wallclimb bodymode for more than 32 ticks, releasing the forward input for exactly 12 ticks and then repressing it (with an up input pressed sometime before or up to 1 tick after the repress) will cause slugcat to slide up the wall at an increasing speed.
 
 ## Notes
 A CTWC requires* a solid 90 degree corner to be performed and so it is not possible to initiate one at the junction of a wall and a slope or a wall and a tunnel. A CTWC will be interrupted by any holes in the scaled wall.

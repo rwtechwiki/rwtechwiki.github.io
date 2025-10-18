@@ -9,6 +9,10 @@ tags:
 socialImage: embedHeaders/crawlturnfastfall_header.gif
 socialDescription: One of the moves in Rain World 3
 ---
+ <div class="hidden-alts">
+ctff
+</div>
+
 ![[crawlturnfastfall_header.gif]]
 ## Description
 It is possible to drastically increase falling acceleration by becoming airborn after performing a [[crawlturncancel]], and continuing to hold in the crawl-turn direction. This can allow for stunning or killing slugcat from much shorter falls than usually possible.
