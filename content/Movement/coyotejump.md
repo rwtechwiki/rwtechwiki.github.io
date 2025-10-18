@@ -13,7 +13,7 @@ socialDescription: One of the moves in Rain World 3
 ---
 ![[coyotejump_header.gif]]
 ## Description
-There is a 5-frame window where slugcat is able to jump mid-air after running off a ledge. This allows for slightly longer running jumps across gaps.
+There is a 4-tick window where slugcat is able to jump mid-air after running off a ledge. This allows for slightly longer running jumps across gaps.
 
 ## Notes
 It is possible to extend this move to an [[extendedcoyotejump]] by crouching just before you leave the ledge, then returning to standing state as you jump.

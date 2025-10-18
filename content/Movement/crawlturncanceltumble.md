@@ -10,6 +10,10 @@ tags:
 socialImage: embedHeaders/crawlturncanceltumble_header.gif
 socialDescription: One of the moves in Rain World 3
 ---
+<div class="hidden-alts">
+ctct
+</div>
+
 ![[crawlturncanceltumble_header.gif]]
 ## Description
 With precise timing, it is possible to tumble over from a [[crawlturncancel]] such that if down diagonal inputs are maintained, slugcat will perform a [[crawlturnroll]].

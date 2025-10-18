@@ -14,9 +14,9 @@ socialDescription: One of the moves in Rain World 3
 By inputting jump while on the ground, slugcat can jump 2 tiles into the air. This allows for scaling 4-tile-high walls using a [[ledgepullup]].
 
 ## Notes
-Slugcat jumps 1 frame after the input is received, unlike with all other inputs.
+Slugcat jumps 1 tick after the input is received, unlike with all other inputs.
 
-It is possible to buffer this move by inputting jump within 5 frames of reaching a canJump state (i.e. feet on the ground in standing state). The jump will occur as soon as this is reached, allowing the player to conserve most horizontal momentum.
+It is possible to buffer this move by inputting jump within 5 ticks of reaching a canJump state (i.e. feet on the ground in standing state). The jump will occur as soon as this is reached, allowing the player to conserve most horizontal momentum.
 
 ## Performed from
 [[run]]
