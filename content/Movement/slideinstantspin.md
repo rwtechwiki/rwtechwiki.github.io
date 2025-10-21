@@ -21,7 +21,7 @@ instantwhiplash
 This [[flip]] variant is produced by pressing backwards and jump on tick 3 of a [[slide]].
 
 ## Notes
-Due to the slide not fully starting, [[jumpstore]] does not interfere with this move.
+Due to the slide not fully starting, [[jumpstore]] does not interfere with this move. Sispin is one of the moves that apply [[rollcounter]].
 
 ## Performed fro
 [[slide]]
@@ -30,7 +30,7 @@ Due to the slide not fully starting, [[jumpstore]] does not interfere with this 
 [[downthrow]]
 
 ## Chains to
-[[stand]], [[fliproll]]
+[[stand]], [[fliproll]], 
 
 ___
 # Gifs
