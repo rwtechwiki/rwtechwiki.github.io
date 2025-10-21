@@ -6,6 +6,7 @@ tags:
   - slide
   - move
   - vanilla
+  - wall
 socialImage:
 socialDescription: One of the moves in Rain World 3
 ---

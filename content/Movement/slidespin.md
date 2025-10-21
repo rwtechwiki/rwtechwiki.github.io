@@ -16,10 +16,10 @@ whiplash
 
 ![[slidespin_header.gif]]
 ## Description
-A variant of a [[flip]] with a fixed arc, produced by pressing backwards and jump during frames 14 through 16 of a [[slide]]. It is always possible to [[fliproll]] from this move.
+A variant of a [[flip]] with a fixed arc, produced by pressing backwards and jump during ticks 14 through 16 of a [[slide]]. It is always possible to [[fliproll]] from this move.
 
 ## Notes
-
+This move applies [[rollcounter]].
 
 ## Performed from
 [[slide]]
@@ -28,7 +28,7 @@ A variant of a [[flip]] with a fixed arc, produced by pressing backwards and jum
 [[slidethrow]], [[downthrow]]
 
 ## Chains to
-[[fliproll]]
+[[fliproll]], [[concussionclimb]]
 
 ___
 # Gifs

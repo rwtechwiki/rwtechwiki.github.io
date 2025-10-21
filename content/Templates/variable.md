@@ -1,28 +1,23 @@
 ---
 title: NAMEPLACEHOLDER
 tags:
-  - move
-socialImage: 
+  - variable
 socialDescription: One of the moves in Rain World 3
 ---
 <div class="hidden-alts">
 altname
 </div>
-
-![[{{title}}_header.gif]]
 ## Description
 
 
 ## Notes
 
 
-## Performed from
+## Used by
 
 
 ## Allows for
 
-
-## Chains to
 
 
 ___

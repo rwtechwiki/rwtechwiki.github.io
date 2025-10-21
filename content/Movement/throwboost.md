@@ -23,7 +23,7 @@ This only works for items which are thrown forward with force, i.e. rocks, spear
 
 
 ## Chains to
-
+[[momentumhop]]
 
 ___
 # Gifs

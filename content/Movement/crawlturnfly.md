@@ -11,6 +11,7 @@ socialDescription: One of the moves in Rain World 3
 ---
 <div class="hidden-alts">
 ctf
+crawlturncancelflight
 wigglefly
 </div>
 
@@ -19,16 +20,43 @@ wigglefly
 It is possible to fly upwards from a [[crawlturn]] by repeatedly inputting left and right for 3 ticks at a time, after some setup timings.
 
 ## Notes
-If slugcat collides against geometry mid crawl-turn fly, the state will break and need to be reset with a new crawl-turn on the ground.
+If slugcat collides against geometry mid crawl-turn fly, the state will break and need to be reset with a new crawl-turn on the ground. The starting speed of this tech can be increased using [[jumpstore|jumpstorage]].
 
+## Inputs
+starting from a crouched position inputs:
+```
+B~7
+F~4
+B~4
+<
+F~3
+B~3
+>repeat
+```
+
+Starting from a standing position the fastest start speed ctf variation inputs:
+```
+FDJ~1
+J~10   
+FDJ~1
+BJ~1
+BUJ~1
+BJ~2
+BDJ~1
+FJ~4
+<
+B~3
+F~3
+>repeat
+```
 ## Performed from
 [[crawlturn]]
 
 ## Allows for
+[[jumpstoredboost]]
 
-
-## Chains to
-
+## Variants
+[[crawlturncancelfly]]
 
 ___
 # Gifs

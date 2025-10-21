@@ -12,7 +12,6 @@ socialDescription: One of the moves in Rain World 3
 <div class="hidden-alts">
 pounce
 chargepounce
-chargehop
 superjump
 </div>
 
@@ -32,7 +31,7 @@ Like all [[hoptype]] moves, it is possible to input up to [[airorient|orient]] s
 [[airorient]]
 
 ## Chains to
-
+[[chargehopcoyote]], [[momentumhop]]
 
 ___
 # Gifs

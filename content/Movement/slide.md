@@ -12,33 +12,31 @@ socialDescription: One of the moves in Rain World 3
 ---
 ![[slide_header.gif]]
 ## Description
-It is possible to slide while [[run|running]] by pressing down then jump at roughly the same time. The move can last for roughly 17 frames by holding forward throughout and has several windows throughout its duration to chain to other moves.
+It is possible to slide by pressing down, forwards and jump at roughly the same time, jump can delayed but not pressed early. This animation lasts 17 ticks by holding forward throughout and has several windows throughout its duration to chain to other moves.
 
 ## Notes
-The move can be started the frame running begins, effectively sliding from standing.
+There is a window to [[slideinstantpounce]] or [[slideinstantspin]] by pressing jump on tick 3.
 
-Slides are not stopped by ledges, slugcat will stay against the floor for the duration.
+There is a window to [[slidepounce]] or [[slidespin]] by pressing jump during ticks 14 through 16.
 
-There is a window to [[slideinstantpounce]] or [[slideinstantspin]] by pressing jump on frame 2.
+There is a window to extend the slide into an [[extendedslide]] by throwing a weapon item backwards during ticks 11 through 16.
 
-There is a window to [[slidepounce]] or [[slidespin]] by pressing jump during frames 14 through 16.
+There is a window to [[slidethrow]] by throwing an item forwards during ticks 11 through 16.
 
-There is a window to extend the slide into an [[extendedslide]] by throwing a weapon item backwards during frames 10 through 15.
+It is possible to perform [[slideparkour]] by pressing jump as the slide comes into contact with a wall.
 
-There is a window to [[slidethrow]] by throwing an item forwards mid-slide.
+After the first 3 tick of the slide, slugcat will be temporarily airborne, such that any [[jumpstore]] will be lost if the jump key is released or the move will fail due to burning the jump storage if the key is held.
 
-It is possible to perform a [[slideparkour]] by pressing jump as the slide comes into contact with a wall.
+If a slide crosses over a vertical tunnel entrance, it is possible to convert momentum downwards into the tunnel by tapping down. With correct timing, a jump upon entering the tunnel will give slugcat 8[[jumpstore|js]].
 
-After the first 2-3 frames of the slide, slugcat will be temporarily airborne, such that any jumpstorage will be lost if the jump key is released or the move will fail due to burning the jump storage if the key is held.
+Similarly if the slide enters a ground level horizontal tunnel entrance, a well-timed jump will give slugcat 8[[jumpstore|js]].
 
-If a slide crosses over a vertical tunnel entrance, it is possible to convert momentum downwards into the tunnel by tapping down. With correct timing, a jump upon entering the tunnel will give slugcat either 6.5 or 8 jumpstorage.
+It is also possible to begin a slide from the crouch state by inputting up, forward and jump for exactly 1 tick before switching to down, forward and jump. This allows for the slide to keep things like [[runstore]] and [[turnstore]] from a crouch position.
 
-Similarly if the slide enters a ground level horizontal tunnel entrance, a well-timed jump will give slugcat 8 jumpstorage.
-
-It is also possible to begin a slide from the crouch state by inputting up, forward and jump for exactly 1 frame before switching to down, forward and jump. This allows for a slide with pre-existing, especially inverse-direction, [[turnstore]].
+A slide uses the bellySlide animation and [[rollcounter]] variable, which are applied on the 2nd tick of the slide due to the 1 tick jump input delay.
 
 ## Performed from
-[[run]], [[rollslide]], [[ledgedrop]]
+[[run]], [[stand]], [[rollslide]]
 
 ## Allows for
 [[slidethrow]]

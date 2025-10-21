@@ -9,9 +9,14 @@ tags:
 socialImage: embedHeaders/extendedslidespin_header.gif
 socialDescription: One of the moves in Rain World 3
 ---
+ <div class="hidden-alts">
+esspin
+eslidespin
+</div>
+
 ![[extendedslidespin_header.gif]]
 ## Description
-A variant of a [[flip]], produced by pressing backwards and jump during frames 27 through 31 (after the throw input) of an [[extendedslide]]. It is always possible to [[fliproll]] from this move.
+A variant of a [[flip]], produced by pressing backwards and jump during ticks 27 through 31 (after the throw input) of an [[extendedslide]]. It is always possible to [[fliproll]] from this move.
 
 ## Notes
 

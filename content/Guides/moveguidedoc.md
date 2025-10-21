@@ -371,7 +371,7 @@ The speed burst from releasing turn storage by standing from crouch can be prolo
 ![[quickcrawlturnjump_header.gif]]
 
 ## Jump-Boost
-[[jumpstore]]
+[[content/Movement/jumpstoreage]]
 ![[jumpstore_header.gif]]
 [[jumpstoredboost]]
 

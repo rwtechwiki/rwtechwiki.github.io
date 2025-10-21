@@ -23,7 +23,7 @@ This move exploits the 6 jump-boost slugcat gains at the start of a [[hop]], whi
 
 
 ## Chains to
-[[jumpstore]]
+[[content/Movement/jumpstoreage]]
 
 ___
 # Gifs

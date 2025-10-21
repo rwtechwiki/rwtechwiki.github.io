@@ -21,7 +21,7 @@ It is possible to negate the end-lag of a [[tunnelboost]] by performing the move
 
 
 ## Chains to
-
+[[momentumhop]]
 
 ___
 # Gifs
