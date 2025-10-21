@@ -4,6 +4,7 @@ tags:
   - fundamentals
   - intended
   - move
+  - vanilla
 socialImage: embedHeaders/stand_header.gif
 socialDescription: One of the moves in Rain World 3
 ---

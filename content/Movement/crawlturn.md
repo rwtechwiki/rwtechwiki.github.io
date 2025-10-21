@@ -5,6 +5,7 @@ tags:
   - intended
   - crawlturn
   - move
+  - vanilla
 socialImage: embedHeaders/crawlturn_header.gif
 socialDescription: One of the moves in Rain World 3
 ---

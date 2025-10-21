@@ -5,6 +5,7 @@ tags:
   - unintended
   - pole
   - move
+  - vanilla
 socialImage: embedHeaders/poleregrablagcancel_header.gif
 socialDescription: One of the moves in Rain World 3
 ---

@@ -6,6 +6,7 @@ tags:
   - roll
   - move
   - variant
+  - vanilla
 socialImage: embedHeaders/rollpounce_header.gif
 socialDescription: One of the moves in Rain World 3
 ---

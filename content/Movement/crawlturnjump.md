@@ -7,6 +7,7 @@ tags:
   - crawlturn
   - move
   - variant
+  - vanilla
 socialImage: embedHeaders/crawlturnjump_header.gif
 socialDescription: One of the moves in Rain World 3
 ---

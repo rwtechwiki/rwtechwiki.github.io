@@ -168,7 +168,7 @@ It is possible to pounce out of an extended slide. This requires holding forward
 It is also possible to slide flip out of extended slides. Like extended slide pouncing, this requires holding forward significantly longer, as the extended slide needs to also be extended to full length.
 ![[eflip_header.gif]]
 
-[[extendedslidejump|eihop]]
+[[extendedslidejump|extendedslidejump]]
 An extremely useful tool for quickly travelling horizontal distance and crossing wide gaps, this move is performed by starting an extended slide, pressing jump 1 frame later and then holding forwards. For optimal speed, forwards must be pressed and held within a few frames of the jump input. This move can be performed during any frame in which slide extension is possible.
 ![[ehop_instant0.gif]]
 

@@ -6,7 +6,8 @@ tags:
   - tunnel
   - move
   - initiator
-socialImage: 
+  - vanilla
+socialImage:
 socialDescription: One of the moves in Rain World 3
 ---
 https://rwtechwiki.github.io/Movement/airjump## Description

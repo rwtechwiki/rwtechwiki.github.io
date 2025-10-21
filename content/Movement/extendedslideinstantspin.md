@@ -3,6 +3,7 @@ title: Extended-Slide Instant-Spin / EIspin
 tags:
   - unintended
   - move
+  - vanilla
 socialImage: embedHeaders/extendedslideinstantspin_header.gif
 socialDescription: One of the moves in Rain World 3
 ---

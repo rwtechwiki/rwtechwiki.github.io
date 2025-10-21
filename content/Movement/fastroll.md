@@ -4,6 +4,7 @@ tags:
   - unintended
   - roll
   - move
+  - vanilla
 socialImage: embedHeaders/fastroll_header.gif
 socialDescription: One of the moves in Rain World 3
 ---

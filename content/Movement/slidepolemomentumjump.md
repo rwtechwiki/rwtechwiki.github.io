@@ -6,6 +6,7 @@ tags:
   - pole
   - move
   - variant
+  - vanilla
 socialImage: embedHeaders/slidepolemomentumjump_header.gif
 socialDescription: One of the moves in Rain World 3
 ---
