@@ -9,6 +9,10 @@ tags:
 socialImage:
 socialDescription: One of the moves in Rain World 3
 ---
+ <div class="hidden-alts">
+concclimb
+</div>
+
 ![[{{title}}_header.gif]]
 ## Description
 By getting rollCounter via either a slidewallpounce(requires [[throwboost]] for initial wp), [[slidespin]] or [[slideinstantspin]] it is possible to continually [[wallpounce]] off the same wall to gain height, for a maximum of ~5s due to rollCounter having a fail safe which removes it after 5s.
@@ -18,12 +22,6 @@ By getting rollCounter via either a slidewallpounce(requires [[throwboost]] for 
 
 ## Performed from
 [[slidespin]], [[slideinstantspin]]
-
-## Allows for
-
-
-## Chains to
-
 
 ___
 # Gifs

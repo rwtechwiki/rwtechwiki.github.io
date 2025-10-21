@@ -25,7 +25,7 @@ If this move is performed such that the crawl-turn flops over an edge, and the c
 
 For the tick-2 cancel, if down, jump and the direction slugcat is turning away from are pressed around 5 ticks after the crawl turn cancel begins, slugcat will shoot up ~6 tiles into the air due to an animation glitch. This move is called a [[crawlturnvault]].
 
-If the crawl-turn direction input is released after exactly 5 frames, this move can reach more than jump height without a jump input. However, due to the canJump value ending before this max height is reached, the highest crawl-turn jump is still only 1 additional tile without [[turnstore]].
+If the crawl-turn direction input is released after exactly 5 frames, this move can reach more than jump height without a jump input. However, due to the canJump value ending before this max height is reached, the highest crawl-turn jump is still only 1 additional tile without [[turnstore|turnstorage]].
 
 ## Performed from
 [[crawlturn]], [[ledgepullup]]
@@ -34,7 +34,7 @@ If the crawl-turn direction input is released after exactly 5 frames, this move 
 [[crawlturnfastfall]]
 
 ## Chains to
-[[crawlturnjump]], [[crawlturnvault]]
+[[crawlturnjump]], [[crawlturnvault]], [[crawlturncancelfly]]
 
 ___
 # Gifs

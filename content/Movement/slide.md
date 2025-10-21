@@ -27,9 +27,9 @@ It is possible to perform [[slideparkour]] by pressing jump as the slide comes i
 
 After the first 3 tick of the slide, slugcat will be temporarily airborne, such that any [[jumpstore]] will be lost if the jump key is released or the move will fail due to burning the jump storage if the key is held.
 
-If a slide crosses over a vertical tunnel entrance, it is possible to convert momentum downwards into the tunnel by tapping down. With correct timing, a jump upon entering the tunnel will give slugcat 8 [[jumpstore]].
+If a slide crosses over a vertical tunnel entrance, it is possible to convert momentum downwards into the tunnel by tapping down. With correct timing, a jump upon entering the tunnel will give slugcat 8[[jumpstore|js]].
 
-Similarly if the slide enters a ground level horizontal tunnel entrance, a well-timed jump will give slugcat 8 [[jumpstore]].
+Similarly if the slide enters a ground level horizontal tunnel entrance, a well-timed jump will give slugcat 8[[jumpstore|js]].
 
 It is also possible to begin a slide from the crouch state by inputting up, forward and jump for exactly 1 tick before switching to down, forward and jump. This allows for the slide to keep things like [[runstore]] and [[turnstore]] from a crouch position.
 

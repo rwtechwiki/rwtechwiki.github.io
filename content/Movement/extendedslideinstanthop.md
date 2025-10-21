@@ -10,9 +10,15 @@ tags:
 socialImage: embedHeaders/extendedslideinstanthop_header.gif
 socialDescription: One of the moves in Rain World 3
 ---
+ <div class="hidden-alts">
+eihop
+esihop
+eslideihop
+</div>
+
 ![[extendedslideinstanthop_header.gif]]
 ## Description
-If down is input on frame 2 of an [[extendedslideinstantjump]], the move becomes an eslide ihop, giving slugcat significantly more speed.
+If down is input on the first tick after initiating an [[extendedslideinstantjump]] with the jump input, the move becomes an esihop, giving slugcat significantly more speed.
 
 ## Notes
 When performed on later [[extendedslidejump]] moves, slugcat tends to flop backwards midair and not get anywhere near as much distance.
@@ -21,10 +27,10 @@ When performed on later [[extendedslidejump]] moves, slugcat tends to flop backw
 [[extendedslidejump]]
 
 ## Allows for
-
+[[airorient]]
 
 ## Chains to
-
+[[momentumhop]]
 
 ___
 # Gifs

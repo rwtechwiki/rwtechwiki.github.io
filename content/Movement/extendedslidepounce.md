@@ -10,9 +10,14 @@ tags:
 socialImage: embedHeaders/extendedslidepounce_header.gif
 socialDescription: One of the moves in Rain World 3
 ---
+ <div class="hidden-alts">
+espounce
+eslidepounce
+</div>
+
 ![[extendedslidepounce_header.gif]]
 ## Description
-A variant of a [[pounce]], produced by pressing jump during frames 27 through 31 (after the throw input) of an [[extendedslide]]. It is always possible to [[pounceroll]] from this move.
+A variant of a [[pounce]], produced by pressing jump during ticks 27 through 31 (after the throw input) of an [[extendedslide]]. It is always possible to [[pounceroll]] from this move.
 
 ## Notes
 

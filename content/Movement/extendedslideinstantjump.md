@@ -9,12 +9,18 @@ tags:
 socialImage: embedHeaders/extendedslideinstantjump_header.gif
 socialDescription: One of the moves in Rain World 3
 ---
+ <div class="hidden-alts">
+eijump
+esijump
+eslideijump
+</div>
+
 ![[extendedslideinstantjump_header.gif]]
 ## Description
-This move is the version of an [[extendedslidejump]] where jump is performed on the first possible frame.
+This move is the version of an [[extendedslidejump]] where jump is pressed on the 1st tick after the throw of [[extendedslide]].
 
 ## Notes
-There is a window to [[extendedslideinstanthop]] by inputting down the frame after the jump. This is far less effective on later [[extendedslidejump]] moves, as slugcat tends to flop backwards midair and not get anywhere near as much distance.
+There is a window to [[extendedslideinstanthop]] by inputting down the tick after the jump. This is far less effective on later [[extendedslidejump]] moves, as slugcat tends to flop backwards midair and not get anywhere near as much distance.
 
 ## Performed from
 [[extendedslide]]
@@ -23,7 +29,7 @@ There is a window to [[extendedslideinstanthop]] by inputting down the frame aft
 
 
 ## Chains to
-[[extendedslideinstanthop]]
+[[extendedslideinstanthop]], [[momentumhop]]
 
 ___
 # Gifs

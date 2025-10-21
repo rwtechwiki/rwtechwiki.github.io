@@ -9,12 +9,18 @@ tags:
 socialImage: embedHeaders/extendedslideinstantpounce_header.gif
 socialDescription: One of the moves in Rain World 3
 ---
+ <div class="hidden-alts">
+eipounce
+esipounce
+eslideipounce
+</div>
+
 ![[extendedslideinstantpounce_header.gif]]
 ## Description
-This [[pounce]] variant is produced by pressing jump on frame 2 of an [[extendedslide]]. It has a much larger range than a regular [[extendedslidepounce]] as the slide extension initially gives slugcat a higher speed before slowing down.
+This [[pounce]] variant is produced by pressing backwards, jump and throw on the same tick on ticks 14 through 16 of a slide and releasing backwards on the next tick. It has a much larger range than a regular [[extendedslidepounce]] as the slide extension initially gives slugcat a higher speed before slowing down.
 
 ## Notes
-This move can only be performed if the extended slide begins on frame 14 or 15 of the slide.
+Not releasing backwards after the first tick or doing it on the 17th tick of a slide does an [[extendedslideinstantspin]] instead.
 
 ## Performed from
 [[extendedslide]]

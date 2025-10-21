@@ -9,7 +9,7 @@ socialImage:
 socialDescription: One of the moves in Rain World 3
 ---
 ## Description
-It is possible to negate the end-lag of a [[tunnelboost]] by performing the move such that slugcat exits the tunnel, becoming airborn during it. A tunnel-boost doesn't set jump-boost, and so this move can be greatly improved using [[content/Movement/jumpstoreage|jumpstorage]].
+It is possible to negate the end-lag of a [[tunnelboost]] by performing the move such that slugcat exits the tunnel, becoming airborn during it. A tunnel-boost doesn't set jump-boost, and so this move can be greatly improved using [[jumpstore|jumpstorage]].
 
 ## Notes
 
@@ -21,7 +21,7 @@ It is possible to negate the end-lag of a [[tunnelboost]] by performing the move
 
 
 ## Chains to
-
+[[momentumhop]]
 
 ___
 # Gifs

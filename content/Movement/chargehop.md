@@ -31,7 +31,7 @@ Like all [[hoptype]] moves, it is possible to input up to [[airorient|orient]] s
 [[airorient]]
 
 ## Chains to
-
+[[chargehopcoyote]], [[momentumhop]]
 
 ___
 # Gifs

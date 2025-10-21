@@ -23,7 +23,7 @@ By pressing jump within the frames 10 through 20 of a [[dashturn]], slugcat will
 
 
 ## Chains to
-
+[[momentumhop]]
 
 ___
 # Gifs

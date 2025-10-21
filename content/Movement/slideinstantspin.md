@@ -30,7 +30,7 @@ Due to the slide not fully starting, [[jumpstore]] does not interfere with this 
 [[downthrow]]
 
 ## Chains to
-[[stand]], [[fliproll]], 
+[[stand]], [[fliproll]]
 
 ___
 # Gifs

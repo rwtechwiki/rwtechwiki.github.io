@@ -18,16 +18,13 @@ There is a window to [[crawlturncancel]] by pressing up during ticks 2-5.
 
 It is not possible to crawl-turn for the first 5 ticks after entering the crouch state. Due to this it is possible to buffer a first-tick crawl-turn. This allows a [[crawlturnroll]] if down is pressed as slugcat reaches the middle of the buffered crawl-turn.
 
-Slugcat becomes temporarily airborne during a crawl-turn, which drains any existing [[jumpstore]].
+Slugcat becomes temporarily airborne during a crawl-turn, which drains any existing [[jumpstore|jumpstorage]].
 
 ## Performed from
-
-
-## Allows for
-
+[[crouch]]
 
 ## Chains to
-[[crawlturncancel]], [[crawlturnroll]], [[crawlturnwallclimb]]
+[[crawlturncancel]], [[crawlturnroll]], [[crawlturnwallclimb]], [[crawlturnfly]]
 
 ___
 # Gifs
