@@ -7,6 +7,10 @@ tags:
 socialImage: 
 socialDescription: One of the moves in Rain World 3
 ---
+<div class="hidden-alts">
+jumpstorage
+js
+</div>
 ## Description
 Jump-boost is a value in the game's code which determines height during certain moves, based on how long jump is held as the move begins. For most moves, it is set to a non-zero value as slugcat leaves the ground, and is "cashed in" for upwards velocity for every frame jump is held.
 

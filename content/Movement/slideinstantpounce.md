@@ -10,14 +10,15 @@ socialDescription: One of the moves in Rain World 3
 ---
 <div class="hidden-alts">
 ipounce
+instantpounce
 </div>
 
 ![[slideinstantpounce_header.gif]]
 ## Description
-This [[pounce]] variant is produced by pressing jump on frame 2 of a [[slide]]. It has a higher arc than a regular slide pounce as the slide does not have time to deccelerate slugcat horizontally beforehand.
+This [[pounce]] variant is produced by pressing jump on tick 3 of a [[slide]]. It has a higher arc than a regular slide pounce as the slide does not have time to decelerate slugcat horizontally beforehand.
 
 ## Notes
-Due to the slide not fully starting, jumpstorage does not interfere with this move and so can be executed to increase the distance by holding jump for some frames as the move begins.
+Due to the slide not fully starting, [[jumpstore]] does not interfere with this move and so can be executed to increase the distance by holding jump for some ticks as the move begins.
 
 ## Performed from
 [[slide]]

@@ -9,7 +9,7 @@ socialImage:
 socialDescription: One of the moves in Rain World 3
 ---
 ## Description
-It is possible to return slugcat to the ground the same tick a jump input is pressed. This allows for 8 [[jumpstore]] from the beginning of a floor slope, a ceiling slope 1 tile off the ground, pressing jump 1 tick before entering corridorClimb bodymode, jumping when a fruit or other similar physics object lands on your head among other things.
+It is possible to return slugcat to the ground the same tick a jump input is pressed. This allows for 8 [[content/Movement/jumpstoreage]] from the beginning of a floor slope, a ceiling slope 1 tile off the ground, pressing jump 1 tick before entering corridorClimb bodymode, jumping when a fruit or other similar physics object lands on your head among other things.
 
 ## Notes
 
@@ -18,7 +18,7 @@ It is possible to return slugcat to the ground the same tick a jump input is pre
 [[jumptype]]
 
 ## Allows for
-[[jumpstore]]
+[[content/Movement/jumpstoreage]]
 
 ## Chains to
 

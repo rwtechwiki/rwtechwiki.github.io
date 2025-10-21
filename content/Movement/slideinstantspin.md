@@ -10,14 +10,17 @@ socialDescription: One of the moves in Rain World 3
 ---
 <div class="hidden-alts">
 ispin
+instantspin
+ilash
+instantwhiplash
 </div>
 
 ![[slideinstantspin_header.gif]]
 ## Description
-This [[flip]] variant is produced by pressing backwards and jump on frame 2 of a [[slide]].
+This [[flip]] variant is produced by pressing backwards and jump on tick 3 of a [[slide]].
 
 ## Notes
-Due to the slide not fully starting, jumpstorage does not interfere with this move and so can be executed to increase the distance by holding jump for some frames as the move begins.
+Due to the slide not fully starting, [[jumpstore]] does not interfere with this move.
 
 ## Performed fro
 [[slide]]
