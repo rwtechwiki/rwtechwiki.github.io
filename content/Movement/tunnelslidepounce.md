@@ -22,7 +22,7 @@ When performed downwards with a vertical slide tunnel-entry, it is only possible
 [[slidetunnelentry]]
 
 ## Allows for
-[[content/Movement/jumpstoreage]]
+[[jumpstore]]
 
 ## Chains to
 [[jumpstoredboost]]

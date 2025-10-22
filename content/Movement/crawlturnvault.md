@@ -26,7 +26,8 @@ Slugcat ends this move in the crouch state, so an additional up input to [[airor
 
 ## Inputs
 Explanation video on all input timings for perfect ctv and a few others timings as well as [[hopvault]] timings.
-https://www.youtube.com/watch?v=siLQ4sK89Cw.
+
+![[https://www.youtube.com/watch?v=siLQ4sK89Cw]]
 
 ## Performed from
 [[crawlturncancel]]
