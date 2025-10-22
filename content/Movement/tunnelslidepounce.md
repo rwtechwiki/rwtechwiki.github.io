@@ -10,7 +10,7 @@ tags:
 socialImage:
 socialDescription: One of the moves in Rain World 3
 ---
-https://rwtechwiki.github.io/Movement/airjump## Description
+## Description
 After a [[slidetunnelentry]], under short stretches of horizontal tunnel (<6 tiles), it is possible to gain significant horizontal speed by timing a [[slidepounce]] to occur inside the tunnel, then holding jump as slugcat leaves the other end in order to [[jumpstoredboost]] out of the other end.
 
 ## Notes
