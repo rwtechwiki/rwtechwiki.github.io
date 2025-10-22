@@ -10,6 +10,7 @@ socialDescription: One of the moves in Rain World 3
 mvcntr
 movecounter
 </div>
+
 ## Description
 rollCounter is a variable that locks the slugcat's momentum in a given direction blocking all directional inputs from affecting it.
 
