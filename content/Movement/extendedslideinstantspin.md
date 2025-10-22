@@ -12,6 +12,7 @@ eispin
 esispin
 eslideispin
 </div>
+
 ![[extendedslideinstantspin_header.gif]]
 ## Description
 This tech is caused by holding holding backwards for 1 or more ticks after an [[extendedslideinstantpounce]] or by doing it on the 17th tick of a slide, causing you get launched backwards instead.

@@ -14,6 +14,7 @@ socialDescription: One of the moves in Rain World 3
 esjump
 eslidejump
 </div>
+
 ![[extendedslidejump_header.gif]]
 ## Description
 There is a window to extendedslidejump by pressing jump during ticks 2 through 26 after the throw input of an [[extendedslide]]. The first tick variation of this is named separately as an [[extendedslideinstantjump]], as it carries significantly more speed.
