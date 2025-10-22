@@ -5,14 +5,14 @@ tags:
   - unintended
   - crawlturn
   - vanilla
-socialImage:
+socialImage: embedHeaders/hopvault_header.gif
 socialDescription: One of the moves in Rain World 3
 ---
 <div class="hidden-alts">
 reversevault
 </div>
 
-![[{{title}}_header.gif]]
+![[hopvault_header.gif]]
 ## Description
 A [[crawlturnvault]] variation that doesn't do the forwards input, in many cases this tech is asymmetric i.e. doing it to the left and doing it to the right give different results, the cause of this is unknown.
 
@@ -35,6 +35,8 @@ https://www.youtube.com/watch?v=siLQ4sK89Cw.
 
 ___
 # Gifs
+## No JS Alternate
+![[hopvault_nojs.gif]]
 ## Bulk
 ![[{{title}}_0.gif]]
 ![[{{title}}_1.gif]]

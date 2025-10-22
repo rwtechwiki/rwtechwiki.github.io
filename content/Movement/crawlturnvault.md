@@ -41,8 +41,8 @@ Explanation video on all input timings for perfect ctv and a few others timings 
 
 ___
 # Gifs
-## 6JS Alternate
-![[crawlturnvault_6JS.gif]]
+## No JS Alternate
+![[crawlturnvault_noJS.gif]]
 ## 8JS Alternate
 ![[crawlturnvault_8JS]]
 ## Bulk
