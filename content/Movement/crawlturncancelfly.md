@@ -6,7 +6,7 @@ tags:
   - unintended
   - move
   - vanilla
-socialImage:
+socialImage: embedHeaders/crawlturncancelflight_header.gif
 socialDescription: One of the moves in Rain World 3
 ---
  <div class="hidden-alts">
