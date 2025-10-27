@@ -19,7 +19,7 @@ whiplash
 A variant of a [[flip]] with a fixed arc, produced by pressing backwards and jump during ticks 14 through 16 of a [[slide]]. It is always possible to [[fliproll]] from this move.
 
 ## Notes
-This move applies [[rollcounter]].
+This move applies [[rollcounter]]. Due to the jump variable being set to 0 upon doing this tech it is impossible to jump store it.
 
 ## Performed from
 [[slide]]
