@@ -1,27 +1,32 @@
 ---
-title: Run
+title: Run / Run-counter
 tags:
   - fundamentals
   - intended
   - move
   - vanilla
+  - va
 socialImage:
 socialDescription: One of the moves in Rain World 3
 ---
+<div class="hidden-alts">
+runcounter
+</div>
+
 ## Description
-It is possible to run by holding a horizontal input direction while standing.
+It is possible to run by holding a horizontal input direction while standing on the ground.
 
 ## Notes
+Each tick while running a variable is incremented until it reaches 30 at which point it will stop, this variable decays by 1 per tick while having neutral inputs and standing on the ground and is cleared on turning around, if while turning the run counter is at 11 or above [[turn]] variable will be gained instead.
 
-
-## Performed from
-
+## Used by
+[[turn]], [[dashturn]], [[turnflip]], [[turnjump]], [[turndrop]]
 
 ## Allows for
-
+[[runstore]]
 
 ## Chains to
-[[jump]], [[slide]], [[coyotejump]]
+[[jump]], [[slide]], [[coyotejump]], [[dashturn]]
 
 ___
 # Gifs

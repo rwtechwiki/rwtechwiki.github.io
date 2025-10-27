@@ -10,6 +10,10 @@ tags:
 socialImage: embedHeaders/slide_header.gif
 socialDescription: One of the moves in Rain World 3
 ---
+<div class="hidden-alts">
+dash
+</div>
+
 ![[slide_header.gif]]
 ## Description
 It is possible to slide by pressing down, forwards and jump at roughly the same time, jump can delayed but not pressed early. This animation lasts 17 ticks by holding forward throughout and has several windows throughout its duration to chain to other moves.

@@ -8,22 +8,27 @@ tags:
 socialImage: embedHeaders/dashturn_header.gif
 socialDescription: One of the moves in Rain World 3
 ---
+<div class="hidden-alts">
+turn
+turnaround
+</div>
+
 ![[dashturn_header.gif]]
 ## Description
-By turning around after [[run|running]] for more than 10 frames in the same direction. slugcat gains a burst of speed. With an early jump input, this move can chain to a [[turnflip]], and with a later input you can perform a [[turnjump]].
+By turning around while having a [[run]] counter of 11 or more, slugcat gains a burst of speed.
 
 ## Notes
-Due to some startup frames to running, forward must be held for 12 frames from standing still to dash-turn.
+It is possible to delay the use of the turn by using a [[turnstore]], this can be done by canceling the turn by [[crouch|crouching]], [[slide|sliding]], [[turndrop|turndropping]], grabbing a pole or using other stand interruptions.
 
-It is possible to delay the speed-boost of this move using a [[turnstore]], by standing and running in the turn direction after interrupting the turn once it begins.
+By pressing jump on ticks 0 through 8 of the initial backwards press, this move chains into a [[turnflip]], and by pressing jump on ticks 9 through 19 you can perform a [[turnjump]].
 
-It is also possible to perform this move without room for an uninterrupted run-up using [[runstore|runstorage]], by standing and running for any number of frames in the run-direction, then turning.
+It is also possible to perform this move without room for an uninterrupted run-up using [[runstore|runstorage]], by running in a given direction then jumping followed by pressing backwards and right before landing continuing to run in the original direction again since the [[run]] variable doesn't update while not standing.
 
 ## Performed from
-[[run]]
+[[turn]], [[run]], [[runstore]], [[turnstore]]
 
 ## Allows for
-
+[[turnstore]]
 
 ## Chains to
 [[turnjump]], [[turnflip]]
