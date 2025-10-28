@@ -315,7 +315,7 @@ Backflips are possible as a result of dash turns, and can be done without drople
 
 [[turnjump]]
 Turn hopping involves repeatedly jumping after turning, to conserve dash turn speed. Momentum conserved this way only depletes when in contact with the ground, so will last longer with more precise and better timed jumps.
-![[turnhop_header.gif]]
+![[turnjump_header.gif]]
 
 ### Storing Turns
 A dash turn depletes over time for 10 frames. The functionality of a dash turn can be stored by interrupting the turn with other moves during these frames. Most applicable turn storage derives from crouching or sliding.

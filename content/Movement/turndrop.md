@@ -18,13 +18,13 @@ It is possible to [[turnstore]] by initiating a [[dashturn]] as slugcat reaches 
 This move widens the window to [[ledgedrop]] or [[ledgedroproll]].
 
 ## Performed from
-[[dashturn]]
+[[turn]], [[dashturn]], [[turnstore]]
 
 ## Allows for
-[[ledgedrop]]
+[[ledgedrop]], [[turnstore]]
 
 ## Chains to
-
+[[turnflip]], [[turnjump]], [[dashturn]]
 
 ___
 # Gifs

@@ -8,20 +8,26 @@ tags:
 socialImage:
 socialDescription: One of the moves in Rain World 3
 ---
+<div class="hidden-alts">
+ts
+</div>
+
 ## Description
-Slugcat's turn counter is not incremented by the game when slugcat is not running on the ground. This introduces a plethora of ways in which it is possible to delay a [[turnflip]] or [[turnjump]] until significantly later.
+The slugcat's [[turn]] counter is only updated when the slugcat is in contact the ground and not crouched. This introduces a plethora of ways in which it is possible to delay a [[turnflip]], [[turnjump]] or [[dashturn]] until significantly later.
 
 ## Notes
+The more common ways to store a turn are grabbing a pole right after or during a turn, crouching or sliding during a turn, doing a [[turndrop]] or otherwise not being in contact with the ground while standing.
 
+Storing a turn does not lower the counter so if you store it at a given value that is what will be used, meaning that storing a turn from a [[turnjump]] will never allow you to [[turnflip]].
+
+It is possible to get a similar effect by using [[runstore|runstorage]] and turning around as you get up to immediately convert it to a turn, this can only be done while grounded.
 
 ## Performed from
-[[crouch]], [[slide]], [[turndrop]], other stand interruptions
+[[turn]], [[crouch]], [[slide]], [[turndrop]], [[dashturn]]
 
-## Allows for
-[[turnstoredflip]]
 
 ## Chains to
-
+[[dashturn]], [[turnflip]], [[turnjump]], [[turndrop]],
 
 ___
 # Gifs
