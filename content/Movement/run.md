@@ -17,7 +17,7 @@ runcounter
 It is possible to run by holding a horizontal input direction while standing on the ground.
 
 ## Notes
-Each tick while running a variable is incremented until it reaches 30 at which point it will stop, this variable decays by 1 per tick while having neutral inputs and standing on the ground and is cleared on turning around, if while turning the run counter is at 11 or above [[turn]] variable will be gained instead.
+Each tick while running a variable is incremented (called `initSlideCounter` internally) until it reaches 30 at which point it will stop, this variable decays by 1 per tick while having neutral inputs and standing on the ground and is cleared on turning around, if while turning the run counter is at 11 or above [[turn]] variable will be gained instead.
 
 ## Used by
 [[turn]], [[dashturn]], [[turnflip]], [[turnjump]], [[turndrop]]
