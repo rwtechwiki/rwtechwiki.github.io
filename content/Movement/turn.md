@@ -1,11 +1,15 @@
 ---
-title: turn
+title: turn / slideCounter
 tags:
   - variable
   - intended
   - vanilla
 socialDescription: One of the moves in Rain World 3
 ---
+<div class="hidden-alts">
+slidecounter
+turncounter
+</div>
 ## Description
 The variable that is gained when turning around from a [[run]] while it is 11 or more and speed is above 1(in units per tick).
 
