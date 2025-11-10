@@ -9,13 +9,14 @@ socialDescription: One of the moves in Rain World 3
 <div class="hidden-alts">
 mvcntr
 movecounter
+rollcntr
 </div>
 
 ## Description
 rollCounter is a variable that locks the slugcat's momentum in a given direction blocking all directional inputs from affecting it.
 
 ## Notes
- The exceptions to this are things like grabbing poles and holding forward for [[wallpounce]]. The slugcat can still be affected by [[throwboost]] and entity collisions. There is a 5s failsafe which removes rollCounter if it goes over 200, it increments once per tick and is applied at on initial animation change starting at 0 for bellySlide(slide) and at 1 for roll. rollCounter is not reset upon canceling the animation before the 5s failsafe only deactivated, but it does get reset when applied again.
+ The exceptions to this are things like grabbing poles and holding forward for [[wallpounce]]. The slugcat can still be affected by [[throwboost]] and entity collisions. There is a 5s failsafe which removes rollCounter if it goes over 200, it increments once per tick and is applied at on initial animation change. rollCounter is not reset upon canceling the animation before the 5s failsafe only deactivated, but it does get reset when applied again.
 
 ## Used by
 [[slidespin]], [[slide]], [[roll]], [[slideinstantspin]]

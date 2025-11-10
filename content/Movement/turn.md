@@ -1,16 +1,20 @@
 ---
-title: turn
+title: turn / slideCounter
 tags:
   - variable
   - intended
   - vanilla
 socialDescription: One of the moves in Rain World 3
 ---
+<div class="hidden-alts">
+slidecounter
+turncounter
+</div>
 ## Description
-The variable that is gained when turning around from a [[run]] while it is 11 or more.
+The variable that is gained when turning around from a [[run]] while it is 11 or more and speed is above 1(in units per tick).
 
 ## Notes
-The turn variable resets the tick after reaching 20 (i.e. when it would go to 21) and increments by 1 every tick while [[run|running]] and while the turn is active, changing direction or releasing horizontal directional inputs while grounded while standing/running clears the turn and gives the scug a decelerating force bringing it back to normal running speed almost immediately.
+The turn variable (also known as `slideCounter` internally) resets the tick after reaching 20 (i.e. when it would go to 21) and increments by 1 every tick while [[run|running]] and while the turn is active, changing direction or releasing horizontal directional inputs while grounded while standing/running clears the turn and gives the scug a decelerating force bringing it back to normal running speed almost immediately.
 
 - Certain tech can only be preformed at certain turn counts which are the following
 	[[turnflip]] 0-8 by jumping
