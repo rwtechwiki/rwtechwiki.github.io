@@ -9,7 +9,9 @@ This is a comprehensive collection and explanation of Rain World tech, including
 
 
 ## Wiki Structure
-For most tech rain world uses tickrate(ticks per second or tps) since physics updates depends on a constant 40tps tickrate instead of fps which is variable. Due to this all tech use tps with a few exceptions where fps is relevant. Note: the game still calls it frames per second but it is more commonly referred to as ticks or ticks per second.
+This wiki uses TPS (ticks per second) to describe how inputs should be performed for most tech. 
+Rain World has a graphical frame rate and a physics tickrate; the physics tickrate is much more predictable, usually set to 40TPS though this number changes in certain circumstances (like being near an echo) while without capping, the graphical framerate can vary by hundred of frames per second. FPS will be explicitly mentioned in the wiki where it is relevant. 
+Note: the tickrate is taken from `RainWorldGame.framesPerSecond` and while the variable is called "framesPerSecond", "ticks per second" or ticks is used to delineate from the graphical framerate.
 
 Input explanations are in the format of
 ```
